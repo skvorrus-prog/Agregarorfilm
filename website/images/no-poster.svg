@@ -1,14 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="300" height="450">
-  <rect width="300" height="450" fill="#1e2430" rx="12"/>
-  <circle cx="150" cy="190" r="44" fill="#2d3748"/>
-  <path d="M130 195 L170 195 M150 175 L150 215" stroke="#4a5568" stroke-width="4" stroke-linecap="round"/>
-  <rect x="120" y="165" width="60" height="50" rx="6" fill="none" stroke="#718096" stroke-width="3"/>
-  <circle cx="140" cy="182" r="5" fill="#718096"/>
-  <path d="M125 208 L142 192 L155 202 L168 188 L175 208 Z" fill="#4a5568"/>
-  <text x="150" y="270" text-anchor="middle" fill="#a0aec0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="14" font-weight="500">
-    Нет постера
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141c2e"/>
+      <stop offset="100%" stop-color="#0b101b"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="300" height="450" fill="url(#bgGrad)"/>
+  
+  <!-- Subtle border -->
+  <rect x="1" y="1" width="298" height="448" fill="none" stroke="#24324a" stroke-width="1.5"/>
+
+  <!-- Cinema Icon Elements -->
+  <g transform="translate(150, 190)">
+    <!-- Clapperboard Glow -->
+    <circle cx="0" cy="0" r="54" fill="#6366f1" opacity="0.08"/>
+    
+    <!-- Camera Reel Icon -->
+    <rect x="-36" y="-24" width="72" height="52" rx="8" fill="#1e293b" stroke="#334155" stroke-width="2"/>
+    <polygon points="-8,-12 14,2 -8,16" fill="url(#accentGrad)"/>
+    
+    <!-- Film strips on sides -->
+    <line x1="-30" y1="-24" x2="-30" y2="28" stroke="#0f172a" stroke-width="4" stroke-dasharray="4,4"/>
+    <line x1="30" y1="-24" x2="30" y2="28" stroke="#0f172a" stroke-width="4" stroke-dasharray="4,4"/>
+  </g>
+
+  <!-- Title / Label -->
+  <text x="150" y="278" text-anchor="middle" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="14" font-weight="700" letter-spacing="0.03em">
+    DIGITAL RELEASE
   </text>
-  <text x="150" y="292" text-anchor="middle" fill="#718096" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="12">
-    Digital Releases
+  <text x="150" y="300" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="11" font-weight="500">
+    Обложка формируется
   </text>
 </svg>

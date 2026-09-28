@@ -101,3 +101,54 @@ class CinemetaSource(BaseSource):
             }
         except Exception:
             return None
+
+    def search_movie(self, title: str, year: Optional[int] = None) -> Optional[Dict[str, Any]]:
+        """Searches Cinemeta by title/year to enrich releases with IMDb posters, IDs and metadata."""
+        if not title or len(title.strip()) < 2:
+            return None
+
+        import urllib.parse
+        clean_title = title.strip()
+        encoded = urllib.parse.quote(clean_title)
+        url = f"https://v3-cinemeta.strem.io/catalog/movie/top/search={encoded}.json"
+
+        try:
+            resp = self._safe_request(url)
+            metas = resp.json().get("metas", [])
+            if not metas:
+                return None
+
+            best_meta = None
+            if year:
+                for m in metas:
+                    m_year = m.get("year")
+                    try:
+                        y_int = int(str(m_year)[:4]) if m_year else None
+                        if y_int and abs(y_int - year) <= 1:
+                            best_meta = m
+                            break
+                    except Exception:
+                        pass
+
+            if not best_meta:
+                best_meta = metas[0]
+
+            imdb_id = best_meta.get("id") or best_meta.get("imdb_id")
+            poster = best_meta.get("poster")
+            name = best_meta.get("name")
+
+            # If search item doesn't have full details, fetch detail
+            detail = self.fetch_movie_detail(imdb_id) if imdb_id else None
+
+            return {
+                "imdb_id": imdb_id,
+                "title": name,
+                "year": detail.get("year") if detail else year,
+                "poster": poster or (detail.get("poster") if detail else None),
+                "overview": detail.get("overview") if detail else None,
+                "genres": detail.get("genres") if detail else (best_meta.get("genres") or []),
+                "countries": detail.get("countries") if detail else [],
+                "imdb_rating": detail.get("imdb_rating") if detail else (float(best_meta.get("imdbRating")) if best_meta.get("imdbRating") else None),
+            }
+        except Exception:
+            return None

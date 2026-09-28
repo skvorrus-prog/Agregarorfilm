@@ -146,6 +146,29 @@ class App {
       this.render();
     });
 
+    // Reset filters button
+    document.getElementById('reset-filters-btn')?.addEventListener('click', () => {
+      this.state.quality = 'all';
+      this.state.genre = 'all';
+      this.state.year = 'all';
+      this.state.min_imdb = 0;
+      this.state.min_votes = 0;
+      this.state.four_k_only = false;
+      this.state.hdr_only = false;
+      this.state.ru_only = false;
+
+      if (this.qualityFilter) this.qualityFilter.value = 'all';
+      if (this.genreFilter) this.genreFilter.value = 'all';
+      if (this.yearFilter) this.yearFilter.value = 'all';
+      if (this.minImdbInput) this.minImdbInput.value = '';
+      if (this.minVotesInput) this.minVotesInput.value = '';
+      if (this.fourKCheckbox) this.fourKCheckbox.checked = false;
+      if (this.hdrCheckbox) this.hdrCheckbox.checked = false;
+      if (this.ruCheckbox) this.ruCheckbox.checked = false;
+
+      this.render();
+    });
+
     // Modal close
     this.modalClose?.addEventListener('click', () => this.closeModal());
     this.modalOverlay?.addEventListener('click', (e) => {

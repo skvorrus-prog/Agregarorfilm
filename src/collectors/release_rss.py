@@ -42,9 +42,25 @@ class ReleaseRSSSource(BaseSource):
         for feed_url in self.feed_urls:
             try:
                 resp = self._safe_request(feed_url)
-                # Decode properly
-                content = resp.content.decode("utf-8", errors="replace")
-                root = ET.fromstring(content.encode("utf-8"))
+                raw_bytes = resp.content
+
+                # Detect encoding: check windows-1251 vs utf-8
+                decoded_text = ""
+                try:
+                    candidate = raw_bytes.decode("utf-8")
+                    if "\ufffd" in candidate or "\xd0" in candidate:
+                        # Fallback to cp1251 if replacement chars or raw bytes detected
+                        decoded_text = raw_bytes.decode("windows-1251", errors="replace")
+                    else:
+                        decoded_text = candidate
+                except UnicodeDecodeError:
+                    decoded_text = raw_bytes.decode("windows-1251", errors="replace")
+
+                # Strip xml declaration if present to avoid encoding mismatch in parser
+                if "<?xml" in decoded_text:
+                    decoded_text = decoded_text.split("?>", 1)[-1].strip()
+
+                root = ET.fromstring(decoded_text.encode("utf-8"))
 
                 items = root.findall("./channel/item")
                 for item in items:

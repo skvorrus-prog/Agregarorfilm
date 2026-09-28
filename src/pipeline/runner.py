@@ -191,6 +191,29 @@ class PipelineRunner:
                 matcher.register(movie)
                 new_movies.append(movie)
 
+            # Auto-enrich movie with poster and IMDb metadata if missing
+            if not movie.poster or not movie.imdb_id:
+                cinemeta_src = next((s for s in self.sources if isinstance(s, CinemetaSource)), None)
+                if cinemeta_src:
+                    query_name = orig_title or title
+                    if query_name and "/" in query_name:
+                        # Take the English title component
+                        query_name = [p.strip() for p in query_name.split("/") if p.strip()][-1]
+                    enrich = cinemeta_src.search_movie(query_name, year=year)
+                    if enrich:
+                        if not movie.poster and enrich.get("poster"):
+                            movie.poster = enrich["poster"]
+                        if not movie.imdb_id and enrich.get("imdb_id"):
+                            movie.imdb_id = enrich["imdb_id"]
+                        if movie.imdb_rating is None and enrich.get("imdb_rating") is not None:
+                            movie.imdb_rating = enrich["imdb_rating"]
+                        if not movie.overview and enrich.get("overview"):
+                            movie.overview = enrich["overview"]
+                        if not movie.genres and enrich.get("genres"):
+                            movie.genres = enrich["genres"]
+                        if not movie.countries and enrich.get("countries"):
+                            movie.countries = enrich["countries"]
+
             # Determine event type
             if raw.official_digital_date:
                 event_type = EventType.DIGITAL_PREMIERE.value
