@@ -1,0 +1,3473 @@
+[
+ {
+  "id": "m_cb1ff5c7c518",
+  "title": "Беги",
+  "original_title": "Run",
+  "year": 1991,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.347482+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEBRip",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "61e5d51554ae2daf",
+    "movie_id": "m_cb1ff5c7c518",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T08:26:01+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEBRip",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Беги / Run (1991) WEBRip-AVC от DoMiNo | D, Р",
+    "details": {
+     "quality": "WEBRip",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_a7b01de7e6dd",
+  "title": "Девушка моей мечты",
+  "original_title": "Die Frau meiner Träume",
+  "year": 1944,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.337792+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "720p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "4937cca62bf28e72",
+    "movie_id": "m_a7b01de7e6dd",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T09:29:06+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "BluRay",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "P2",
+    "raw_title": "Девушка моей мечты / Die Frau meiner Träume (1944) BDRip 720p от msltel | P2",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "P2",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_f7bbdf8c0c71",
+  "title": "Остров пауков",
+  "original_title": "Spider Island",
+  "year": 2026,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.331299+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEBRip",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "0bce93a3eb502cef",
+    "movie_id": "m_f7bbdf8c0c71",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T09:33:20+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEBRip",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Sub",
+    "raw_title": "Остров пауков / Spider Island (2026) WEBRip 1080p | Sub",
+    "details": {
+     "quality": "WEBRip",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Sub",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_70ee784008a7",
+  "title": "Северный бастион",
+  "original_title": "BAC Nord / The Stronghold",
+  "year": 2020,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.317212+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "428fd5cca23acd40",
+    "movie_id": "m_70ee784008a7",
+    "event_type": "BLURAY_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T09:42:55+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "BluRay",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Pazl Voice",
+    "raw_title": "Северный бастион / BAC Nord (2020) BDRip 720p от ExKinoRay | Pazl Voice",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Pazl Voice",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "c6d4364a4382f338",
+    "movie_id": "m_70ee784008a7",
+    "event_type": "BLURAY_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T09:43:22+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "BluRay",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Pazl Voice",
+    "raw_title": "Северный бастион / BAC Nord / The Stronghold (2020) BDRip 1080p | Pazl Voice",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Pazl Voice",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_cd7d449f0ca4",
+  "title": "В ловушке",
+  "original_title": "Hunted",
+  "year": 2020,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.301482+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "720p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "ed6f0c7ef6ef3fcb",
+    "movie_id": "m_cd7d449f0ca4",
+    "event_type": "BLURAY_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T09:58:03+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "BluRay",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "iTunes",
+    "raw_title": "В ловушке / Hunted (2020) BDRip 720p от DoMiNo & селезень | P | Велес | iTunes",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "iTunes",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_f105306fc6cc",
+  "title": "Гигант",
+  "original_title": "Giant",
+  "year": 2025,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.292853+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "720p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "f1f79be88c1e5daa",
+    "movie_id": "m_f105306fc6cc",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T10:00:05+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "BluRay",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Гигант / Giant (2025) BDRip 720p от DoMiNo & селезень | D | Мосфильм-Мастер",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_94e23083520c",
+  "title": "Дом-ловушка",
+  "original_title": "Accused",
+  "year": 2023,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.279399+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "9ac4948286ba0bb8",
+    "movie_id": "m_94e23083520c",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T10:00:52+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "BluRay",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Paragraph Media",
+    "raw_title": "Дом-ловушка / Accused (2023) BDRip 1080p от DoMiNo & селезень | D | Paragraph Media",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Paragraph Media",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_67cec1d344d1",
+  "title": "3 женщины",
+  "original_title": "3 Women",
+  "year": 1977,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.270443+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "720p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "28450032b19d4ce0",
+    "movie_id": "m_67cec1d344d1",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T11:00:52+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "BluRay",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "3 женщины / 3 Women (1977) BDRip-AVC от msltel | P, P2, A",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "b088deae68803afa",
+    "movie_id": "m_67cec1d344d1",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T11:56:22+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "BluRay",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "3 женщины / 3 Women (1977) BDRip 720p от msltel | P, P2, A",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_2599f9f9c827",
+  "title": "Жажда славы",
+  "original_title": "Magazine Dreams",
+  "year": 2023,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.259909+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "125586142adeff82",
+    "movie_id": "m_2599f9f9c827",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T12:46:39+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "WinMedia",
+    "raw_title": "Жажда славы / Magazine Dreams (2023) WEB-DL 1080p от ELEKTRI4KA | D | WinMedia",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "WinMedia",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "299b61de58f4a975",
+    "movie_id": "m_2599f9f9c827",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T12:46:44+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "WinMedia",
+    "raw_title": "Жажда славы / Magazine Dreams (2023) WEB-DLRip от ELEKTRI4KA | D | WinMedia",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "WinMedia",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_a18aee88bdcd",
+  "title": "Каравали",
+  "original_title": "Karavali",
+  "year": 2026,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.250647+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEBRip",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "feb50fca66a9610e",
+    "movie_id": "m_a18aee88bdcd",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T14:44:24+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEBRip",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "L1",
+    "raw_title": "Каравали / Karavali (2026) WEBRip 1080p | L1",
+    "details": {
+     "quality": "WEBRip",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "L1",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_678cb509d27a",
+  "title": "Пила: Полное собрание / Saw: The Complete Collection (",
+  "original_title": null,
+  "year": 2004,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.232159+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "04a96e6bbf6b2359",
+    "movie_id": "m_678cb509d27a",
+    "event_type": "BLURAY_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T16:00:28+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "BluRay",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Пила: Полное собрание / Saw: The Complete Collection (2004-2010) BDRip 1080p",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_f91da5283d77",
+  "title": "Пила: Гепталогия / Saw: Geptalogiya (",
+  "original_title": null,
+  "year": 2004,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.224861+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "b53df8ebf4b6f279",
+    "movie_id": "m_f91da5283d77",
+    "event_type": "BLURAY_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T16:01:12+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "BluRay",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Пила: Гепталогия / Saw: Geptalogiya (2004-2010) BDRip 1080p от NoLimits-Team | Director's Cut",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_a8dbc473d9b8",
+  "title": "Том и Джерри",
+  "original_title": "Tom and Jerry",
+  "year": 2021,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.274865+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "e503272faad82d65",
+    "movie_id": "m_a8dbc473d9b8",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T10:38:17+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Том и Джерри / Tom and Jerry (2021) WEB-DLRip 1080p от EniaHD | D, A | Мосфильм-Мастер, Карповский, Дольский, Чадов",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "60bc088b553596b9",
+    "movie_id": "m_a8dbc473d9b8",
+    "event_type": "BLURAY_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T16:31:04+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "BluRay",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "iTunes",
+    "raw_title": "Том и Джерри / Tom and Jerry (2021) BDRip 720p от селезень | iTunes",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "iTunes",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_1c74683cb153",
+  "title": "Солдат",
+  "original_title": "Soldier",
+  "year": 1998,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.211148+00:00",
+  "status": "UHD_RELEASE",
+  "best_quality": "REMUX",
+  "best_resolution": "2160p",
+  "has_4k": true,
+  "has_hdr": true,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "48c33516238f1ffb",
+    "movie_id": "m_1c74683cb153",
+    "event_type": "UHD_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T16:32:59+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "REMUX",
+    "resolution": "2160p",
+    "hdr": "Dolby Vision / HDR10",
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Солдат / Soldier (1998) UHD Blu-Ray Remux 2160p | 4K | HDR | Dolby Vision Profile 7 | D, P, A",
+    "details": {
+     "quality": "REMUX",
+     "resolution": "2160p",
+     "hdr": "Dolby Vision / HDR10",
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_0dd83f46d9ea",
+  "title": "Побег из плена",
+  "original_title": "Yong wu zhi di",
+  "year": 2025,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.203371+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEBRip",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "54882ba01b4b247e",
+    "movie_id": "m_0dd83f46d9ea",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T16:33:01+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEBRip",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "L",
+    "raw_title": "Побег из плена / Yong wu zhi di (2025) WEBRip 1080p | L",
+    "details": {
+     "quality": "WEBRip",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "L",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_2001f6fc1470",
+  "title": "Унабомбер",
+  "original_title": "Unabomber",
+  "year": 2026,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.189263+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "17ffb47ec20275db",
+    "movie_id": "m_2001f6fc1470",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T17:30:00+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Movie Dubbing",
+    "raw_title": "Унабомбер / Unabomber (2026) WEB-DLRip-AVC | КПК | D | Movie Dubbing",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Movie Dubbing",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_17f933a625b7",
+  "title": "Курьер",
+  "original_title": "Runner",
+  "year": 2026,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.240328+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "0e50e429dfa00d1a",
+    "movie_id": "m_17f933a625b7",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T15:38:17+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Курьер / Runner (2026) WEB-DL 1080p | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "e134c730e7358ca1",
+    "movie_id": "m_17f933a625b7",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T17:49:45+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Курьер / Runner (2026) WEB-DLRip-AVC от DoMiNo | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_147db0a51634",
+  "title": "Мистер Робертс",
+  "original_title": "Mister Roberts",
+  "year": 1955,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.169205+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "928f37386eb65857",
+    "movie_id": "m_147db0a51634",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T17:57:38+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "P2",
+    "raw_title": "Мистер Робертс / Mister Roberts  (1955) DVDRip | P2",
+    "details": {
+     "quality": "unknown",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "P2",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_a988e6ef1fc5",
+  "title": "Что мы скрываем",
+  "original_title": "What We Hide",
+  "year": 2025,
+  "overview": null,
+  "poster": null,
+  "backdrop": null,
+  "genres": [],
+  "countries": [],
+  "runtime": null,
+  "imdb_id": null,
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.343858+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "dcf42a50fdc83750",
+    "movie_id": "m_a988e6ef1fc5",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T08:28:37+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Что мы скрываем / Spider & Jessie /  What We Hide (2025) WEB-DL 1080p от New-Team | L | заКАДРЫ",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "2f7535bfd7f7c626",
+    "movie_id": "m_a988e6ef1fc5",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-28T19:21:54+00:00",
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "DLRip",
+    "raw_title": "Что мы скрываем / What We Hide (2025) WEB-DLRip",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "DLRip",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt31170389",
+  "title": "Evil Dead Burn",
+  "original_title": "Evil Dead Burn",
+  "year": 2026,
+  "overview": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
+  "poster": "https://images.metahub.space/poster/small/tt31170389/img",
+  "backdrop": null,
+  "genres": [
+   "Horror"
+  ],
+  "countries": [
+   "New Zealand, United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt31170389",
+  "tmdb_id": null,
+  "imdb_rating": 6.3,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.152506+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "42bb03c1426541c5",
+    "movie_id": "tt31170389",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Evil Dead Burn (2026)",
+    "details": {
+     "title": "Evil Dead Burn",
+     "year": 2026,
+     "overview": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
+     "poster": "https://images.metahub.space/poster/small/tt31170389/img",
+     "genres": [
+      "Horror"
+     ],
+     "countries": [
+      "New Zealand, United States"
+     ],
+     "imdb_rating": 6.3,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt32273171",
+  "title": "The Death of Robin Hood",
+  "original_title": "The Death of Robin Hood",
+  "year": 2026,
+  "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+  "poster": "https://images.metahub.space/poster/small/tt32273171/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "countries": [
+   "United States, United Kingdom, Ireland"
+  ],
+  "runtime": null,
+  "imdb_id": "tt32273171",
+  "tmdb_id": null,
+  "imdb_rating": 6.0,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.139158+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "ba29c701ce836501",
+    "movie_id": "tt32273171",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Death of Robin Hood (2026)",
+    "details": {
+     "title": "The Death of Robin Hood",
+     "year": 2026,
+     "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+     "poster": "https://images.metahub.space/poster/small/tt32273171/img",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+     ],
+     "countries": [
+      "United States, United Kingdom, Ireland"
+     ],
+     "imdb_rating": 6.0,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt31193180",
+  "title": "Sinners",
+  "original_title": "Sinners",
+  "year": 2025,
+  "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+  "poster": "https://images.metahub.space/poster/small/tt31193180/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Drama",
+   "Horror"
+  ],
+  "countries": [
+   "United States, Australia, Canada"
+  ],
+  "runtime": null,
+  "imdb_id": "tt31193180",
+  "tmdb_id": null,
+  "imdb_rating": 7.5,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.125093+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "c46b171f6730fc37",
+    "movie_id": "tt31193180",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Sinners (2025)",
+    "details": {
+     "title": "Sinners",
+     "year": 2025,
+     "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+     "poster": "https://images.metahub.space/poster/small/tt31193180/img",
+     "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+     ],
+     "countries": [
+      "United States, Australia, Canada"
+     ],
+     "imdb_rating": 7.5,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt34385135",
+  "title": "Colony",
+  "original_title": "Colony",
+  "year": 2026,
+  "overview": "Professor Se Jeong attends a biotech conference, only to witness it spiral into catastrophe when a rapidly mutating virus is unleashed. As the outbreak spreads and the infected begin to transform, authorities seal off the entire f...",
+  "poster": "https://images.metahub.space/poster/small/tt34385135/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Crime"
+  ],
+  "countries": [
+   "South Korea"
+  ],
+  "runtime": null,
+  "imdb_id": "tt34385135",
+  "tmdb_id": null,
+  "imdb_rating": 6.5,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.110217+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "95bdcbf767481897",
+    "movie_id": "tt34385135",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Colony (2026)",
+    "details": {
+     "title": "Colony",
+     "year": 2026,
+     "overview": "Professor Se Jeong attends a biotech conference, only to witness it spiral into catastrophe when a rapidly mutating virus is unleashed. As the outbreak spreads and the infected begin to transform, authorities seal off the entire f...",
+     "poster": "https://images.metahub.space/poster/small/tt34385135/img",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+     ],
+     "countries": [
+      "South Korea"
+     ],
+     "imdb_rating": 6.5,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt33100314",
+  "title": "Remarkably Bright Creatures",
+  "original_title": "Remarkably Bright Creatures",
+  "year": 2026,
+  "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+  "poster": "https://images.metahub.space/poster/small/tt33100314/img",
+  "backdrop": null,
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt33100314",
+  "tmdb_id": null,
+  "imdb_rating": 7.8,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.097054+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "abfe3777c25d48fc",
+    "movie_id": "tt33100314",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Remarkably Bright Creatures (2026)",
+    "details": {
+     "title": "Remarkably Bright Creatures",
+     "year": 2026,
+     "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+     "poster": "https://images.metahub.space/poster/small/tt33100314/img",
+     "genres": [
+      "Comedy",
+      "Drama"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 7.8,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt11378946",
+  "title": "Michael",
+  "original_title": "Michael",
+  "year": 2026,
+  "overview": "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
+  "poster": "https://images.metahub.space/poster/small/tt11378946/img",
+  "backdrop": null,
+  "genres": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "countries": [
+   "United States, Canada, United Kingdom"
+  ],
+  "runtime": null,
+  "imdb_id": "tt11378946",
+  "tmdb_id": null,
+  "imdb_rating": 7.4,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.079750+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "3089a4e57646f6ba",
+    "movie_id": "tt11378946",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Michael (2026)",
+    "details": {
+     "title": "Michael",
+     "year": 2026,
+     "overview": "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
+     "poster": "https://images.metahub.space/poster/small/tt11378946/img",
+     "genres": [
+      "Biography",
+      "Drama",
+      "History"
+     ],
+     "countries": [
+      "United States, Canada, United Kingdom"
+     ],
+     "imdb_rating": 7.4,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt0427340",
+  "title": "Masters of the Universe",
+  "original_title": "Masters of the Universe",
+  "year": 2026,
+  "overview": "Prince Adam discovers that the strange memories shaping his life are real when the lost Sword of Power resurfaces, forcing him to return to Eternia and challenge the tyrant who shattered his family and kingdom.",
+  "poster": "https://images.metahub.space/poster/small/tt0427340/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Fantasy"
+  ],
+  "countries": [
+   "United States, Australia, Canada, Iceland, United Kingdom"
+  ],
+  "runtime": null,
+  "imdb_id": "tt0427340",
+  "tmdb_id": null,
+  "imdb_rating": 6.4,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.064838+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "16b7af3880f9a396",
+    "movie_id": "tt0427340",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Masters of the Universe (2026)",
+    "details": {
+     "title": "Masters of the Universe",
+     "year": 2026,
+     "overview": "Prince Adam discovers that the strange memories shaping his life are real when the lost Sword of Power resurfaces, forcing him to return to Eternia and challenge the tyrant who shattered his family and kingdom.",
+     "poster": "https://images.metahub.space/poster/small/tt0427340/img",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ],
+     "countries": [
+      "United States, Australia, Canada, Iceland, United Kingdom"
+     ],
+     "imdb_rating": 6.4,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt33071426",
+  "title": "The Drama",
+  "original_title": "The Drama",
+  "year": 2026,
+  "overview": "A happily-engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+  "poster": "https://images.metahub.space/poster/small/tt33071426/img",
+  "backdrop": null,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt33071426",
+  "tmdb_id": null,
+  "imdb_rating": 7.2,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.051561+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "c523264fd89398b6",
+    "movie_id": "tt33071426",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Drama (2026)",
+    "details": {
+     "title": "The Drama",
+     "year": 2026,
+     "overview": "A happily-engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+     "poster": "https://images.metahub.space/poster/small/tt33071426/img",
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 7.2,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt37275992",
+  "title": "The Secret Woman",
+  "original_title": "The Secret Woman",
+  "year": 2026,
+  "overview": null,
+  "poster": "https://images.metahub.space/poster/small/tt37275992/img",
+  "backdrop": null,
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "Denmark"
+  ],
+  "runtime": null,
+  "imdb_id": "tt37275992",
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.043471+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "e82e86d7032158b5",
+    "movie_id": "tt37275992",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Secret Woman (2026)",
+    "details": {
+     "title": "The Secret Woman",
+     "year": 2026,
+     "overview": null,
+     "poster": "https://images.metahub.space/poster/small/tt37275992/img",
+     "genres": [
+      "Drama"
+     ],
+     "countries": [
+      "Denmark"
+     ],
+     "imdb_rating": null,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt5950044",
+  "title": "Superman",
+  "original_title": "Superman",
+  "year": 2025,
+  "overview": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the American way he soon finds himself in a world that views these as old-fashioned.",
+  "poster": "https://images.metahub.space/poster/small/tt5950044/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt5950044",
+  "tmdb_id": null,
+  "imdb_rating": 7.0,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.022213+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "36efac7bab8e7d7c",
+    "movie_id": "tt5950044",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Superman (2025)",
+    "details": {
+     "title": "Superman",
+     "year": 2025,
+     "overview": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the American way he soon finds himself in a world that views these as old-fashioned.",
+     "poster": "https://images.metahub.space/poster/small/tt5950044/img",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 7.0,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt27543632",
+  "title": "The Housemaid",
+  "original_title": "The Housemaid",
+  "year": 2025,
+  "overview": "Millie a struggling young woman becomes live in maid for a wealthy couple Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+  "poster": "https://images.metahub.space/poster/small/tt27543632/img",
+  "backdrop": null,
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt27543632",
+  "tmdb_id": null,
+  "imdb_rating": 6.7,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.013104+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "d2678bff51d21fec",
+    "movie_id": "tt27543632",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Housemaid (2025)",
+    "details": {
+     "title": "The Housemaid",
+     "year": 2025,
+     "overview": "Millie a struggling young woman becomes live in maid for a wealthy couple Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+     "poster": "https://images.metahub.space/poster/small/tt27543632/img",
+     "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 6.7,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt32565993",
+  "title": "The Sheep Detectives",
+  "original_title": "The Sheep Detectives",
+  "year": 2026,
+  "overview": "Every night a shepherd reads aloud a murder mystery, pretending his sheep can understand. When he is found dead, the sheep realize at once that it was a murder and think they know everything about how to go about solving it.",
+  "poster": "https://images.metahub.space/poster/small/tt32565993/img",
+  "backdrop": null,
+  "genres": [
+   "Comedy",
+   "Family",
+   "Mystery"
+  ],
+  "countries": [
+   "United Kingdom, United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt32565993",
+  "tmdb_id": null,
+  "imdb_rating": 7.4,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:26.002001+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "087cbda181c4334b",
+    "movie_id": "tt32565993",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Sheep Detectives (2026)",
+    "details": {
+     "title": "The Sheep Detectives",
+     "year": 2026,
+     "overview": "Every night a shepherd reads aloud a murder mystery, pretending his sheep can understand. When he is found dead, the sheep realize at once that it was a murder and think they know everything about how to go about solving it.",
+     "poster": "https://images.metahub.space/poster/small/tt32565993/img",
+     "genres": [
+      "Comedy",
+      "Family",
+      "Mystery"
+     ],
+     "countries": [
+      "United Kingdom, United States"
+     ],
+     "imdb_rating": 7.4,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt37853455",
+  "title": "One Night Only",
+  "original_title": "One Night Only",
+  "year": 2026,
+  "overview": "Two New Yorkers search for love on the one night of the year when pre-marital sex is legal.",
+  "poster": "https://images.metahub.space/poster/small/tt37853455/img",
+  "backdrop": null,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt37853455",
+  "tmdb_id": null,
+  "imdb_rating": 6.3,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.987807+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "fea17591a69b94d8",
+    "movie_id": "tt37853455",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "One Night Only (2026)",
+    "details": {
+     "title": "One Night Only",
+     "year": 2026,
+     "overview": "Two New Yorkers search for love on the one night of the year when pre-marital sex is legal.",
+     "poster": "https://images.metahub.space/poster/small/tt37853455/img",
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 6.3,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt33296751",
+  "title": "Tuner",
+  "original_title": "Tuner",
+  "year": 2026,
+  "overview": "A talented piano tuner who suffers from hyperacusis discovers an unexpected aptitude for cracking safes, turning his life upside down.",
+  "poster": "https://images.metahub.space/poster/small/tt33296751/img",
+  "backdrop": null,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Music"
+  ],
+  "countries": [
+   "Canada, United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt33296751",
+  "tmdb_id": null,
+  "imdb_rating": 7.2,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.974612+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "09aa068043c013a9",
+    "movie_id": "tt33296751",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Tuner (2026)",
+    "details": {
+     "title": "Tuner",
+     "year": 2026,
+     "overview": "A talented piano tuner who suffers from hyperacusis discovers an unexpected aptitude for cracking safes, turning his life upside down.",
+     "poster": "https://images.metahub.space/poster/small/tt33296751/img",
+     "genres": [
+      "Crime",
+      "Drama",
+      "Music"
+     ],
+     "countries": [
+      "Canada, United States"
+     ],
+     "imdb_rating": 7.2,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt30825738",
+  "title": "Star Wars: The Mandalorian and Grogu",
+  "original_title": "Star Wars: The Mandalorian and Grogu",
+  "year": 2026,
+  "overview": "Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
+  "poster": "https://images.metahub.space/poster/small/tt30825738/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Family"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt30825738",
+  "tmdb_id": null,
+  "imdb_rating": 6.8,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.955460+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "69fa05ed2b4149cf",
+    "movie_id": "tt30825738",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Star Wars: The Mandalorian and Grogu (2026)",
+    "details": {
+     "title": "Star Wars: The Mandalorian and Grogu",
+     "year": 2026,
+     "overview": "Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
+     "poster": "https://images.metahub.space/poster/small/tt30825738/img",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 6.8,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt33095251",
+  "title": "Tony",
+  "original_title": "Tony",
+  "year": 2026,
+  "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+  "poster": "https://images.metahub.space/poster/small/tt33095251/img",
+  "backdrop": null,
+  "genres": [
+   "Biography",
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States, Canada"
+  ],
+  "runtime": null,
+  "imdb_id": "tt33095251",
+  "tmdb_id": null,
+  "imdb_rating": 7.6,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.940399+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "9c742c4fad2ec71d",
+    "movie_id": "tt33095251",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Tony (2026)",
+    "details": {
+     "title": "Tony",
+     "year": 2026,
+     "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+     "poster": "https://images.metahub.space/poster/small/tt33095251/img",
+     "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+     ],
+     "countries": [
+      "United States, Canada"
+     ],
+     "imdb_rating": 7.6,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt26581740",
+  "title": "Weapons",
+  "original_title": "Weapons",
+  "year": 2025,
+  "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+  "poster": "https://images.metahub.space/poster/small/tt26581740/img",
+  "backdrop": null,
+  "genres": [
+   "Horror",
+   "Mystery"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt26581740",
+  "tmdb_id": null,
+  "imdb_rating": 7.4,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.931548+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "1d7f9eb61ec31647",
+    "movie_id": "tt26581740",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Weapons (2025)",
+    "details": {
+     "title": "Weapons",
+     "year": 2025,
+     "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+     "poster": "https://images.metahub.space/poster/small/tt26581740/img",
+     "genres": [
+      "Horror",
+      "Mystery"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 7.4,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt15047880",
+  "title": "Disclosure Day",
+  "original_title": "Disclosure Day",
+  "year": 2026,
+  "overview": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you?",
+  "poster": "https://images.metahub.space/poster/small/tt15047880/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Drama",
+   "Mystery"
+  ],
+  "countries": [
+   "United States, Canada, New Zealand, Japan"
+  ],
+  "runtime": null,
+  "imdb_id": "tt15047880",
+  "tmdb_id": null,
+  "imdb_rating": 6.4,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.921744+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "e08dc869592b2b9d",
+    "movie_id": "tt15047880",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Disclosure Day (2026)",
+    "details": {
+     "title": "Disclosure Day",
+     "year": 2026,
+     "overview": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you?",
+     "poster": "https://images.metahub.space/poster/small/tt15047880/img",
+     "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+     ],
+     "countries": [
+      "United States, Canada, New Zealand, Japan"
+     ],
+     "imdb_rating": 6.4,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt32547691",
+  "title": "Pressure",
+  "original_title": "Pressure",
+  "year": 2026,
+  "overview": "In the tense 72 hours before D-Day, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice--launch the most dangerous seaborne invasion in history or risk losing the war altogether.",
+  "poster": "https://images.metahub.space/poster/small/tt32547691/img",
+  "backdrop": null,
+  "genres": [
+   "Drama",
+   "History",
+   "Thriller"
+  ],
+  "countries": [
+   "United Kingdom, France, United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt32547691",
+  "tmdb_id": null,
+  "imdb_rating": 7.3,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.911768+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "70ad9d8bc25bebcf",
+    "movie_id": "tt32547691",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Pressure (2026)",
+    "details": {
+     "title": "Pressure",
+     "year": 2026,
+     "overview": "In the tense 72 hours before D-Day, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice--launch the most dangerous seaborne invasion in history or risk losing the war altogether.",
+     "poster": "https://images.metahub.space/poster/small/tt32547691/img",
+     "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+     ],
+     "countries": [
+      "United Kingdom, France, United States"
+     ],
+     "imdb_rating": 7.3,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt37969426",
+  "title": "The Muppet Show",
+  "original_title": "The Muppet Show",
+  "year": 2026,
+  "overview": "Kermit and friends return in a modern take on their classic variety show format, mixing nostalgic charm with new comedy bits while staying true to the Muppets' timeless spirit.",
+  "poster": "https://images.metahub.space/poster/small/tt37969426/img",
+  "backdrop": null,
+  "genres": [
+   "Comedy",
+   "Family",
+   "Music"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt37969426",
+  "tmdb_id": null,
+  "imdb_rating": 8.6,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.902933+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "19791ae6ea2cfcb0",
+    "movie_id": "tt37969426",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Muppet Show (2026)",
+    "details": {
+     "title": "The Muppet Show",
+     "year": 2026,
+     "overview": "Kermit and friends return in a modern take on their classic variety show format, mixing nostalgic charm with new comedy bits while staying true to the Muppets' timeless spirit.",
+     "poster": "https://images.metahub.space/poster/small/tt37969426/img",
+     "genres": [
+      "Comedy",
+      "Family",
+      "Music"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 8.6,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt27681354",
+  "title": "In the Grey",
+  "original_title": "In the Grey",
+  "year": 2026,
+  "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back-an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+  "poster": "https://images.metahub.space/poster/small/tt27681354/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "United Kingdom, United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt27681354",
+  "tmdb_id": null,
+  "imdb_rating": 6.6,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.888765+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "93037d18f995ea66",
+    "movie_id": "tt27681354",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "In the Grey (2026)",
+    "details": {
+     "title": "In the Grey",
+     "year": 2026,
+     "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back-an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+     "poster": "https://images.metahub.space/poster/small/tt27681354/img",
+     "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+     ],
+     "countries": [
+      "United Kingdom, United States"
+     ],
+     "imdb_rating": 6.6,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt12042730",
+  "title": "Project Hail Mary",
+  "original_title": "Project Hail Mary",
+  "year": 2026,
+  "overview": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
+  "poster": "https://images.metahub.space/poster/small/tt12042730/img",
+  "backdrop": null,
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt12042730",
+  "tmdb_id": null,
+  "imdb_rating": 8.2,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.876627+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "e43da0a40f8258e9",
+    "movie_id": "tt12042730",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Project Hail Mary (2026)",
+    "details": {
+     "title": "Project Hail Mary",
+     "year": 2026,
+     "overview": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
+     "poster": "https://images.metahub.space/poster/small/tt12042730/img",
+     "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 8.2,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt14173636",
+  "title": "The Invite",
+  "original_title": "The Invite",
+  "year": 2026,
+  "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+  "poster": "https://images.metahub.space/poster/small/tt14173636/img",
+  "backdrop": null,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt14173636",
+  "tmdb_id": null,
+  "imdb_rating": 7.5,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.864671+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "9f7dd0463c7cee15",
+    "movie_id": "tt14173636",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Invite (2026)",
+    "details": {
+     "title": "The Invite",
+     "year": 2026,
+     "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+     "poster": "https://images.metahub.space/poster/small/tt14173636/img",
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 7.5,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt5177120",
+  "title": "The Ministry of Ungentlemanly Warfare",
+  "original_title": "The Ministry of Ungentlemanly Warfare",
+  "year": 2024,
+  "overview": "The British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
+  "poster": "https://images.metahub.space/poster/small/tt5177120/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Comedy",
+   "War"
+  ],
+  "countries": [
+   "United States, United Kingdom, Turkey"
+  ],
+  "runtime": null,
+  "imdb_id": "tt5177120",
+  "tmdb_id": null,
+  "imdb_rating": 6.8,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.848247+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "bcc9db6e1ad5f1ec",
+    "movie_id": "tt5177120",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Ministry of Ungentlemanly Warfare (2024)",
+    "details": {
+     "title": "The Ministry of Ungentlemanly Warfare",
+     "year": 2024,
+     "overview": "The British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
+     "poster": "https://images.metahub.space/poster/small/tt5177120/img",
+     "genres": [
+      "Action",
+      "Comedy",
+      "War"
+     ],
+     "countries": [
+      "United States, United Kingdom, Turkey"
+     ],
+     "imdb_rating": 6.8,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt35298123",
+  "title": "Teenage Sex and Death at Camp Miasma",
+  "original_title": "Teenage Sex and Death at Camp Miasma",
+  "year": 2026,
+  "overview": "A director making a slasher sequel becomes obsessed with casting the original film's 'final girl,' leading both women into psychological and sexual chaos.",
+  "poster": "https://images.metahub.space/poster/small/tt35298123/img",
+  "backdrop": null,
+  "genres": [
+   "Comedy",
+   "Horror",
+   "Romance"
+  ],
+  "countries": [
+   "Canada, United Kingdom, United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt35298123",
+  "tmdb_id": null,
+  "imdb_rating": 7.1,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.838318+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "77a86596ea1679dd",
+    "movie_id": "tt35298123",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Teenage Sex and Death at Camp Miasma (2026)",
+    "details": {
+     "title": "Teenage Sex and Death at Camp Miasma",
+     "year": 2026,
+     "overview": "A director making a slasher sequel becomes obsessed with casting the original film's 'final girl,' leading both women into psychological and sexual chaos.",
+     "poster": "https://images.metahub.space/poster/small/tt35298123/img",
+     "genres": [
+      "Comedy",
+      "Horror",
+      "Romance"
+     ],
+     "countries": [
+      "Canada, United Kingdom, United States"
+     ],
+     "imdb_rating": 7.1,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt28014327",
+  "title": "Mayday",
+  "original_title": "Mayday",
+  "year": 2026,
+  "overview": "Lieutenant Troy Brennan's reconnaissance mission over Soviet territory goes awry, forcing him to crash-land and survive in Russian wilderness while evading capture or rescue.",
+  "poster": "https://images.metahub.space/poster/small/tt28014327/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Comedy"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt28014327",
+  "tmdb_id": null,
+  "imdb_rating": 6.9,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.828850+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "89ac01eefc6b6824",
+    "movie_id": "tt28014327",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Mayday (2026)",
+    "details": {
+     "title": "Mayday",
+     "year": 2026,
+     "overview": "Lieutenant Troy Brennan's reconnaissance mission over Soviet territory goes awry, forcing him to crash-land and survive in Russian wilderness while evading capture or rescue.",
+     "poster": "https://images.metahub.space/poster/small/tt28014327/img",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 6.9,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt11561116",
+  "title": "The Whisper Man",
+  "original_title": "The Whisper Man",
+  "year": 2026,
+  "overview": "A grieving father and his young son relocate to the quiet town of Featherbank, which was terrorized by a serial killer known as The Whisper Man 15 years earlier, while rumors circulated that Whisper Man worked with an accomplice.",
+  "poster": "https://images.metahub.space/poster/small/tt11561116/img",
+  "backdrop": null,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt11561116",
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.822236+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "6be404fd89fc4891",
+    "movie_id": "tt11561116",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Whisper Man (2026)",
+    "details": {
+     "title": "The Whisper Man",
+     "year": 2026,
+     "overview": "A grieving father and his young son relocate to the quiet town of Featherbank, which was terrorized by a serial killer known as The Whisper Man 15 years earlier, while rumors circulated that Whisper Man worked with an accomplice.",
+     "poster": "https://images.metahub.space/poster/small/tt11561116/img",
+     "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": null,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt37287335",
+  "title": "Obsession",
+  "original_title": "Obsession",
+  "year": 2026,
+  "overview": "Baron \"Bear\" Bailey breaks a novelty charm to force his co-worker Nikki Freeman to love him, but the supernatural compulsion warps her mind into violent obsession, trapping him in a nightmare he cannot wish away.",
+  "poster": "https://images.metahub.space/poster/small/tt37287335/img",
+  "backdrop": null,
+  "genres": [
+   "Horror",
+   "Romance",
+   "Thriller"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt37287335",
+  "tmdb_id": null,
+  "imdb_rating": 7.9,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.813610+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "67ad556c320566b9",
+    "movie_id": "tt37287335",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Obsession (2026)",
+    "details": {
+     "title": "Obsession",
+     "year": 2026,
+     "overview": "Baron \"Bear\" Bailey breaks a novelty charm to force his co-worker Nikki Freeman to love him, but the supernatural compulsion warps her mind into violent obsession, trapping him in a nightmare he cannot wish away.",
+     "poster": "https://images.metahub.space/poster/small/tt37287335/img",
+     "genres": [
+      "Horror",
+      "Romance",
+      "Thriller"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 7.9,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt27165187",
+  "title": "The End of Oak Street",
+  "original_title": "The End of Oak Street",
+  "year": 2026,
+  "overview": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown.",
+  "poster": "https://images.metahub.space/poster/small/tt27165187/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Mystery"
+  ],
+  "countries": [
+   "United States, Canada, Australia"
+  ],
+  "runtime": null,
+  "imdb_id": "tt27165187",
+  "tmdb_id": null,
+  "imdb_rating": 6.5,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.805210+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "693290d71d4e9b3e",
+    "movie_id": "tt27165187",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The End of Oak Street (2026)",
+    "details": {
+     "title": "The End of Oak Street",
+     "year": 2026,
+     "overview": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown.",
+     "poster": "https://images.metahub.space/poster/small/tt27165187/img",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+     ],
+     "countries": [
+      "United States, Canada, Australia"
+     ],
+     "imdb_rating": 6.5,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt29355505",
+  "title": "Toy Story 5",
+  "original_title": "Toy Story 5",
+  "year": 2026,
+  "overview": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+  "poster": "https://images.metahub.space/poster/small/tt29355505/img",
+  "backdrop": null,
+  "genres": [
+   "Animation",
+   "Adventure",
+   "Comedy"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt29355505",
+  "tmdb_id": null,
+  "imdb_rating": 7.4,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.798029+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "148b29c644e0883d",
+    "movie_id": "tt29355505",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Toy Story 5 (2026)",
+    "details": {
+     "title": "Toy Story 5",
+     "year": 2026,
+     "overview": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+     "poster": "https://images.metahub.space/poster/small/tt29355505/img",
+     "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 7.4,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt26657236",
+  "title": "Backrooms",
+  "original_title": "Backrooms",
+  "year": 2026,
+  "overview": "After a therapist's patient disappears into a dimension beyond reality, she must venture into the unknown to save him.",
+  "poster": "https://images.metahub.space/poster/small/tt26657236/img",
+  "backdrop": null,
+  "genres": [
+   "Horror",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "countries": [
+   "United States, Canada"
+  ],
+  "runtime": null,
+  "imdb_id": "tt26657236",
+  "tmdb_id": null,
+  "imdb_rating": 6.8,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.788125+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "6d3c3a30f89b05fd",
+    "movie_id": "tt26657236",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Backrooms (2026)",
+    "details": {
+     "title": "Backrooms",
+     "year": 2026,
+     "overview": "After a therapist's patient disappears into a dimension beyond reality, she must venture into the unknown to save him.",
+     "poster": "https://images.metahub.space/poster/small/tt26657236/img",
+     "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+     ],
+     "countries": [
+      "United States, Canada"
+     ],
+     "imdb_rating": 6.8,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt22526100",
+  "title": "The Love Hypothesis",
+  "original_title": "The Love Hypothesis",
+  "year": 2026,
+  "overview": "After an impulsive kiss, two scientists end up in a fake relationship, testing their theories about love and each other.",
+  "poster": "https://images.metahub.space/poster/small/tt22526100/img",
+  "backdrop": null,
+  "genres": [
+   "Comedy",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt22526100",
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.781109+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "e32f66d49984536c",
+    "movie_id": "tt22526100",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Love Hypothesis (2026)",
+    "details": {
+     "title": "The Love Hypothesis",
+     "year": 2026,
+     "overview": "After an impulsive kiss, two scientists end up in a fake relationship, testing their theories about love and each other.",
+     "poster": "https://images.metahub.space/poster/small/tt22526100/img",
+     "genres": [
+      "Comedy",
+      "Romance"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": null,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt6933238",
+  "title": "Unabom",
+  "original_title": "Unabom",
+  "year": 2026,
+  "overview": "A Harvard student becomes the Unabomber after psychological experiments. Years later, an FBI agent's pursuit reveals how his past shaped his deadly campaign that killed 3 and injured 23 from 1978-1995.",
+  "poster": "https://images.metahub.space/poster/small/tt6933238/img",
+  "backdrop": null,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt6933238",
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:32:22.142167+00:00",
+  "last_updated_at": "2026-09-28T19:32:25.773284+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "5bdfdd767f89643c",
+    "movie_id": "tt6933238",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:32:22.142167+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Unabom (2026)",
+    "details": {
+     "title": "Unabom",
+     "year": 2026,
+     "overview": "A Harvard student becomes the Unabomber after psychological experiments. Years later, an FBI agent's pursuit reveals how his past shaped his deadly campaign that killed 3 and injured 23 from 1978-1995.",
+     "poster": "https://images.metahub.space/poster/small/tt6933238/img",
+     "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": null,
+     "runtime": null
+    }
+   }
+  ]
+ }
+]

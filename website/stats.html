@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📊 Статистика цифровых релизов — DIGITAL RELEASES</title>
+  <meta name="description" content="Статистика цифровых релизов фильмов: качество WEB-DL, BluRay, 4K UHD, HDR, озвучки и распределение по месяцам.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <span>🎬</span> DIGITAL <span class="logo-badge">RELEASES</span>
+      </a>
+      <nav class="nav-links">
+        <a href="index.html" class="nav-link">Каталог</a>
+        <a href="calendar.html" class="nav-link">Календарь</a>
+        <a href="stats.html" class="nav-link active">Статистика</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <div style="margin-bottom: 2rem;">
+      <h1 class="hero-title">📊 Статистика цифровых релизов</h1>
+      <p style="color: var(--text-secondary); font-size: 0.95rem;">
+        Сводная аналитика по накопленной базе фильмов, качествам, разрешениям и языковым дорожкам.
+      </p>
+    </div>
+
+    <!-- Key Metrics Cards -->
+    <div class="stats-cards">
+      <div class="stat-card">
+        <div id="stat-total" class="stat-num">—</div>
+        <div class="stat-label">Всего цифровых релизов</div>
+      </div>
+      <div class="stat-card">
+        <div id="stat-webdl" class="stat-num" style="color: #a5b4fc;">—</div>
+        <div class="stat-label">WEB-DL / WEBRip</div>
+      </div>
+      <div class="stat-card">
+        <div id="stat-4k" class="stat-num" style="color: #fb923c;">—</div>
+        <div class="stat-label">4K (2160p) релизы</div>
+      </div>
+      <div class="stat-card">
+        <div id="stat-hdr" class="stat-num" style="color: var(--purple);">—</div>
+        <div class="stat-label">HDR / Dolby Vision</div>
+      </div>
+      <div class="stat-card">
+        <div id="stat-ru" class="stat-num" style="color: var(--blue);">—</div>
+        <div class="stat-label">С русской озвучкой (RU)</div>
+      </div>
+      <div class="stat-card">
+        <div id="stat-rating" class="stat-num" style="color: var(--gold);">—</div>
+        <div class="stat-label">Средний рейтинг IMDb</div>
+      </div>
+    </div>
+
+    <!-- Charts / Distributions -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1.5rem;">
+      <!-- Releases by Month -->
+      <div class="stat-bar-container">
+        <h2 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 0.5rem;">
+          📅 Динамика релизов по месяцам
+        </h2>
+        <div id="chart-months"></div>
+      </div>
+
+      <!-- Quality Breakdown -->
+      <div class="stat-bar-container">
+        <h2 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 0.5rem;">
+          🎞 Распределение по форматам качества
+        </h2>
+        <div id="chart-quality"></div>
+      </div>
+
+      <!-- Resolutions Breakdown -->
+      <div class="stat-bar-container">
+        <h2 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 0.5rem;">
+          📺 Распределение по разрешениям
+        </h2>
+        <div id="chart-resolutions"></div>
+      </div>
+
+      <!-- Top Genres -->
+      <div class="stat-bar-container">
+        <h2 style="font-size: 1.15rem; font-weight: 700; color: #fff; margin-bottom: 0.5rem;">
+          🎭 Топ жанров
+        </h2>
+        <div id="chart-genres"></div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      Digital Movie Releases — Статистика и аналитика
+    </div>
+  </footer>
+
+  <script>
+    async function loadStats() {
+      try {
+        const resp = await fetch('data/stats.json');
+        if (!resp.ok) return;
+        const data = await resp.json();
+
+        document.getElementById('stat-total').textContent = data.total_releases || 0;
+        document.getElementById('stat-webdl').textContent = data.web_dl_count || 0;
+        document.getElementById('stat-4k').textContent = data.four_k_count || 0;
+        document.getElementById('stat-hdr').textContent = data.hdr_count || 0;
+        document.getElementById('stat-ru').textContent = data.ru_audio_count || 0;
+        document.getElementById('stat-rating').textContent = data.avg_rating ? `⭐ ${data.avg_rating}` : '—';
+
+        renderBarChart('chart-months', data.by_month || {}, '#6366f1');
+        renderBarChart('chart-quality', data.by_quality || {}, '#34d399');
+        renderBarChart('chart-resolutions', data.by_resolution || {}, '#fb923c');
+        renderBarChart('chart-genres', data.by_genre || {}, '#c084fc');
+      } catch (err) {
+        console.error('Stats loading failed', err);
+      }
+    }
+
+    function renderBarChart(containerId, mapData, barColor) {
+      const container = document.getElementById(containerId);
+      if (!container) return;
+
+      const entries = Object.entries(mapData);
+      if (entries.length === 0) {
+        container.innerHTML = '<p style="color: var(--text-muted); font-size: 0.85rem;">Данные пока накапливаются.</p>';
+        return;
+      }
+
+      const maxVal = Math.max(...entries.map(e => e[1]), 1);
+
+      container.innerHTML = entries.map(([name, val]) => {
+        const pct = Math.round((val / maxVal) * 100);
+        return `
+          <div class="bar-row">
+            <span class="bar-name" title="${name}">${name}</span>
+            <div class="bar-track">
+              <div class="bar-fill" style="width: ${pct}%; background-color: ${barColor};"></div>
+            </div>
+            <span class="bar-val">${val}</span>
+          </div>
+        `;
+      }).join('');
+    }
+
+    document.addEventListener('DOMContentLoaded', loadStats);
+  </script>
+</body>
+</html>

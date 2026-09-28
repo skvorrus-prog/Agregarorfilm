@@ -1,0 +1,43 @@
+{
+  "total_releases": 52,
+  "web_dl_count": 8,
+  "bluray_count": 10,
+  "four_k_count": 1,
+  "hdr_count": 1,
+  "ru_audio_count": 13,
+  "avg_rating": 7.09,
+  "rated_movies_count": 29,
+  "by_year": {
+    "2026": 52
+  },
+  "by_month": {
+    "2026-09": 52
+  },
+  "by_quality": {
+    "unknown": 34,
+    "BluRay": 9,
+    "WEBRip": 4,
+    "WEB-DL": 4,
+    "REMUX": 1
+  },
+  "by_resolution": {
+    "unknown": 36,
+    "1080p": 11,
+    "720p": 4,
+    "2160p": 1
+  },
+  "by_genre": {
+    "Drama": 17,
+    "Comedy": 13,
+    "Action": 11,
+    "Adventure": 9,
+    "Thriller": 7,
+    "Horror": 6,
+    "Romance": 6,
+    "Mystery": 5,
+    "Crime": 4,
+    "Family": 3,
+    "Biography": 2,
+    "History": 2
+  }
+}

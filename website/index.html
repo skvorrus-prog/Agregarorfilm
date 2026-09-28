@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DIGITAL RELEASES — Агрегатор цифровых релизов фильмов</title>
+  <meta name="description" content="Узнайте, какие фильмы появились в цифровом качестве сегодня, вчера, за последние 7 дней, месяц или год. Качество WEB-DL, BluRay, 4K UHD, HDR и русская озвучка.">
+  <meta property="og:title" content="DIGITAL RELEASES — Агрегатор цифровых релизов">
+  <meta property="og:description" content="Ежедневный автоматический мониторинг появления фильмов в цифре (WEB-DL, 4K, HDR, озвучка).">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <span>🎬</span> DIGITAL <span class="logo-badge">RELEASES</span>
+      </a>
+      <nav class="nav-links">
+        <a href="index.html" class="nav-link active">Каталог</a>
+        <a href="calendar.html" class="nav-link">Календарь</a>
+        <a href="stats.html" class="nav-link">Статистика</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Hero Section -->
+    <section class="hero">
+      <div id="hero-subtitle" class="hero-subtitle">28 СЕНТЯБРЯ 2026</div>
+      <h1 id="hero-title" class="hero-title">Что вышло сегодня</h1>
+      <div class="hero-meta">
+        <span>Свежие цифровые релизы в высоком качестве</span>
+        <span id="hero-count" class="hero-count-badge">0 фильмов</span>
+      </div>
+    </section>
+
+    <!-- Period Navigation Tabs -->
+    <nav class="period-tabs" aria-label="Период релизов">
+      <button class="tab-btn active" data-period="today">Сегодня</button>
+      <button class="tab-btn" data-period="yesterday">Вчера</button>
+      <button class="tab-btn" data-period="last7">Последние 7 дней</button>
+      <button class="tab-btn" data-period="last30">Последние 30 дней</button>
+      <button class="tab-btn" data-period="this_month">Этот месяц</button>
+      <button class="tab-btn" data-period="this_year">Этот год</button>
+      <button class="tab-btn" data-period="prev_year">Предыдущий год</button>
+      <button class="tab-btn" data-period="all">Весь каталог</button>
+      <button class="tab-btn" data-period="on_this_day" style="border-color: var(--accent); color: var(--accent);">В этот день</button>
+    </nav>
+
+    <!-- Quick Toggles (Section 36) -->
+    <div class="quick-toggles" aria-label="Быстрые фильтры">
+      <span style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); align-self: center; margin-right: 0.25rem;">Быстро:</span>
+      <button class="quick-toggle-btn active" data-quick="newest">🆕 Новые</button>
+      <button class="quick-toggle-btn" data-quick="imdb">⭐ IMDb</button>
+      <button class="quick-toggle-btn" data-quick="popular">🔥 Популярные</button>
+      <button class="quick-toggle-btn" data-quick="4k">4K (2160p)</button>
+    </div>
+
+    <!-- Controls Bar -->
+    <div class="controls-bar">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" class="search-input" placeholder="Поиск: Название, Original title, IMDb ID (tt...), TMDB ID..." autocomplete="off">
+      </div>
+
+      <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
+        <select id="sort-select" class="select-control" aria-label="Сортировка">
+          <option value="newest">🆕 Сначала новые</option>
+          <option value="imdb_desc">⭐ IMDb — высокий</option>
+          <option value="imdb_asc">⭐ IMDb — низкий</option>
+          <option value="pop_desc">🔥 Популярность — высокая</option>
+          <option value="pop_asc">🔥 Популярность — низкая</option>
+          <option value="votes_desc">👥 Больше голосов</option>
+          <option value="digital_date">📅 Дата digital-релиза</option>
+          <option value="detected_date">🔎 Дата обнаружения</option>
+        </select>
+
+        <button id="toggle-filters-btn" class="tab-btn" onclick="document.getElementById('advanced-filters').classList.toggle('hidden');">
+          ⚙️ Фильтры
+        </button>
+      </div>
+    </div>
+
+    <!-- Advanced Filters Drawer -->
+    <div id="advanced-filters" class="filter-panel hidden">
+      <div class="filter-group">
+        <label class="filter-label" for="filter-quality">Качество</label>
+        <select id="filter-quality" class="select-control">
+          <option value="all">Все качества</option>
+          <option value="WEB-DL">WEB-DL</option>
+          <option value="WEBRip">WEBRip</option>
+          <option value="BluRay">BluRay</option>
+          <option value="REMUX">REMUX</option>
+          <option value="UHD BluRay">UHD BluRay</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label class="filter-label" for="filter-genre">Жанр</label>
+        <select id="filter-genre" class="select-control">
+          <option value="all">Все жанры</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label class="filter-label" for="filter-year">Год выхода</label>
+        <select id="filter-year" class="select-control">
+          <option value="all">Все годы</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label class="filter-label" for="filter-min-imdb">Мин. рейтинг IMDb</label>
+        <input type="number" id="filter-min-imdb" class="select-control" min="0" max="10" step="0.5" placeholder="например, 7.0">
+      </div>
+
+      <div class="filter-group">
+        <label class="filter-label" for="filter-min-votes">Мин. голосов IMDb</label>
+        <input type="number" id="filter-min-votes" class="select-control" min="0" step="1000" placeholder="например, 10000">
+      </div>
+
+      <div class="filter-group" style="justify-content: flex-end;">
+        <label class="filter-checkbox-label">
+          <input type="checkbox" id="filter-4k"> Только 4K (2160p)
+        </label>
+        <label class="filter-checkbox-label">
+          <input type="checkbox" id="filter-hdr"> Только HDR / Dolby Vision
+        </label>
+        <label class="filter-checkbox-label">
+          <input type="checkbox" id="filter-ru"> Только с русской озвучкой (RU)
+        </label>
+      </div>
+    </div>
+
+    <!-- Movie Cards Container -->
+    <div id="movies-grid" class="movies-grid">
+      <div style="grid-column: 1 / -1; padding: 4rem 1rem; text-align: center; color: var(--text-muted);">
+        <p>Загрузка каталога...</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- Modal Detail Dialog -->
+  <div id="modal-overlay" class="modal-overlay" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+      <button id="modal-close" class="modal-close-btn" aria-label="Закрыть">✕</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+      <p style="margin-bottom: 0.5rem; font-weight: 600; color: var(--text-secondary);">
+        🎬 DIGITAL RELEASES — Автоматический информационный агрегатор цифровых релизов фильмов
+      </p>
+      <p>
+        Сервис не хранит видеофайлы и не распространяет нелегальный контент. Проект работает полностью автономно через GitHub Actions и GitHub Pages.
+      </p>
+    </div>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

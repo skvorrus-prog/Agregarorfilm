@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📅 Календарь цифровых релизов — DIGITAL RELEASES</title>
+  <meta name="description" content="Календарь выхода фильмов в цифровом качестве по дням и месяцам.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <span>🎬</span> DIGITAL <span class="logo-badge">RELEASES</span>
+      </a>
+      <nav class="nav-links">
+        <a href="index.html" class="nav-link">Каталог</a>
+        <a href="calendar.html" class="nav-link active">Календарь</a>
+        <a href="stats.html" class="nav-link">Статистика</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <div style="margin-bottom: 1.5rem;">
+      <h1 class="hero-title">📅 Календарь цифровых релизов</h1>
+      <p style="color: var(--text-secondary); font-size: 0.95rem;">
+        Нажмите на любой день месяца, чтобы посмотреть вышедшие в эту дату фильмы.
+      </p>
+    </div>
+
+    <!-- Calendar Container -->
+    <div id="calendar-root"></div>
+
+    <!-- Selected Day Section -->
+    <div id="day-movies-section" style="margin-top: 2rem;">
+      <h2 id="selected-day-title" style="font-size: 1.35rem; font-weight: 800; margin-bottom: 1rem; color: #fff;">
+        Релизы выбранного дня
+      </h2>
+      <div id="day-movies-grid" class="movies-grid">
+        <div style="grid-column: 1 / -1; padding: 2rem 0; text-align: center; color: var(--text-muted);">
+          Выберите день в календаре выше для отображения фильмов.
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Modal Dialog -->
+  <div id="modal-overlay" class="modal-overlay">
+    <div class="modal-dialog">
+      <button id="modal-close" class="modal-close-btn">✕</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+      Digital Movie Releases — Календарь цифровых релизов
+    </div>
+  </footer>
+
+  <script type="module">
+    import { ReleaseCalendar } from './js/calendar.js';
+
+    let allMovies = [];
+
+    async function init() {
+      try {
+        const [calResp, catResp] = await Promise.all([
+          fetch('data/calendar.json'),
+          fetch('data/catalog.json')
+        ]);
+        const counts = await calResp.json();
+        allMovies = await catResp.json();
+
+        const cal = new ReleaseCalendar('calendar-root', (dateStr) => {
+          showDayMovies(dateStr);
+        });
+        cal.setCounts(counts);
+
+        // Default to today
+        const todayStr = new Date().toISOString().slice(0, 10);
+        showDayMovies(todayStr);
+
+      } catch (err) {
+        console.error('Failed to load calendar data', err);
+      }
+    }
+
+    function showDayMovies(dateStr) {
+      const parts = dateStr.split('-');
+      const formatted = `${parts[2]}.${parts[1]}.${parts[0]}`;
+      const titleElem = document.getElementById('selected-day-title');
+      if (titleElem) titleElem.textContent = `Релизы за ${formatted}`;
+
+      const grid = document.getElementById('day-movies-grid');
+      if (!grid) return;
+
+      const dayMovies = allMovies.filter(m => {
+        const d = m.digital_release_date || (m.first_detected_at ? m.first_detected_at.slice(0, 10) : '');
+        return d === dateStr;
+      });
+
+      if (dayMovies.length === 0) {
+        grid.innerHTML = `
+          <div style="grid-column: 1 / -1; padding: 3rem 1rem; text-align: center; color: var(--text-muted);">
+            В этот день релизов не зафиксировано.
+          </div>
+        `;
+        return;
+      }
+
+      grid.innerHTML = dayMovies.map(m => `
+        <div class="movie-card" onclick="window.location.href='movie/${m.id}.html'">
+          <div class="poster-wrap">
+            <img src="${m.poster || 'images/no-poster.svg'}" alt="${m.title}" loading="lazy" class="poster-img" onerror="this.src='images/no-poster.svg'">
+            <div class="card-top-badges">
+              <span class="badge-imdb">${m.imdb_rating ? `⭐ ${m.imdb_rating}` : '⭐ —'}</span>
+            </div>
+          </div>
+          <div class="card-body">
+            <h3 class="movie-title">${m.title}</h3>
+            <p class="movie-orig-title">${m.original_title || ''} ${m.year ? `(${m.year})` : ''}</p>
+            <div class="specs-row">
+              <span class="spec-badge spec-quality">${m.best_quality}</span>
+              <span class="spec-badge spec-res">${m.best_resolution}</span>
+              ${m.has_4k ? '<span class="spec-badge spec-4k">4K</span>' : ''}
+              ${m.has_hdr ? '<span class="spec-badge spec-hdr">HDR</span>' : ''}
+              ${m.has_ru_audio ? '<span class="spec-badge spec-ru">RU</span>' : ''}
+            </div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    document.addEventListener('DOMContentLoaded', init);
+  </script>
+</body>
+</html>
