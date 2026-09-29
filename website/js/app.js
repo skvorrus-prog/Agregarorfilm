@@ -365,12 +365,8 @@ class App {
 
   createCardHTML(m) {
     const ratingStr = (m.imdb_rating !== null && m.imdb_rating !== undefined)
-      ? `⭐ ${m.imdb_rating.toFixed(1)} IMDb`
-      : '⭐ — IMDb';
-
-    const votesStr = m.imdb_vote_count
-      ? `👥 ${this.formatVotes(m.imdb_vote_count)}`
-      : '';
+      ? `⭐ ${m.imdb_rating.toFixed(1)}${m.imdb_vote_count ? ` <span class="badge-votes">(${this.formatVotes(m.imdb_vote_count)})</span>` : ''}`
+      : '⭐ —';
 
     const popStr = m.popularity
       ? `<span class="badge-pop">🔥 ${Math.round(m.popularity)}</span>`
@@ -391,10 +387,6 @@ class App {
         <div class="card-body">
           <h3 class="movie-title">${this.escapeHtml(m.title)}</h3>
           <p class="movie-orig-title">${this.escapeHtml(m.original_title || '')} ${m.year ? `(${m.year})` : ''}</p>
-
-          <div class="metrics-row">
-            ${votesStr ? `<span class="votes-count">${votesStr}</span>` : ''}
-          </div>
 
           <div class="specs-row">
             ${m.best_quality && m.best_quality !== 'unknown' ? `<span class="spec-badge spec-quality">${m.best_quality}</span>` : ''}

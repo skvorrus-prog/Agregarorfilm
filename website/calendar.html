@@ -110,12 +110,16 @@
         return;
       }
 
-      grid.innerHTML = dayMovies.map(m => `
+      grid.innerHTML = dayMovies.map(m => {
+        const votesFormatted = m.imdb_vote_count ? (m.imdb_vote_count > 999 ? (m.imdb_vote_count/1000).toFixed(1) + 'k' : m.imdb_vote_count) : '';
+        const ratingStr = m.imdb_rating ? `⭐ ${m.imdb_rating}${votesFormatted ? ` <span class="badge-votes">(${votesFormatted})</span>` : ''}` : '⭐ —';
+        const relDate = m.digital_release_date || (m.first_detected_at ? m.first_detected_at.slice(0, 10) : '—');
+        return `
         <div class="movie-card" onclick="window.location.href='movie/${m.id}.html'">
           <div class="poster-wrap">
             <img src="${m.poster || 'images/no-poster.svg'}" alt="${m.title}" loading="lazy" class="poster-img" onerror="this.src='images/no-poster.svg'">
             <div class="card-top-badges">
-              <span class="badge-imdb">${m.imdb_rating ? `⭐ ${m.imdb_rating}` : '⭐ —'}</span>
+              <span class="badge-imdb">${ratingStr}</span>
             </div>
           </div>
           <div class="card-body">
@@ -128,9 +132,11 @@
               ${m.has_hdr ? '<span class="spec-badge spec-hdr">HDR</span>' : ''}
               ${m.has_ru_audio ? '<span class="spec-badge spec-ru">RU</span>' : ''}
             </div>
+            <div class="card-footer-date">Digital: ${relDate}</div>
           </div>
         </div>
-      `).join('');
+      `;
+      }).join('');
     }
 
     document.addEventListener('DOMContentLoaded', init);
