@@ -13,6 +13,7 @@ from src.models.enums import PipelineStatus, EventType, QualityType, Resolution
 from src.models.movie import Movie
 from src.models.release_event import ReleaseEvent
 from src.normalizers.release_parser import ReleaseParser
+from src.normalizers.synopsis_translator import ensure_russian_synopsis
 from src.pipeline.telegram import TelegramNotifier
 from src.statistics.stats_generator import StatsGenerator
 from src.storage.history_exporter import HistoryExporter
@@ -213,6 +214,10 @@ class PipelineRunner:
                             movie.genres = enrich["genres"]
                         if not movie.countries and enrich.get("countries"):
                             movie.countries = enrich["countries"]
+
+            # Ensure synopsis is in Russian if possible
+            if movie.overview:
+                movie.overview = ensure_russian_synopsis(movie.overview, russian_title=movie.title)
 
             # Determine event type
             if raw.official_digital_date:

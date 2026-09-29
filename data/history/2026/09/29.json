@@ -1,0 +1,561 @@
+{
+  "date": "2026-09-29",
+  "count": 7,
+  "movies": [
+    {
+      "id": "m_7f2780faef93",
+      "title": "Колония",
+      "original_title": "Gunche / Colony",
+      "year": 2026,
+      "overview": "Коло́ния — страна, лишённая самостоятельности, находящаяся под властью иностранного государства (метрополии). Зачастую колониальный режим не предоставляет права граждан, сравнимые с правами граждан метрополии. При этом граждане метрополии пользуются в колониальных территориях большей властью и привилегиями, по сравнению с коренным населением. Образование колоний — основной инструмент расширения влияния империалистических государств (метрополий).",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzI5YWViNGUtNGRiMy00OThhLWIwOGUtZjkyZDk2NjliODY2XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "runtime": null,
+      "imdb_id": "tt34385135",
+      "tmdb_id": null,
+      "imdb_rating": 6.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
+      "last_updated_at": "2026-09-29T17:54:26.526752+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "f95e4b54b2f29f86",
+          "movie_id": "m_7f2780faef93",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T04:19:02+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Колония / Gunche / Colony (2026) WEB-DL-HEVC 2160p | 4K | SDR | D, L2",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_56f79f540d9e",
+      "title": "В ловушке",
+      "original_title": "Prisonnière",
+      "year": 2025,
+      "overview": "Застряв в туннеле после автомобильной аварии, женщина с амнезией должна выбраться из крушения, прежде чем оно взорвется. Но воспоминания, которые возвращаются к ней вспышками, раскрывают еще одну шокирующую историю...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTJkM2UzZWUtYTE3ZC00Nzg2LWE4OTYtNGJiNTZjYzc5YzhiXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "TV Movie",
+        "Thriller"
+      ],
+      "countries": [
+        "France"
+      ],
+      "runtime": null,
+      "imdb_id": "tt38566561",
+      "tmdb_id": null,
+      "imdb_rating": 5.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
+      "last_updated_at": "2026-09-29T17:53:56.048487+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "209dc1319594b293",
+          "movie_id": "m_56f79f540d9e",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T11:34:38+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "В ловушке / Prisonnière (2025) BDRip 720p от DoMiNo & селезень | D | Марафон",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_f9cb5dab527b",
+      "title": "Храмовый воин",
+      "original_title": "Pallichattambi",
+      "year": 2026,
+      "overview": "В политически неспокойном конце 1950-х годов Кришнан Пиллаи, игривый хулиган, выбранный Церковью, чтобы возглавить оборонительные силы, Кристофер Сена. Его миссия противостоять коммунистическому правительству отходит на второй план, когда он испытывает идеологическое пробуждение и влюбляется в товарища, зажигая эпическую историю о восстании против феодальной власти и угнетения.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjBjZTA1YTEtZmZlYy00ODk1LWIxMDItMTE3N2FiMWVhODFkXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": null,
+      "imdb_id": "tt10515398",
+      "tmdb_id": null,
+      "imdb_rating": 5.9,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
+      "last_updated_at": "2026-09-29T17:53:52.685525+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "296a9fa6aec720cd",
+          "movie_id": "m_f9cb5dab527b",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T12:12:10+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "L1",
+          "raw_title": "Храмовый воин / Pallichattambi (2026) WEBRip 1080p | L1",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "L1",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_2412143a0fcd",
+      "title": "Королевская няня",
+      "original_title": "The Royal Nanny",
+      "year": 2022,
+      "overview": "Перспективная карьера бывшего слизняка Kansas City Royal Вилли Мэйса Эйкенса быстро обернулась катастрофой из-за наркомании.",
+      "poster": "https://images.metahub.space/poster/small/tt11425254/img",
+      "backdrop": null,
+      "genres": [
+        "Biography",
+        "Sport"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt11425254",
+      "tmdb_id": null,
+      "imdb_rating": 5.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
+      "last_updated_at": "2026-09-29T17:53:44.314876+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "239549966348317c",
+          "movie_id": "m_2412143a0fcd",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T14:01:06+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Jaskier",
+          "raw_title": "Королевская няня / The Royal Nanny (2022) WEBRip 1080p | Jaskier",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Jaskier",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_83f7039912b7",
+      "title": "Секс, ложь и видео",
+      "original_title": "Sex, Lies, and Videotape",
+      "year": 1989,
+      "overview": "«Секс, ложь и видео» — американская психологическая драма режиссёра Стивена Содерберга, повествующая о взаимоотношениях женщины, разочаровавшейся в своей семейной жизни, и мужчины, отчаявшегося найти счастье в любви.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmFjNjkyNmQtMDdkNy00YmQxLWFmZTYtZDQyYTY3ZGFjYmFiXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Drama"
+      ],
+      "countries": [
+        "United States, United Kingdom"
+      ],
+      "runtime": null,
+      "imdb_id": "tt0098724",
+      "tmdb_id": null,
+      "imdb_rating": 7.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
+      "last_updated_at": "2026-09-29T17:53:39.849016+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "unknown",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "2a329c55ecd44f7e",
+          "movie_id": "m_83f7039912b7",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T15:03:50+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "unknown",
+          "resolution": "2160p",
+          "hdr": "HDR",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Секс, ложь и видео / Sex, Lies, and Videotape (1989) UHD BDRemux 2160p | 4K | HDR | P, P2, A",
+          "details": {
+            "quality": "unknown",
+            "resolution": "2160p",
+            "hdr": "HDR",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_a13b97f02e79",
+      "title": "Яростный: Ставка на честь",
+      "original_title": "The Furious: Pertaruhan Maruah",
+      "year": 2026,
+      "overview": "Когда ютубер-боксер Даниал оскорбляет имя своего покойного отца, братья Фирдаус и Хаким воссоединяются - один сражается за искупление, другой за месть - в битве, которая решит не только кто победит, но и что останется от наследия The Furious.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTdlMWU0NmItMGU2OS00MjZmLWFkNTYtMmIwM2Q0YzgwZThmXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "countries": [
+        "Malaysia"
+      ],
+      "runtime": null,
+      "imdb_id": "tt37511036",
+      "tmdb_id": null,
+      "imdb_rating": 5.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
+      "last_updated_at": "2026-09-29T17:53:36.724212+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "dc9901c1dd6848a0",
+          "movie_id": "m_a13b97f02e79",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T15:40:04+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Яростный: Ставка на честь / The Furious: Pertaruhan Maruah (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt1756855",
+      "title": "Coyote vs. Acme",
+      "original_title": "Coyote vs. Acme",
+      "year": 2026,
+      "overview": "После многих лет неисправных продуктов Wile E. Coyote объединяется с местным адвокатом по травмам, чтобы сразиться с ACME, производителем всего, что используется персонажами Looney Tunes.",
+      "poster": "https://images.metahub.space/poster/small/tt1756855/img",
+      "backdrop": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt1756855",
+      "tmdb_id": null,
+      "imdb_rating": 7.6,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
+      "last_updated_at": "2026-09-29T17:54:24.245574+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "61f749fef179366d",
+          "movie_id": "tt1756855",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T05:50:47+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) UHD WEB-DL 2160p | 4K | HDR10+ | Dolby Vision P8 | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "743cdb512d89f2ca",
+          "movie_id": "tt1756855",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T09:02:54+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "f69f3dceb86d2233",
+          "movie_id": "tt1756855",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T12:26:36+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) UHD WEB-DL 2160p | 4K | SDR | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "880a8fbc1732da54",
+          "movie_id": "tt1756855",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T16:35:55+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) WEB-DL 720p от New-Team | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "c7d94ed31218268f",
+          "movie_id": "tt1756855",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T16:36:17+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a8cea34acbc4acc7",
+          "movie_id": "tt1756855",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Coyote vs. Acme (2026)",
+          "details": {
+            "title": "Coyote vs. Acme",
+            "year": 2026,
+            "overview": "After enduring years of malfunctioning products, Wile E. Coyote teams up with a local personal injury attorney to take on ACME, the manufacturer of anything and everything used by the Looney Tunes characters.",
+            "poster": "https://images.metahub.space/poster/small/tt1756855/img",
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Comedy"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 7.6,
+            "runtime": null
+          }
+        }
+      ]
+    }
+  ]
+}

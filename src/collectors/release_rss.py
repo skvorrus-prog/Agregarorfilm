@@ -74,6 +74,18 @@ class ReleaseRSSSource(BaseSource):
 
                     parsed = ReleaseParser.parse(raw_title)
 
+                    # Filter out old catalog re-uploads (e.g. 1955 DVDRip):
+                    # Only accept legacy films (< current_year - 4) if they are 4K UHD or HDR/REMUX restorations
+                    current_year = datetime.now(timezone.utc).year
+                    if parsed.year and parsed.year < (current_year - 4):
+                        is_restoration = (
+                            parsed.resolution == "2160p"
+                            or parsed.quality in ("REMUX", "UHD BluRay")
+                            or parsed.hdr is not None
+                        )
+                        if not is_restoration:
+                            continue
+
                     raw_release = RawRelease(
                         raw_title=raw_title,
                         source_name=self.name,

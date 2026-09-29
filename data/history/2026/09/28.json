@@ -1,136 +1,13 @@
 {
   "date": "2026-09-28",
-  "count": 52,
+  "count": 44,
   "movies": [
-    {
-      "id": "m_cb1ff5c7c518",
-      "title": "Беги",
-      "original_title": "Run",
-      "year": 1991,
-      "overview": "When radical Islamic terrorists hijack a liberal college's pro-Palestine encampment, a ragtag band of red-blooded students, a security guard, and a Delta Force vet must arm up to save their clueless peers.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTgwNDU5ZDQtMGVmYS00NGYyLThjYmMtOWJmYjUzZGQ1MTdkXkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "runtime": null,
-      "imdb_id": "tt40231163",
-      "tmdb_id": null,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:45:58.793849+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEBRip",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": true,
-      "events": [
-        {
-          "id": "61e5d51554ae2daf",
-          "movie_id": "m_cb1ff5c7c518",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-09-28T08:26:01+00:00",
-          "detected_at": "2026-09-28T19:43:56.728164+00:00",
-          "quality": "WEBRip",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "Беги / Run (1991) WEBRip-AVC от DoMiNo | D, Р",
-          "details": {
-            "quality": "WEBRip",
-            "resolution": "unknown",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "m_a7b01de7e6dd",
-      "title": "Девушка моей мечты",
-      "original_title": "Die Frau meiner Träume",
-      "year": 1944,
-      "overview": "Blonde goddess Marika Rökk plays Julia Koster, a ravishing red-headed musical revue star and her opening number, \"At Night It Isn't Right To Be Alone\", playing to a packed theater, is both an eye-popper and a jaw-dropper.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTk0ZGZiMGMtYjZkYS00OWMzLWJjMjEtZDJkMTg3MzcyOTFiXkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Music",
-        "Comedy",
-        "Romance"
-      ],
-      "countries": [
-        "Germany"
-      ],
-      "runtime": null,
-      "imdb_id": "tt0036838",
-      "tmdb_id": null,
-      "imdb_rating": 6.5,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:45:55.481673+00:00",
-      "status": "BLURAY_RELEASE",
-      "best_quality": "BluRay",
-      "best_resolution": "720p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": true,
-      "events": [
-        {
-          "id": "4937cca62bf28e72",
-          "movie_id": "m_a7b01de7e6dd",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-09-28T09:29:06+00:00",
-          "detected_at": "2026-09-28T19:43:56.728164+00:00",
-          "quality": "BluRay",
-          "resolution": "720p",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": "P2",
-          "raw_title": "Девушка моей мечты / Die Frau meiner Träume (1944) BDRip 720p от msltel | P2",
-          "details": {
-            "quality": "BluRay",
-            "resolution": "720p",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": "P2",
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
     {
       "id": "m_f7bbdf8c0c71",
       "title": "Остров пауков",
       "original_title": "Spider Island",
       "year": 2026,
-      "overview": "A bunch of young men and women just want to have some fun in the sun. What could go wrong?",
+      "overview": "Кучка молодых мужчин и женщин просто хотят повеселиться на солнце. Что может пойти не так?",
       "poster": "https://m.media-amazon.com/images/M/MV5BNjFmZjE5ZDAtOTYxYi00M2U2LWI2YWEtZjM5NTQyMDA2ZjNmXkEyXkFqcGc@._V1_SX250.jpg",
       "backdrop": null,
       "genres": [
@@ -186,157 +63,11 @@
       ]
     },
     {
-      "id": "m_70ee784008a7",
-      "title": "Северный бастион",
-      "original_title": "BAC Nord / The Stronghold",
-      "year": 2020,
-      "overview": "In different parts of rural China, various people explore what makes their communities unique.",
-      "poster": "https://images.metahub.space/poster/small/tt12363162/img",
-      "backdrop": null,
-      "genres": [
-        "Drama"
-      ],
-      "countries": [
-        "China"
-      ],
-      "runtime": null,
-      "imdb_id": "tt12363162",
-      "tmdb_id": null,
-      "imdb_rating": 6.4,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:45:46.745055+00:00",
-      "status": "BLURAY_RELEASE",
-      "best_quality": "BluRay",
-      "best_resolution": "1080p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "428fd5cca23acd40",
-          "movie_id": "m_70ee784008a7",
-          "event_type": "BLURAY_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-09-28T09:42:55+00:00",
-          "detected_at": "2026-09-28T19:43:56.728164+00:00",
-          "quality": "BluRay",
-          "resolution": "720p",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": "Pazl Voice",
-          "raw_title": "Северный бастион / BAC Nord (2020) BDRip 720p от ExKinoRay | Pazl Voice",
-          "details": {
-            "quality": "BluRay",
-            "resolution": "720p",
-            "hdr": null,
-            "audio": null,
-            "language": null,
-            "release_group": "Pazl Voice",
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "c6d4364a4382f338",
-          "movie_id": "m_70ee784008a7",
-          "event_type": "BLURAY_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-09-28T09:43:22+00:00",
-          "detected_at": "2026-09-28T19:43:56.728164+00:00",
-          "quality": "BluRay",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": "Pazl Voice",
-          "raw_title": "Северный бастион / BAC Nord / The Stronghold (2020) BDRip 1080p | Pazl Voice",
-          "details": {
-            "quality": "BluRay",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": null,
-            "release_group": "Pazl Voice",
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "m_cd7d449f0ca4",
-      "title": "В ловушке",
-      "original_title": "Hunted",
-      "year": 2020,
-      "overview": "Oscar, a young boy, defends his best friend, Loux, and kills her abusive father in the process, forcing him to run away from his rural hometown. His innocence slips away as he is introduced to love, crime and corruption.",
-      "poster": "https://images.metahub.space/poster/small/tt6345894/img",
-      "backdrop": null,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "runtime": null,
-      "imdb_id": "tt6345894",
-      "tmdb_id": null,
-      "imdb_rating": 5.2,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:45:23.001079+00:00",
-      "status": "BLURAY_RELEASE",
-      "best_quality": "BluRay",
-      "best_resolution": "720p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "ed6f0c7ef6ef3fcb",
-          "movie_id": "m_cd7d449f0ca4",
-          "event_type": "BLURAY_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-09-28T09:58:03+00:00",
-          "detected_at": "2026-09-28T19:43:56.728164+00:00",
-          "quality": "BluRay",
-          "resolution": "720p",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": "iTunes",
-          "raw_title": "В ловушке / Hunted (2020) BDRip 720p от DoMiNo & селезень | P | Велес | iTunes",
-          "details": {
-            "quality": "BluRay",
-            "resolution": "720p",
-            "hdr": null,
-            "audio": null,
-            "language": null,
-            "release_group": "iTunes",
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
       "id": "m_f105306fc6cc",
       "title": "Гигант",
       "original_title": "Giant",
       "year": 2025,
-      "overview": "11-year-old Alfonso, heir of Don Quixote, and his 3 imaginary and musical rabbits join Pancho and Victoria, to save their beloved town of La Mancha from a huge storm.",
+      "overview": "11-летний Альфонсо, наследник Дон Кихота, и его 3 воображаемых и музыкальных кролика присоединяются к Панчо и Виктории, чтобы спасти их любимый город Ла-Манча от огромного шторма.",
       "poster": "https://images.metahub.space/poster/small/tt8816708/img",
       "backdrop": null,
       "genres": [
@@ -398,7 +129,7 @@
       "title": "Дом-ловушка",
       "original_title": "Accused",
       "year": 2023,
-      "overview": "After a young woman suffers a brutal gang rape in a bar one night, a prosecutor assists in bringing the perpetrators to justice, including the ones who encouraged and cheered on the attack.",
+      "overview": "После того, как однажды ночью молодая женщина страдает от жестокого группового изнасилования в баре, прокурор помогает привлечь виновных к ответственности, в том числе тех, кто поощрял и поддерживал нападение.",
       "poster": "https://m.media-amazon.com/images/M/MV5BZDU2NGRmNGYtN2JiNi00ZDcyLTllM2UtNzhiNDM4ZTU3ODMxXkEyXkFqcGc@._V1_SX250.jpg",
       "backdrop": null,
       "genres": [
@@ -455,97 +186,11 @@
       ]
     },
     {
-      "id": "m_67cec1d344d1",
-      "title": "3 женщины",
-      "original_title": "3 Women",
-      "year": 1977,
-      "overview": "Two roommates/physical therapists, one a vain woman and the other an awkward teenager, share an increasingly bizarre relationship.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BY2E0ZWFiZGQtOGM5Mi00MmNkLWEyYjctN2JjMjczOGFkYjY3XkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "runtime": null,
-      "imdb_id": "tt0075612",
-      "tmdb_id": null,
-      "imdb_rating": 7.7,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:45:15.834932+00:00",
-      "status": "BLURAY_RELEASE",
-      "best_quality": "BluRay",
-      "best_resolution": "720p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": true,
-      "events": [
-        {
-          "id": "28450032b19d4ce0",
-          "movie_id": "m_67cec1d344d1",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-09-28T11:00:52+00:00",
-          "detected_at": "2026-09-28T19:43:56.728164+00:00",
-          "quality": "BluRay",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "3 женщины / 3 Women (1977) BDRip-AVC от msltel | P, P2, A",
-          "details": {
-            "quality": "BluRay",
-            "resolution": "unknown",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "b088deae68803afa",
-          "movie_id": "m_67cec1d344d1",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-09-28T11:56:22+00:00",
-          "detected_at": "2026-09-28T19:43:56.728164+00:00",
-          "quality": "BluRay",
-          "resolution": "720p",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "3 женщины / 3 Women (1977) BDRip 720p от msltel | P, P2, A",
-          "details": {
-            "quality": "BluRay",
-            "resolution": "720p",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
       "id": "m_2599f9f9c827",
       "title": "Жажда славы",
       "original_title": "Magazine Dreams",
       "year": 2023,
-      "overview": "An amateur bodybuilder battles both the limits of his physical body and his own inner demons to gain recognition.",
+      "overview": "Бодибилдер-любитель борется как с ограничениями своего физического тела, так и со своими внутренними демонами, чтобы получить признание.",
       "poster": "https://images.metahub.space/poster/small/tt13652142/img",
       "backdrop": null,
       "genres": [
@@ -629,7 +274,7 @@
       "title": "Каравали",
       "original_title": "Karavali",
       "year": 2026,
-      "overview": "Karavali is a film that explores the struggles between man and nature, set against the raw, untamed beauty of coastal Karnataka. The story revolves around the world of Kambala, a traditional annual buffalo race, showcasing the unique culture and challenges of the region.",
+      "overview": "Каравали - это фильм, который исследует борьбу между человеком и природой, направленную против необработанной, неприрученной красоты прибрежной Карнатаки. История вращается вокруг мира Камбалы, традиционной ежегодной гонки буйволов, демонстрируя уникальную культуру и проблемы региона.",
       "poster": "https://m.media-amazon.com/images/M/MV5BYjA3OGRjMTgtYjVhNC00NzljLWFkNGMtMzk4NDQxMmI0NDMyXkEyXkFqcGc@._V1_SX250.jpg",
       "backdrop": null,
       "genres": [
@@ -688,134 +333,11 @@
       ]
     },
     {
-      "id": "m_678cb509d27a",
-      "title": "Пила: Полное собрание / Saw: The Complete Collection (",
-      "original_title": null,
-      "year": 2004,
-      "overview": "A secret agent exacts revenge on a serial killer through a series of captures and releases.",
-      "poster": "https://images.metahub.space/poster/small/tt1588170/img",
-      "backdrop": null,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "countries": [
-        "South Korea"
-      ],
-      "runtime": null,
-      "imdb_id": "tt1588170",
-      "tmdb_id": null,
-      "imdb_rating": 7.8,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:58.901175+00:00",
-      "status": "BLURAY_RELEASE",
-      "best_quality": "BluRay",
-      "best_resolution": "1080p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "04a96e6bbf6b2359",
-          "movie_id": "m_678cb509d27a",
-          "event_type": "BLURAY_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-09-28T16:00:28+00:00",
-          "detected_at": "2026-09-28T19:43:56.728164+00:00",
-          "quality": "BluRay",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": null,
-          "raw_title": "Пила: Полное собрание / Saw: The Complete Collection (2004-2010) BDRip 1080p",
-          "details": {
-            "quality": "BluRay",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": null,
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "m_f91da5283d77",
-      "title": "Пила: Гепталогия / Saw: Geptalogiya (",
-      "original_title": null,
-      "year": 2004,
-      "overview": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
-      "poster": "https://images.metahub.space/poster/small/tt0387564/img",
-      "backdrop": null,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "runtime": null,
-      "imdb_id": "tt0387564",
-      "tmdb_id": null,
-      "imdb_rating": 7.6,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:40.549798+00:00",
-      "status": "BLURAY_RELEASE",
-      "best_quality": "BluRay",
-      "best_resolution": "1080p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "b53df8ebf4b6f279",
-          "movie_id": "m_f91da5283d77",
-          "event_type": "BLURAY_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-09-28T16:01:12+00:00",
-          "detected_at": "2026-09-28T19:43:56.728164+00:00",
-          "quality": "BluRay",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": null,
-          "raw_title": "Пила: Гепталогия / Saw: Geptalogiya (2004-2010) BDRip 1080p от NoLimits-Team | Director's Cut",
-          "details": {
-            "quality": "BluRay",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": null,
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
       "id": "m_a8dbc473d9b8",
       "title": "Том и Джерри",
       "original_title": "Tom and Jerry",
       "year": 2021,
-      "overview": "With magic in the air, Jerry and his nephew, Tuffy, make a snow mouse that miraculously comes to life. To keep their new friend, Larry the snow mouse from melting, Tuffy and Jerry must race him to the fabled Snowman's Village.",
+      "overview": "С магией в воздухе Джерри и его племянник Таффи делают снежную мышь, которая чудесным образом оживает. Чтобы их новый друг, снежный мышонок Ларри, не растаял, Таффи и Джерри должны отправиться с ним в легендарную деревню снеговиков.",
       "poster": "https://images.metahub.space/poster/small/tt21958986/img",
       "backdrop": null,
       "genres": [
@@ -901,7 +423,7 @@
       "title": "Солдат",
       "original_title": "Soldier",
       "year": 1998,
-      "overview": "The Universal Soldiers are used to smuggle diamonds for a CIA Director, but Luc Deveraux continues to cause him problems.",
+      "overview": "Универсальные солдаты используются для контрабанды алмазов для директора ЦРУ, но Люк Деверо продолжает создавать ему проблемы.",
       "poster": "https://images.metahub.space/poster/small/tt0186654/img",
       "backdrop": null,
       "genres": [
@@ -962,7 +484,7 @@
       "title": "Побег из плена",
       "original_title": "Yong wu zhi di",
       "year": 2025,
-      "overview": "On the day of the founding ceremony of the People's Republic of China in 1949, Xiao Dali, who had just entered the city and was reorganized as the director of the public security police station, found that the primary school teach...",
+      "overview": "В день церемонии основания Китайской Народной Республики в 1949 году Сяо Дали, который только что въехал в город и был реорганизован в директора полицейского участка общественной безопасности, обнаружил, что в начальной школе преподают...",
       "poster": "https://images.metahub.space/poster/small/tt32634330/img",
       "backdrop": null,
       "genres": [
@@ -1022,7 +544,7 @@
       "title": "Унабомбер",
       "original_title": "Unabomber",
       "year": 2026,
-      "overview": "A Harvard student becomes the Unabomber after psychological experiments. Years later, an FBI agent's pursuit reveals how his past shaped his deadly campaign that killed 3 and injured 23 from 1978-1995.",
+      "overview": "Теодо́р Джон (Тед) Качи́нский — американский математик, социальный критик, философ и террорист, известный своей кампанией по рассылке бомб почтой.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMDE2ODhlNTUtYjdiOS00OTlmLTg5OGMtMGNjZWZmNWE4MGJiXkEyXkFqcGc@._V1_SX250.jpg",
       "backdrop": null,
       "genres": [
@@ -1045,10 +567,10 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:11.305665+00:00",
+      "last_updated_at": "2026-09-29T17:54:24.251957+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
+      "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
       "has_ru_audio": true,
@@ -1076,6 +598,30 @@
             "release_group": "Movie Dubbing",
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "091b6367d89b56c6",
+          "movie_id": "m_2001f6fc1470",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T05:21:48+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Унабомбер / Unabomber (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -1084,7 +630,7 @@
       "title": "Курьер",
       "original_title": "Runner",
       "year": 2026,
-      "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+      "overview": "Курье́р — человек работающий в учреждении, разносящий деловые бумаги или компания, нанимаемые для доставки сообщений, писем, иной корреспонденции, а также небольших грузов.",
       "poster": "https://m.media-amazon.com/images/M/MV5BOThmN2YyMzMtN2Y2Zi00MjViLTg2NzQtNGM0ZDU3ZDAyYThhXkEyXkFqcGc@._V1_SX250.jpg",
       "backdrop": null,
       "genres": [
@@ -1166,73 +712,11 @@
       ]
     },
     {
-      "id": "m_147db0a51634",
-      "title": "Мистер Робертс",
-      "original_title": "Mister Roberts",
-      "year": 1955,
-      "overview": "In the waning days of World War II, the cargo officer of a Navy supply ship chafes at its role far from the action in the Pacific's backwater areas, his frustration rising when its captain denies the crew liberty over petty irrita...",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYzYyNTU2NDUtOGMyZi00N2Q1LTk4N2QtN2ZkNWIyZTkxMzRkXkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "War"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "runtime": null,
-      "imdb_id": "tt0048380",
-      "tmdb_id": null,
-      "imdb_rating": 7.6,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:06.731080+00:00",
-      "status": "ANNOUNCED",
-      "best_quality": "unknown",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": true,
-      "events": [
-        {
-          "id": "928f37386eb65857",
-          "movie_id": "m_147db0a51634",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-09-28T17:57:38+00:00",
-          "detected_at": "2026-09-28T19:43:56.728164+00:00",
-          "quality": "unknown",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": "P2",
-          "raw_title": "Мистер Робертс / Mister Roberts  (1955) DVDRip | P2",
-          "details": {
-            "quality": "unknown",
-            "resolution": "unknown",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": "P2",
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
       "id": "m_a988e6ef1fc5",
       "title": "Что мы скрываем",
       "original_title": "Spider & Jessie / What We Hide",
       "year": 2025,
-      "overview": "Estranged dad challenges TJ with a vintage car on his 18th birthday, urging a cross-country road trip. With eccentric companions, TJ embarks on a humorous, resilient journey, realizing life's longest roads can lead home.",
+      "overview": "Отчужденный отец бросает вызов Ти-Джею с винтажной машиной на его 18-й день рождения, призывая к поездке по пересеченной местности. С эксцентричными компаньонами Ти-Джей отправляется в юмористическое, жизнерадостное путешествие, понимая, что самые длинные в жизни дороги могут привести домой.",
       "poster": "https://images.metahub.space/poster/small/tt23743490/img",
       "backdrop": null,
       "genres": [
@@ -1316,7 +800,7 @@
       "title": "Evil Dead Burn",
       "original_title": "Evil Dead Burn",
       "year": 2026,
-      "overview": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
+      "overview": "После потери мужа женщина ищет утешения у своих родственников. Как один за другим они превращаются в мертвецов, она обнаруживает, что клятвы, которые она приняла в жизни - выживают даже в смерти.",
       "poster": "https://images.metahub.space/poster/small/tt31170389/img",
       "backdrop": null,
       "genres": [
@@ -1381,7 +865,7 @@
       "title": "The Death of Robin Hood",
       "original_title": "The Death of Robin Hood",
       "year": 2026,
-      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "overview": "Борясь со своим прошлым после преступной и убийственной жизни, Робин Гуд оказывается тяжело ранен после битвы, которая, как он думал, станет для него последней. В руках таинственной женщины ему предлагают шанс на спасение.",
       "poster": "https://images.metahub.space/poster/small/tt32273171/img",
       "backdrop": null,
       "genres": [
@@ -1450,7 +934,7 @@
       "title": "Sinners",
       "original_title": "Sinners",
       "year": 2025,
-      "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "overview": "Пытаясь оставить свои беспокойные жизни позади, братья-близнецы возвращаются в свой родной город, чтобы начать все сначала, но обнаруживают, что их ждет еще большее зло, чтобы приветствовать их снова.",
       "poster": "https://images.metahub.space/poster/small/tt31193180/img",
       "backdrop": null,
       "genres": [
@@ -1519,7 +1003,7 @@
       "title": "Colony",
       "original_title": "Colony",
       "year": 2026,
-      "overview": "Professor Se Jeong attends a biotech conference, only to witness it spiral into catastrophe when a rapidly mutating virus is unleashed. As the outbreak spreads and the infected begin to transform, authorities seal off the entire f...",
+      "overview": "Профессор Се Чжон посещает биотехнологическую конференцию, только чтобы засвидетельствовать, как она превращается в катастрофу, когда быстро мутирует вирус. По мере того, как вспышка распространяется, и зараженные начинают трансформироваться, власти закрывают всю гр...",
       "poster": "https://images.metahub.space/poster/small/tt34385135/img",
       "backdrop": null,
       "genres": [
@@ -1588,7 +1072,7 @@
       "title": "Remarkably Bright Creatures",
       "original_title": "Remarkably Bright Creatures",
       "year": 2026,
-      "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+      "overview": "Благодаря маловероятным связям, образовавшимся во время ночных смен в местном аквариуме, Това, пожилая вдова, узнает об изменяющем жизнь открытии, которое может снова принести ей радость и удивление.",
       "poster": "https://images.metahub.space/poster/small/tt33100314/img",
       "backdrop": null,
       "genres": [
@@ -1655,7 +1139,7 @@
       "title": "Michael",
       "original_title": "Michael",
       "year": 2026,
-      "overview": "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
+      "overview": "Ранняя жизнь музыканта Майкла Джексона, от открытия его таланта в качестве лидера Jackson Five до художника, чьи творческие амбиции подпитывали стремление стать крупнейшим артистом в мире.",
       "poster": "https://images.metahub.space/poster/small/tt11378946/img",
       "backdrop": null,
       "genres": [
@@ -1724,7 +1208,7 @@
       "title": "Masters of the Universe",
       "original_title": "Masters of the Universe",
       "year": 2026,
-      "overview": "Prince Adam discovers that the strange memories shaping his life are real when the lost Sword of Power resurfaces, forcing him to return to Eternia and challenge the tyrant who shattered his family and kingdom.",
+      "overview": "Принц Адам обнаруживает, что странные воспоминания, формирующие его жизнь, реальны, когда появляется потерянный Меч Силы, заставляющий его вернуться в Этернию и бросить вызов тирану, который разрушил его семью и королевство.",
       "poster": "https://images.metahub.space/poster/small/tt0427340/img",
       "backdrop": null,
       "genres": [
@@ -1793,7 +1277,7 @@
       "title": "The Drama",
       "original_title": "The Drama",
       "year": 2026,
-      "overview": "A happily-engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "overview": "Счастливая помолвленная пара подвергается испытанию, когда неожиданный поворот сводит их свадебную неделю с рельсов.",
       "poster": "https://images.metahub.space/poster/small/tt33071426/img",
       "backdrop": null,
       "genres": [
@@ -1927,7 +1411,7 @@
       "title": "Superman",
       "original_title": "Superman",
       "year": 2025,
-      "overview": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the American way he soon finds himself in a world that views these as old-fashioned.",
+      "overview": "Супермен должен примирить свое инопланетное криптонское наследие с человеческим воспитанием в качестве репортера Кларка Кента. Как воплощение правды, справедливости и американского образа жизни, он вскоре оказывается в мире, который считает их старомодными.",
       "poster": "https://images.metahub.space/poster/small/tt5950044/img",
       "backdrop": null,
       "genres": [
@@ -1996,7 +1480,7 @@
       "title": "The Housemaid",
       "original_title": "The Housemaid",
       "year": 2025,
-      "overview": "Millie a struggling young woman becomes live in maid for a wealthy couple Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+      "overview": "Милли, борющаяся молодая женщина, становится горничной для богатой пары Нины и Эндрю. Она входит в особняк секретов, манипуляций и эскалации психологических игр, которые втягивают ее в опасную динамику отношений.",
       "poster": "https://images.metahub.space/poster/small/tt27543632/img",
       "backdrop": null,
       "genres": [
@@ -2065,7 +1549,7 @@
       "title": "The Sheep Detectives",
       "original_title": "The Sheep Detectives",
       "year": 2026,
-      "overview": "Every night a shepherd reads aloud a murder mystery, pretending his sheep can understand. When he is found dead, the sheep realize at once that it was a murder and think they know everything about how to go about solving it.",
+      "overview": "Каждую ночь пастух вслух читает тайну убийства, притворяясь, что его овцы могут понять. Когда его находят мертвым, овцы сразу понимают, что это убийство, и думают, что знают все о том, как его раскрыть.",
       "poster": "https://images.metahub.space/poster/small/tt32565993/img",
       "backdrop": null,
       "genres": [
@@ -2134,7 +1618,7 @@
       "title": "One Night Only",
       "original_title": "One Night Only",
       "year": 2026,
-      "overview": "Two New Yorkers search for love on the one night of the year when pre-marital sex is legal.",
+      "overview": "One Night Only:One Night Only — песня из бродвейского мюзикла 1981 года Девушки мечты\t.\nOne Night Only — английская инди-рок группа.\nOne Night Only \nOne Night Only \nOne Night Only — концертный альбом ирландской рок-группы Thin Lizzy.\nOne Night Only — DVD, записанное во время живого выступления Рики Мартина.\nOne Night Only with Ricky Martin — всемирный концертный тур пуэрто-риканского певца Рики Мартина.",
       "poster": "https://images.metahub.space/poster/small/tt37853455/img",
       "backdrop": null,
       "genres": [
@@ -2203,7 +1687,7 @@
       "title": "Tuner",
       "original_title": "Tuner",
       "year": 2026,
-      "overview": "A talented piano tuner who suffers from hyperacusis discovers an unexpected aptitude for cracking safes, turning his life upside down.",
+      "overview": "Tuner — музыкальный альбом из десяти композиций электронного дуэта «Ёлочные игрушки» (ЁИ/EU), в который входили Илья Барамия и Александр Зайцев. Альбом был выпущен петербургским лейблом «ChebuRec» 24 января 2004 года в формате CD; рисунки с надписями для релиза выполнил Юрий Барамия.",
       "poster": "https://images.metahub.space/poster/small/tt33296751/img",
       "backdrop": null,
       "genres": [
@@ -2272,7 +1756,7 @@
       "title": "Star Wars: The Mandalorian and Grogu",
       "original_title": "Star Wars: The Mandalorian and Grogu",
       "year": 2026,
-      "overview": "Once a lone bounty hunter, Mandalorian Din Djarin and his apprentice Grogu embark on an exciting new Star Wars adventure.",
+      "overview": "Будучи одиноким охотником за головами, мандалорец Дин Джарин и его ученик Грогу отправляются в захватывающее новое приключение «Звездных войн».",
       "poster": "https://images.metahub.space/poster/small/tt30825738/img",
       "backdrop": null,
       "genres": [
@@ -2341,7 +1825,7 @@
       "title": "Tony",
       "original_title": "Tony",
       "year": 2026,
-      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "overview": "То́ни — личное имя, уменьшительное от Энтони, Антонио, Антуанетт и других производных латинского имени Антоний; также фамилия и топоним:(924) Тони — астероид, открытый в 1919 году.\n«Тони» — американская театральная премия, учреждённая в 1947 году и названная в честь актрисы Антуанетт Перри.\nТони — рисованный тигр, персонаж, ставший рекламным символом хлопьев для завтрака, выпускаемых компанией Kellogg.ФамилияТони, Грегори — французский профессиональный боксёр.\nТони, Джеймс — американский боксёр.\nТони, Кевин — американский композитор.\nТони, Лука — итальянский футболист.\nТони, Роджер Брук (1777—1864) — американский государственный деятель.\nТони, Шака — игрок в американский футбол.Де Тони, Симон — монах-цистерцианец XII века, служивший аббатом в Эссексе.\nДе Тони, Джованни Баттиста (1864—1924) — итальянский химик и врач.ТопонимТони — коммуна в департаменте Эр, регион Верхняя Нормандия (Франция).\nТони — населённый пункт в округе Раск, штат Висконсин (США).\nТони — невключённая территория в округе Линкольн, штат Западная Виргиния (США).В кинематографе«Тони» — фильм Жана Ренуара.\nТони — фильм Мэтта Джонсона.",
       "poster": "https://images.metahub.space/poster/small/tt33095251/img",
       "backdrop": null,
       "genres": [
@@ -2410,7 +1894,7 @@
       "title": "Weapons",
       "original_title": "Weapons",
       "year": 2025,
-      "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+      "overview": "Когда все, кроме одного ребенка из одного класса, таинственным образом исчезают в одну и ту же ночь в одно и то же время, сообщество задается вопросом, кто или что стоит за их исчезновением.",
       "poster": "https://images.metahub.space/poster/small/tt26581740/img",
       "backdrop": null,
       "genres": [
@@ -2477,7 +1961,7 @@
       "title": "Disclosure Day",
       "original_title": "Disclosure Day",
       "year": 2026,
-      "overview": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you?",
+      "overview": "Если бы вы узнали, что мы не одни, если бы кто-то показал вам, доказал это вам, вас бы это испугало?",
       "poster": "https://images.metahub.space/poster/small/tt15047880/img",
       "backdrop": null,
       "genres": [
@@ -2546,7 +2030,7 @@
       "title": "Pressure",
       "original_title": "Pressure",
       "year": 2026,
-      "overview": "In the tense 72 hours before D-Day, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice--launch the most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "overview": "В напряженные 72 часа до Дня Д генерал Дуайт Д. Эйзенхауэр и капитан Джеймс Стэгг стоят перед невозможным выбором - начать самое опасное морское вторжение в истории или вообще проиграть войну.",
       "poster": "https://images.metahub.space/poster/small/tt32547691/img",
       "backdrop": null,
       "genres": [
@@ -2615,7 +2099,7 @@
       "title": "The Muppet Show",
       "original_title": "The Muppet Show",
       "year": 2026,
-      "overview": "Kermit and friends return in a modern take on their classic variety show format, mixing nostalgic charm with new comedy bits while staying true to the Muppets' timeless spirit.",
+      "overview": "Кермит и его друзья возвращаются в современном формате классического эстрадного шоу, смешивая ностальгическое очарование с новыми комедийными элементами, оставаясь верными вечному духу Маппетов.",
       "poster": "https://images.metahub.space/poster/small/tt37969426/img",
       "backdrop": null,
       "genres": [
@@ -2684,7 +2168,7 @@
       "title": "In the Grey",
       "original_title": "In the Grey",
       "year": 2026,
-      "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back-an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+      "overview": "Тайная команда элитных оперативников живет в тени. Когда безжалостный деспот крадет миллиард долларов, их отправляют забрать его обратно - невозможное ограбление, которое перерастает в смертельную игру в стратегию, обман и выживание.",
       "poster": "https://images.metahub.space/poster/small/tt27681354/img",
       "backdrop": null,
       "genres": [
@@ -2753,7 +2237,7 @@
       "title": "Project Hail Mary",
       "original_title": "Project Hail Mary",
       "year": 2026,
-      "overview": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
+      "overview": "Учитель естественных наук просыпается один на космическом корабле. Когда его память возвращается, он раскрывает миссию, чтобы остановить таинственную субстанцию, убивающую Солнце Земли, и понимает, что неожиданная дружба может быть ключом.",
       "poster": "https://images.metahub.space/poster/small/tt12042730/img",
       "backdrop": null,
       "genres": [
@@ -2776,13 +2260,13 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.306390+00:00",
-      "status": "ANNOUNCED",
-      "best_quality": "unknown",
-      "best_resolution": "unknown",
+      "last_updated_at": "2026-09-29T17:53:39.860042+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
-      "has_ru_audio": false,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "e43da0a40f8258e9",
@@ -2814,6 +2298,30 @@
             "imdb_rating": 8.2,
             "runtime": null
           }
+        },
+        {
+          "id": "ad0bafec4002bff4",
+          "movie_id": "tt12042730",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T14:08:58+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "IMAX",
+          "raw_title": "Проект «Конец света» / Project Hail Mary (2026) BDRip-HEVC 1080p от Spartanec | D | IMAX",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "IMAX",
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -2822,7 +2330,7 @@
       "title": "The Invite",
       "original_title": "The Invite",
       "year": 2026,
-      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+      "overview": "Брак Джо и Анджелы по тонкому льду. Когда они приглашают своих загадочных соседей наверх на званый ужин, ночь превращается в неожиданные места.",
       "poster": "https://images.metahub.space/poster/small/tt14173636/img",
       "backdrop": null,
       "genres": [
@@ -2891,7 +2399,7 @@
       "title": "The Ministry of Ungentlemanly Warfare",
       "original_title": "The Ministry of Ungentlemanly Warfare",
       "year": 2024,
-      "overview": "The British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
+      "overview": "Британские военные набирают небольшую группу высококвалифицированных солдат для нанесения ударов по немецким войскам в тылу врага во время Второй мировой войны.",
       "poster": "https://images.metahub.space/poster/small/tt5177120/img",
       "backdrop": null,
       "genres": [
@@ -2960,7 +2468,7 @@
       "title": "Teenage Sex and Death at Camp Miasma",
       "original_title": "Teenage Sex and Death at Camp Miasma",
       "year": 2026,
-      "overview": "A director making a slasher sequel becomes obsessed with casting the original film's 'final girl,' leading both women into psychological and sexual chaos.",
+      "overview": "Режиссер, снимающий продолжение слэшера, становится одержимым кастингом «последней девушки» оригинального фильма, что приводит женщин к психологическому и сексуальному хаосу.",
       "poster": "https://images.metahub.space/poster/small/tt35298123/img",
       "backdrop": null,
       "genres": [
@@ -3029,7 +2537,7 @@
       "title": "Mayday",
       "original_title": "Mayday",
       "year": 2026,
-      "overview": "Lieutenant Troy Brennan's reconnaissance mission over Soviet territory goes awry, forcing him to crash-land and survive in Russian wilderness while evading capture or rescue.",
+      "overview": "Разведывательная миссия лейтенанта Троя Бреннана над советской территорией идет наперекосяк, заставляя его совершить аварийную посадку и выжить в русской пустыне, избегая захвата или спасения.",
       "poster": "https://images.metahub.space/poster/small/tt28014327/img",
       "backdrop": null,
       "genres": [
@@ -3098,7 +2606,7 @@
       "title": "The Whisper Man",
       "original_title": "The Whisper Man",
       "year": 2026,
-      "overview": "A grieving father and his young son relocate to the quiet town of Featherbank, which was terrorized by a serial killer known as The Whisper Man 15 years earlier, while rumors circulated that Whisper Man worked with an accomplice.",
+      "overview": "Скорбящий отец и его маленький сын переезжают в тихий городок Фезербанк, который 15 лет назад терроризировал серийный убийца, известный как Шепчущий человек, в то время как ходили слухи, что Шепчущий человек работал с сообщником.",
       "poster": "https://images.metahub.space/poster/small/tt11561116/img",
       "backdrop": null,
       "genres": [
@@ -3167,7 +2675,7 @@
       "title": "Obsession",
       "original_title": "Obsession",
       "year": 2026,
-      "overview": "Baron \"Bear\" Bailey breaks a novelty charm to force his co-worker Nikki Freeman to love him, but the supernatural compulsion warps her mind into violent obsession, trapping him in a nightmare he cannot wish away.",
+      "overview": "Барон «Медведь» Бейли нарушает очарование новизны, чтобы заставить свою коллегу Никки Фримен любить его, но сверхъестественное принуждение деформирует ее разум в насильственную одержимость, заманивая его в кошмар, который он не может желать.",
       "poster": "https://images.metahub.space/poster/small/tt37287335/img",
       "backdrop": null,
       "genres": [
@@ -3236,7 +2744,7 @@
       "title": "The End of Oak Street",
       "original_title": "The End of Oak Street",
       "year": 2026,
-      "overview": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown.",
+      "overview": "Семья Платт объединяется, чтобы ориентироваться в своем новом окружении после того, как космическое событие переносит их пригородный район в неизвестное место.",
       "poster": "https://images.metahub.space/poster/small/tt27165187/img",
       "backdrop": null,
       "genres": [
@@ -3259,13 +2767,13 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.215886+00:00",
-      "status": "ANNOUNCED",
-      "best_quality": "unknown",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
+      "last_updated_at": "2026-09-29T17:54:11.814845+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "693290d71d4e9b3e",
@@ -3297,6 +2805,30 @@
             "imdb_rating": 6.5,
             "runtime": null
           }
+        },
+        {
+          "id": "1725eb5230d5d040",
+          "movie_id": "tt27165187",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T07:50:33+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "На краю Оук-стрит / The End of Oak Street (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D, P, P2",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -3305,7 +2837,7 @@
       "title": "Toy Story 5",
       "original_title": "Toy Story 5",
       "year": 2026,
-      "overview": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+      "overview": "«Исто́рия игру́шек 5» — американский полнометражный компьютерно-анимационный фильм студии Pixar Animation Studios. Пятая часть франшизы «История игрушек» и продолжение мультфильма «История игрушек 4» (2019). Режиссёром и сценаристом выступил Эндрю Стэнтон. В озвучивании персонажей приняли участие Том Хэнкс, Тим Аллен, Джоан Кьюсак, Эрни Хадсон, Конан О’Брайен и Анна Фэрис.",
       "poster": "https://images.metahub.space/poster/small/tt29355505/img",
       "backdrop": null,
       "genres": [
@@ -3374,7 +2906,7 @@
       "title": "Backrooms",
       "original_title": "Backrooms",
       "year": 2026,
-      "overview": "After a therapist's patient disappears into a dimension beyond reality, she must venture into the unknown to save him.",
+      "overview": "Закули́сье — городская легенда, интернет-мем и крипипаста о вымышленном месте, в частности о бескрайнем лабиринте случайно связанных между собой офисных и подсобных помещений, вызывающем страх и тревогу своей неестественной опустошённостью. Первичная версия Закулисья берёт своё начало из публикации пользователя от 12 мая 2019 года на популярном англоязычном анонимном имиджборде 4chan в тематическом треде, посвящённом поиску изображений, которые, по мнению людей, больше всего кажутся тревожными и пугающими.",
       "poster": "https://images.metahub.space/poster/small/tt26657236/img",
       "backdrop": null,
       "genres": [
@@ -3443,7 +2975,7 @@
       "title": "The Love Hypothesis",
       "original_title": "The Love Hypothesis",
       "year": 2026,
-      "overview": "After an impulsive kiss, two scientists end up in a fake relationship, testing their theories about love and each other.",
+      "overview": "После импульсивного поцелуя двое ученых оказываются в поддельных отношениях, проверяя свои теории о любви и друг о друге.",
       "poster": "https://images.metahub.space/poster/small/tt22526100/img",
       "backdrop": null,
       "genres": [
@@ -3510,7 +3042,7 @@
       "title": "Unabom",
       "original_title": "Unabom",
       "year": 2026,
-      "overview": "A Harvard student becomes the Unabomber after psychological experiments. Years later, an FBI agent's pursuit reveals how his past shaped his deadly campaign that killed 3 and injured 23 from 1978-1995.",
+      "overview": "Студент Гарварда становится Унабомбером после психологических экспериментов. Годы спустя преследование агента ФБР показывает, как его прошлое сформировало его смертельную кампанию, которая убила 3 и ранила 23 человека в 1978-1995 годах.",
       "poster": "https://images.metahub.space/poster/small/tt6933238/img",
       "backdrop": null,
       "genres": [

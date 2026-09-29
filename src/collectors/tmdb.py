@@ -43,6 +43,7 @@ class TMDBDigitalSource(BaseSource):
                 "release_date.lte": d_to,
                 "sort_by": "primary_release_date.desc",
                 "vote_count.gte": 1,
+                "language": "ru-RU",
             }
 
             resp = self._safe_request(discover_url, params=params)
@@ -59,6 +60,7 @@ class TMDBDigitalSource(BaseSource):
                 det_params = {
                     "api_key": self.api_key,
                     "append_to_response": "release_dates,external_ids",
+                    "language": "ru-RU",
                 }
                 try:
                     det_resp = self._safe_request(details_url, params=det_params)
