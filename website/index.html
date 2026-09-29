@@ -27,58 +27,55 @@
   </header>
 
   <main class="container">
-    <!-- Hero Section -->
-    <section class="hero">
-      <div id="hero-subtitle" class="hero-subtitle">28 СЕНТЯБРЯ 2026</div>
-      <h1 id="hero-title" class="hero-title">Что вышло сегодня</h1>
-      <div class="hero-meta">
-        <span>Свежие цифровые релизы в высоком качестве</span>
-        <span id="hero-count" class="hero-count-badge">0 фильмов</span>
+    <!-- Compact Header Bar -->
+    <div class="compact-header">
+      <div class="header-titles">
+        <h1 id="hero-title" class="compact-title">Что вышло сегодня</h1>
+        <span id="hero-count" class="compact-count-badge">0 фильмов</span>
+        <span id="hero-subtitle" class="compact-date">29 сентября 2026</span>
       </div>
-    </section>
 
-    <!-- Period Navigation Tabs -->
-    <nav class="period-tabs" aria-label="Период релизов">
-      <button class="tab-btn active" data-period="today">Сегодня</button>
-      <button class="tab-btn" data-period="yesterday">Вчера</button>
-      <button class="tab-btn" data-period="last7">Последние 7 дней</button>
-      <button class="tab-btn" data-period="last30">Последние 30 дней</button>
-      <button class="tab-btn" data-period="this_month">Этот месяц</button>
-      <button class="tab-btn" data-period="this_year">Этот год</button>
-      <button class="tab-btn" data-period="prev_year">Предыдущий год</button>
-      <button class="tab-btn" data-period="all">Весь каталог</button>
-      <button class="tab-btn" data-period="on_this_day" style="border-color: var(--accent); color: var(--accent);">В этот день</button>
-    </nav>
-
-    <!-- Quick Toggles (Section 36) -->
-    <div class="quick-toggles" aria-label="Быстрые фильтры">
-      <span style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); align-self: center; margin-right: 0.25rem;">Быстро:</span>
-      <button class="quick-toggle-btn active" data-quick="newest">🆕 Новые</button>
-      <button class="quick-toggle-btn" data-quick="imdb">⭐ IMDb</button>
-      <button class="quick-toggle-btn" data-quick="popular">🔥 Популярные</button>
-      <button class="quick-toggle-btn" data-quick="4k">4K (2160p)</button>
+      <!-- Quick Toggles -->
+      <div class="quick-toggles-inline" aria-label="Быстрые фильтры">
+        <button class="quick-toggle-btn active" data-quick="newest">🆕 Новые</button>
+        <button class="quick-toggle-btn" data-quick="imdb">⭐ IMDb</button>
+        <button class="quick-toggle-btn" data-quick="popular">🔥 Популярные</button>
+        <button class="quick-toggle-btn" data-quick="4k">4K (2160p)</button>
+      </div>
     </div>
 
-    <!-- Controls Bar -->
-    <div class="controls-bar">
-      <div class="search-box">
-        <span class="search-icon">🔍</span>
-        <input type="text" id="search-input" class="search-input" placeholder="Поиск: Название, Original title, IMDb ID (tt...), TMDB ID..." autocomplete="off">
-      </div>
+    <!-- Unified Compact Controls Bar -->
+    <div class="compact-controls">
+      <!-- Period Navigation Tabs -->
+      <nav class="period-tabs-compact" aria-label="Период релизов">
+        <button class="tab-btn active" data-period="today">Сегодня</button>
+        <button class="tab-btn" data-period="yesterday">Вчера</button>
+        <button class="tab-btn" data-period="last7">7 дней</button>
+        <button class="tab-btn" data-period="last30">30 дней</button>
+        <button class="tab-btn" data-period="this_month">Этот месяц</button>
+        <button class="tab-btn" data-period="this_year">Этот год</button>
+        <button class="tab-btn" data-period="on_this_day" style="color: var(--accent); border-color: rgba(99, 102, 241, 0.4);">В этот день</button>
+        <button class="tab-btn" data-period="all">Весь каталог</button>
+      </nav>
 
-      <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
+      <!-- Search & Sort Row -->
+      <div class="search-sort-group">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="search-input" class="search-input" placeholder="Поиск фильма, IMDb tt..." autocomplete="off">
+        </div>
+
         <select id="sort-select" class="select-control" aria-label="Сортировка">
-          <option value="newest">🆕 Сначала новые</option>
-          <option value="imdb_desc">⭐ IMDb — высокий</option>
-          <option value="imdb_asc">⭐ IMDb — низкий</option>
-          <option value="pop_desc">🔥 Популярность — высокая</option>
-          <option value="pop_asc">🔥 Популярность — низкая</option>
+          <option value="newest">🆕 Новые</option>
+          <option value="imdb_desc">⭐ IMDb ↓</option>
+          <option value="imdb_asc">⭐ IMDb ↑</option>
+          <option value="pop_desc">🔥 Популярность ↓</option>
+          <option value="pop_asc">🔥 Популярность ↑</option>
           <option value="votes_desc">👥 Больше голосов</option>
-          <option value="digital_date">📅 Дата digital-релиза</option>
-          <option value="detected_date">🔎 Дата обнаружения</option>
+          <option value="digital_date">📅 Дата релиза</option>
         </select>
 
-        <button id="toggle-filters-btn" class="tab-btn" onclick="document.getElementById('advanced-filters').classList.toggle('hidden');">
+        <button id="toggle-filters-btn" class="tab-btn" onclick="document.getElementById('advanced-filters').classList.toggle('hidden'); this.classList.toggle('active');">
           ⚙️ Фильтры
         </button>
       </div>

@@ -69,7 +69,7 @@ button, input, select {
 .header-inner {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 0.85rem 1.25rem;
+  padding: 0.5rem 1.25rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -111,71 +111,108 @@ button, input, select {
 .container {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 1.5rem 1.25rem;
-}
-
-/* Hero Section */
-.hero {
-  background: linear-gradient(180deg, rgba(30, 41, 59, 0.4) 0%, rgba(17, 24, 39, 0.1) 100%);
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-lg);
-  padding: 1.75rem 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
-.hero-subtitle {
-  text-transform: uppercase;
-  font-size: 0.75rem;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  color: var(--accent);
-  margin-bottom: 0.35rem;
+  padding: 0.75rem 1.25rem;
 }
 
 .hero-title {
-  font-size: 1.85rem;
+  font-size: 1.5rem;
   font-weight: 800;
+  color: #fff;
   letter-spacing: -0.02em;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.35rem;
 }
 
-.hero-meta {
+/* Compact Header */
+.compact-header {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
   gap: 0.75rem;
-  font-size: 0.95rem;
-  color: var(--text-secondary);
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--border-subtle);
 }
 
+.header-titles {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+}
+
+.compact-title {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: -0.02em;
+}
+
+.compact-count-badge,
 .hero-count-badge {
   background-color: var(--accent-glow);
   color: #a5b4fc;
-  border: 1px solid rgba(99, 102, 241, 0.3);
-  padding: 0.2rem 0.65rem;
+  border: 1px solid rgba(99, 102, 241, 0.35);
+  padding: 0.15rem 0.55rem;
   border-radius: 9999px;
-  font-weight: 600;
-  font-size: 0.85rem;
+  font-weight: 700;
+  font-size: 0.75rem;
 }
 
-/* Period Tabs */
-.period-tabs {
+.compact-date {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.quick-toggles-inline {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+/* Compact Controls (Period Tabs + Search/Sort) */
+.compact-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 1024px) {
+  .compact-controls {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.period-tabs-compact {
   display: flex;
   flex-wrap: wrap;
+  gap: 0.35rem;
+  align-items: center;
+}
+
+.search-sort-group {
+  display: flex;
+  align-items: center;
   gap: 0.5rem;
-  margin-bottom: 1.25rem;
+  flex-wrap: wrap;
 }
 
 .tab-btn {
   background-color: var(--bg-secondary);
   border: 1px solid var(--border-color);
   color: var(--text-secondary);
-  padding: 0.45rem 0.9rem;
-  border-radius: var(--radius-md);
-  font-size: 0.88rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.82rem;
   font-weight: 500;
   cursor: pointer;
-  transition: all 0.15s;
+  transition: all 0.15s ease;
+  white-space: nowrap;
 }
 
 .tab-btn:hover {
@@ -188,33 +225,26 @@ button, input, select {
   background-color: var(--accent);
   border-color: var(--accent);
   color: #fff;
-  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.25);
-}
-
-/* Quick Toggles (Section 36) */
-.quick-toggles {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-bottom: 1.25rem;
+  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
 }
 
 .quick-toggle-btn {
   background-color: var(--bg-card);
   border: 1px solid var(--border-color);
-  color: var(--text-primary);
-  padding: 0.35rem 0.8rem;
+  color: var(--text-secondary);
+  padding: 0.28rem 0.65rem;
   border-radius: 9999px;
-  font-size: 0.82rem;
+  font-size: 0.76rem;
   font-weight: 600;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
-  gap: 0.35rem;
-  transition: all 0.15s;
+  gap: 0.3rem;
+  transition: all 0.15s ease;
 }
 
 .quick-toggle-btn:hover {
+  color: var(--text-primary);
   border-color: var(--accent);
 }
 
@@ -222,26 +252,13 @@ button, input, select {
   background-color: var(--accent);
   border-color: var(--accent);
   color: #fff;
-}
-
-/* Filter & Search Bar */
-.controls-bar {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.85rem;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 1.5rem;
-  background-color: var(--bg-secondary);
-  border: 1px solid var(--border-color);
-  border-radius: var(--radius-md);
-  padding: 0.85rem 1rem;
+  box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
 }
 
 .search-box {
   position: relative;
   flex: 1;
-  min-width: 260px;
+  min-width: 220px;
 }
 
 .search-input {
@@ -249,9 +266,9 @@ button, input, select {
   background-color: var(--bg-card);
   border: 1px solid var(--border-color);
   color: var(--text-primary);
-  padding: 0.55rem 0.85rem 0.55rem 2.25rem;
+  padding: 0.38rem 0.75rem 0.38rem 2rem;
   border-radius: var(--radius-sm);
-  font-size: 0.9rem;
+  font-size: 0.82rem;
   outline: none;
   transition: border-color 0.15s;
 }
@@ -262,9 +279,10 @@ button, input, select {
 
 .search-icon {
   position: absolute;
-  left: 0.75rem;
+  left: 0.65rem;
   top: 50%;
   transform: translateY(-50%);
+  font-size: 0.8rem;
   color: var(--text-muted);
   pointer-events: none;
 }
@@ -273,9 +291,9 @@ button, input, select {
   background-color: var(--bg-card);
   border: 1px solid var(--border-color);
   color: var(--text-primary);
-  padding: 0.55rem 0.85rem;
+  padding: 0.38rem 0.75rem;
   border-radius: var(--radius-sm);
-  font-size: 0.88rem;
+  font-size: 0.82rem;
   outline: none;
   cursor: pointer;
 }
@@ -289,16 +307,16 @@ button, input, select {
   background-color: var(--bg-secondary);
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
-  padding: 1.25rem;
-  margin-bottom: 1.5rem;
+  padding: 0.85rem 1rem;
+  margin-bottom: 1rem;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.75rem;
 }
 
 .filter-group {
   display: flex;
-  flex-col;
+  flex-direction: column;
   gap: 0.35rem;
 }
 
@@ -314,10 +332,10 @@ button, input, select {
   display: flex;
   align-items: center;
   gap: 0.4rem;
-  font-size: 0.88rem;
+  font-size: 0.82rem;
   color: var(--text-secondary);
   cursor: pointer;
-  margin-top: 0.4rem;
+  margin-top: 0.3rem;
 }
 
 /* Movie Cards Grid */
