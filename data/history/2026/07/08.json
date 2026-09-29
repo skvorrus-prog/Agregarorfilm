@@ -1,0 +1,242 @@
+{
+  "date": "2026-07-08",
+  "count": 4,
+  "movies": [
+    {
+      "id": "tt33095251",
+      "title": "Tony",
+      "original_title": "Tony",
+      "year": 2026,
+      "overview": "То́ни — личное имя, уменьшительное от Энтони, Антонио, Антуанетт и других производных латинского имени Антоний; также фамилия и топоним:(924) Тони — астероид, открытый в 1919 году.\n«Тони» — американская театральная премия, учреждённая в 1947 году и названная в честь актрисы Антуанетт Перри.\nТони — рисованный тигр, персонаж, ставший рекламным символом хлопьев для завтрака, выпускаемых компанией Kellogg.ФамилияТони, Грегори — французский профессиональный боксёр.\nТони, Джеймс — американский боксёр.\nТони, Кевин — американский композитор.\nТони, Лука — итальянский футболист.\nТони, Роджер Брук (1777—1864) — американский государственный деятель.\nТони, Шака — игрок в американский футбол.Де Тони, Симон — монах-цистерцианец XII века, служивший аббатом в Эссексе.\nДе Тони, Джованни Баттиста (1864—1924) — итальянский химик и врач.ТопонимТони — коммуна в департаменте Эр, регион Верхняя Нормандия (Франция).\nТони — населённый пункт в округе Раск, штат Висконсин (США).\nТони — невключённая территория в округе Линкольн, штат Западная Виргиния (США).В кинематографе«Тони» — фильм Жана Ренуара.\nТони — фильм Мэтта Джонсона.",
+      "poster": "https://images.metahub.space/poster/small/tt33095251/img",
+      "backdrop": null,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "countries": [
+        "United States, Canada"
+      ],
+      "runtime": null,
+      "imdb_id": "tt33095251",
+      "tmdb_id": null,
+      "imdb_rating": 7.6,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-08",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.383681+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9c742c4fad2ec71d",
+          "movie_id": "tt33095251",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Tony (2026)",
+          "details": {
+            "title": "Tony",
+            "year": 2026,
+            "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+            "poster": "https://images.metahub.space/poster/small/tt33095251/img",
+            "genres": [
+              "Biography",
+              "Comedy",
+              "Drama"
+            ],
+            "countries": [
+              "United States, Canada"
+            ],
+            "imdb_rating": 7.6,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt27165187",
+      "title": "The End of Oak Street",
+      "original_title": "The End of Oak Street",
+      "year": 2026,
+      "overview": "Семья Платт объединяется, чтобы ориентироваться в своем новом окружении после того, как космическое событие переносит их пригородный район в неизвестное место.",
+      "poster": "https://images.metahub.space/poster/small/tt27165187/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "countries": [
+        "United States, Canada, Australia"
+      ],
+      "runtime": null,
+      "imdb_id": "tt27165187",
+      "tmdb_id": null,
+      "imdb_rating": 6.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-08",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-29T17:54:11.814845+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "693290d71d4e9b3e",
+          "movie_id": "tt27165187",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The End of Oak Street (2026)",
+          "details": {
+            "title": "The End of Oak Street",
+            "year": 2026,
+            "overview": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown.",
+            "poster": "https://images.metahub.space/poster/small/tt27165187/img",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Mystery"
+            ],
+            "countries": [
+              "United States, Canada, Australia"
+            ],
+            "imdb_rating": 6.5,
+            "runtime": null
+          }
+        },
+        {
+          "id": "1725eb5230d5d040",
+          "movie_id": "tt27165187",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T07:50:33+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "На краю Оук-стрит / The End of Oak Street (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D, P, P2",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt18259538",
+      "title": "Avatar Aang: The Last Airbender",
+      "original_title": "Avatar Aang: The Last Airbender",
+      "year": 2026,
+      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands.",
+      "poster": "https://images.metahub.space/poster/small/tt18259538/img",
+      "backdrop": null,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "countries": [
+        "США"
+      ],
+      "runtime": null,
+      "imdb_id": "tt18259538",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-08",
+      "first_detected_at": "2026-07-08T12:00:00Z",
+      "last_updated_at": "2026-09-29T18:31:41.153241+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": []
+    },
+    {
+      "id": "tt31189814",
+      "title": "Fuze",
+      "original_title": "Fuze",
+      "year": 2026,
+      "overview": "«Огра́бить Ло́ндон» — британский фильм-ограбление режиссёра Дэвида Маккензи по сценарию Бена Хопкинса. В фильме снялись Аарон Тейлор-Джонсон, Тео Джеймс, Сэм Уортингтон и Гугу Мбата-Роу.",
+      "poster": "https://images.metahub.space/poster/small/tt31189814/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "countries": [
+        "США"
+      ],
+      "runtime": null,
+      "imdb_id": "tt31189814",
+      "tmdb_id": null,
+      "imdb_rating": 6.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-08",
+      "first_detected_at": "2026-07-08T12:00:00Z",
+      "last_updated_at": "2026-09-29T18:31:10.570850+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": []
+    }
+  ]
+}

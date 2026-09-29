@@ -1,0 +1,301 @@
+{
+  "date": "2026-01-01",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt1756855",
+      "title": "Coyote vs. Acme",
+      "original_title": "Coyote vs. Acme",
+      "year": 2026,
+      "overview": "После многих лет неисправных продуктов Wile E. Coyote объединяется с местным адвокатом по травмам, чтобы сразиться с ACME, производителем всего, что используется персонажами Looney Tunes.",
+      "poster": "https://images.metahub.space/poster/small/tt1756855/img",
+      "backdrop": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt1756855",
+      "tmdb_id": null,
+      "imdb_rating": 7.6,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-01-01",
+      "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
+      "last_updated_at": "2026-09-29T17:54:24.245574+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "61f749fef179366d",
+          "movie_id": "tt1756855",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T05:50:47+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) UHD WEB-DL 2160p | 4K | HDR10+ | Dolby Vision P8 | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "743cdb512d89f2ca",
+          "movie_id": "tt1756855",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T09:02:54+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "f69f3dceb86d2233",
+          "movie_id": "tt1756855",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T12:26:36+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) UHD WEB-DL 2160p | 4K | SDR | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "880a8fbc1732da54",
+          "movie_id": "tt1756855",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T16:35:55+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) WEB-DL 720p от New-Team | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "c7d94ed31218268f",
+          "movie_id": "tt1756855",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T16:36:17+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a8cea34acbc4acc7",
+          "movie_id": "tt1756855",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Coyote vs. Acme (2026)",
+          "details": {
+            "title": "Coyote vs. Acme",
+            "year": 2026,
+            "overview": "After enduring years of malfunctioning products, Wile E. Coyote teams up with a local personal injury attorney to take on ACME, the manufacturer of anything and everything used by the Looney Tunes characters.",
+            "poster": "https://images.metahub.space/poster/small/tt1756855/img",
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Comedy"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 7.6,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt11378946",
+      "title": "Michael",
+      "original_title": "Michael",
+      "year": 2026,
+      "overview": "Ранняя жизнь музыканта Майкла Джексона, от открытия его таланта в качестве лидера Jackson Five до художника, чьи творческие амбиции подпитывали стремление стать крупнейшим артистом в мире.",
+      "poster": "https://images.metahub.space/poster/small/tt11378946/img",
+      "backdrop": null,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "countries": [
+        "United States, Canada, United Kingdom"
+      ],
+      "runtime": null,
+      "imdb_id": "tt11378946",
+      "tmdb_id": null,
+      "imdb_rating": 7.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-01-01",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.539411+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "3089a4e57646f6ba",
+          "movie_id": "tt11378946",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Michael (2026)",
+          "details": {
+            "title": "Michael",
+            "year": 2026,
+            "overview": "The early life of musician Michael Jackson, from the discovery of his talent as the lead of the Jackson Five to the artist whose creative ambition fueled a pursuit to become the biggest entertainer in the world.",
+            "poster": "https://images.metahub.space/poster/small/tt11378946/img",
+            "genres": [
+              "Biography",
+              "Drama",
+              "History"
+            ],
+            "countries": [
+              "United States, Canada, United Kingdom"
+            ],
+            "imdb_rating": 7.4,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt32430579",
+      "title": "Crime 101",
+      "original_title": "Crime 101",
+      "year": 2026,
+      "overview": "An elusive thief, eyeing his final score, encounters a disillusioned insurance broker at her own crossroads. As their paths intertwine, a relentless detective trails them hoping to thwart the multi-million dollar heist they are pl...",
+      "poster": "https://images.metahub.space/poster/small/tt32430579/img",
+      "backdrop": null,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "countries": [
+        "США"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32430579",
+      "tmdb_id": null,
+      "imdb_rating": 6.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-01-01",
+      "first_detected_at": "2026-01-01T12:00:00Z",
+      "last_updated_at": "2026-09-29T18:31:29.157615+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": []
+    }
+  ]
+}

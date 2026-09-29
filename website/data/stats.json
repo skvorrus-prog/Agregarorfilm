@@ -1,43 +1,46 @@
 {
-  "total_releases": 51,
-  "web_dl_count": 13,
+  "total_releases": 64,
+  "web_dl_count": 26,
   "bluray_count": 6,
-  "four_k_count": 5,
-  "hdr_count": 4,
-  "ru_audio_count": 15,
-  "avg_rating": 6.71,
-  "rated_movies_count": 43,
+  "four_k_count": 10,
+  "hdr_count": 9,
+  "ru_audio_count": 28,
+  "avg_rating": 6.78,
+  "rated_movies_count": 55,
   "by_year": {
-    "2026": 51
+    "2026": 64
   },
   "by_month": {
-    "2026-09": 51
+    "2026-01": 14,
+    "2026-04": 15,
+    "2026-07": 15,
+    "2026-09": 20
   },
   "by_quality": {
     "unknown": 32,
-    "WEB-DL": 7,
+    "WEB-DL": 20,
     "WEBRip": 6,
     "BluRay": 5,
     "REMUX": 1
   },
   "by_resolution": {
     "unknown": 31,
-    "1080p": 13,
-    "2160p": 5,
+    "1080p": 21,
+    "2160p": 10,
     "720p": 2
   },
   "by_genre": {
-    "Drama": 26,
-    "Action": 17,
-    "Comedy": 16,
-    "Adventure": 14,
-    "Thriller": 11,
-    "Crime": 7,
-    "Horror": 7,
-    "Romance": 6,
+    "Drama": 33,
+    "Action": 23,
+    "Comedy": 20,
+    "Adventure": 18,
+    "Thriller": 15,
+    "Crime": 10,
+    "Horror": 9,
+    "Romance": 7,
+    "Animation": 6,
     "Mystery": 5,
-    "Animation": 4,
     "Family": 4,
-    "Biography": 3
+    "Biography": 4
   }
 }

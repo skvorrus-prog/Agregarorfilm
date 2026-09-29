@@ -1,0 +1,246 @@
+{
+  "date": "2026-04-01",
+  "count": 4,
+  "movies": [
+    {
+      "id": "tt31170389",
+      "title": "Evil Dead Burn",
+      "original_title": "Evil Dead Burn",
+      "year": 2026,
+      "overview": "После потери мужа женщина ищет утешения у своих родственников. Как один за другим они превращаются в мертвецов, она обнаруживает, что клятвы, которые она приняла в жизни - выживают даже в смерти.",
+      "poster": "https://images.metahub.space/poster/small/tt31170389/img",
+      "backdrop": null,
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "New Zealand, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt31170389",
+      "tmdb_id": null,
+      "imdb_rating": 6.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-01",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.605027+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "42bb03c1426541c5",
+          "movie_id": "tt31170389",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Evil Dead Burn (2026)",
+          "details": {
+            "title": "Evil Dead Burn",
+            "year": 2026,
+            "overview": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
+            "poster": "https://images.metahub.space/poster/small/tt31170389/img",
+            "genres": [
+              "Horror"
+            ],
+            "countries": [
+              "New Zealand, United States"
+            ],
+            "imdb_rating": 6.3,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt15047880",
+      "title": "Disclosure Day",
+      "original_title": "Disclosure Day",
+      "year": 2026,
+      "overview": "Если бы вы узнали, что мы не одни, если бы кто-то показал вам, доказал это вам, вас бы это испугало?",
+      "poster": "https://images.metahub.space/poster/small/tt15047880/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "countries": [
+        "United States, Canada, New Zealand, Japan"
+      ],
+      "runtime": null,
+      "imdb_id": "tt15047880",
+      "tmdb_id": null,
+      "imdb_rating": 6.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-01",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.356727+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e08dc869592b2b9d",
+          "movie_id": "tt15047880",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Disclosure Day (2026)",
+          "details": {
+            "title": "Disclosure Day",
+            "year": 2026,
+            "overview": "If you found out we weren't alone, if someone showed you, proved it to you, would that frighten you?",
+            "poster": "https://images.metahub.space/poster/small/tt15047880/img",
+            "genres": [
+              "Action",
+              "Drama",
+              "Mystery"
+            ],
+            "countries": [
+              "United States, Canada, New Zealand, Japan"
+            ],
+            "imdb_rating": 6.4,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt29355505",
+      "title": "Toy Story 5",
+      "original_title": "Toy Story 5",
+      "year": 2026,
+      "overview": "«Исто́рия игру́шек 5» — американский полнометражный компьютерно-анимационный фильм студии Pixar Animation Studios. Пятая часть франшизы «История игрушек» и продолжение мультфильма «История игрушек 4» (2019). Режиссёром и сценаристом выступил Эндрю Стэнтон. В озвучивании персонажей приняли участие Том Хэнкс, Тим Аллен, Джоан Кьюсак, Эрни Хадсон, Конан О’Брайен и Анна Фэрис.",
+      "poster": "https://images.metahub.space/poster/small/tt29355505/img",
+      "backdrop": null,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt29355505",
+      "tmdb_id": null,
+      "imdb_rating": 7.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-01",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.206252+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "148b29c644e0883d",
+          "movie_id": "tt29355505",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Toy Story 5 (2026)",
+          "details": {
+            "title": "Toy Story 5",
+            "year": 2026,
+            "overview": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+            "poster": "https://images.metahub.space/poster/small/tt29355505/img",
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Comedy"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 7.4,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt15940132",
+      "title": "War Machine",
+      "original_title": "War Machine",
+      "year": 2026,
+      "overview": "Follow the final recruits of a grueling special ops boot camp who encounter a mysterious deadly force.",
+      "poster": "https://images.metahub.space/poster/small/tt15940132/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "countries": [
+        "США"
+      ],
+      "runtime": null,
+      "imdb_id": "tt15940132",
+      "tmdb_id": null,
+      "imdb_rating": 6.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-01",
+      "first_detected_at": "2026-04-01T12:00:00Z",
+      "last_updated_at": "2026-09-29T18:31:38.857083+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": []
+    }
+  ]
+}

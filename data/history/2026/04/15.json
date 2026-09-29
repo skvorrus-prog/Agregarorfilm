@@ -1,0 +1,181 @@
+{
+  "date": "2026-04-15",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt33071426",
+      "title": "The Drama",
+      "original_title": "The Drama",
+      "year": 2026,
+      "overview": "Счастливая помолвленная пара подвергается испытанию, когда неожиданный поворот сводит их свадебную неделю с рельсов.",
+      "poster": "https://images.metahub.space/poster/small/tt33071426/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt33071426",
+      "tmdb_id": null,
+      "imdb_rating": 7.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-15",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.495674+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "c523264fd89398b6",
+          "movie_id": "tt33071426",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Drama (2026)",
+          "details": {
+            "title": "The Drama",
+            "year": 2026,
+            "overview": "A happily-engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+            "poster": "https://images.metahub.space/poster/small/tt33071426/img",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 7.2,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt14173636",
+      "title": "The Invite",
+      "original_title": "The Invite",
+      "year": 2026,
+      "overview": "Брак Джо и Анджелы по тонкому льду. Когда они приглашают своих загадочных соседей наверх на званый ужин, ночь превращается в неожиданные места.",
+      "poster": "https://images.metahub.space/poster/small/tt14173636/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt14173636",
+      "tmdb_id": null,
+      "imdb_rating": 7.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-15",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.289177+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9f7dd0463c7cee15",
+          "movie_id": "tt14173636",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Invite (2026)",
+          "details": {
+            "title": "The Invite",
+            "year": 2026,
+            "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+            "poster": "https://images.metahub.space/poster/small/tt14173636/img",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 7.5,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt1341338",
+      "title": "Good Luck, Have Fun, Don't Die",
+      "original_title": "Good Luck, Have Fun, Don't Die",
+      "year": 2026,
+      "overview": "A \"Man From the Future\" arrives at a diner in Los Angeles where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intel...",
+      "poster": "https://images.metahub.space/poster/small/tt1341338/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "countries": [
+        "США"
+      ],
+      "runtime": null,
+      "imdb_id": "tt1341338",
+      "tmdb_id": null,
+      "imdb_rating": 7.0,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-15",
+      "first_detected_at": "2026-04-15T12:00:00Z",
+      "last_updated_at": "2026-09-29T18:31:23.885952+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": []
+    }
+  ]
+}

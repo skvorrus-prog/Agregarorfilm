@@ -1,0 +1,333 @@
+{
+  "date": "2026-04-08",
+  "count": 5,
+  "movies": [
+    {
+      "id": "m_2001f6fc1470",
+      "title": "Унабомбер",
+      "original_title": "Unabomber",
+      "year": 2026,
+      "overview": "Теодо́р Джон (Тед) Качи́нский — американский математик, социальный критик, философ и террорист, известный своей кампанией по рассылке бомб почтой.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDE2ODhlNTUtYjdiOS00OTlmLTg5OGMtMGNjZWZmNWE4MGJiXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt6933238",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-08",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-29T17:54:24.251957+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "17ffb47ec20275db",
+          "movie_id": "m_2001f6fc1470",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-28T17:30:00+00:00",
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "Унабомбер / Unabomber (2026) WEB-DLRip-AVC | КПК | D | Movie Dubbing",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Movie Dubbing",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "091b6367d89b56c6",
+          "movie_id": "m_2001f6fc1470",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T05:21:48+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Унабомбер / Unabomber (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33100314",
+      "title": "Remarkably Bright Creatures",
+      "original_title": "Remarkably Bright Creatures",
+      "year": 2026,
+      "overview": "Благодаря маловероятным связям, образовавшимся во время ночных смен в местном аквариуме, Това, пожилая вдова, узнает об изменяющем жизнь открытии, которое может снова принести ей радость и удивление.",
+      "poster": "https://images.metahub.space/poster/small/tt33100314/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt33100314",
+      "tmdb_id": null,
+      "imdb_rating": 7.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-08",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.555705+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "abfe3777c25d48fc",
+          "movie_id": "tt33100314",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Remarkably Bright Creatures (2026)",
+          "details": {
+            "title": "Remarkably Bright Creatures",
+            "year": 2026,
+            "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+            "poster": "https://images.metahub.space/poster/small/tt33100314/img",
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 7.8,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt27681354",
+      "title": "In the Grey",
+      "original_title": "In the Grey",
+      "year": 2026,
+      "overview": "Тайная команда элитных оперативников живет в тени. Когда безжалостный деспот крадет миллиард долларов, их отправляют забрать его обратно - невозможное ограбление, которое перерастает в смертельную игру в стратегию, обман и выживание.",
+      "poster": "https://images.metahub.space/poster/small/tt27681354/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "countries": [
+        "United Kingdom, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt27681354",
+      "tmdb_id": null,
+      "imdb_rating": 6.6,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-08",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.319695+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "93037d18f995ea66",
+          "movie_id": "tt27681354",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "In the Grey (2026)",
+          "details": {
+            "title": "In the Grey",
+            "year": 2026,
+            "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back-an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+            "poster": "https://images.metahub.space/poster/small/tt27681354/img",
+            "genres": [
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "countries": [
+              "United Kingdom, United States"
+            ],
+            "imdb_rating": 6.6,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt6933238",
+      "title": "Unabom",
+      "original_title": "Unabom",
+      "year": 2026,
+      "overview": "Студент Гарварда становится Унабомбером после психологических экспериментов. Годы спустя преследование агента ФБР показывает, как его прошлое сформировало его смертельную кампанию, которая убила 3 и ранила 23 человека в 1978-1995 годах.",
+      "poster": "https://images.metahub.space/poster/small/tt6933238/img",
+      "backdrop": null,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt6933238",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-08",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.182948+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "5bdfdd767f89643c",
+          "movie_id": "tt6933238",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Unabom (2026)",
+          "details": {
+            "title": "Unabom",
+            "year": 2026,
+            "overview": "A Harvard student becomes the Unabomber after psychological experiments. Years later, an FBI agent's pursuit reveals how his past shaped his deadly campaign that killed 3 and injured 23 from 1978-1995.",
+            "poster": "https://images.metahub.space/poster/small/tt6933238/img",
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": null,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33612209",
+      "title": "The Devil Wears Prada 2",
+      "original_title": "The Devil Wears Prada 2",
+      "year": 2026,
+      "overview": "Andy Sachs reunites with Miranda Priestly as they navigate their careers amid the decline of traditional magazine publishing.",
+      "poster": "https://images.metahub.space/poster/small/tt33612209/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "countries": [
+        "США"
+      ],
+      "runtime": null,
+      "imdb_id": "tt33612209",
+      "tmdb_id": null,
+      "imdb_rating": 6.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-04-08",
+      "first_detected_at": "2026-04-08T12:00:00Z",
+      "last_updated_at": "2026-09-29T18:31:32.607095+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": []
+    }
+  ]
+}

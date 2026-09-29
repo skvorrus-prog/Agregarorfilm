@@ -1,0 +1,250 @@
+{
+  "date": "2026-01-22",
+  "count": 4,
+  "movies": [
+    {
+      "id": "tt32273171",
+      "title": "The Death of Robin Hood",
+      "original_title": "The Death of Robin Hood",
+      "year": 2026,
+      "overview": "Борясь со своим прошлым после преступной и убийственной жизни, Робин Гуд оказывается тяжело ранен после битвы, которая, как он думал, станет для него последней. В руках таинственной женщины ему предлагают шанс на спасение.",
+      "poster": "https://images.metahub.space/poster/small/tt32273171/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "countries": [
+        "United States, United Kingdom, Ireland"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32273171",
+      "tmdb_id": null,
+      "imdb_rating": 6.0,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-01-22",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.592942+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ba29c701ce836501",
+          "movie_id": "tt32273171",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Death of Robin Hood (2026)",
+          "details": {
+            "title": "The Death of Robin Hood",
+            "year": 2026,
+            "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+            "poster": "https://images.metahub.space/poster/small/tt32273171/img",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Drama"
+            ],
+            "countries": [
+              "United States, United Kingdom, Ireland"
+            ],
+            "imdb_rating": 6.0,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt32547691",
+      "title": "Pressure",
+      "original_title": "Pressure",
+      "year": 2026,
+      "overview": "В напряженные 72 часа до Дня Д генерал Дуайт Д. Эйзенхауэр и капитан Джеймс Стэгг стоят перед невозможным выбором - начать самое опасное морское вторжение в истории или вообще проиграть войну.",
+      "poster": "https://images.metahub.space/poster/small/tt32547691/img",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "countries": [
+        "United Kingdom, France, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32547691",
+      "tmdb_id": null,
+      "imdb_rating": 7.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-01-22",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.347852+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "70ad9d8bc25bebcf",
+          "movie_id": "tt32547691",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Pressure (2026)",
+          "details": {
+            "title": "Pressure",
+            "year": 2026,
+            "overview": "In the tense 72 hours before D-Day, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice--launch the most dangerous seaborne invasion in history or risk losing the war altogether.",
+            "poster": "https://images.metahub.space/poster/small/tt32547691/img",
+            "genres": [
+              "Drama",
+              "History",
+              "Thriller"
+            ],
+            "countries": [
+              "United Kingdom, France, United States"
+            ],
+            "imdb_rating": 7.3,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt26657236",
+      "title": "Backrooms",
+      "original_title": "Backrooms",
+      "year": 2026,
+      "overview": "Закули́сье — городская легенда, интернет-мем и крипипаста о вымышленном месте, в частности о бескрайнем лабиринте случайно связанных между собой офисных и подсобных помещений, вызывающем страх и тревогу своей неестественной опустошённостью. Первичная версия Закулисья берёт своё начало из публикации пользователя от 12 мая 2019 года на популярном англоязычном анонимном имиджборде 4chan в тематическом треде, посвящённом поиску изображений, которые, по мнению людей, больше всего кажутся тревожными и пугающими.",
+      "poster": "https://images.metahub.space/poster/small/tt26657236/img",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "countries": [
+        "United States, Canada"
+      ],
+      "runtime": null,
+      "imdb_id": "tt26657236",
+      "tmdb_id": null,
+      "imdb_rating": 6.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-01-22",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.198449+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6d3c3a30f89b05fd",
+          "movie_id": "tt26657236",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Backrooms (2026)",
+          "details": {
+            "title": "Backrooms",
+            "year": 2026,
+            "overview": "After a therapist's patient disappears into a dimension beyond reality, she must venture into the unknown to save him.",
+            "poster": "https://images.metahub.space/poster/small/tt26657236/img",
+            "genres": [
+              "Horror",
+              "Sci-Fi",
+              "Thriller"
+            ],
+            "countries": [
+              "United States, Canada"
+            ],
+            "imdb_rating": 6.8,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt32642706",
+      "title": "The Rip",
+      "original_title": "The Rip",
+      "year": 2026,
+      "overview": "A group of Miami cops discovers a stash of millions in cash, leading to distrust as outsiders learn about the huge seizure, making them question who to rely on.",
+      "poster": "https://images.metahub.space/poster/small/tt32642706/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "countries": [
+        "США"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32642706",
+      "tmdb_id": null,
+      "imdb_rating": 6.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-01-22",
+      "first_detected_at": "2026-01-22T12:00:00Z",
+      "last_updated_at": "2026-09-29T18:31:36.542112+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": []
+    }
+  ]
+}

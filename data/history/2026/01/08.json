@@ -1,0 +1,181 @@
+{
+  "date": "2026-01-08",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt32565993",
+      "title": "The Sheep Detectives",
+      "original_title": "The Sheep Detectives",
+      "year": 2026,
+      "overview": "Каждую ночь пастух вслух читает тайну убийства, притворяясь, что его овцы могут понять. Когда его находят мертвым, овцы сразу понимают, что это убийство, и думают, что знают все о том, как его раскрыть.",
+      "poster": "https://images.metahub.space/poster/small/tt32565993/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Family",
+        "Mystery"
+      ],
+      "countries": [
+        "United Kingdom, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32565993",
+      "tmdb_id": null,
+      "imdb_rating": 7.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-01-08",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.443064+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "087cbda181c4334b",
+          "movie_id": "tt32565993",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Sheep Detectives (2026)",
+          "details": {
+            "title": "The Sheep Detectives",
+            "year": 2026,
+            "overview": "Every night a shepherd reads aloud a murder mystery, pretending his sheep can understand. When he is found dead, the sheep realize at once that it was a murder and think they know everything about how to go about solving it.",
+            "poster": "https://images.metahub.space/poster/small/tt32565993/img",
+            "genres": [
+              "Comedy",
+              "Family",
+              "Mystery"
+            ],
+            "countries": [
+              "United Kingdom, United States"
+            ],
+            "imdb_rating": 7.4,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt35298123",
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "original_title": "Teenage Sex and Death at Camp Miasma",
+      "year": 2026,
+      "overview": "Режиссер, снимающий продолжение слэшера, становится одержимым кастингом «последней девушки» оригинального фильма, что приводит женщин к психологическому и сексуальному хаосу.",
+      "poster": "https://images.metahub.space/poster/small/tt35298123/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Romance"
+      ],
+      "countries": [
+        "Canada, United Kingdom, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt35298123",
+      "tmdb_id": null,
+      "imdb_rating": 7.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-01-08",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.263829+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "77a86596ea1679dd",
+          "movie_id": "tt35298123",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Teenage Sex and Death at Camp Miasma (2026)",
+          "details": {
+            "title": "Teenage Sex and Death at Camp Miasma",
+            "year": 2026,
+            "overview": "A director making a slasher sequel becomes obsessed with casting the original film's 'final girl,' leading both women into psychological and sexual chaos.",
+            "poster": "https://images.metahub.space/poster/small/tt35298123/img",
+            "genres": [
+              "Comedy",
+              "Horror",
+              "Romance"
+            ],
+            "countries": [
+              "Canada, United Kingdom, United States"
+            ],
+            "imdb_rating": 7.1,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt8036976",
+      "title": "Send Help",
+      "original_title": "Send Help",
+      "year": 2026,
+      "overview": "When an employee and her insufferable boss become stranded on a deserted island, the only survivors of a plane crash, they must overcome past grievances and work together to make it out alive.",
+      "poster": "https://images.metahub.space/poster/small/tt8036976/img",
+      "backdrop": null,
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
+      "countries": [
+        "США"
+      ],
+      "runtime": null,
+      "imdb_id": "tt8036976",
+      "tmdb_id": null,
+      "imdb_rating": 6.9,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-01-08",
+      "first_detected_at": "2026-01-08T12:00:00Z",
+      "last_updated_at": "2026-09-29T18:31:20.780458+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": []
+    }
+  ]
+}

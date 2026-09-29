@@ -1,0 +1,309 @@
+{
+  "date": "2026-07-15",
+  "count": 5,
+  "movies": [
+    {
+      "id": "m_7f2780faef93",
+      "title": "Колония",
+      "original_title": "Gunche / Colony",
+      "year": 2026,
+      "overview": "Коло́ния — страна, лишённая самостоятельности, находящаяся под властью иностранного государства (метрополии). Зачастую колониальный режим не предоставляет права граждан, сравнимые с правами граждан метрополии. При этом граждане метрополии пользуются в колониальных территориях большей властью и привилегиями, по сравнению с коренным населением. Образование колоний — основной инструмент расширения влияния империалистических государств (метрополий).",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzI5YWViNGUtNGRiMy00OThhLWIwOGUtZjkyZDk2NjliODY2XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "runtime": null,
+      "imdb_id": "tt34385135",
+      "tmdb_id": null,
+      "imdb_rating": 6.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-15",
+      "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
+      "last_updated_at": "2026-09-29T17:54:26.526752+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "f95e4b54b2f29f86",
+          "movie_id": "m_7f2780faef93",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T04:19:02+00:00",
+          "detected_at": "2026-09-29T17:53:19.621455+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Колония / Gunche / Colony (2026) WEB-DL-HEVC 2160p | 4K | SDR | D, L2",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt34385135",
+      "title": "Colony",
+      "original_title": "Colony",
+      "year": 2026,
+      "overview": "Профессор Се Чжон посещает биотехнологическую конференцию, только чтобы засвидетельствовать, как она превращается в катастрофу, когда быстро мутирует вирус. По мере того, как вспышка распространяется, и зараженные начинают трансформироваться, власти закрывают всю гр...",
+      "poster": "https://images.metahub.space/poster/small/tt34385135/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "runtime": null,
+      "imdb_id": "tt34385135",
+      "tmdb_id": null,
+      "imdb_rating": 6.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-15",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.568560+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "95bdcbf767481897",
+          "movie_id": "tt34385135",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Colony (2026)",
+          "details": {
+            "title": "Colony",
+            "year": 2026,
+            "overview": "Professor Se Jeong attends a biotech conference, only to witness it spiral into catastrophe when a rapidly mutating virus is unleashed. As the outbreak spreads and the infected begin to transform, authorities seal off the entire f...",
+            "poster": "https://images.metahub.space/poster/small/tt34385135/img",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Crime"
+            ],
+            "countries": [
+              "South Korea"
+            ],
+            "imdb_rating": 6.5,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37969426",
+      "title": "The Muppet Show",
+      "original_title": "The Muppet Show",
+      "year": 2026,
+      "overview": "Кермит и его друзья возвращаются в современном формате классического эстрадного шоу, смешивая ностальгическое очарование с новыми комедийными элементами, оставаясь верными вечному духу Маппетов.",
+      "poster": "https://images.metahub.space/poster/small/tt37969426/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Family",
+        "Music"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt37969426",
+      "tmdb_id": null,
+      "imdb_rating": 8.6,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-15",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.334717+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "19791ae6ea2cfcb0",
+          "movie_id": "tt37969426",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Muppet Show (2026)",
+          "details": {
+            "title": "The Muppet Show",
+            "year": 2026,
+            "overview": "Kermit and friends return in a modern take on their classic variety show format, mixing nostalgic charm with new comedy bits while staying true to the Muppets' timeless spirit.",
+            "poster": "https://images.metahub.space/poster/small/tt37969426/img",
+            "genres": [
+              "Comedy",
+              "Family",
+              "Music"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 8.6,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt22526100",
+      "title": "The Love Hypothesis",
+      "original_title": "The Love Hypothesis",
+      "year": 2026,
+      "overview": "После импульсивного поцелуя двое ученых оказываются в поддельных отношениях, проверяя свои теории о любви и друг о друге.",
+      "poster": "https://images.metahub.space/poster/small/tt22526100/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt22526100",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-15",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.191336+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e32f66d49984536c",
+          "movie_id": "tt22526100",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Love Hypothesis (2026)",
+          "details": {
+            "title": "The Love Hypothesis",
+            "year": 2026,
+            "overview": "After an impulsive kiss, two scientists end up in a fake relationship, testing their theories about love and each other.",
+            "poster": "https://images.metahub.space/poster/small/tt22526100/img",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": null,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt31514146",
+      "title": "I Swear",
+      "original_title": "I Swear",
+      "year": 2026,
+      "overview": "«I Swear» — песня американского кантри-исполнителя Джона Майкла Монтгомери, вышедшая в качестве первого сингла с его второго студийного альбома Kickin' It Up (1994). Авторами песни выступили Гари Бейкер и Фрэнк Майерс.\nПесня 4 недели возглавляла хит-парад кантри-музыки США в феврале 1994 года и была удостоена награды Академии кантри-музыки ACM Awards в престижной категории «Лучшая песня года» и награды Ассоциации кантри-музыки CMA Awards в категории «Лучший сингл года». Из трёх номинаций оригинальная версия песни получила одну Грэмми в категории Лучшая кантри-песня.",
+      "poster": "https://images.metahub.space/poster/small/tt31514146/img",
+      "backdrop": null,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "countries": [
+        "США"
+      ],
+      "runtime": null,
+      "imdb_id": "tt31514146",
+      "tmdb_id": null,
+      "imdb_rating": 8.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-15",
+      "first_detected_at": "2026-07-15T12:00:00Z",
+      "last_updated_at": "2026-09-29T18:31:33.872012+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": []
+    }
+  ]
+}

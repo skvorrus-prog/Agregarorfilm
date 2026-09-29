@@ -1,0 +1,209 @@
+{
+  "date": "2026-07-01",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt37275992",
+      "title": "The Secret Woman",
+      "original_title": "The Secret Woman",
+      "year": 2026,
+      "overview": null,
+      "poster": "https://images.metahub.space/poster/small/tt37275992/img",
+      "backdrop": null,
+      "genres": [
+        "Drama"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "runtime": null,
+      "imdb_id": "tt37275992",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-01",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.477077+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e82e86d7032158b5",
+          "movie_id": "tt37275992",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Secret Woman (2026)",
+          "details": {
+            "title": "The Secret Woman",
+            "year": 2026,
+            "overview": null,
+            "poster": "https://images.metahub.space/poster/small/tt37275992/img",
+            "genres": [
+              "Drama"
+            ],
+            "countries": [
+              "Denmark"
+            ],
+            "imdb_rating": null,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37853455",
+      "title": "One Night Only",
+      "original_title": "One Night Only",
+      "year": 2026,
+      "overview": "One Night Only:One Night Only — песня из бродвейского мюзикла 1981 года Девушки мечты\t.\nOne Night Only — английская инди-рок группа.\nOne Night Only \nOne Night Only \nOne Night Only — концертный альбом ирландской рок-группы Thin Lizzy.\nOne Night Only — DVD, записанное во время живого выступления Рики Мартина.\nOne Night Only with Ricky Martin — всемирный концертный тур пуэрто-риканского певца Рики Мартина.",
+      "poster": "https://images.metahub.space/poster/small/tt37853455/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt37853455",
+      "tmdb_id": null,
+      "imdb_rating": 6.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-01",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.429093+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "fea17591a69b94d8",
+          "movie_id": "tt37853455",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "One Night Only (2026)",
+          "details": {
+            "title": "One Night Only",
+            "year": 2026,
+            "overview": "Two New Yorkers search for love on the one night of the year when pre-marital sex is legal.",
+            "poster": "https://images.metahub.space/poster/small/tt37853455/img",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 6.3,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt28014327",
+      "title": "Mayday",
+      "original_title": "Mayday",
+      "year": 2026,
+      "overview": "Разведывательная миссия лейтенанта Троя Бреннана над советской территорией идет наперекосяк, заставляя его совершить аварийную посадку и выжить в русской пустыне, избегая захвата или спасения.",
+      "poster": "https://images.metahub.space/poster/small/tt28014327/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt28014327",
+      "tmdb_id": null,
+      "imdb_rating": 6.9,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-01",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-09-28T19:44:00.245734+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "89ac01eefc6b6824",
+          "movie_id": "tt28014327",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Mayday (2026)",
+          "details": {
+            "title": "Mayday",
+            "year": 2026,
+            "overview": "Lieutenant Troy Brennan's reconnaissance mission over Soviet territory goes awry, forcing him to crash-land and survive in Russian wilderness while evading capture or rescue.",
+            "poster": "https://images.metahub.space/poster/small/tt28014327/img",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 6.9,
+            "runtime": null
+          }
+        }
+      ]
+    }
+  ]
+}
