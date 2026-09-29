@@ -100,6 +100,11 @@ class PipelineRunner:
             orig_title = raw.parsed_original_title or parsed.original_title
             year = raw.parsed_year or parsed.year
 
+            # Strict vintage release filter: completely reject vintage catalog releases (e.g. 1989, 1998)
+            if year and year < 2020:
+                logger.info(f"Skipping vintage catalog release: {title} ({year})")
+                continue
+
             quality = raw.metadata.get("quality") or parsed.quality
             resolution = raw.metadata.get("resolution") or parsed.resolution
             hdr = raw.metadata.get("hdr") or parsed.hdr

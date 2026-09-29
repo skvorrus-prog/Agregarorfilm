@@ -2905,127 +2905,6 @@
   ]
  },
  {
-  "id": "m_2412143a0fcd",
-  "title": "Королевская няня",
-  "original_title": "The Royal Nanny",
-  "year": 2022,
-  "overview": "Перспективная карьера бывшего слизняка Kansas City Royal Вилли Мэйса Эйкенса быстро обернулась катастрофой из-за наркомании.",
-  "poster": "https://images.metahub.space/poster/small/tt11425254/img",
-  "backdrop": null,
-  "genres": [
-   "Biography",
-   "Sport"
-  ],
-  "countries": [
-   "United States"
-  ],
-  "runtime": null,
-  "imdb_id": "tt11425254",
-  "tmdb_id": null,
-  "imdb_rating": 5.8,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
-  "last_updated_at": "2026-09-29T17:53:44.314876+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEBRip",
-  "best_resolution": "1080p",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "239549966348317c",
-    "movie_id": "m_2412143a0fcd",
-    "event_type": "WEB_DL_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-29T14:01:06+00:00",
-    "detected_at": "2026-09-29T17:53:19.621455+00:00",
-    "quality": "WEBRip",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": "Jaskier",
-    "raw_title": "Королевская няня / The Royal Nanny (2022) WEBRip 1080p | Jaskier",
-    "details": {
-     "quality": "WEBRip",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": null,
-     "release_group": "Jaskier",
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "m_83f7039912b7",
-  "title": "Секс, ложь и видео",
-  "original_title": "Sex, Lies, and Videotape",
-  "year": 1989,
-  "overview": "«Секс, ложь и видео» — американская психологическая драма режиссёра Стивена Содерберга, повествующая о взаимоотношениях женщины, разочаровавшейся в своей семейной жизни, и мужчины, отчаявшегося найти счастье в любви.",
-  "poster": "https://m.media-amazon.com/images/M/MV5BZmFjNjkyNmQtMDdkNy00YmQxLWFmZTYtZDQyYTY3ZGFjYmFiXkEyXkFqcGc@._V1_SX250.jpg",
-  "backdrop": null,
-  "genres": [
-   "Drama"
-  ],
-  "countries": [
-   "United States, United Kingdom"
-  ],
-  "runtime": null,
-  "imdb_id": "tt0098724",
-  "tmdb_id": null,
-  "imdb_rating": 7.2,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
-  "last_updated_at": "2026-09-29T17:53:39.849016+00:00",
-  "status": "UHD_RELEASE",
-  "best_quality": "unknown",
-  "best_resolution": "2160p",
-  "has_4k": true,
-  "has_hdr": true,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "2a329c55ecd44f7e",
-    "movie_id": "m_83f7039912b7",
-    "event_type": "UHD_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-29T15:03:50+00:00",
-    "detected_at": "2026-09-29T17:53:19.621455+00:00",
-    "quality": "unknown",
-    "resolution": "2160p",
-    "hdr": "HDR",
-    "audio": null,
-    "language": "RU",
-    "release_group": null,
-    "raw_title": "Секс, ложь и видео / Sex, Lies, and Videotape (1989) UHD BDRemux 2160p | 4K | HDR | P, P2, A",
-    "details": {
-     "quality": "unknown",
-     "resolution": "2160p",
-     "hdr": "HDR",
-     "audio": null,
-     "language": "RU",
-     "release_group": null,
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
   "id": "m_a13b97f02e79",
   "title": "Яростный: Ставка на честь",
   "original_title": "The Furious: Pertaruhan Maruah",
@@ -3209,151 +3088,6 @@
   ]
  },
  {
-  "id": "m_94e23083520c",
-  "title": "Дом-ловушка",
-  "original_title": "Accused",
-  "year": 2023,
-  "overview": "После того, как однажды ночью молодая женщина страдает от жестокого группового изнасилования в баре, прокурор помогает привлечь виновных к ответственности, в том числе тех, кто поощрял и поддерживал нападение.",
-  "poster": "https://m.media-amazon.com/images/M/MV5BZDU2NGRmNGYtN2JiNi00ZDcyLTllM2UtNzhiNDM4ZTU3ODMxXkEyXkFqcGc@._V1_SX250.jpg",
-  "backdrop": null,
-  "genres": [
-   "Crime",
-   "Drama"
-  ],
-  "countries": [
-   "United States"
-  ],
-  "runtime": null,
-  "imdb_id": "tt0094608",
-  "tmdb_id": null,
-  "imdb_rating": 7.1,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-28T19:45:18.167853+00:00",
-  "status": "BLURAY_RELEASE",
-  "best_quality": "BluRay",
-  "best_resolution": "1080p",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "9ac4948286ba0bb8",
-    "movie_id": "m_94e23083520c",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-28T10:00:52+00:00",
-    "detected_at": "2026-09-28T19:43:56.728164+00:00",
-    "quality": "BluRay",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "Paragraph Media",
-    "raw_title": "Дом-ловушка / Accused (2023) BDRip 1080p от DoMiNo & селезень | D | Paragraph Media",
-    "details": {
-     "quality": "BluRay",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "Paragraph Media",
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "m_2599f9f9c827",
-  "title": "Жажда славы",
-  "original_title": "Magazine Dreams",
-  "year": 2023,
-  "overview": "Бодибилдер-любитель борется как с ограничениями своего физического тела, так и со своими внутренними демонами, чтобы получить признание.",
-  "poster": "https://images.metahub.space/poster/small/tt13652142/img",
-  "backdrop": null,
-  "genres": [
-   "Drama"
-  ],
-  "countries": [
-   "United States"
-  ],
-  "runtime": null,
-  "imdb_id": "tt13652142",
-  "tmdb_id": null,
-  "imdb_rating": 7.0,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-28T19:45:13.564305+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "1080p",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "125586142adeff82",
-    "movie_id": "m_2599f9f9c827",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-28T12:46:39+00:00",
-    "detected_at": "2026-09-28T19:43:56.728164+00:00",
-    "quality": "WEB-DL",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "WinMedia",
-    "raw_title": "Жажда славы / Magazine Dreams (2023) WEB-DL 1080p от ELEKTRI4KA | D | WinMedia",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "WinMedia",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "299b61de58f4a975",
-    "movie_id": "m_2599f9f9c827",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-28T12:46:44+00:00",
-    "detected_at": "2026-09-28T19:43:56.728164+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "WinMedia",
-    "raw_title": "Жажда славы / Magazine Dreams (2023) WEB-DLRip от ELEKTRI4KA | D | WinMedia",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "unknown",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "WinMedia",
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
   "id": "m_a18aee88bdcd",
   "title": "Каравали",
   "original_title": "Karavali",
@@ -3411,153 +3145,6 @@
      "audio": null,
      "language": null,
      "release_group": "L1",
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "m_a8dbc473d9b8",
-  "title": "Том и Джерри",
-  "original_title": "Tom and Jerry",
-  "year": 2021,
-  "overview": "С магией в воздухе Джерри и его племянник Таффи делают снежную мышь, которая чудесным образом оживает. Чтобы их новый друг, снежный мышонок Ларри, не растаял, Таффи и Джерри должны отправиться с ним в легендарную деревню снеговиков.",
-  "poster": "https://images.metahub.space/poster/small/tt21958986/img",
-  "backdrop": null,
-  "genres": [
-   "Animation",
-   "Adventure",
-   "Comedy"
-  ],
-  "countries": [
-   "United States, Canada"
-  ],
-  "runtime": null,
-  "imdb_id": "tt21958986",
-  "tmdb_id": null,
-  "imdb_rating": 4.9,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-28T19:45:15.847015+00:00",
-  "status": "BLURAY_RELEASE",
-  "best_quality": "BluRay",
-  "best_resolution": "1080p",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "e503272faad82d65",
-    "movie_id": "m_a8dbc473d9b8",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-28T10:38:17+00:00",
-    "detected_at": "2026-09-28T19:43:56.728164+00:00",
-    "quality": "WEB-DL",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": null,
-    "raw_title": "Том и Джерри / Tom and Jerry (2021) WEB-DLRip 1080p от EniaHD | D, A | Мосфильм-Мастер, Карповский, Дольский, Чадов",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": null,
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "60bc088b553596b9",
-    "movie_id": "m_a8dbc473d9b8",
-    "event_type": "BLURAY_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-28T16:31:04+00:00",
-    "detected_at": "2026-09-28T19:43:56.728164+00:00",
-    "quality": "BluRay",
-    "resolution": "720p",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": "iTunes",
-    "raw_title": "Том и Джерри / Tom and Jerry (2021) BDRip 720p от селезень | iTunes",
-    "details": {
-     "quality": "BluRay",
-     "resolution": "720p",
-     "hdr": null,
-     "audio": null,
-     "language": null,
-     "release_group": "iTunes",
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "m_1c74683cb153",
-  "title": "Солдат",
-  "original_title": "Soldier",
-  "year": 1998,
-  "overview": "Универсальные солдаты используются для контрабанды алмазов для директора ЦРУ, но Люк Деверо продолжает создавать ему проблемы.",
-  "poster": "https://images.metahub.space/poster/small/tt0186654/img",
-  "backdrop": null,
-  "genres": [
-   "Action",
-   "Sci-Fi"
-  ],
-  "countries": [
-   "Canada, United States"
-  ],
-  "runtime": null,
-  "imdb_id": "tt0186654",
-  "tmdb_id": null,
-  "imdb_rating": 2.9,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-28T19:44:17.791578+00:00",
-  "status": "UHD_RELEASE",
-  "best_quality": "REMUX",
-  "best_resolution": "2160p",
-  "has_4k": true,
-  "has_hdr": true,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "48c33516238f1ffb",
-    "movie_id": "m_1c74683cb153",
-    "event_type": "UHD_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-28T16:32:59+00:00",
-    "detected_at": "2026-09-28T19:43:56.728164+00:00",
-    "quality": "REMUX",
-    "resolution": "2160p",
-    "hdr": "Dolby Vision / HDR10",
-    "audio": null,
-    "language": "RU",
-    "release_group": null,
-    "raw_title": "Солдат / Soldier (1998) UHD Blu-Ray Remux 2160p | 4K | HDR | Dolby Vision Profile 7 | D, P, A",
-    "details": {
-     "quality": "REMUX",
-     "resolution": "2160p",
-     "hdr": "Dolby Vision / HDR10",
-     "audio": null,
-     "language": "RU",
-     "release_group": null,
      "is_secondary_signal": true
     }
    }
@@ -3857,6 +3444,280 @@
       "United States, Australia, Canada"
      ],
      "imdb_rating": 7.5,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt5950044",
+  "title": "Superman",
+  "original_title": "Superman",
+  "year": 2025,
+  "overview": "Супермен должен примирить свое инопланетное криптонское наследие с человеческим воспитанием в качестве репортера Кларка Кента. Как воплощение правды, справедливости и американского образа жизни, он вскоре оказывается в мире, который считает их старомодными.",
+  "poster": "https://images.metahub.space/poster/small/tt5950044/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt5950044",
+  "tmdb_id": null,
+  "imdb_rating": 7.0,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+  "last_updated_at": "2026-09-28T19:44:00.467340+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "36efac7bab8e7d7c",
+    "movie_id": "tt5950044",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:43:56.728164+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Superman (2025)",
+    "details": {
+     "title": "Superman",
+     "year": 2025,
+     "overview": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the American way he soon finds himself in a world that views these as old-fashioned.",
+     "poster": "https://images.metahub.space/poster/small/tt5950044/img",
+     "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 7.0,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt27543632",
+  "title": "The Housemaid",
+  "original_title": "The Housemaid",
+  "year": 2025,
+  "overview": "Милли, борющаяся молодая женщина, становится горничной для богатой пары Нины и Эндрю. Она входит в особняк секретов, манипуляций и эскалации психологических игр, которые втягивают ее в опасную динамику отношений.",
+  "poster": "https://images.metahub.space/poster/small/tt27543632/img",
+  "backdrop": null,
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt27543632",
+  "tmdb_id": null,
+  "imdb_rating": 6.7,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+  "last_updated_at": "2026-09-28T19:44:00.455144+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "d2678bff51d21fec",
+    "movie_id": "tt27543632",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:43:56.728164+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Housemaid (2025)",
+    "details": {
+     "title": "The Housemaid",
+     "year": 2025,
+     "overview": "Millie a struggling young woman becomes live in maid for a wealthy couple Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
+     "poster": "https://images.metahub.space/poster/small/tt27543632/img",
+     "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 6.7,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt26581740",
+  "title": "Weapons",
+  "original_title": "Weapons",
+  "year": 2025,
+  "overview": "Когда все, кроме одного ребенка из одного класса, таинственным образом исчезают в одну и ту же ночь в одно и то же время, сообщество задается вопросом, кто или что стоит за их исчезновением.",
+  "poster": "https://images.metahub.space/poster/small/tt26581740/img",
+  "backdrop": null,
+  "genres": [
+   "Horror",
+   "Mystery"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt26581740",
+  "tmdb_id": null,
+  "imdb_rating": 7.4,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+  "last_updated_at": "2026-09-28T19:44:00.369285+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "1d7f9eb61ec31647",
+    "movie_id": "tt26581740",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:43:56.728164+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Weapons (2025)",
+    "details": {
+     "title": "Weapons",
+     "year": 2025,
+     "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+     "poster": "https://images.metahub.space/poster/small/tt26581740/img",
+     "genres": [
+      "Horror",
+      "Mystery"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 7.4,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt5177120",
+  "title": "The Ministry of Ungentlemanly Warfare",
+  "original_title": "The Ministry of Ungentlemanly Warfare",
+  "year": 2024,
+  "overview": "Британские военные набирают небольшую группу высококвалифицированных солдат для нанесения ударов по немецким войскам в тылу врага во время Второй мировой войны.",
+  "poster": "https://images.metahub.space/poster/small/tt5177120/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Comedy",
+   "War"
+  ],
+  "countries": [
+   "United States, United Kingdom, Turkey"
+  ],
+  "runtime": null,
+  "imdb_id": "tt5177120",
+  "tmdb_id": null,
+  "imdb_rating": 6.8,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+  "last_updated_at": "2026-09-28T19:44:00.275317+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "bcc9db6e1ad5f1ec",
+    "movie_id": "tt5177120",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-28T19:43:56.728164+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Ministry of Ungentlemanly Warfare (2024)",
+    "details": {
+     "title": "The Ministry of Ungentlemanly Warfare",
+     "year": 2024,
+     "overview": "The British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
+     "poster": "https://images.metahub.space/poster/small/tt5177120/img",
+     "genres": [
+      "Action",
+      "Comedy",
+      "War"
+     ],
+     "countries": [
+      "United States, United Kingdom, Turkey"
+     ],
+     "imdb_rating": 6.8,
      "runtime": null
     }
    }
