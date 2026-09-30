@@ -350,9 +350,9 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
     "has_ru_audio": true
    },
    {
@@ -710,6 +710,36 @@
  "09-30": {
   "2026": [
    {
+    "id": "m_26d9f553628c",
+    "title": "Сфера будущего",
+    "original_title": "Дрезденское солнце / The Dresden Sun",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTZiZTUyMTYtYWZmMS00MDgzLWJjMGItYTNkNGY3OTYzOTJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 8.0,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_1f81c637dffc",
+    "title": "Фатум",
+    "original_title": "Mukadderat / Fate",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTU2OGFhYjktNDJhMC00NmU5LWE1OWItNzg5ODU1MzdmNTZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_d8e67a16cdd6",
     "title": "Самурай и пленник",
     "original_title": "Kokurojo / The Samurai and the Prisoner",
@@ -779,10 +809,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
    }
   ]
  },
