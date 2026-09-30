@@ -229,10 +229,10 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-07-15",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.191336+00:00",
-      "status": "ANNOUNCED",
-      "best_quality": "unknown",
-      "best_resolution": "unknown",
+      "last_updated_at": "2026-09-30T12:14:20.298948+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "720p",
       "has_4k": false,
       "has_hdr": false,
       "has_ru_audio": false,
@@ -265,6 +265,30 @@
             ],
             "imdb_rating": null,
             "runtime": null
+          }
+        },
+        {
+          "id": "801430aa1e4212ba",
+          "movie_id": "tt22526100",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T21:18:16+00:00",
+          "detected_at": "2026-09-30T12:13:51.123441+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Гипотеза любви / The Love Hypothesis (2026) WEB-DL 720p | Р | TVShows, WinMedia",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]

@@ -30,7 +30,7 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-01-01",
       "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
-      "last_updated_at": "2026-09-29T17:54:24.245574+00:00",
+      "last_updated_at": "2026-09-30T12:14:20.300918+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -187,6 +187,30 @@
             ],
             "imdb_rating": 7.6,
             "runtime": null
+          }
+        },
+        {
+          "id": "26af4f0fc0fe8d37",
+          "movie_id": "tt1756855",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-29T19:28:20+00:00",
+          "detected_at": "2026-09-30T12:13:51.123441+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) WEB-DLRip | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
           }
         }
       ]

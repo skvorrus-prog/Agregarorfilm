@@ -425,10 +425,10 @@
   "theatrical_release_date": null,
   "digital_release_date": "2026-07-15",
   "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-28T19:44:00.191336+00:00",
-  "status": "ANNOUNCED",
-  "best_quality": "unknown",
-  "best_resolution": "unknown",
+  "last_updated_at": "2026-09-30T12:14:20.298948+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "720p",
   "has_4k": false,
   "has_hdr": false,
   "has_ru_audio": false,
@@ -461,6 +461,30 @@
      ],
      "imdb_rating": null,
      "runtime": null
+    }
+   },
+   {
+    "id": "801430aa1e4212ba",
+    "movie_id": "tt22526100",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-29T21:18:16+00:00",
+    "detected_at": "2026-09-30T12:13:51.123441+00:00",
+    "quality": "WEB-DL",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Гипотеза любви / The Love Hypothesis (2026) WEB-DL 720p | Р | TVShows, WinMedia",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": null,
+     "is_secondary_signal": true
     }
    }
   ]
@@ -2515,7 +2539,7 @@
   "theatrical_release_date": null,
   "digital_release_date": "2026-01-01",
   "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
-  "last_updated_at": "2026-09-29T17:54:24.245574+00:00",
+  "last_updated_at": "2026-09-30T12:14:20.300918+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -2673,6 +2697,30 @@
      "imdb_rating": 7.6,
      "runtime": null
     }
+   },
+   {
+    "id": "26af4f0fc0fe8d37",
+    "movie_id": "tt1756855",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-29T19:28:20+00:00",
+    "detected_at": "2026-09-30T12:13:51.123441+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "HDRezka Studio",
+    "raw_title": "Хитрый койот / Coyote vs. Acme (2026) WEB-DLRip | D, P | HDRezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "HDRezka Studio",
+     "is_secondary_signal": true
+    }
    }
   ]
  },
@@ -2781,6 +2829,353 @@
   "has_hdr": true,
   "has_ru_audio": true,
   "events": []
+ },
+ {
+  "id": "m_d8e67a16cdd6",
+  "title": "Самурай и пленник",
+  "original_title": "Kokurojo / The Samurai and the Prisoner",
+  "year": 2026,
+  "overview": "Когда лорд Мурасигэ восстает против тиранической Оды, он оказывается в осаде в стенах своего замка. Изолированный, он сталкивается с серией таинственных преступлений, которые разрушают хрупкий порядок его двора, погружая крепость в страх и подозрения. Когда армия Оды приближается, а в его рядах прячется предатель, Мурасиге вынужден вступить в непростой союз с Канбеем, блестящим и опасным стратегом, заключенным в",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTg0MWVmMTAtZWZkNS00ZjM3LTkxODgtMDQzZjJiYWNjZDUzXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Drama",
+   "History",
+   "Mystery"
+  ],
+  "countries": [
+   "Japan"
+  ],
+  "runtime": null,
+  "imdb_id": "tt39602215",
+  "tmdb_id": null,
+  "imdb_rating": 7.1,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
+  "last_updated_at": "2026-09-30T12:14:20.291583+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "869531f430b36521",
+    "movie_id": "m_d8e67a16cdd6",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-30T09:41:16+00:00",
+    "detected_at": "2026-09-30T12:13:51.123441+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Самурай и пленник / Kokurojo / The Samurai and the Prisoner (2026) WEB-DL 1080p | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_42b03017f1e8",
+  "title": "Номер один",
+  "original_title": "Neombeowon / Number One",
+  "year": 2026,
+  "overview": "Восемнадцатилетний Хамин внезапно начинает видеть цифру «365» каждый раз, когда ест домашнюю еду своей матери, и число падает с каждым укусом. Полагая, что это обратный отсчет до смерти его матери, он дистанцируется от нее и ее приготовления пищи. Спустя годы, все еще преследуемый числом, Ха-Мин живет осторожно, готовясь к худшему. Как только он начинает находить мир со своей подругой Рё Ын, неожиданная правда переворачивает его мир с ног на голову.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTVhYjgzNTMtOTJhZC00NzY1LWI3MDgtMDQ2N2UzMTdjMDZkXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Fantasy",
+   "Drama"
+  ],
+  "countries": [
+   "South Korea"
+  ],
+  "runtime": null,
+  "imdb_id": "tt39380534",
+  "tmdb_id": null,
+  "imdb_rating": 6.4,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
+  "last_updated_at": "2026-09-30T12:14:15.076756+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "23a340e199c0f6d1",
+    "movie_id": "m_42b03017f1e8",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-30T10:04:13+00:00",
+    "detected_at": "2026-09-30T12:13:51.123441+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Номер один / Neombeowon / Number One (2026) WEB-DL 1080p | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_556296676f8a",
+  "title": "Я вижу тебя",
+  "original_title": "Глаза / Nundongja as / The Eyes",
+  "year": 2026,
+  "overview": "Юрисконсульт в отставке пишет роман в надежде найти решение по одному из его прошлых нераскрытых дел об убийстве и за его безответную любовь к своему начальнику - оба из которых все еще преследуют его десятилетия спустя.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Romance"
+  ],
+  "countries": [
+   "Argentina, Spain"
+  ],
+  "runtime": null,
+  "imdb_id": "tt1305806",
+  "tmdb_id": null,
+  "imdb_rating": 8.2,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
+  "last_updated_at": "2026-09-30T12:14:12.261022+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "ce1c2613537d8d6c",
+    "movie_id": "m_556296676f8a",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-30T10:50:16+00:00",
+    "detected_at": "2026-09-30T12:13:51.123441+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Я вижу тебя / Глаза / Nundongja as / The Eyes (2026) WEB-DL 1080p | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt27706593",
+  "title": "The Rivals of Amziah King",
+  "original_title": "The Rivals of Amziah King",
+  "year": 2026,
+  "overview": "«Соперники Амзиа Кинга» — британский художественный фильм режиссёра Эндрю Паттерсона в жанре криминального триллера. В фильме снялись Мэттью Макконахи и Курт Расселл. Его премьера состоялась 10 марта 2025 года на фестивале South by Southwest.",
+  "poster": "https://images.metahub.space/poster/small/tt27706593/img",
+  "backdrop": null,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "countries": [
+   "United States, United Kingdom"
+  ],
+  "runtime": null,
+  "imdb_id": "tt27706593",
+  "tmdb_id": null,
+  "imdb_rating": 7.3,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
+  "last_updated_at": "2026-09-30T12:13:53.642741+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "14ce33d43a6b2a08",
+    "movie_id": "tt27706593",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-30T12:13:51.123441+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Rivals of Amziah King (2026)",
+    "details": {
+     "title": "The Rivals of Amziah King",
+     "year": 2026,
+     "overview": "Amziah King, beekeeper, musician, and anchor of his community, reunites with former foster daughter Kateri after many years apart, and fends off threats to his honey business.",
+     "poster": "https://images.metahub.space/poster/small/tt27706593/img",
+     "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+     ],
+     "countries": [
+      "United States, United Kingdom"
+     ],
+     "imdb_rating": 7.3,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt36983905",
+  "title": "The Uprising",
+  "original_title": "The Uprising",
+  "year": 2026,
+  "overview": "Основанный на реальной истории восстания, вдохновившего легенду о Робин Гуде, Эндрю Гарфилд играет роль лидера восстания против тирании короля Ричарда II в борьбе за справедливость.",
+  "poster": "https://images.metahub.space/poster/small/tt36983905/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Drama",
+   "History"
+  ],
+  "countries": [
+   "United Kingdom, Germany, United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt36983905",
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
+  "last_updated_at": "2026-09-30T12:14:20.297668+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "30a00782752dbd7a",
+    "movie_id": "tt36983905",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-30T05:38:28+00:00",
+    "detected_at": "2026-09-30T12:13:51.123441+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Sub",
+    "raw_title": "Восставший / The Uprising (2026) WEB-DL 1080p | Sub",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Sub",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "6b01c282c0fde18b",
+    "movie_id": "tt36983905",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-09-30T12:13:51.123441+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Uprising (2026)",
+    "details": {
+     "title": "The Uprising",
+     "year": 2026,
+     "overview": "Based on the true story of the uprising that inspired the legend of Robin Hood, Andrew Garfield stars as the leader of a rebellion against the tyranny of King Richard II in a fight for justice.",
+     "poster": "https://images.metahub.space/poster/small/tt36983905/img",
+     "genres": [
+      "Action",
+      "Drama",
+      "History"
+     ],
+     "countries": [
+      "United Kingdom, Germany, United States"
+     ],
+     "imdb_rating": null,
+     "runtime": null
+    }
+   }
+  ]
  },
  {
   "id": "m_56f79f540d9e",
@@ -3238,12 +3633,12 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-28T19:44:58.910057+00:00",
+  "last_updated_at": "2026-09-30T12:14:20.294878+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
   "has_4k": false,
-  "has_hdr": false,
+  "has_hdr": true,
   "has_ru_audio": true,
   "events": [
    {
@@ -3291,6 +3686,30 @@
      "audio": null,
      "language": "RU",
      "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "71ad901718d03f82",
+    "movie_id": "m_17f933a625b7",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-09-30T08:57:19+00:00",
+    "detected_at": "2026-09-30T12:13:51.123441+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "HDrezka Studio",
+    "raw_title": "Курьер / Runner (2026) WEB-DLRip-AVC от DoMiNo & селезень | P | HDrezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "HDrezka Studio",
      "is_secondary_signal": true
     }
    }
@@ -3513,211 +3932,6 @@
       "United States"
      ],
      "imdb_rating": 7.0,
-     "runtime": null
-    }
-   }
-  ]
- },
- {
-  "id": "tt27543632",
-  "title": "The Housemaid",
-  "original_title": "The Housemaid",
-  "year": 2025,
-  "overview": "Милли, борющаяся молодая женщина, становится горничной для богатой пары Нины и Эндрю. Она входит в особняк секретов, манипуляций и эскалации психологических игр, которые втягивают ее в опасную динамику отношений.",
-  "poster": "https://images.metahub.space/poster/small/tt27543632/img",
-  "backdrop": null,
-  "genres": [
-   "Drama",
-   "Mystery",
-   "Thriller"
-  ],
-  "countries": [
-   "United States"
-  ],
-  "runtime": null,
-  "imdb_id": "tt27543632",
-  "tmdb_id": null,
-  "imdb_rating": 6.7,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-28T19:44:00.455144+00:00",
-  "status": "ANNOUNCED",
-  "best_quality": "unknown",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "d2678bff51d21fec",
-    "movie_id": "tt27543632",
-    "event_type": "RELEASE_DETECTED",
-    "source_name": "Cinemeta",
-    "source_release_date": null,
-    "detected_at": "2026-09-28T19:43:56.728164+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "The Housemaid (2025)",
-    "details": {
-     "title": "The Housemaid",
-     "year": 2025,
-     "overview": "Millie a struggling young woman becomes live in maid for a wealthy couple Nina and Andrew. She enters a mansion of secrets, manipulation, and escalating psychological games that pull her into a dangerous relationship dynamic.",
-     "poster": "https://images.metahub.space/poster/small/tt27543632/img",
-     "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-     ],
-     "countries": [
-      "United States"
-     ],
-     "imdb_rating": 6.7,
-     "runtime": null
-    }
-   }
-  ]
- },
- {
-  "id": "tt26581740",
-  "title": "Weapons",
-  "original_title": "Weapons",
-  "year": 2025,
-  "overview": "Когда все, кроме одного ребенка из одного класса, таинственным образом исчезают в одну и ту же ночь в одно и то же время, сообщество задается вопросом, кто или что стоит за их исчезновением.",
-  "poster": "https://images.metahub.space/poster/small/tt26581740/img",
-  "backdrop": null,
-  "genres": [
-   "Horror",
-   "Mystery"
-  ],
-  "countries": [
-   "United States"
-  ],
-  "runtime": null,
-  "imdb_id": "tt26581740",
-  "tmdb_id": null,
-  "imdb_rating": 7.4,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-28T19:44:00.369285+00:00",
-  "status": "ANNOUNCED",
-  "best_quality": "unknown",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "1d7f9eb61ec31647",
-    "movie_id": "tt26581740",
-    "event_type": "RELEASE_DETECTED",
-    "source_name": "Cinemeta",
-    "source_release_date": null,
-    "detected_at": "2026-09-28T19:43:56.728164+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Weapons (2025)",
-    "details": {
-     "title": "Weapons",
-     "year": 2025,
-     "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-     "poster": "https://images.metahub.space/poster/small/tt26581740/img",
-     "genres": [
-      "Horror",
-      "Mystery"
-     ],
-     "countries": [
-      "United States"
-     ],
-     "imdb_rating": 7.4,
-     "runtime": null
-    }
-   }
-  ]
- },
- {
-  "id": "tt5177120",
-  "title": "The Ministry of Ungentlemanly Warfare",
-  "original_title": "The Ministry of Ungentlemanly Warfare",
-  "year": 2024,
-  "overview": "Британские военные набирают небольшую группу высококвалифицированных солдат для нанесения ударов по немецким войскам в тылу врага во время Второй мировой войны.",
-  "poster": "https://images.metahub.space/poster/small/tt5177120/img",
-  "backdrop": null,
-  "genres": [
-   "Action",
-   "Comedy",
-   "War"
-  ],
-  "countries": [
-   "United States, United Kingdom, Turkey"
-  ],
-  "runtime": null,
-  "imdb_id": "tt5177120",
-  "tmdb_id": null,
-  "imdb_rating": 6.8,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-28T19:44:00.275317+00:00",
-  "status": "ANNOUNCED",
-  "best_quality": "unknown",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "bcc9db6e1ad5f1ec",
-    "movie_id": "tt5177120",
-    "event_type": "RELEASE_DETECTED",
-    "source_name": "Cinemeta",
-    "source_release_date": null,
-    "detected_at": "2026-09-28T19:43:56.728164+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "The Ministry of Ungentlemanly Warfare (2024)",
-    "details": {
-     "title": "The Ministry of Ungentlemanly Warfare",
-     "year": 2024,
-     "overview": "The British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
-     "poster": "https://images.metahub.space/poster/small/tt5177120/img",
-     "genres": [
-      "Action",
-      "Comedy",
-      "War"
-     ],
-     "countries": [
-      "United States, United Kingdom, Turkey"
-     ],
-     "imdb_rating": 6.8,
      "runtime": null
     }
    }
