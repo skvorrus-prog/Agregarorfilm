@@ -432,7 +432,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
-      "last_updated_at": "2026-09-30T22:03:09.168724+00:00",
+      "last_updated_at": "2026-10-01T06:42:26.119323+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -611,6 +611,30 @@
             "hdr": null,
             "audio": null,
             "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "ddaafd3cf29ce24d",
+          "movie_id": "tt36983905",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-01T03:35:39+00:00",
+          "detected_at": "2026-10-01T06:42:24.585192+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDRezka Studio",
+          "raw_title": "Восставший / The Uprising (2026) WEB-DLRip | P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
             "release_group": "HDRezka Studio",
             "is_secondary_signal": true
           }

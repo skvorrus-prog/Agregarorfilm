@@ -2879,6 +2879,67 @@
   "events": []
  },
  {
+  "id": "m_a1601de235af",
+  "title": "В поисках Эмили",
+  "original_title": "Finding Emily",
+  "year": 2026,
+  "overview": "В поисках Эмили — британская романтическая комедия 2026 года, снятая режиссёром Алисией Макдональд по сценарию Рэйчел Хайронс и спродюсированная компанией Working Title Films.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2MzZDk2Y2ItYzNiZS00Y2Y3LTg2NzYtMmI3NmI4NGFhYzBmXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Comedy",
+   "Romance"
+  ],
+  "countries": [
+   "United Kingdom, United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt32499466",
+  "tmdb_id": null,
+  "imdb_rating": 6.9,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-01T06:42:24.585192+00:00",
+  "last_updated_at": "2026-10-01T06:42:26.115954+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "936ca95a2e6529b7",
+    "movie_id": "m_a1601de235af",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-01T05:22:20+00:00",
+    "detected_at": "2026-10-01T06:42:24.585192+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "AlphaProject",
+    "raw_title": "В поисках Эмили / Finding Emily (2026) WEB-DL 1080p | L | AlphaProject",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "AlphaProject",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
   "id": "m_26d9f553628c",
   "title": "Сфера будущего",
   "original_title": "Дрезденское солнце / The Dresden Sun",
@@ -3308,7 +3369,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
-  "last_updated_at": "2026-09-30T22:03:09.168724+00:00",
+  "last_updated_at": "2026-10-01T06:42:26.119323+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -3487,6 +3548,30 @@
      "hdr": null,
      "audio": null,
      "language": "RU",
+     "release_group": "HDRezka Studio",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "ddaafd3cf29ce24d",
+    "movie_id": "tt36983905",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-01T03:35:39+00:00",
+    "detected_at": "2026-10-01T06:42:24.585192+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "HDRezka Studio",
+    "raw_title": "Восставший / The Uprising (2026) WEB-DLRip | P | HDRezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": null,
      "release_group": "HDRezka Studio",
      "is_secondary_signal": true
     }
@@ -3949,7 +4034,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-30T22:03:09.180968+00:00",
+  "last_updated_at": "2026-10-01T06:42:25.164652+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -4122,6 +4207,30 @@
      "audio": null,
      "language": "RU",
      "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "c336193033e4db42",
+    "movie_id": "m_17f933a625b7",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-01T06:32:58+00:00",
+    "detected_at": "2026-10-01T06:42:24.585192+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "HDrezka Studio",
+    "raw_title": "Курьер / Runner (2026) WEB-DL 1080p | D, Р | HDrezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "HDrezka Studio",
      "is_secondary_signal": true
     }
    }

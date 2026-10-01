@@ -275,7 +275,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-30T22:03:09.180968+00:00",
+      "last_updated_at": "2026-10-01T06:42:25.164652+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -448,6 +448,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "c336193033e4db42",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-01T06:32:58+00:00",
+          "detected_at": "2026-10-01T06:42:24.585192+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "Курьер / Runner (2026) WEB-DL 1080p | D, Р | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
             "is_secondary_signal": true
           }
         }

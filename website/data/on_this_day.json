@@ -707,6 +707,25 @@
    }
   ]
  },
+ "10-01": {
+  "2026": [
+   {
+    "id": "m_a1601de235af",
+    "title": "В поисках Эмили",
+    "original_title": "Finding Emily",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2MzZDk2Y2ItYzNiZS00Y2Y3LTg2NzYtMmI3NmI4NGFhYzBmXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.9,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "09-30": {
   "2026": [
    {
