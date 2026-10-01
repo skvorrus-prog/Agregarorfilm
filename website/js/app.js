@@ -435,21 +435,47 @@ class App {
       <div class="modal-grid">
         <div>
           <img src="${movie.poster || 'images/no-poster.svg'}" alt="${this.escapeHtml(movie.title)}" style="width: 100%; border-radius: var(--radius-md); aspect-ratio: 2/3; object-fit: cover;" onerror="this.src='images/no-poster.svg'">
-          <div style="margin-top: 1rem; display: flex; flex-direction: column; gap: 0.4rem;">
+          <div style="margin-top: 0.85rem; display: flex; flex-direction: column; gap: 0.4rem;">
+            <button id="trailer-toggle-btn" class="trailer-btn" type="button" style="width: 100%; justify-content: center;">
+              <span class="play-icon">▶</span> <span id="trailer-btn-text">Смотреть трейлер</span>
+            </button>
             ${movie.imdb_id ? `<a href="https://www.imdb.com/title/${movie.imdb_id}" target="_blank" rel="noopener" class="tab-btn" style="text-align: center; font-size: 0.8rem;">Открыть на IMDb ↗</a>` : ''}
             <a href="movie/${movie.id}.html" class="tab-btn" style="text-align: center; font-size: 0.8rem;">Страница фильма ↗</a>
           </div>
         </div>
         <div>
           <h2 style="font-size: 1.6rem; font-weight: 800; color: #fff; margin-bottom: 0.2rem;">${this.escapeHtml(movie.title)}</h2>
-          <p style="font-size: 0.95rem; color: var(--text-muted); margin-bottom: 0.85rem;">
+          <p style="font-size: 0.95rem; color: var(--text-muted); margin-bottom: 0.75rem;">
             ${this.escapeHtml(movie.original_title || '')} ${movie.year ? `(${movie.year})` : ''}
           </p>
 
-          <div class="metrics-row" style="margin-bottom: 1rem;">
-            <span class="badge-imdb" style="font-size: 0.88rem; padding: 0.25rem 0.6rem;">⭐ IMDb ${ratingVal}</span>
-            ${movie.imdb_vote_count ? `<span class="votes-count">👥 ${movie.imdb_vote_count.toLocaleString()} голосов</span>` : ''}
-            ${movie.popularity ? `<span class="badge-pop" style="font-size: 0.82rem; padding: 0.25rem 0.6rem;">🔥 Популярность: ${popVal}</span>` : ''}
+          <div class="metrics-row" style="margin-bottom: 0.85rem; display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+            <span class="badge-imdb" style="font-size: 0.85rem; padding: 0.2rem 0.55rem;">⭐ IMDb ${ratingVal}</span>
+            ${movie.imdb_vote_count ? `<span style="font-size: 0.78rem; color: var(--text-muted);">👥 ${movie.imdb_vote_count.toLocaleString()}</span>` : ''}
+            ${movie.popularity ? `<span class="badge-pop" style="font-size: 0.8rem; padding: 0.2rem 0.55rem;">🔥 Популярность: ${popVal}</span>` : ''}
+          </div>
+
+          <!-- Trailer Expandable Section -->
+          <div id="trailer-section" class="trailer-section hidden">
+            <div class="trailer-header">
+              <div class="trailer-title">
+                <span>🎬</span> Трейлер: <span>${this.escapeHtml(movie.title)}</span>
+              </div>
+              <div class="trailer-lang-group">
+                <button id="trailer-ru-btn" type="button" class="trailer-lang-btn active">🇷🇺 Русский</button>
+                <button id="trailer-en-btn" type="button" class="trailer-lang-btn">🇬🇧 English</button>
+                <button id="trailer-close-inline-btn" type="button" class="trailer-lang-btn" style="margin-left: 0.35rem; color: #f87171;">✕ Свернуть</button>
+              </div>
+            </div>
+            <div class="trailer-iframe-wrap">
+              <iframe id="trailer-iframe" src="" title="Трейлер фильма" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="trailer-footer">
+              <span>Трейлер загружается из открытых источников</span>
+              <a id="trailer-direct-link" href="#" target="_blank" rel="noopener" class="trailer-yt-link">
+                Открыть на YouTube ↗
+              </a>
+            </div>
           </div>
 
           <p style="font-size: 0.88rem; color: var(--text-secondary); line-height: 1.6; margin-bottom: 1.25rem;">
@@ -481,12 +507,72 @@ class App {
       </div>
     `;
 
+    // Trailer Controller
+    const trailerBtn = this.modalContent.querySelector('#trailer-toggle-btn');
+    const trailerSection = this.modalContent.querySelector('#trailer-section');
+    const trailerIframe = this.modalContent.querySelector('#trailer-iframe');
+    const trailerRuBtn = this.modalContent.querySelector('#trailer-ru-btn');
+    const trailerEnBtn = this.modalContent.querySelector('#trailer-en-btn');
+    const trailerCloseInlineBtn = this.modalContent.querySelector('#trailer-close-inline-btn');
+    const trailerDirectLink = this.modalContent.querySelector('#trailer-direct-link');
+    const trailerBtnText = this.modalContent.querySelector('#trailer-btn-text');
+
+    let currentTrailerLang = 'ru';
+
+    const getTrailerUrls = (lang) => {
+      let q = '';
+      if (lang === 'ru') {
+        q = `${movie.title} русский трейлер ${movie.year || ''}`.trim();
+      } else {
+        const eng = movie.original_title || movie.title;
+        q = `${eng} official trailer ${movie.year || ''}`.trim();
+      }
+      return {
+        embed: `https://www.youtube-nocookie.com/embed?listType=search&list=${encodeURIComponent(q)}`,
+        direct: `https://www.youtube.com/results?search_query=${encodeURIComponent(q)}`
+      };
+    };
+
+    const updateTrailerView = (lang) => {
+      currentTrailerLang = lang;
+      if (trailerRuBtn && trailerEnBtn) {
+        trailerRuBtn.classList.toggle('active', lang === 'ru');
+        trailerEnBtn.classList.toggle('active', lang === 'en');
+      }
+      const urls = getTrailerUrls(lang);
+      if (trailerIframe) trailerIframe.src = urls.embed;
+      if (trailerDirectLink) trailerDirectLink.href = urls.direct;
+    };
+
+    const toggleTrailer = () => {
+      if (!trailerSection) return;
+      const isHidden = trailerSection.classList.contains('hidden');
+      if (isHidden) {
+        trailerSection.classList.remove('hidden');
+        if (trailerBtn) trailerBtn.classList.add('active');
+        if (trailerBtnText) trailerBtnText.textContent = 'Свернуть трейлер';
+        updateTrailerView(currentTrailerLang);
+      } else {
+        trailerSection.classList.add('hidden');
+        if (trailerBtn) trailerBtn.classList.remove('active');
+        if (trailerBtnText) trailerBtnText.textContent = 'Смотреть трейлер';
+        if (trailerIframe) trailerIframe.src = '';
+      }
+    };
+
+    if (trailerBtn) trailerBtn.addEventListener('click', toggleTrailer);
+    if (trailerCloseInlineBtn) trailerCloseInlineBtn.addEventListener('click', toggleTrailer);
+    if (trailerRuBtn) trailerRuBtn.addEventListener('click', () => updateTrailerView('ru'));
+    if (trailerEnBtn) trailerEnBtn.addEventListener('click', () => updateTrailerView('en'));
+
     this.modalOverlay.classList.add('open');
     document.body.style.overflow = 'hidden';
   }
 
   closeModal() {
     if (!this.modalOverlay) return;
+    const iframe = this.modalContent ? this.modalContent.querySelector('#trailer-iframe') : null;
+    if (iframe) iframe.src = '';
     this.modalOverlay.classList.remove('open');
     document.body.style.overflow = '';
   }

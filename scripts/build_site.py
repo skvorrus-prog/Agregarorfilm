@@ -1,4 +1,5 @@
 """Static site generator creating static JSON, pre-rendered pages, sitemap, and robots.txt."""
+import html as html_lib
 import json
 import os
 import sys
@@ -120,11 +121,35 @@ def generate_individual_movie_pages(movies, website_dir: Path) -> None:
             {{POPULARITY_BADGE}}
           </div>
 
-          <div class="flex flex-wrap gap-2 mb-6">
+          <div class="flex flex-wrap gap-2 mb-4">
             <span class="px-2.5 py-1 bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 rounded-md text-xs font-bold">{{QUALITY}}</span>
             <span class="px-2.5 py-1 bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 rounded-md text-xs font-bold">{{RESOLUTION}}</span>
             {{HDR_BADGE}}
             {{RU_BADGE}}
+          </div>
+
+          <!-- Trailer Button & Container -->
+          <div class="mb-5">
+            <button id="trailer-toggle-btn" onclick="toggleMovieTrailer()" class="inline-flex items-center gap-2 px-4 py-2 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-sm font-semibold transition cursor-pointer shadow-lg shadow-indigo-500/25">
+              <span>▶</span> <span id="trailer-btn-text">Смотреть трейлер</span>
+            </button>
+            <div id="trailer-box" class="hidden mt-4 rounded-xl overflow-hidden bg-gray-900/90 border border-gray-700/70 p-4 shadow-xl" data-title="{{TITLE_ATTR}}" data-original-title="{{ORIGINAL_TITLE_ATTR}}" data-year="{{YEAR}}">
+              <div class="flex items-center justify-between mb-3 flex-wrap gap-2">
+                <span class="text-sm font-bold text-white flex items-center gap-1.5"><span>🎬</span> Трейлер фильма</span>
+                <div class="flex items-center gap-1.5">
+                  <button id="trailer-ru-btn" onclick="setMovieTrailerLang('ru')" class="px-2.5 py-1 text-xs font-semibold rounded bg-indigo-600 text-white">🇷🇺 Русский</button>
+                  <button id="trailer-en-btn" onclick="setMovieTrailerLang('en')" class="px-2.5 py-1 text-xs font-semibold rounded bg-gray-800 text-gray-300 hover:text-white">🇬🇧 English</button>
+                  <button onclick="toggleMovieTrailer()" class="px-2.5 py-1 text-xs font-semibold rounded bg-gray-800 text-red-400 hover:text-red-300 ml-2">✕ Свернуть</button>
+                </div>
+              </div>
+              <div class="relative w-full aspect-video rounded-lg overflow-hidden bg-black shadow-inner">
+                <iframe id="trailer-iframe" src="" class="absolute inset-0 w-full h-full border-0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </div>
+              <div class="flex justify-between items-center mt-3 text-xs text-gray-400">
+                <span>Трейлер загружается из открытых источников</span>
+                <a id="trailer-yt-link" href="#" target="_blank" rel="noopener" class="text-indigo-400 hover:text-indigo-300 font-medium">Открыть на YouTube ↗</a>
+              </div>
+            </div>
           </div>
 
           <p class="text-gray-300 leading-relaxed text-sm mb-6">{{OVERVIEW}}</p>
@@ -164,6 +189,66 @@ def generate_individual_movie_pages(movies, website_dir: Path) -> None:
   <footer class="mt-16 border-t border-gray-800 py-8 text-center text-sm text-gray-500">
     Digital Movie Releases Tracker — Автоматический информационный сервис
   </footer>
+
+  <script>
+    (function() {
+      const box = document.getElementById('trailer-box');
+      const movieTitle = box ? (box.dataset.title || '') : '';
+      const movieOrigTitle = box ? (box.dataset.originalTitle || '') : '';
+      const movieYear = box ? (box.dataset.year || '') : '';
+      let currentTrailerLang = 'ru';
+
+      function getTrailerUrls(lang) {
+        let q = '';
+        if (lang === 'ru') {
+          q = (movieTitle + ' русский трейлер ' + movieYear).trim();
+        } else {
+          const eng = movieOrigTitle || movieTitle;
+          q = (eng + ' official trailer ' + movieYear).trim();
+        }
+        return {
+          embed: 'https://www.youtube-nocookie.com/embed?listType=search&list=' + encodeURIComponent(q),
+          direct: 'https://www.youtube.com/results?search_query=' + encodeURIComponent(q)
+        };
+      }
+
+      window.setMovieTrailerLang = function(lang) {
+        currentTrailerLang = lang;
+        const ruBtn = document.getElementById('trailer-ru-btn');
+        const enBtn = document.getElementById('trailer-en-btn');
+        if (ruBtn && enBtn) {
+          if (lang === 'ru') {
+            ruBtn.className = 'px-2.5 py-1 text-xs font-semibold rounded bg-indigo-600 text-white';
+            enBtn.className = 'px-2.5 py-1 text-xs font-semibold rounded bg-gray-800 text-gray-300 hover:text-white';
+          } else {
+            enBtn.className = 'px-2.5 py-1 text-xs font-semibold rounded bg-indigo-600 text-white';
+            ruBtn.className = 'px-2.5 py-1 text-xs font-semibold rounded bg-gray-800 text-gray-300 hover:text-white';
+          }
+        }
+        const urls = getTrailerUrls(lang);
+        const iframe = document.getElementById('trailer-iframe');
+        const direct = document.getElementById('trailer-yt-link');
+        if (iframe) iframe.src = urls.embed;
+        if (direct) direct.href = urls.direct;
+      };
+
+      window.toggleMovieTrailer = function() {
+        const trailerBox = document.getElementById('trailer-box');
+        const btnText = document.getElementById('trailer-btn-text');
+        const iframe = document.getElementById('trailer-iframe');
+        if (!trailerBox) return;
+        if (trailerBox.classList.contains('hidden')) {
+          trailerBox.classList.remove('hidden');
+          if (btnText) btnText.textContent = 'Свернуть трейлер';
+          window.setMovieTrailerLang(currentTrailerLang);
+        } else {
+          trailerBox.classList.add('hidden');
+          if (btnText) btnText.textContent = 'Смотреть трейлер';
+          if (iframe) iframe.src = '';
+        }
+      };
+    })();
+  </script>
 </body>
 </html>"""
     else:
@@ -172,15 +257,23 @@ def generate_individual_movie_pages(movies, website_dir: Path) -> None:
 
     for m in movies:
         html = template_content
-        html = html.replace("{{TITLE}}", m.title or "Без названия")
-        html = html.replace("{{ORIGINAL_TITLE}}", m.original_title or "")
-        html = html.replace("{{YEAR}}", str(m.year or ""))
+        title_val = m.title or "Без названия"
+        orig_title_val = m.original_title or ""
+        year_val = str(m.year or "")
+        html = html.replace("{{TITLE}}", title_val)
+        html = html.replace("{{TITLE_ATTR}}", html_lib.escape(title_val, quote=True))
+        html = html.replace("{{ORIGINAL_TITLE}}", orig_title_val)
+        html = html.replace("{{ORIGINAL_TITLE_ATTR}}", html_lib.escape(orig_title_val, quote=True))
+        html = html.replace("{{YEAR}}", year_val)
         html = html.replace("{{OVERVIEW}}", m.overview or "Описание пока отсутствует.")
         html = html.replace("{{POSTER}}", m.poster or "../images/no-poster.svg")
         html = html.replace("{{QUALITY}}", m.best_quality or "unknown")
         html = html.replace("{{RESOLUTION}}", m.best_resolution or "unknown")
         html = html.replace("{{IMDB_RATING}}", f"{m.imdb_rating}" if m.imdb_rating is not None else "—")
         html = html.replace("{{IMDB_VOTES}}", f"{m.imdb_vote_count:,} голосов" if m.imdb_vote_count else "нет оценок")
+
+        imdb_link = f'<a href="https://www.imdb.com/title/{m.imdb_id}" target="_blank" rel="noopener" class="tab-btn" style="text-align: center; font-size: 0.8rem;">Открыть на IMDb ↗</a>' if m.imdb_id else ''
+        html = html.replace("{{IMDB_LINK}}", imdb_link)
 
         pop_badge = ""
         if m.popularity:
