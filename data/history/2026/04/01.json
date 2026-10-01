@@ -95,13 +95,13 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-04-01",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.356727+00:00",
-      "status": "ANNOUNCED",
-      "best_quality": "unknown",
-      "best_resolution": "unknown",
+      "last_updated_at": "2026-10-01T19:01:59.102639+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
-      "has_ru_audio": false,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "e08dc869592b2b9d",
@@ -132,6 +132,30 @@
             ],
             "imdb_rating": 6.4,
             "runtime": null
+          }
+        },
+        {
+          "id": "74702653e38de74b",
+          "movie_id": "tt15047880",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-01T10:59:06+00:00",
+          "detected_at": "2026-10-01T19:01:02.118413+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "День разоблачения / Disclosure Day (2026) BDRip-HEVC 1080p от RIPS CLUB | D, P, A",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]

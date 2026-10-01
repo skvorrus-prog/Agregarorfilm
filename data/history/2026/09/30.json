@@ -30,7 +30,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-09-30T22:03:00.615729+00:00",
-      "last_updated_at": "2026-09-30T22:03:09.154345+00:00",
+      "last_updated_at": "2026-10-01T19:01:59.104847+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -59,6 +59,30 @@
             "audio": null,
             "language": null,
             "release_group": "P",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "9114c7f548710cf7",
+          "movie_id": "m_26d9f553628c",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-01T09:14:58+00:00",
+          "detected_at": "2026-10-01T19:01:02.118413+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Сфера будущего / Дрезденское солнце / The Dresden Sun (2026) WEB-DL 1080p | Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
             "is_secondary_signal": true
           }
         }

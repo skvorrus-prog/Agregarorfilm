@@ -99,7 +99,7 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-07-08",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-29T17:54:11.814845+00:00",
+      "last_updated_at": "2026-10-01T19:01:07.478472+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -159,6 +159,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "cf4af1f10d2de2cb",
+          "movie_id": "tt27165187",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-01T17:29:36+00:00",
+          "detected_at": "2026-10-01T19:01:02.118413+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "На краю Оук-стрит / The End of Oak Street (2026) WEB-DLRip | D | Movie Dubbing",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Movie Dubbing",
             "is_secondary_signal": true
           }
         }
