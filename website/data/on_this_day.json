@@ -734,9 +734,9 @@
     "imdb_rating": 5.9,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
     "has_ru_audio": true
    },
    {
