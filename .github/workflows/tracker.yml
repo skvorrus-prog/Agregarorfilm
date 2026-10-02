@@ -2,8 +2,8 @@ name: "Digital Releases Tracker & Deploy"
 
 on:
   schedule:
-    # 3 times a day: 05:37, 13:37, 19:37 UTC (08:37, 16:37, 22:37 MSK)
-    - cron: "37 5,13,19 * * *"
+    # Runs every 3 hours at 18 minutes past the hour (00:18, 03:18, 06:18, 09:18, 12:18, 15:18, 18:18, 21:18 UTC)
+    - cron: "18 */3 * * *"
   push:
     branches: ["main"]
   workflow_dispatch:
