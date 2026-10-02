@@ -1,7 +1,356 @@
 {
   "date": "2026-09-30",
-  "count": 7,
+  "count": 12,
   "movies": [
+    {
+      "id": "tt46066368",
+      "title": "Miller Night Football",
+      "original_title": "Miller Night Football",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gQOltzLRXVrC4umb5XFvmOL76jT.jpg",
+      "genres": [],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 43,
+      "imdb_id": "tt46066368",
+      "tmdb_id": 1757068,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 10.0,
+      "tmdb_vote_count": 1,
+      "popularity": 2.0833,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-29",
+      "digital_release_date": "2026-09-30",
+      "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
+      "last_updated_at": "2026-10-02T09:12:35.402607+00:00",
+      "status": "DIGITAL_RELEASE",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b3d81f3b9da1a732",
+          "movie_id": "tt46066368",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-30",
+          "detected_at": "2026-10-02T09:12:16.484899+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Miller Night Football",
+          "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/gQOltzLRXVrC4umb5XFvmOL76jT.jpg",
+            "genres": [],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 43,
+            "popularity": 2.0833,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 10.0,
+            "tmdb_vote_count": 1,
+            "theatrical_release_date": "2026-09-29",
+            "digital_release_date": "2026-09-30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43750202",
+      "title": "Стрим из ада",
+      "original_title": "Livestream from Hell",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 77,
+      "imdb_id": "tt43750202",
+      "tmdb_id": 1437195,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.111,
+      "tmdb_vote_count": 9,
+      "popularity": 33.7104,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-30",
+      "digital_release_date": "2026-09-30",
+      "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
+      "last_updated_at": "2026-10-02T09:12:35.361386+00:00",
+      "status": "DIGITAL_RELEASE",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6a2badb37f0c16d4",
+          "movie_id": "tt43750202",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-30",
+          "detected_at": "2026-10-02T09:12:16.484899+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Стрим из ада",
+          "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
+            "genres": [
+              "ужасы",
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 77,
+            "popularity": 33.7104,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.111,
+            "tmdb_vote_count": 9,
+            "theatrical_release_date": "2026-09-30",
+            "digital_release_date": "2026-09-30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt36602063",
+      "title": "WWE/AAA Worlds Collide 2026: Chicago",
+      "original_title": "WWE/AAA Worlds Collide 2026: Chicago",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/r7rSQjPEodbeebUkFtMjcH6yGG8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aLBjCSSbdzPPhwTp0SksKuevSlQ.jpg",
+      "genres": [
+        "боевик"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 154,
+      "imdb_id": "tt36602063",
+      "tmdb_id": 1743016,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.0,
+      "tmdb_vote_count": 1,
+      "popularity": 6.8045,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-30",
+      "digital_release_date": "2026-09-30",
+      "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
+      "last_updated_at": "2026-10-02T09:12:35.343111+00:00",
+      "status": "DIGITAL_RELEASE",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "131c80a0665e9e8f",
+          "movie_id": "tt36602063",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-30",
+          "detected_at": "2026-10-02T09:12:16.484899+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "WWE/AAA Worlds Collide 2026: Chicago",
+          "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/r7rSQjPEodbeebUkFtMjcH6yGG8.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/aLBjCSSbdzPPhwTp0SksKuevSlQ.jpg",
+            "genres": [
+              "боевик"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 154,
+            "popularity": 6.8045,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.0,
+            "tmdb_vote_count": 1,
+            "theatrical_release_date": "2026-09-30",
+            "digital_release_date": "2026-09-30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt44568097",
+      "title": "The Widower: 'Til Death Do Us Part",
+      "original_title": "The Widower: 'Til Death Do Us Part",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 91,
+      "imdb_id": "tt44568097",
+      "tmdb_id": 1758536,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.75,
+      "tmdb_vote_count": 4,
+      "popularity": 10.523,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-30",
+      "digital_release_date": "2026-09-30",
+      "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
+      "last_updated_at": "2026-10-02T09:12:35.318874+00:00",
+      "status": "DIGITAL_RELEASE",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "a7a478835cfddcf3",
+          "movie_id": "tt44568097",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-30",
+          "detected_at": "2026-10-02T09:12:16.484899+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Widower: 'Til Death Do Us Part",
+          "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 91,
+            "popularity": 10.523,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.75,
+            "tmdb_vote_count": 4,
+            "theatrical_release_date": "2026-09-30",
+            "digital_release_date": "2026-09-30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt46656123",
+      "title": "名探偵コナン 30号殺人事件",
+      "original_title": "名探偵コナン 30号殺人事件",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v0T74v8LPZBSL247oGeTOp06tnm.jpg",
+      "genres": [
+        "мультфильм",
+        "боевик",
+        "детектив",
+        "криминал"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "runtime": 93,
+      "imdb_id": "tt46656123",
+      "tmdb_id": 1777750,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.5,
+      "tmdb_vote_count": 6,
+      "popularity": 6.943,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-02",
+      "digital_release_date": "2026-09-30",
+      "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
+      "last_updated_at": "2026-10-02T09:12:26.086565+00:00",
+      "status": "DIGITAL_RELEASE",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "cd8f51506e1a0fc3",
+          "movie_id": "tt46656123",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-30",
+          "detected_at": "2026-10-02T09:12:16.484899+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "名探偵コナン 30号殺人事件",
+          "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/v0T74v8LPZBSL247oGeTOp06tnm.jpg",
+            "genres": [
+              "мультфильм",
+              "боевик",
+              "детектив",
+              "криминал"
+            ],
+            "countries": [
+              "Japan"
+            ],
+            "runtime": 93,
+            "popularity": 6.943,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.5,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-10-02",
+            "digital_release_date": "2026-09-30"
+          }
+        }
+      ]
+    },
     {
       "id": "m_26d9f553628c",
       "title": "Сфера будущего",

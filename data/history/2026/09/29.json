@@ -1,7 +1,171 @@
 {
   "date": "2026-09-29",
-  "count": 3,
+  "count": 5,
   "movies": [
+    {
+      "id": "tt45584335",
+      "title": "Сэм Моррил: Неверно",
+      "original_title": "Sam Morril: Incorrect",
+      "year": 2026,
+      "overview": "Сэм Моррил жестко смешит публику, вспоминая свой худший роман на одну ночь, сравнивая знаменитые убийства и рассказывая о нестандартном способе истребления крыс.",
+      "poster": "https://image.tmdb.org/t/p/w500/uXLBzlQTuvGlOhfB0M9HK4BrKqD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wUU2MY2wK9SNsSaFzitJvhXAZez.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 47,
+      "imdb_id": "tt45584335",
+      "tmdb_id": 1768367,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.5,
+      "tmdb_vote_count": 2,
+      "popularity": 2.6505,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-29",
+      "digital_release_date": "2026-09-29",
+      "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
+      "last_updated_at": "2026-10-02T09:12:35.380838+00:00",
+      "status": "DIGITAL_RELEASE",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "a393bdddc99766be",
+          "movie_id": "tt45584335",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-29",
+          "detected_at": "2026-10-02T09:12:16.484899+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Сэм Моррил: Неверно",
+          "details": {
+            "overview": "Сэм Моррил жестко смешит публику, вспоминая свой худший роман на одну ночь, сравнивая знаменитые убийства и рассказывая о нестандартном способе истребления крыс.",
+            "poster": "https://image.tmdb.org/t/p/w500/uXLBzlQTuvGlOhfB0M9HK4BrKqD.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/wUU2MY2wK9SNsSaFzitJvhXAZez.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 47,
+            "popularity": 2.6505,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.5,
+            "tmdb_vote_count": 2,
+            "theatrical_release_date": "2026-09-29",
+            "digital_release_date": "2026-09-29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_4f2bbcf53619",
+      "title": "Хорошие",
+      "original_title": "The Nice Ones",
+      "year": 2026,
+      "overview": "Хоро́шие — деревня в составе Глушанского сельсовета Бобруйского района Могилёвской области Республики Беларусь.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzBjOTcxMWMtMjkyOS00ZjE4LWEwMjItZmUzMjcxYzIwOWIyXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zQmaXGt8MYNRZaV2YVqkFbCoTWq.jpg",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Fantasy",
+        "Drama"
+      ],
+      "countries": [],
+      "runtime": 89,
+      "imdb_id": "tt36975519",
+      "tmdb_id": 1767073,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 4,
+      "popularity": 11.28,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-09-29",
+      "first_detected_at": "2026-10-01T19:01:02.118413+00:00",
+      "last_updated_at": "2026-10-02T09:12:35.382736+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "1705123600eb0124",
+          "movie_id": "m_4f2bbcf53619",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-29",
+          "detected_at": "2026-10-02T09:12:16.484899+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Nice Ones",
+          "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/wK8j02FXrNsO7WNzDdfdhRJTqXY.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/zQmaXGt8MYNRZaV2YVqkFbCoTWq.jpg",
+            "genres": [
+              "ужасы",
+              "фантастика",
+              "фэнтези",
+              "драма"
+            ],
+            "countries": [],
+            "runtime": 89,
+            "popularity": 11.28,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 4,
+            "theatrical_release_date": "2026-09-29",
+            "digital_release_date": "2026-09-29"
+          }
+        },
+        {
+          "id": "693373234fce979a",
+          "movie_id": "m_4f2bbcf53619",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-01T14:36:43+00:00",
+          "detected_at": "2026-10-01T19:01:02.118413+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Хорошие / The Nice Ones (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_56f79f540d9e",
       "title": "В ловушке",

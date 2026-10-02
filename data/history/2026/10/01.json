@@ -1,7 +1,222 @@
 {
   "date": "2026-10-01",
-  "count": 9,
+  "count": 11,
   "movies": [
+    {
+      "id": "tmdb_1599191",
+      "title": "仙逆剧场版：弑仙之战",
+      "original_title": "仙逆剧场版：弑仙之战",
+      "year": 2026,
+      "overview": "В старших классах Чжоу Сяоци влюбился в Ю Юнци с первого взгляда, но он тайно присматривал за ней, и девушка ушла, не попрощавшись. Прошло 15 лет, а он все еще тоскует по ней.",
+      "poster": "https://image.tmdb.org/t/p/w500/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+      "genres": [
+        "мультфильм",
+        "боевик",
+        "приключения",
+        "фэнтези"
+      ],
+      "countries": [
+        "China"
+      ],
+      "runtime": 0,
+      "imdb_id": "tt14503918",
+      "tmdb_id": 1599191,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.8,
+      "tmdb_vote_count": 5,
+      "popularity": 492.9498,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-01",
+      "digital_release_date": "2026-10-01",
+      "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
+      "last_updated_at": "2026-10-02T09:12:35.295442+00:00",
+      "status": "DIGITAL_RELEASE",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "12f271c6032444d1",
+          "movie_id": "tmdb_1599191",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-01",
+          "detected_at": "2026-10-02T09:12:16.484899+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "仙逆剧场版：弑仙之战",
+          "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+            "genres": [
+              "мультфильм",
+              "боевик",
+              "приключения",
+              "фэнтези"
+            ],
+            "countries": [
+              "China"
+            ],
+            "runtime": 0,
+            "popularity": 492.9498,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.8,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-01",
+            "digital_release_date": "2026-10-01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tmdb_1783630",
+      "title": "There Are No Rules",
+      "original_title": "There Are No Rules",
+      "year": 2026,
+      "overview": "Три коротких рассказа об отношениях мужчин и женщин.",
+      "poster": "https://image.tmdb.org/t/p/w500/uyeCzbb2p9gsWXgrRtjnP9OwrN5.jpg",
+      "backdrop": null,
+      "genres": [
+        "документальный",
+        "фантастика"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 101,
+      "imdb_id": "tt0103284",
+      "tmdb_id": 1783630,
+      "imdb_rating": 5.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": 10.0,
+      "tmdb_vote_count": 1,
+      "popularity": 0.2277,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-01",
+      "digital_release_date": "2026-10-01",
+      "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
+      "last_updated_at": "2026-10-02T09:12:33.145799+00:00",
+      "status": "DIGITAL_RELEASE",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "cfdc5b32b35bdbb6",
+          "movie_id": "tmdb_1783630",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-01",
+          "detected_at": "2026-10-02T09:12:16.484899+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "There Are No Rules",
+          "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/uyeCzbb2p9gsWXgrRtjnP9OwrN5.jpg",
+            "backdrop": null,
+            "genres": [
+              "документальный",
+              "фантастика"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 101,
+            "popularity": 0.2277,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 10.0,
+            "tmdb_vote_count": 1,
+            "theatrical_release_date": "2026-10-01",
+            "digital_release_date": "2026-10-01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tmdb_1785448",
+      "title": "灵魂摆渡·公主之梦",
+      "original_title": "灵魂摆渡·公主之梦",
+      "year": 2026,
+      "overview": "Воля дизайнера видеоигр проверяется, когда таинственный дух проникает в его новую семью и угрожает жизни его будущей жены.",
+      "poster": "https://image.tmdb.org/t/p/w500/oLANXaffluZVo4qstCdYdRRxG9B.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3gJSxVrfIWRU4Guh7dnT2f9ondK.jpg",
+      "genres": [
+        "фэнтези",
+        "драма"
+      ],
+      "countries": [
+        "Taiwan"
+      ],
+      "runtime": 73,
+      "imdb_id": "tt38365045",
+      "tmdb_id": 1785448,
+      "imdb_rating": 5.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.0,
+      "tmdb_vote_count": 1,
+      "popularity": 0.5857,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-01",
+      "digital_release_date": "2026-10-01",
+      "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
+      "last_updated_at": "2026-10-02T09:12:29.960730+00:00",
+      "status": "DIGITAL_RELEASE",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "8e8349a7c565763d",
+          "movie_id": "tmdb_1785448",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-01",
+          "detected_at": "2026-10-02T09:12:16.484899+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "灵魂摆渡·公主之梦",
+          "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/oLANXaffluZVo4qstCdYdRRxG9B.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/3gJSxVrfIWRU4Guh7dnT2f9ondK.jpg",
+            "genres": [
+              "фэнтези",
+              "драма"
+            ],
+            "countries": [],
+            "runtime": 73,
+            "popularity": 0.5857,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.0,
+            "tmdb_vote_count": 1,
+            "theatrical_release_date": "2026-10-01",
+            "digital_release_date": "2026-10-01"
+          }
+        }
+      ]
+    },
     {
       "id": "m_64257ae396c0",
       "title": "Нормал",
@@ -168,67 +383,6 @@
             "audio": null,
             "language": "RU",
             "release_group": "D",
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "m_4f2bbcf53619",
-      "title": "Хорошие",
-      "original_title": "The Nice Ones",
-      "year": 2026,
-      "overview": "Хоро́шие — деревня в составе Глушанского сельсовета Бобруйского района Могилёвской области Республики Беларусь.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYzBjOTcxMWMtMjkyOS00ZjE4LWEwMjItZmUzMjcxYzIwOWIyXkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Fantasy",
-        "Drama"
-      ],
-      "countries": [],
-      "runtime": null,
-      "imdb_id": "tt36975519",
-      "tmdb_id": null,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-10-01T19:01:02.118413+00:00",
-      "last_updated_at": "2026-10-01T19:01:53.242508+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEBRip",
-      "best_resolution": "1080p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "693373234fce979a",
-          "movie_id": "m_4f2bbcf53619",
-          "event_type": "WEB_DL_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-01T14:36:43+00:00",
-          "detected_at": "2026-10-01T19:01:02.118413+00:00",
-          "quality": "WEBRip",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": "Sub",
-          "raw_title": "Хорошие / The Nice Ones (2026) WEBRip 1080p | Sub",
-          "details": {
-            "quality": "WEBRip",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": null,
-            "release_group": "Sub",
             "is_secondary_signal": true
           }
         }
