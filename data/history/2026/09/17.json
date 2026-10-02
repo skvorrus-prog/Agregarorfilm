@@ -1,0 +1,84 @@
+{
+  "date": "2026-09-17",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tmdb_1764166",
+      "title": "Thomas & Friends: Really Helpful Engines",
+      "original_title": "Thomas & Friends: Really Helpful Engines",
+      "year": 2026,
+      "overview": "Томас должен доказать, что он самый полезный двигатель на Содоре! Когда Томас узнает, что у Перси и Гордона есть миссия на их день, Томас отправляется на миссию, чтобы найти большую важную работу!",
+      "poster": "https://image.tmdb.org/t/p/w500/9jsgfw2XR9eiIsGRaFbPwnguUTQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kTH0lBNzU8Jnhusr019VIUwL3KL.jpg",
+      "genres": [
+        "мультфильм",
+        "телевизионный фильм",
+        "семейный"
+      ],
+      "countries": [
+        "United States of America",
+        "United Kingdom",
+        "Ireland"
+      ],
+      "runtime": 30,
+      "imdb_id": "tt41007422",
+      "tmdb_id": 1764166,
+      "imdb_rating": 7.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.0,
+      "tmdb_vote_count": 5,
+      "popularity": 2.4849,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-17",
+      "digital_release_date": "2026-09-17",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.501045+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "7aec0f429289a1a5",
+          "movie_id": "tmdb_1764166",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-17",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Thomas & Friends: Really Helpful Engines",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/9jsgfw2XR9eiIsGRaFbPwnguUTQ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/kTH0lBNzU8Jnhusr019VIUwL3KL.jpg",
+            "genres": [
+              "мультфильм",
+              "телевизионный фильм",
+              "семейный"
+            ],
+            "countries": [
+              "United States of America",
+              "United Kingdom",
+              "Ireland"
+            ],
+            "runtime": 30,
+            "popularity": 2.4849,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-17",
+            "digital_release_date": "2026-09-17"
+          }
+        }
+      ]
+    }
+  ]
+}

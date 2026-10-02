@@ -1,0 +1,300 @@
+{
+  "date": "2026-08-07",
+  "count": 4,
+  "movies": [
+    {
+      "id": "tt5256640",
+      "title": "లెనిన్",
+      "original_title": "లెనిన్",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5P6jYac8MjxyIh0m9JO4K7MUeUc.jpg",
+      "genres": [
+        "боевик",
+        "драма",
+        "мелодрама"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 156,
+      "imdb_id": "tt5256640",
+      "tmdb_id": 1408170,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.2,
+      "tmdb_vote_count": 6,
+      "popularity": 5.0303,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-10",
+      "digital_release_date": "2026-08-07",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.703679+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "c7d3fb1d492ef32d",
+          "movie_id": "tt5256640",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-07",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "లెనిన్",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/5P6jYac8MjxyIh0m9JO4K7MUeUc.jpg",
+            "genres": [
+              "боевик",
+              "драма",
+              "мелодрама"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 156,
+            "popularity": 5.0303,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.2,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-07-10",
+            "digital_release_date": "2026-08-07"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt35723557",
+      "title": "இதயம் முரளி",
+      "original_title": "இதயம் முரளி",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/8gfs5OsGINENFAl0h1XZPNup9lI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 164,
+      "imdb_id": "tt35723557",
+      "tmdb_id": 1432631,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.318,
+      "tmdb_vote_count": 11,
+      "popularity": 5.9921,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-10",
+      "digital_release_date": "2026-08-07",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.668243+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "02ff3faf816d392f",
+          "movie_id": "tt35723557",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-07",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "இதயம் முரளி",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/8gfs5OsGINENFAl0h1XZPNup9lI.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
+            "genres": [
+              "мелодрама",
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 164,
+            "popularity": 5.9921,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.318,
+            "tmdb_vote_count": 11,
+            "theatrical_release_date": "2026-07-10",
+            "digital_release_date": "2026-08-07"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt32268156",
+      "title": "Последний дом",
+      "original_title": "The Last House",
+      "year": 2026,
+      "overview": "Семья оказывается запертой в своем доме. Какая-то таинственная и зловещая сила держит всех в западне, запасов остается все меньше, и приходится бороться за выживание.",
+      "poster": "https://image.tmdb.org/t/p/w500/o31KZEt6ubk1RaaipRGKvCnLdVT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+      "genres": [
+        "ужасы",
+        "фантастика",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 110,
+      "imdb_id": "tt32268156",
+      "tmdb_id": 1284041,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.843,
+      "tmdb_vote_count": 1428,
+      "popularity": 25.619,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-06",
+      "digital_release_date": "2026-08-07",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.180654+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "df242f112b10f980",
+          "movie_id": "tt32268156",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-07",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Последний дом",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Семья оказывается запертой в своем доме. Какая-то таинственная и зловещая сила держит всех в западне, запасов остается все меньше, и приходится бороться за выживание.",
+            "poster": "https://image.tmdb.org/t/p/w500/o31KZEt6ubk1RaaipRGKvCnLdVT.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+            "genres": [
+              "ужасы",
+              "фантастика",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 110,
+            "popularity": 25.619,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.843,
+            "tmdb_vote_count": 1428,
+            "theatrical_release_date": "2026-08-06",
+            "digital_release_date": "2026-08-07"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt11866682",
+      "title": "Любовь есть любовь",
+      "original_title": "Amor es amor",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/5ae4v1W4hyAclTJw97aIAmr6OAE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8fN4YSYUOAlYmUcqzGCuztaXms6.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "runtime": 91,
+      "imdb_id": "tt11866682",
+      "tmdb_id": 772506,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.3,
+      "tmdb_vote_count": 22,
+      "popularity": 1.6525,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-07",
+      "digital_release_date": "2026-08-07",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.288643+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "457e79cd30f30d7e",
+          "movie_id": "tt11866682",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-07",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Любовь есть любовь",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/5ae4v1W4hyAclTJw97aIAmr6OAE.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8fN4YSYUOAlYmUcqzGCuztaXms6.jpg",
+            "genres": [
+              "комедия",
+              "мелодрама"
+            ],
+            "countries": [
+              "Mexico"
+            ],
+            "runtime": 91,
+            "popularity": 1.6525,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.3,
+            "tmdb_vote_count": 22,
+            "theatrical_release_date": "2026-08-07",
+            "digital_release_date": "2026-08-07"
+          }
+        }
+      ]
+    }
+  ]
+}

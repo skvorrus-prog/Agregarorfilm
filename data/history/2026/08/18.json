@@ -1,0 +1,142 @@
+{
+  "date": "2026-08-18",
+  "count": 2,
+  "movies": [
+    {
+      "id": "tt32881432",
+      "title": "Yellow Eyes",
+      "original_title": "Yellow Eyes",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/tdIqb0g8fimv2bXIEZdWu6Zfywt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/x9aPgQNnMYp7S0cJ24pJ0ck0sqw.jpg",
+      "genres": [
+        "ужасы"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 86,
+      "imdb_id": "tt32881432",
+      "tmdb_id": 1314826,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.8,
+      "tmdb_vote_count": 8,
+      "popularity": 7.929,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-18",
+      "digital_release_date": "2026-08-18",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.861669+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "24c4e40bdcf8c63e",
+          "movie_id": "tt32881432",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-18",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Yellow Eyes",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/tdIqb0g8fimv2bXIEZdWu6Zfywt.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/x9aPgQNnMYp7S0cJ24pJ0ck0sqw.jpg",
+            "genres": [
+              "ужасы"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 86,
+            "popularity": 7.929,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.8,
+            "tmdb_vote_count": 8,
+            "theatrical_release_date": "2026-08-18",
+            "digital_release_date": "2026-08-18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43698006",
+      "title": "Kelsey Cook: Happy Hour",
+      "original_title": "Kelsey Cook: Happy Hour",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hJg5pJ0uayECfRq3A59AL6T1BV0.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [],
+      "runtime": 53,
+      "imdb_id": "tt43698006",
+      "tmdb_id": 1738070,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.8,
+      "tmdb_vote_count": 5,
+      "popularity": 1.3054,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-18",
+      "digital_release_date": "2026-08-18",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.808485+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "bf98003e0996cc07",
+          "movie_id": "tt43698006",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-18",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Kelsey Cook: Happy Hour",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/rbvVm5OPzWGypYJzFMylMJ0wMWG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/hJg5pJ0uayECfRq3A59AL6T1BV0.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [],
+            "runtime": 53,
+            "popularity": 1.3054,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.8,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-08-18",
+            "digital_release_date": "2026-08-18"
+          }
+        }
+      ]
+    }
+  ]
+}

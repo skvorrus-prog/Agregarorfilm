@@ -1,0 +1,438 @@
+{
+  "date": "2026-09-10",
+  "count": 6,
+  "movies": [
+    {
+      "id": "tt8814476",
+      "title": "Супергёрл",
+      "original_title": "Supergirl",
+      "year": 2026,
+      "overview": "Кара Зор-Эл путешествует по галактике со своим псом Крипто. На неё нападает пират и разбойник, который угоняет её корабль и ранит Крипто. Объединив силы с новой подругой и союзницей Рути, семью которой ранее убил пират, Кара отправляется мстить.",
+      "poster": "https://image.tmdb.org/t/p/w500/gcAZ5f6Y40koGYcfPUqb2tmnVd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+      "genres": [
+        "боевик",
+        "приключения",
+        "фантастика"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 107,
+      "imdb_id": "tt8814476",
+      "tmdb_id": 1081003,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.664,
+      "tmdb_vote_count": 2473,
+      "popularity": 53.5203,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-06-24",
+      "digital_release_date": "2026-09-10",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:39.373144+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "df0dc13374f624e4",
+          "movie_id": "tt8814476",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-10",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Супергёрл",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Кара Зор-Эл путешествует по галактике со своим псом Крипто. На неё нападает пират и разбойник, который угоняет её корабль и ранит Крипто. Объединив силы с новой подругой и союзницей Рути, семью которой ранее убил пират, Кара отправляется мстить.",
+            "poster": "https://image.tmdb.org/t/p/w500/gcAZ5f6Y40koGYcfPUqb2tmnVd.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+            "genres": [
+              "боевик",
+              "приключения",
+              "фантастика"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 107,
+            "popularity": 53.5203,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.664,
+            "tmdb_vote_count": 2473,
+            "theatrical_release_date": "2026-06-24",
+            "digital_release_date": "2026-09-10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tmdb_1572830",
+      "title": "不成功穿越指南",
+      "original_title": "不成功穿越指南",
+      "year": 2026,
+      "overview": "Гангстер в бегах жертвует всем ради своей семьи и женщины, которую он встречает, находясь в бегах.",
+      "poster": "https://image.tmdb.org/t/p/w500/3ETbY1nV0vJIeoxiJslXon0Z9Q9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ajqlk7EGZVjjl4b5VrrQQUc6k7G.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ],
+      "countries": [
+        "China"
+      ],
+      "runtime": 115,
+      "imdb_id": "tt9647768",
+      "tmdb_id": 1572830,
+      "imdb_rating": 6.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.8,
+      "tmdb_vote_count": 5,
+      "popularity": 1.8145,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-02",
+      "digital_release_date": "2026-09-10",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:38.506698+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "60b4014a4a7a49c3",
+          "movie_id": "tmdb_1572830",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-10",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "不成功穿越指南",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/3ETbY1nV0vJIeoxiJslXon0Z9Q9.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/ajqlk7EGZVjjl4b5VrrQQUc6k7G.jpg",
+            "genres": [
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "China"
+            ],
+            "runtime": 115,
+            "popularity": 1.8145,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.8,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-07-02",
+            "digital_release_date": "2026-09-10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt38682795",
+      "title": "Ип Ман: Битва кланов",
+      "original_title": "宗师叶问2",
+      "year": 2026,
+      "overview": "Гонконг, 1950-е. Британские торговцы и китайские триады объединяют силы для расширения своей территории. Они начинают сносить фабрики, не обращая внимания на то, что страдают простые люди. Великий мастер Ип Ман, будущий учитель Брюса Ли, сталкивается с давлением кланов со всех сторон. Он намерен восстановить справедливость и собирает боевую команду, чтобы дать отпор беспредельщикам.",
+      "poster": "https://image.tmdb.org/t/p/w500/5vkyoq7AyNXXUU464Z7VNhymUpB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
+      "genres": [
+        "боевик"
+      ],
+      "countries": [
+        "China"
+      ],
+      "runtime": 94,
+      "imdb_id": "tt38682795",
+      "tmdb_id": 1628071,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.7,
+      "tmdb_vote_count": 22,
+      "popularity": 10.9781,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-22",
+      "digital_release_date": "2026-09-10",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.655930+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "c5cbae0fc01fd3af",
+          "movie_id": "tt38682795",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-10",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Ип Ман: Битва кланов",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Гонконг, 1950-е. Британские торговцы и китайские триады объединяют силы для расширения своей территории. Они начинают сносить фабрики, не обращая внимания на то, что страдают простые люди. Великий мастер Ип Ман, будущий учитель Брюса Ли, сталкивается с давлением кланов со всех сторон. Он намерен восстановить справедливость и собирает боевую команду, чтобы дать отпор беспредельщикам.",
+            "poster": "https://image.tmdb.org/t/p/w500/5vkyoq7AyNXXUU464Z7VNhymUpB.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/6HBbzW5D7StUBRi0yO6ZEq9rNB5.jpg",
+            "genres": [
+              "боевик"
+            ],
+            "countries": [
+              "China"
+            ],
+            "runtime": 94,
+            "popularity": 10.9781,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.7,
+            "tmdb_vote_count": 22,
+            "theatrical_release_date": "2026-07-22",
+            "digital_release_date": "2026-09-10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt38267923",
+      "title": "Позвоните моему агенту! Фильм",
+      "original_title": "Dix Pour Cent ! Le Film",
+      "year": 2026,
+      "overview": "Агентство ASK закрылось пять лет назад. Андреа готовит съемки своего фильма, но исполнитель главной роли уходит. Надо собирать старую команду, хотя и неизвестно, что из этого выйдет.",
+      "poster": "https://image.tmdb.org/t/p/w500/lJUmTDi1ssxcxkHrzVBlwhaB0v8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ],
+      "countries": [
+        "France"
+      ],
+      "runtime": 117,
+      "imdb_id": "tt38267923",
+      "tmdb_id": 1365884,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.142,
+      "tmdb_vote_count": 109,
+      "popularity": 8.5274,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-29",
+      "digital_release_date": "2026-09-10",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.202895+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "2e761ccba1b6e84f",
+          "movie_id": "tt38267923",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-10",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Позвоните моему агенту! Фильм",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Агентство ASK закрылось пять лет назад. Андреа готовит съемки своего фильма, но исполнитель главной роли уходит. Надо собирать старую команду, хотя и неизвестно, что из этого выйдет.",
+            "poster": "https://image.tmdb.org/t/p/w500/lJUmTDi1ssxcxkHrzVBlwhaB0v8.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/4v8XgcmtUFVXUzGb7noltdjg2Ou.jpg",
+            "genres": [
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "France"
+            ],
+            "runtime": 117,
+            "popularity": 8.5274,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.142,
+            "tmdb_vote_count": 109,
+            "theatrical_release_date": "2026-08-29",
+            "digital_release_date": "2026-09-10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33510831",
+      "title": "Band of Brothers: Legacy",
+      "original_title": "Band of Brothers: Legacy",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
+      "genres": [
+        "документальный",
+        "военный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 60,
+      "imdb_id": "tt33510831",
+      "tmdb_id": 1762506,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.5,
+      "tmdb_vote_count": 16,
+      "popularity": 10.8077,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-09",
+      "digital_release_date": "2026-09-10",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.705725+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "3209f5a46e1518ef",
+          "movie_id": "tt33510831",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-10",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Band of Brothers: Legacy",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
+            "genres": [
+              "документальный",
+              "военный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 60,
+            "popularity": 10.8077,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.5,
+            "tmdb_vote_count": 16,
+            "theatrical_release_date": "2026-09-09",
+            "digital_release_date": "2026-09-10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt38953026",
+      "title": "Lion Fist",
+      "original_title": "Lion Fist",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
+      "genres": [
+        "боевик"
+      ],
+      "countries": [
+        "United States of America",
+        "Germany"
+      ],
+      "runtime": 91,
+      "imdb_id": "tt38953026",
+      "tmdb_id": 1340102,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.796,
+      "tmdb_vote_count": 27,
+      "popularity": 88.3566,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-10",
+      "digital_release_date": "2026-09-10",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.661222+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9095d699f45189bb",
+          "movie_id": "tt38953026",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-10",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Lion Fist",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/mfevSm3elJX1IqCjBxC7bGl07s2.jpg",
+            "genres": [
+              "боевик"
+            ],
+            "countries": [
+              "United States of America",
+              "Germany"
+            ],
+            "runtime": 91,
+            "popularity": 88.3566,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.796,
+            "tmdb_vote_count": 27,
+            "theatrical_release_date": "2026-09-10",
+            "digital_release_date": "2026-09-10"
+          }
+        }
+      ]
+    }
+  ]
+}

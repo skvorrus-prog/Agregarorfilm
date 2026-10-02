@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-03",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt44322266",
+      "title": "Поворотный момент: Поколение 11 сентября",
+      "original_title": "Turning Point: Generation 9/11",
+      "year": 2026,
+      "overview": "Спустя 25 лет после трагедии 11 сентября выжившие, дети погибших, афганцы и бывшие морпехи рассказывают, как те теракты изменили их жизнь.",
+      "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 99,
+      "imdb_id": "tt44322266",
+      "tmdb_id": 1752159,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.3,
+      "tmdb_vote_count": 27,
+      "popularity": 7.9022,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-02",
+      "digital_release_date": "2026-09-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.019702+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6b81396752831334",
+          "movie_id": "tt44322266",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Поворотный момент: Поколение 11 сентября",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Спустя 25 лет после трагедии 11 сентября выжившие, дети погибших, афганцы и бывшие морпехи рассказывают, как те теракты изменили их жизнь.",
+            "poster": "https://image.tmdb.org/t/p/w500/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 99,
+            "popularity": 7.9022,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.3,
+            "tmdb_vote_count": 27,
+            "theatrical_release_date": "2026-09-02",
+            "digital_release_date": "2026-09-03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37752275",
+      "title": "Битва грозной семейки",
+      "original_title": "Clash of the Thundermans",
+      "year": 2026,
+      "overview": "Когда у Хлои появляется новая разрушительная сверхспособность, Лига героев отправляет ее в элитную школу-интернат для супергероев, чтобы она научилась контролировать свои способности. Столкнувшись с перспективой отправить Хлою на долгие годы, Тандермены расстались, и Фиби, Барб и Билли заставили ее скрываться. Макс, Хэнк и Нора выслеживают членов своей семьи-изгоя, пока две фракции не столкнутся друг с другом в полноценной битве за будущее Thundermans’.",
+      "poster": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg",
+      "genres": [
+        "телевизионный фильм",
+        "семейный",
+        "боевик",
+        "фантастика"
+      ],
+      "countries": [
+        "Canada",
+        "United States of America"
+      ],
+      "runtime": 72,
+      "imdb_id": "tt37752275",
+      "tmdb_id": 1506560,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.547,
+      "tmdb_vote_count": 64,
+      "popularity": 42.1252,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-03",
+      "digital_release_date": "2026-09-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.965776+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "58bf9357e3cf0527",
+          "movie_id": "tt37752275",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Битва грозной семейки",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Когда у Хлои появляется новая разрушительная сверхспособность, Лига героев отправляет ее в элитную школу-интернат для супергероев, чтобы она научилась контролировать свои способности. Столкнувшись с перспективой отправить Хлою на долгие годы, Тандермены расстались, и Фиби, Барб и Билли заставили ее скрываться. Макс, Хэнк и Нора выслеживают членов своей семьи-изгоя, пока две фракции не столкнутся друг с другом в полноценной битве за будущее Thundermans’.",
+            "poster": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg",
+            "genres": [
+              "телевизионный фильм",
+              "семейный",
+              "боевик",
+              "фантастика"
+            ],
+            "countries": [
+              "Canada",
+              "United States of America"
+            ],
+            "runtime": 72,
+            "popularity": 42.1252,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.547,
+            "tmdb_vote_count": 64,
+            "theatrical_release_date": "2026-09-03",
+            "digital_release_date": "2026-09-03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt41559858",
+      "title": "Fito Páez: El mundo cabe en una canción",
+      "original_title": "Fito Páez: El mundo cabe en una canción",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ],
+      "countries": [
+        "Argentina"
+      ],
+      "runtime": 112,
+      "imdb_id": "tt41559858",
+      "tmdb_id": 1744876,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.2,
+      "tmdb_vote_count": 10,
+      "popularity": 4.0013,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-03",
+      "digital_release_date": "2026-09-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.939627+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9459e4842337f020",
+          "movie_id": "tt41559858",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Fito Páez: El mundo cabe en una canción",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+            "genres": [
+              "документальный",
+              "музыка"
+            ],
+            "countries": [
+              "Argentina"
+            ],
+            "runtime": 112,
+            "popularity": 4.0013,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.2,
+            "tmdb_vote_count": 10,
+            "theatrical_release_date": "2026-09-03",
+            "digital_release_date": "2026-09-03"
+          }
+        }
+      ]
+    }
+  ]
+}

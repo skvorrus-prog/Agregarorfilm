@@ -1,0 +1,446 @@
+{
+  "date": "2026-09-04",
+  "count": 6,
+  "movies": [
+    {
+      "id": "tt43295610",
+      "title": "Будьте реалистами",
+      "original_title": "特立独行",
+      "year": 2026,
+      "overview": "Тридцать лет назад Ассоциация супергероев под предводительством Ван Чанхая одержала сокрушительную победу над инопланетными захватчиками. Спустя годы абсолютного мира Чанхай получает новое официальное задание - вернуться в свой родной провинциальный городок и сформировать там новый элитный боевой отряд.Однако главная угроза для наивного супергероя кроется вовсе не в монстрах. За десятилетия мирной жизни в городке успела сложиться сложнейшая и запутанная система из бюрократии, кумовства, местечкового этикета и личных связей.",
+      "poster": "https://image.tmdb.org/t/p/w500/dWtKXfN97AMW5n3S6QoUVUMCU2S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
+      "genres": [
+        "драма",
+        "комедия",
+        "фантастика"
+      ],
+      "countries": [
+        "China"
+      ],
+      "runtime": 0,
+      "imdb_id": "tt43295610",
+      "tmdb_id": 1353926,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.7,
+      "tmdb_vote_count": 10,
+      "popularity": 2.574,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-03",
+      "digital_release_date": "2026-09-04",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.593560+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6330e8be31128365",
+          "movie_id": "tt43295610",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-04",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Будьте реалистами",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Тридцать лет назад Ассоциация супергероев под предводительством Ван Чанхая одержала сокрушительную победу над инопланетными захватчиками. Спустя годы абсолютного мира Чанхай получает новое официальное задание - вернуться в свой родной провинциальный городок и сформировать там новый элитный боевой отряд.Однако главная угроза для наивного супергероя кроется вовсе не в монстрах. За десятилетия мирной жизни в городке успела сложиться сложнейшая и запутанная система из бюрократии, кумовства, местечкового этикета и личных связей.",
+            "poster": "https://image.tmdb.org/t/p/w500/dWtKXfN97AMW5n3S6QoUVUMCU2S.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
+            "genres": [
+              "драма",
+              "комедия",
+              "фантастика"
+            ],
+            "countries": [
+              "China"
+            ],
+            "runtime": 0,
+            "popularity": 2.574,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.7,
+            "tmdb_vote_count": 10,
+            "theatrical_release_date": "2026-07-03",
+            "digital_release_date": "2026-09-04"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt27548557",
+      "title": "धमाल ४",
+      "original_title": "धमाल ४",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/oVij5aEEE6iI4PxB4i0CgKp8h0m.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 143,
+      "imdb_id": "tt27548557",
+      "tmdb_id": 1303331,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.3,
+      "tmdb_vote_count": 13,
+      "popularity": 8.5348,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-10",
+      "digital_release_date": "2026-09-04",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.781602+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f494e22d909ec86c",
+          "movie_id": "tt27548557",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-04",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "धमाल ४",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/oVij5aEEE6iI4PxB4i0CgKp8h0m.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 143,
+            "popularity": 8.5348,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.3,
+            "tmdb_vote_count": 13,
+            "theatrical_release_date": "2026-07-10",
+            "digital_release_date": "2026-09-04"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt38286171",
+      "title": "ഉന്മാദം",
+      "original_title": "ഉന്മാദം",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
+      "genres": [
+        "детектив",
+        "триллер"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 141,
+      "imdb_id": "tt38286171",
+      "tmdb_id": 1545486,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.2,
+      "tmdb_vote_count": 7,
+      "popularity": 5.4736,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-31",
+      "digital_release_date": "2026-09-04",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.534701+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "82ff7ce82c4f8424",
+          "movie_id": "tt38286171",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-04",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "ഉന്മാദം",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
+            "genres": [
+              "детектив",
+              "триллер"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 141,
+            "popularity": 5.4736,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.2,
+            "tmdb_vote_count": 7,
+            "theatrical_release_date": "2026-07-31",
+            "digital_release_date": "2026-09-04"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37501035",
+      "title": "டிசி",
+      "original_title": "டிசி",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+      "genres": [
+        "мелодрама",
+        "боевик",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 142,
+      "imdb_id": "tt37501035",
+      "tmdb_id": 1479832,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.9,
+      "tmdb_vote_count": 23,
+      "popularity": 10.6462,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-06",
+      "digital_release_date": "2026-09-04",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.346412+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "97d826270b562413",
+          "movie_id": "tt37501035",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-04",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "டிசி",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+            "genres": [
+              "мелодрама",
+              "боевик",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 142,
+            "popularity": 10.6462,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.9,
+            "tmdb_vote_count": 23,
+            "theatrical_release_date": "2026-08-06",
+            "digital_release_date": "2026-09-04"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33354945",
+      "title": "गांधारी",
+      "original_title": "गांधारी",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+      "genres": [
+        "боевик",
+        "драма",
+        "триллер"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 117,
+      "imdb_id": "tt33354945",
+      "tmdb_id": 1355228,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.304,
+      "tmdb_vote_count": 28,
+      "popularity": 15.3889,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-03",
+      "digital_release_date": "2026-09-04",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.986917+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "a1b5b8af36c2d984",
+          "movie_id": "tt33354945",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-04",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "गांधारी",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+            "genres": [
+              "боевик",
+              "драма",
+              "триллер"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 117,
+            "popularity": 15.3889,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.304,
+            "tmdb_vote_count": 28,
+            "theatrical_release_date": "2026-09-03",
+            "digital_release_date": "2026-09-04"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt32500181",
+      "title": "Пойдём со мной",
+      "original_title": "Come with Me",
+      "year": 2026,
+      "overview": "В центре сюжета находится Саймон Уорд — обычный работяга, чья жизнь начинает стремительно рушиться после череды трагических событий: жестокого ограбления его дома, увольнения с работы и внезапной смерти лучшего друга. Находясь в глубоком эмоциональном кризисе и поиске справедливости, Саймон попадает под сильное влияние риторики скандального радиоведущего. Внушения из радиоэфиров подталкивают главного героя к опасной грани: его разум постепенно затуманивается, и он начинает погружаться в насилие, пытаясь самостоятельно «очистить мир от несправедливости».",
+      "poster": "https://image.tmdb.org/t/p/w500/l9NTjlassidebSv9sAyaBQSSGEa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8DmJ62mXjnlL16Fj9jrKJnqRA2c.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 108,
+      "imdb_id": "tt32500181",
+      "tmdb_id": 1364401,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.6,
+      "tmdb_vote_count": 5,
+      "popularity": 2.0815,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-04",
+      "digital_release_date": "2026-09-04",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.906145+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "8606a2501d909d79",
+          "movie_id": "tt32500181",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-04",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Пойдём со мной",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В центре сюжета находится Саймон Уорд — обычный работяга, чья жизнь начинает стремительно рушиться после череды трагических событий: жестокого ограбления его дома, увольнения с работы и внезапной смерти лучшего друга. Находясь в глубоком эмоциональном кризисе и поиске справедливости, Саймон попадает под сильное влияние риторики скандального радиоведущего. Внушения из радиоэфиров подталкивают главного героя к опасной грани: его разум постепенно затуманивается, и он начинает погружаться в насилие, пытаясь самостоятельно «очистить мир от несправедливости».",
+            "poster": "https://image.tmdb.org/t/p/w500/l9NTjlassidebSv9sAyaBQSSGEa.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8DmJ62mXjnlL16Fj9jrKJnqRA2c.jpg",
+            "genres": [
+              "криминал",
+              "драма",
+              "детектив",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 108,
+            "popularity": 2.0815,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.6,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-04",
+            "digital_release_date": "2026-09-04"
+          }
+        }
+      ]
+    }
+  ]
+}

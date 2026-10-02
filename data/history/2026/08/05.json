@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-05",
+  "count": 2,
+  "movies": [
+    {
+      "id": "tt5072334",
+      "title": "Trustorhärvan",
+      "original_title": "Trustorhärvan",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/fz2rXxC2WAqELf3TGW6ati4Dmuw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gSC6TjQcc1aqqd7bqpUrhNjDsvX.jpg",
+      "genres": [
+        "документальный",
+        "криминал"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "runtime": 102,
+      "imdb_id": "tt5072334",
+      "tmdb_id": 1421594,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.5,
+      "tmdb_vote_count": 10,
+      "popularity": 4.0512,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-05",
+      "digital_release_date": "2026-08-05",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.315410+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "17c2fadda47e9f4d",
+          "movie_id": "tt5072334",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-05",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Trustorhärvan",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/fz2rXxC2WAqELf3TGW6ati4Dmuw.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/gSC6TjQcc1aqqd7bqpUrhNjDsvX.jpg",
+            "genres": [
+              "документальный",
+              "криминал"
+            ],
+            "countries": [
+              "Sweden"
+            ],
+            "runtime": 102,
+            "popularity": 4.0512,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.5,
+            "tmdb_vote_count": 10,
+            "theatrical_release_date": "2026-08-05",
+            "digital_release_date": "2026-08-05"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43657327",
+      "title": "Big Chicken: A Fast Food Conspiracy",
+      "original_title": "Big Chicken: A Fast Food Conspiracy",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": 99,
+      "imdb_id": "tt43657327",
+      "tmdb_id": 1728056,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.4,
+      "tmdb_vote_count": 16,
+      "popularity": 3.6022,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-05",
+      "digital_release_date": "2026-08-05",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.286995+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "05e7a2e72d8291b7",
+          "movie_id": "tt43657327",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-05",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Big Chicken: A Fast Food Conspiracy",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/d4p2sqbxC2AYkuyxT7tRBSsP4IM.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United Kingdom"
+            ],
+            "runtime": 99,
+            "popularity": 3.6022,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.4,
+            "tmdb_vote_count": 16,
+            "theatrical_release_date": "2026-08-05",
+            "digital_release_date": "2026-08-05"
+          }
+        }
+      ]
+    }
+  ]
+}

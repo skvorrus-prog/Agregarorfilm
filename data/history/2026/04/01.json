@@ -9,26 +9,26 @@
       "year": 2026,
       "overview": "После потери мужа женщина ищет утешения у своих родственников. Как один за другим они превращаются в мертвецов, она обнаруживает, что клятвы, которые она приняла в жизни - выживают даже в смерти.",
       "poster": "https://images.metahub.space/poster/small/tt31170389/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
       "genres": [
         "Horror"
       ],
       "countries": [
         "New Zealand, United States"
       ],
-      "runtime": null,
+      "runtime": 110,
       "imdb_id": "tt31170389",
-      "tmdb_id": null,
+      "tmdb_id": 1212763,
       "imdb_rating": 6.3,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 7.654,
+      "tmdb_vote_count": 1633,
+      "popularity": 47.2928,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-04-01",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.605027+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.164548+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -36,6 +36,40 @@
       "has_hdr": false,
       "has_ru_audio": false,
       "events": [
+        {
+          "id": "5f4bd4b4d61890e7",
+          "movie_id": "tt31170389",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-24",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Зловещие мертвецы: Пекло",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "После внезапной смерти Уилла, его жена Элис приезжает в уединённый семейный дом, чтобы пережить трагедию вместе с его семьёй. Однако вскоре выясняется, что смерть Уилла была не случайностью — перед гибелью он столкнулся с Джессикой, одержимой девушкой, которая передала ему демоническую силу. Уже после смерти Уилл возвращается и заражает собственного отца, превращая семейное прощание в кровавый кошмар. Пока одержимые один за другим охотятся на оставшихся членов семьи, Элис пытается защитить себя и понять, как остановить эту демоническую силу.",
+            "poster": "https://image.tmdb.org/t/p/w500/nbQgIssZPp1WsX1BF1OK7rBKe98.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+            "genres": [
+              "ужасы"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 110,
+            "popularity": 47.2928,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.654,
+            "tmdb_vote_count": 1633,
+            "theatrical_release_date": "2026-07-07",
+            "digital_release_date": "2026-08-24"
+          }
+        },
         {
           "id": "42bb03c1426541c5",
           "movie_id": "tt31170389",

@@ -279,7 +279,7 @@
       "year": 2026,
       "overview": "Студент Гарварда становится Унабомбером после психологических экспериментов. Годы спустя преследование агента ФБР показывает, как его прошлое сформировало его смертельную кампанию, которая убила 3 и ранила 23 человека в 1978-1995 годах.",
       "poster": "https://images.metahub.space/poster/small/tt6933238/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
       "genres": [
         "Crime",
         "Drama",
@@ -288,19 +288,19 @@
       "countries": [
         "United States"
       ],
-      "runtime": null,
+      "runtime": 101,
       "imdb_id": "tt6933238",
-      "tmdb_id": null,
+      "tmdb_id": 1492640,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 6.71,
+      "tmdb_vote_count": 255,
+      "popularity": 164.998,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-04-08",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.182948+00:00",
+      "last_updated_at": "2026-10-02T09:43:18.085190+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -308,6 +308,42 @@
       "has_hdr": false,
       "has_ru_audio": false,
       "events": [
+        {
+          "id": "d89d991d17c4c3b0",
+          "movie_id": "tt6933238",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-25",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Унабомбер",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Драма на основе реальных событий о том, как Тед Качинский превращается из гарвадского вундеркинда и предмета исследований в Унабомбера, разыскиваемого ФБР.",
+            "poster": "https://image.tmdb.org/t/p/w500/2cG4kY2k5AWC7y2i3IMb6LsBpat.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+            "genres": [
+              "триллер",
+              "драма",
+              "криминал"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 101,
+            "popularity": 164.998,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.71,
+            "tmdb_vote_count": 255,
+            "theatrical_release_date": "2026-09-25",
+            "digital_release_date": "2026-09-25"
+          }
+        },
         {
           "id": "5bdfdd767f89643c",
           "movie_id": "tt6933238",

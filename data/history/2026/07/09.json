@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-09",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt33296064",
+      "title": "Ночь живых мертвецов 2.0",
+      "original_title": "Night of the Living Dead",
+      "year": 2026,
+      "overview": "Небольшая группа людей борется за выживание, отбиваясь от восставших из могил мертвецов.",
+      "poster": "https://image.tmdb.org/t/p/w500/dR7fVeQU5RM2FEnYZfDjlrZnwRs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
+      "genres": [
+        "ужасы"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 87,
+      "imdb_id": "tt33296064",
+      "tmdb_id": 1645603,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.9,
+      "tmdb_vote_count": 73,
+      "popularity": 8.4072,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-03",
+      "digital_release_date": "2026-07-09",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.425005+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "075891b2300d8072",
+          "movie_id": "tt33296064",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-09",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": "2.0",
+          "language": null,
+          "release_group": null,
+          "raw_title": "Ночь живых мертвецов 2.0",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Небольшая группа людей борется за выживание, отбиваясь от восставших из могил мертвецов.",
+            "poster": "https://image.tmdb.org/t/p/w500/dR7fVeQU5RM2FEnYZfDjlrZnwRs.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
+            "genres": [
+              "ужасы"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 87,
+            "popularity": 8.4072,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.9,
+            "tmdb_vote_count": 73,
+            "theatrical_release_date": "2026-07-03",
+            "digital_release_date": "2026-07-09"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt39385949",
+      "title": "До последнего раунда",
+      "original_title": "Jusqu'au bout",
+      "year": 2026,
+      "overview": "В центре истории находится женщина по имени Жада (ее играет сама Навель Мадани). Она преодолела огромные трудности, чтобы забеременеть с помощью донорства эмбриона и наконец-то познать счастье материнства. Однако вскоре ее маленький сын Ноа тяжело заболевает лейкемией. Столкнувшись с жесткой бюрократической системой здравоохранения, Жада понимает, что легальные пути поиска совместимого донора костного мозга занимают слишком много времени. Чтобы спасти жизнь своего ребенка, отчаявшаяся мать решает пойти на все, переступая черту закона.",
+      "poster": "https://image.tmdb.org/t/p/w500/dj4S6Zi5Up8sgPHCWhCHlYgYac3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5cEmmIMunNk3JRij4nTitFtikIg.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ],
+      "countries": [
+        "France"
+      ],
+      "runtime": 102,
+      "imdb_id": "tt39385949",
+      "tmdb_id": 1710008,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.2,
+      "tmdb_vote_count": 79,
+      "popularity": 3.9193,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-08",
+      "digital_release_date": "2026-07-09",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.990778+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "89361d6eabef9f69",
+          "movie_id": "tt39385949",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-09",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "До последнего раунда",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В центре истории находится женщина по имени Жада (ее играет сама Навель Мадани). Она преодолела огромные трудности, чтобы забеременеть с помощью донорства эмбриона и наконец-то познать счастье материнства. Однако вскоре ее маленький сын Ноа тяжело заболевает лейкемией. Столкнувшись с жесткой бюрократической системой здравоохранения, Жада понимает, что легальные пути поиска совместимого донора костного мозга занимают слишком много времени. Чтобы спасти жизнь своего ребенка, отчаявшаяся мать решает пойти на все, переступая черту закона.",
+            "poster": "https://image.tmdb.org/t/p/w500/dj4S6Zi5Up8sgPHCWhCHlYgYac3.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/5cEmmIMunNk3JRij4nTitFtikIg.jpg",
+            "genres": [
+              "боевик",
+              "драма"
+            ],
+            "countries": [
+              "France"
+            ],
+            "runtime": 102,
+            "popularity": 3.9193,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.2,
+            "tmdb_vote_count": 79,
+            "theatrical_release_date": "2026-07-08",
+            "digital_release_date": "2026-07-09"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43659029",
+      "title": "致命潮汐",
+      "original_title": "致命潮汐",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/gIrxEazD510QYIRZP50DGqMRxwj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/88SDeP2ES7IBoh4G0NU3qdEhu6x.jpg",
+      "genres": [
+        "криминал",
+        "боевик"
+      ],
+      "countries": [
+        "China"
+      ],
+      "runtime": 69,
+      "imdb_id": "tt43659029",
+      "tmdb_id": 1728566,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 5,
+      "popularity": 7.2148,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-09",
+      "digital_release_date": "2026-07-09",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.809033+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "48fb61cd68f40ced",
+          "movie_id": "tt43659029",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-09",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "致命潮汐",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/gIrxEazD510QYIRZP50DGqMRxwj.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/88SDeP2ES7IBoh4G0NU3qdEhu6x.jpg",
+            "genres": [
+              "криминал",
+              "боевик"
+            ],
+            "countries": [
+              "China"
+            ],
+            "runtime": 69,
+            "popularity": 7.2148,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-07-09",
+            "digital_release_date": "2026-07-09"
+          }
+        }
+      ]
+    }
+  ]
+}

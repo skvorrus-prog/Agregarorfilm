@@ -1,0 +1,78 @@
+{
+  "date": "2025-12-10",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt35519455",
+      "title": "Всё закончится",
+      "original_title": "It Ends",
+      "year": 2025,
+      "overview": "Компания молодых людей едет ночью на машине через лес. Вскоре они понимают, что заблудились, и поворачивают назад, но упираются в глухую стену леса. Когда на них вдруг нападает толпа кричащих агрессивных людей, приятелям приходится развернуться ещё раз и ехать вперёд в надежде выбраться из этого странного места.",
+      "poster": "https://image.tmdb.org/t/p/w500/uPnCL5Moa9zRPy3BEf8m63OdXVA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+      "genres": [
+        "ужасы",
+        "детектив"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 89,
+      "imdb_id": "tt35519455",
+      "tmdb_id": 1422011,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.7,
+      "tmdb_vote_count": 59,
+      "popularity": 123.2249,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-21",
+      "digital_release_date": "2025-12-10",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.590272+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b6ab869cdebc6fb7",
+          "movie_id": "tt35519455",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2025-12-10",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Всё закончится",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Компания молодых людей едет ночью на машине через лес. Вскоре они понимают, что заблудились, и поворачивают назад, но упираются в глухую стену леса. Когда на них вдруг нападает толпа кричащих агрессивных людей, приятелям приходится развернуться ещё раз и ехать вперёд в надежде выбраться из этого странного места.",
+            "poster": "https://image.tmdb.org/t/p/w500/uPnCL5Moa9zRPy3BEf8m63OdXVA.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+            "genres": [
+              "ужасы",
+              "детектив"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 89,
+            "popularity": 123.2249,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.7,
+            "tmdb_vote_count": 59,
+            "theatrical_release_date": "2026-08-21",
+            "digital_release_date": "2025-12-10"
+          }
+        }
+      ]
+    }
+  ]
+}

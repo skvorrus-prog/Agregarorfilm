@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-25",
+  "count": 2,
+  "movies": [
+    {
+      "id": "tt36304003",
+      "title": "72 часа",
+      "original_title": "72 HOURS",
+      "year": 2026,
+      "overview": "Ради спасения карьеры 40-летний топ-менеджер вливается в компанию 20-тилетних на безумном мальчишнике в Майами, после того как его случайно добавили в их групповой чат.",
+      "poster": "https://image.tmdb.org/t/p/w500/yPQSyOfu5iPE4WEbp8pgiUjwETQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
+      "genres": [
+        "комедия",
+        "криминал"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 105,
+      "imdb_id": "tt36304003",
+      "tmdb_id": 949838,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.732,
+      "tmdb_vote_count": 461,
+      "popularity": 13.3449,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-20",
+      "digital_release_date": "2026-07-25",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.917067+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6d7f4518b32a2ca5",
+          "movie_id": "tt36304003",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-25",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "72 часа",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Ради спасения карьеры 40-летний топ-менеджер вливается в компанию 20-тилетних на безумном мальчишнике в Майами, после того как его случайно добавили в их групповой чат.",
+            "poster": "https://image.tmdb.org/t/p/w500/yPQSyOfu5iPE4WEbp8pgiUjwETQ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
+            "genres": [
+              "комедия",
+              "криминал"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 105,
+            "popularity": 13.3449,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.732,
+            "tmdb_vote_count": 461,
+            "theatrical_release_date": "2026-07-20",
+            "digital_release_date": "2026-07-25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43683795",
+      "title": "Euphoria: A Look Back",
+      "original_title": "Euphoria: A Look Back",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fQiNGtgo9gEpyOIxX29FtUHpcaD.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 60,
+      "imdb_id": "tt43683795",
+      "tmdb_id": 1732097,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.4,
+      "tmdb_vote_count": 9,
+      "popularity": 6.0273,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-24",
+      "digital_release_date": "2026-07-25",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:31.314337+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4991a9c28685466e",
+          "movie_id": "tt43683795",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-25",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Euphoria: A Look Back",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/fQiNGtgo9gEpyOIxX29FtUHpcaD.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 60,
+            "popularity": 6.0273,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.4,
+            "tmdb_vote_count": 9,
+            "theatrical_release_date": "2026-07-24",
+            "digital_release_date": "2026-07-25"
+          }
+        }
+      ]
+    }
+  ]
+}

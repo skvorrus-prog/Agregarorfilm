@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-06",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt32315584",
+      "title": "Рейс 298",
+      "original_title": "Black Box",
+      "year": 2026,
+      "overview": "Рейс 298 сталкивается с вспышкой загадочного вируса, а после сильной турбулентности и странных огней за бортом в салон проникает инопланетное существо. Монстр убивает и заражает всех паразитами. Несколько выживших пытаются укрыться в грузовом отсеке.",
+      "poster": "https://image.tmdb.org/t/p/w500/oHGXlnrpn7faqSKNEEFyzTyeXPG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5Af8qDOesFEspcnsjIRUDwQZaYQ.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 85,
+      "imdb_id": "tt32315584",
+      "tmdb_id": 1321008,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.92,
+      "tmdb_vote_count": 94,
+      "popularity": 19.0143,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-06-25",
+      "digital_release_date": "2026-07-06",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:39.225573+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "58ad56a1a0923b5a",
+          "movie_id": "tt32315584",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-06",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Рейс 298",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Рейс 298 сталкивается с вспышкой загадочного вируса, а после сильной турбулентности и странных огней за бортом в салон проникает инопланетное существо. Монстр убивает и заражает всех паразитами. Несколько выживших пытаются укрыться в грузовом отсеке.",
+            "poster": "https://image.tmdb.org/t/p/w500/oHGXlnrpn7faqSKNEEFyzTyeXPG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/5Af8qDOesFEspcnsjIRUDwQZaYQ.jpg",
+            "genres": [
+              "ужасы",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 85,
+            "popularity": 19.0143,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.92,
+            "tmdb_vote_count": 94,
+            "theatrical_release_date": "2026-06-25",
+            "digital_release_date": "2026-07-06"
+          }
+        }
+      ]
+    }
+  ]
+}

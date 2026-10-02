@@ -1,34 +1,36 @@
 {
   "date": "2026-07-01",
-  "count": 3,
+  "count": 4,
   "movies": [
     {
-      "id": "tt37275992",
-      "title": "The Secret Woman",
-      "original_title": "The Secret Woman",
+      "id": "tt32278481",
+      "title": "Энола Холмс 3",
+      "original_title": "Enola Holmes 3",
       "year": 2026,
-      "overview": null,
-      "poster": "https://images.metahub.space/poster/small/tt37275992/img",
-      "backdrop": null,
+      "overview": "Детектив Энола Холмс отправляется на Мальту, однако ее планы выйти замуж рушатся: из-за исчезновения Шерлока она втягивается в опасное дело.",
+      "poster": "https://image.tmdb.org/t/p/w500/eTjUnXaWpkQbuDcBQV8oI1IeC9r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
       "genres": [
-        "Drama"
+        "приключения",
+        "криминал",
+        "детектив"
       ],
       "countries": [
-        "Denmark"
+        "United States of America"
       ],
-      "runtime": null,
-      "imdb_id": "tt37275992",
-      "tmdb_id": null,
+      "runtime": 109,
+      "imdb_id": "tt32278481",
+      "tmdb_id": 1202033,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
+      "tmdb_rating": 6.717,
+      "tmdb_vote_count": 704,
+      "popularity": 14.231,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-06-30",
       "digital_release_date": "2026-07-01",
-      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.477077+00:00",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:38.848080+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -36,6 +38,114 @@
       "has_hdr": false,
       "has_ru_audio": false,
       "events": [
+        {
+          "id": "1285da6b9907e7a8",
+          "movie_id": "tt32278481",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-01",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Энола Холмс 3",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Детектив Энола Холмс отправляется на Мальту, однако ее планы выйти замуж рушатся: из-за исчезновения Шерлока она втягивается в опасное дело.",
+            "poster": "https://image.tmdb.org/t/p/w500/eTjUnXaWpkQbuDcBQV8oI1IeC9r.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+            "genres": [
+              "приключения",
+              "криминал",
+              "детектив"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 109,
+            "popularity": 14.231,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.717,
+            "tmdb_vote_count": 704,
+            "theatrical_release_date": "2026-06-30",
+            "digital_release_date": "2026-07-01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37275992",
+      "title": "The Secret Woman",
+      "original_title": "The Secret Woman",
+      "year": 2026,
+      "overview": "История рассказывает о молодой женщине по имени Луиза Андерсен, которая страдает амнезией. Она ведет спокойную жизнь на уединенном норвежском острове вместе со своим бойфрендом, управляя небольшим кафе. Всё меняется, когда Луиза внезапно узнает, что она как две капли воды похожа на Хелен Сёдерберг - наследницу огромной судоходной империи в Дании, которая бесследно исчезла три года назад. Решив выяснить правду о своем прошлом, Луиза возвращается к богатой, внешне безупречной жизни Хелен. Ей предстоит столкнуться с мужем, сыном и мрачными тайнами, чтобы понять, от чего именно она пыталась сбежать.",
+      "poster": "https://images.metahub.space/poster/small/tt37275992/img",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
+      "genres": [
+        "Drama"
+      ],
+      "countries": [
+        "Denmark"
+      ],
+      "runtime": 119,
+      "imdb_id": "tt37275992",
+      "tmdb_id": 1631807,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.44,
+      "tmdb_vote_count": 133,
+      "popularity": 17.688,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-07-01",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.204549+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "79d155ce1e9bd692",
+          "movie_id": "tt37275992",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-28",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Загадочная женщина",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "История рассказывает о молодой женщине по имени Луиза Андерсен, которая страдает амнезией. Она ведет спокойную жизнь на уединенном норвежском острове вместе со своим бойфрендом, управляя небольшим кафе. Всё меняется, когда Луиза внезапно узнает, что она как две капли воды похожа на Хелен Сёдерберг - наследницу огромной судоходной империи в Дании, которая бесследно исчезла три года назад. Решив выяснить правду о своем прошлом, Луиза возвращается к богатой, внешне безупречной жизни Хелен. Ей предстоит столкнуться с мужем, сыном и мрачными тайнами, чтобы понять, от чего именно она пыталась сбежать.",
+            "poster": "https://image.tmdb.org/t/p/w500/vuUulFsXFj0USgVgLwiENBGMYdM.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
+            "genres": [
+              "драма",
+              "триллер",
+              "детектив"
+            ],
+            "countries": [
+              "Denmark"
+            ],
+            "runtime": 119,
+            "popularity": 17.688,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.44,
+            "tmdb_vote_count": 133,
+            "theatrical_release_date": "2026-08-28",
+            "digital_release_date": "2026-08-28"
+          }
+        },
         {
           "id": "e82e86d7032158b5",
           "movie_id": "tt37275992",
@@ -74,7 +184,7 @@
       "year": 2026,
       "overview": "One Night Only:One Night Only — песня из бродвейского мюзикла 1981 года Девушки мечты\t.\nOne Night Only — английская инди-рок группа.\nOne Night Only \nOne Night Only \nOne Night Only — концертный альбом ирландской рок-группы Thin Lizzy.\nOne Night Only — DVD, записанное во время живого выступления Рики Мартина.\nOne Night Only with Ricky Martin — всемирный концертный тур пуэрто-риканского певца Рики Мартина.",
       "poster": "https://images.metahub.space/poster/small/tt37853455/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
       "genres": [
         "Comedy",
         "Drama",
@@ -83,19 +193,19 @@
       "countries": [
         "United States"
       ],
-      "runtime": null,
+      "runtime": 103,
       "imdb_id": "tt37853455",
-      "tmdb_id": null,
+      "tmdb_id": 1433367,
       "imdb_rating": 6.3,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 6.5,
+      "tmdb_vote_count": 172,
+      "popularity": 29.9473,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-07-01",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.429093+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.347050+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -133,6 +243,41 @@
             "imdb_rating": 6.3,
             "runtime": null
           }
+        },
+        {
+          "id": "09bc29bf22ffe56f",
+          "movie_id": "tt37853455",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-12",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Всего одна ночь",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Нью-Йорк, единственная ночь в году, когда разрешён секс. Недавно переживший расставание Оуэн и мечтающая о настоящей любви Элли сталкиваются друг с другом, и между ними сразу возникает симпатия. Однако путь к сближению оказывается непростым, и их разделяют случайные знакомства и недоразумения.",
+            "poster": "https://image.tmdb.org/t/p/w500/wGqOgu5NV8Y8NPhGHJ5zHPm9DqI.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
+            "genres": [
+              "мелодрама",
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 103,
+            "popularity": 29.9473,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.5,
+            "tmdb_vote_count": 172,
+            "theatrical_release_date": "2026-08-06",
+            "digital_release_date": "2026-11-12"
+          }
         }
       ]
     },
@@ -143,7 +288,7 @@
       "year": 2026,
       "overview": "Разведывательная миссия лейтенанта Троя Бреннана над советской территорией идет наперекосяк, заставляя его совершить аварийную посадку и выжить в русской пустыне, избегая захвата или спасения.",
       "poster": "https://images.metahub.space/poster/small/tt28014327/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
       "genres": [
         "Action",
         "Adventure",
@@ -152,19 +297,19 @@
       "countries": [
         "United States"
       ],
-      "runtime": null,
+      "runtime": 110,
       "imdb_id": "tt28014327",
-      "tmdb_id": null,
+      "tmdb_id": 1137844,
       "imdb_rating": 6.9,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 7.971,
+      "tmdb_vote_count": 877,
+      "popularity": 42.616,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-07-01",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.245734+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.988549+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -172,6 +317,41 @@
       "has_hdr": false,
       "has_ru_audio": false,
       "events": [
+        {
+          "id": "0c3a3b88df7e3ea9",
+          "movie_id": "tt28014327",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-04",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Мэйдэй",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Пилот ВМС США, выполняя сверхсекретную миссию во время холодной войны, не может выбраться из тыла врага, и его единственный шанс на спасение — союз с эксцентричным бывшим сотрудником КГБ.",
+            "poster": "https://image.tmdb.org/t/p/w500/tUHzcIOt5miEdgDyV6PJdFNTp3N.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+            "genres": [
+              "боевик",
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 110,
+            "popularity": 42.616,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.971,
+            "tmdb_vote_count": 877,
+            "theatrical_release_date": "2026-09-03",
+            "digital_release_date": "2026-09-04"
+          }
+        },
         {
           "id": "89ac01eefc6b6824",
           "movie_id": "tt28014327",

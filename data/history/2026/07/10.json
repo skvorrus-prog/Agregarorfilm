@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-10",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt43595399",
+      "title": "Shipwrecked: Nightmare at Sea",
+      "original_title": "Shipwrecked: Nightmare at Sea",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": 90,
+      "imdb_id": "tt43595399",
+      "tmdb_id": 1715492,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.2,
+      "tmdb_vote_count": 80,
+      "popularity": 4.8603,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-10",
+      "digital_release_date": "2026-07-10",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.482233+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "5340cd7645350070",
+          "movie_id": "tt43595399",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-10",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Shipwrecked: Nightmare at Sea",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United Kingdom"
+            ],
+            "runtime": 90,
+            "popularity": 4.8603,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.2,
+            "tmdb_vote_count": 80,
+            "theatrical_release_date": "2026-07-10",
+            "digital_release_date": "2026-07-10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt39398878",
+      "title": "Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo",
+      "original_title": "Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/7MCnV8wb1tODOrM8NmWAuPWm40Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6QdbhPXNVFJ3cVCCFscOulC3Bpa.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "runtime": 93,
+      "imdb_id": "tt39398878",
+      "tmdb_id": 1722713,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.6,
+      "tmdb_vote_count": 14,
+      "popularity": 3.5883,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-10",
+      "digital_release_date": "2026-07-10",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.429750+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "023acefed4be0690",
+          "movie_id": "tt39398878",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-10",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/7MCnV8wb1tODOrM8NmWAuPWm40Y.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/6QdbhPXNVFJ3cVCCFscOulC3Bpa.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "Spain"
+            ],
+            "runtime": 93,
+            "popularity": 3.5883,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.6,
+            "tmdb_vote_count": 14,
+            "theatrical_release_date": "2026-07-10",
+            "digital_release_date": "2026-07-10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33372918",
+      "title": "Внешняя угроза",
+      "original_title": "The Outer Threat",
+      "year": 2026,
+      "overview": "Астрофизик Дэниел совершает сенсационное открытие, подтверждающее существование инопланетной жизни. Оповестив свою команду, он сталкивается с неожиданной опасностью: за ним и его семьей начинает охоту неуловимый и крайне опасный преследователь. Семья вынуждена бросить дом и бежать через сельскую местность. В процессе этого изнурительного побега им предстоит балансировать на грани между реальной космической угрозой и растущей паранойей.",
+      "poster": "https://image.tmdb.org/t/p/w500/u5d1XekcchKfxx3RAQVzkEkFMng.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ouEdGbvYnhAnHJYLYDkISs3X9yJ.jpg",
+      "genres": [
+        "фантастика",
+        "триллер"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "runtime": 94,
+      "imdb_id": "tt33372918",
+      "tmdb_id": 1381202,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.6,
+      "tmdb_vote_count": 14,
+      "popularity": 3.9987,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-24",
+      "digital_release_date": "2026-07-10",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:31.450839+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "137aee2ad5b78556",
+          "movie_id": "tt33372918",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-10",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Внешняя угроза",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Астрофизик Дэниел совершает сенсационное открытие, подтверждающее существование инопланетной жизни. Оповестив свою команду, он сталкивается с неожиданной опасностью: за ним и его семьей начинает охоту неуловимый и крайне опасный преследователь. Семья вынуждена бросить дом и бежать через сельскую местность. В процессе этого изнурительного побега им предстоит балансировать на грани между реальной космической угрозой и растущей паранойей.",
+            "poster": "https://image.tmdb.org/t/p/w500/u5d1XekcchKfxx3RAQVzkEkFMng.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/ouEdGbvYnhAnHJYLYDkISs3X9yJ.jpg",
+            "genres": [
+              "фантастика",
+              "триллер"
+            ],
+            "countries": [
+              "Canada"
+            ],
+            "runtime": 94,
+            "popularity": 3.9987,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.6,
+            "tmdb_vote_count": 14,
+            "theatrical_release_date": "2026-07-24",
+            "digital_release_date": "2026-07-10"
+          }
+        }
+      ]
+    }
+  ]
+}

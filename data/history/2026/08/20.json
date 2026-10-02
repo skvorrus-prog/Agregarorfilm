@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-20",
+  "count": 2,
+  "movies": [
+    {
+      "id": "tt43676563",
+      "title": "Novak Djokovic: The Wolf in Winter",
+      "original_title": "Novak Djokovic: The Wolf in Winter",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 93,
+      "imdb_id": "tt43676563",
+      "tmdb_id": 1626188,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.3,
+      "tmdb_vote_count": 10,
+      "popularity": 8.0843,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-20",
+      "digital_release_date": "2026-08-20",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.687158+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "2e4ef1b01327fc54",
+          "movie_id": "tt43676563",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-20",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Novak Djokovic: The Wolf in Winter",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/1upwdMUTDkEI5vm22d4D09cFWkU.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 93,
+            "popularity": 8.0843,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.3,
+            "tmdb_vote_count": 10,
+            "theatrical_release_date": "2026-08-20",
+            "digital_release_date": "2026-08-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt39750720",
+      "title": "คดีชมพู่:​ เด็กหายที่ถูกลืม",
+      "original_title": "คดีชมพู่:​ เด็กหายที่ถูกลืม",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vKMQlsutWlEFt3yK9mPlaMWnwF7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uU6NBiVlJgdOt6EodmbEvs8tlpI.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "Thailand",
+        "Singapore"
+      ],
+      "runtime": 85,
+      "imdb_id": "tt39750720",
+      "tmdb_id": 1741201,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.6,
+      "tmdb_vote_count": 14,
+      "popularity": 5.107,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-20",
+      "digital_release_date": "2026-08-20",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.648356+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "78e2793f34b3ecff",
+          "movie_id": "tt39750720",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-20",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "คดีชมพู่:​ เด็กหายที่ถูกลืม",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/vKMQlsutWlEFt3yK9mPlaMWnwF7.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/uU6NBiVlJgdOt6EodmbEvs8tlpI.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "Thailand",
+              "Singapore"
+            ],
+            "runtime": 85,
+            "popularity": 5.107,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.6,
+            "tmdb_vote_count": 14,
+            "theatrical_release_date": "2026-08-20",
+            "digital_release_date": "2026-08-20"
+          }
+        }
+      ]
+    }
+  ]
+}

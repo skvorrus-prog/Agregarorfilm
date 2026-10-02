@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-06",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt29512655",
+      "title": "Катастрофа. Удар из космоса",
+      "original_title": "Rage of Stars",
+      "year": 2026,
+      "overview": "Джемма служит в международном спецподразделении и сталкивается с тревожными видениями, предвещающими гибель человечества. Постепенно её предчувствия начинают связываться с реальными событиями, которые выводят её на след опасной угрозы. Пытаясь разобраться в происходящем, Джемма оказывается перед выбором, от которого может зависеть не только её судьба, но и будущее всего мира.",
+      "poster": "https://image.tmdb.org/t/p/w500/7rUqtmq3isM3bEEnXPQbHi37MyV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+      "genres": [
+        "боевик",
+        "фантастика",
+        "триллер"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "runtime": 106,
+      "imdb_id": "tt29512655",
+      "tmdb_id": 1323244,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.585,
+      "tmdb_vote_count": 217,
+      "popularity": 55.8946,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-06",
+      "digital_release_date": "2026-08-06",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.150416+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "77629c0d828f93e2",
+          "movie_id": "tt29512655",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-06",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Катастрофа. Удар из космоса",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Джемма служит в международном спецподразделении и сталкивается с тревожными видениями, предвещающими гибель человечества. Постепенно её предчувствия начинают связываться с реальными событиями, которые выводят её на след опасной угрозы. Пытаясь разобраться в происходящем, Джемма оказывается перед выбором, от которого может зависеть не только её судьба, но и будущее всего мира.",
+            "poster": "https://image.tmdb.org/t/p/w500/7rUqtmq3isM3bEEnXPQbHi37MyV.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+            "genres": [
+              "боевик",
+              "фантастика",
+              "триллер"
+            ],
+            "countries": [
+              "Poland"
+            ],
+            "runtime": 106,
+            "popularity": 55.8946,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.585,
+            "tmdb_vote_count": 217,
+            "theatrical_release_date": "2026-08-06",
+            "digital_release_date": "2026-08-06"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,229 @@
 {
   "date": "2026-10-01",
-  "count": 11,
+  "count": 13,
   "movies": [
+    {
+      "id": "tt37601032",
+      "title": "Последний богатырь. Колобок",
+      "original_title": "Последний богатырь. Колобок",
+      "year": 2026,
+      "overview": "История Колобка: с какой коварной целью его испекли, как ему удалось сбежать, как он скитался и попал в банду разбойников, а потом поневоле стал напарником неудачливого пекаря Тихона и необычной девушки Лады.",
+      "poster": "https://image.tmdb.org/t/p/w500/jPKQThX15zNRaYdbEhmnJEjGjWT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uwCrmXg12dZ39lsgAzp1kU6oji9.jpg",
+      "genres": [
+        "комедия",
+        "приключения",
+        "семейный"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "runtime": 109,
+      "imdb_id": "tt37601032",
+      "tmdb_id": 1513703,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.6,
+      "tmdb_vote_count": 5,
+      "popularity": 3.4393,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-06",
+      "digital_release_date": "2026-10-01",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.323231+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f54dba9479d4d19b",
+          "movie_id": "tt37601032",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-01",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Последний богатырь. Колобок",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "История Колобка: с какой коварной целью его испекли, как ему удалось сбежать, как он скитался и попал в банду разбойников, а потом поневоле стал напарником неудачливого пекаря Тихона и необычной девушки Лады.",
+            "poster": "https://image.tmdb.org/t/p/w500/jPKQThX15zNRaYdbEhmnJEjGjWT.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/uwCrmXg12dZ39lsgAzp1kU6oji9.jpg",
+            "genres": [
+              "комедия",
+              "приключения",
+              "семейный"
+            ],
+            "countries": [
+              "Russia"
+            ],
+            "runtime": 109,
+            "popularity": 3.4393,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.6,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-08-06",
+            "digital_release_date": "2026-10-01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37535100",
+      "title": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "original_title": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 155,
+      "imdb_id": "tt37535100",
+      "tmdb_id": 1508168,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.8,
+      "tmdb_vote_count": 20,
+      "popularity": 14.8205,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-21",
+      "digital_release_date": "2026-10-01",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.565788+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "c1c085497bc020c7",
+          "movie_id": "tt37535100",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-01",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
+            "genres": [
+              "мелодрама",
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 155,
+            "popularity": 14.8205,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.8,
+            "tmdb_vote_count": 20,
+            "theatrical_release_date": "2026-08-21",
+            "digital_release_date": "2026-10-01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33512134",
+      "title": "Сквозь огонь",
+      "original_title": "Drive Through Fire",
+      "year": 2026,
+      "overview": "Бывший военный Джейсон работает таксистом и подбирает пассажирку, которая оказывается жертвой торговли людьми. Он решает спасти девушку любой ценой. Теперь за ними охотятся влиятельные преступники, коррумпированные чиновники и безжалостные убийцы. Чтобы выжить, Джейсону придётся вновь столкнуться с демонами прошлого.",
+      "poster": "https://image.tmdb.org/t/p/w500/3fdv5xqNjUrhtv4nKRaHTE5dXJK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tw90S4hVrvUoqmQWDoO6U4toZT.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 87,
+      "imdb_id": "tt33512134",
+      "tmdb_id": 1378742,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.1,
+      "tmdb_vote_count": 6,
+      "popularity": 2.5377,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-11",
+      "digital_release_date": "2026-10-01",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.642944+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "c57d7f2bc767dd35",
+          "movie_id": "tt33512134",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-01",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Сквозь огонь",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Бывший военный Джейсон работает таксистом и подбирает пассажирку, которая оказывается жертвой торговли людьми. Он решает спасти девушку любой ценой. Теперь за ними охотятся влиятельные преступники, коррумпированные чиновники и безжалостные убийцы. Чтобы выжить, Джейсону придётся вновь столкнуться с демонами прошлого.",
+            "poster": "https://image.tmdb.org/t/p/w500/3fdv5xqNjUrhtv4nKRaHTE5dXJK.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8Tw90S4hVrvUoqmQWDoO6U4toZT.jpg",
+            "genres": [
+              "боевик",
+              "криминал",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 87,
+            "popularity": 2.5377,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.1,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-09-11",
+            "digital_release_date": "2026-10-01"
+          }
+        }
+      ]
+    },
     {
       "id": "tmdb_1599191",
       "title": "仙逆剧场版：弑仙之战",
@@ -733,164 +955,6 @@
             "audio": null,
             "language": null,
             "release_group": "Sub",
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "m_6d82f4fb65bf",
-      "title": "Бегущая",
-      "original_title": "The Runner",
-      "year": 2026,
-      "overview": "«Бегущая» — британский экшн-триллер режиссёра Кевина Макдональда по сценарию Марка Гибсона с Галь Гадот в главной роли. Премьера состоялась 2 сентября 2026 года на Prime Video.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Action",
-        "Drama",
-        "Thriller"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "runtime": null,
-      "imdb_id": "tt34564059",
-      "tmdb_id": null,
-      "imdb_rating": 4.1,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-10-01T19:01:02.118413+00:00",
-      "last_updated_at": "2026-10-01T19:01:51.685965+00:00",
-      "status": "UHD_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "2160p",
-      "has_4k": true,
-      "has_hdr": true,
-      "has_ru_audio": true,
-      "events": [
-        {
-          "id": "67df84f577a604b7",
-          "movie_id": "m_6d82f4fb65bf",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-01T15:10:07+00:00",
-          "detected_at": "2026-10-01T19:01:02.118413+00:00",
-          "quality": "WEB-DL",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "Бегущая / The Runner (2026) WEB-DL 1080p от ELEKTRI4KA | D | Мосфильм-Мастер",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "399d7fcd7990ab40",
-          "movie_id": "m_6d82f4fb65bf",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-01T15:13:16+00:00",
-          "detected_at": "2026-10-01T19:01:02.118413+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "Бегущая / The Runner (2026) WEB-DLRip от ELEKTRI4KA | D | Мосфильм-Мастер",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "unknown",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "53ff660122d77dba",
-          "movie_id": "m_6d82f4fb65bf",
-          "event_type": "UHD_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-01T16:53:51+00:00",
-          "detected_at": "2026-10-01T19:01:02.118413+00:00",
-          "quality": "WEB-DL",
-          "resolution": "2160p",
-          "hdr": "Dolby Vision / HDR10",
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "Бегущая / The Runner (2026) UHD WEB-DL 2160p | 4K | HDR10+ | Dolby Vision P8 | D, P | Мосфильм-Мастер, HDRezka Studio",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "2160p",
-            "hdr": "Dolby Vision / HDR10",
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "6bf554bd106776d2",
-          "movie_id": "m_6d82f4fb65bf",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-01T17:17:49+00:00",
-          "detected_at": "2026-10-01T19:01:02.118413+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "Бегущая / The Runner (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Мосфильм-Мастер",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "unknown",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "e1566431fa8a2a24",
-          "movie_id": "m_6d82f4fb65bf",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-01T18:44:28+00:00",
-          "detected_at": "2026-10-01T19:01:02.118413+00:00",
-          "quality": "WEB-DL",
-          "resolution": "720p",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "Бегущая / The Runner (2026) WEB-DLRip 720p от New-Team | D, P | Мосфильм-Мастер, HDRezka Studio",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "720p",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
             "is_secondary_signal": true
           }
         }

@@ -1,0 +1,84 @@
+{
+  "date": "2026-08-16",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt32890033",
+      "title": "Миньоны и монстры",
+      "original_title": "Minions & Monsters",
+      "year": 2026,
+      "overview": "1920-ые годы. Миньоны снимаются в кино и покоряют Голливуд. Чтобы снять свой собственный фильм о монстрах, они отправляются на поиски самых пугающих существ.",
+      "poster": "https://image.tmdb.org/t/p/w500/kuVqoYoUnlL9OLhGfobqMRYxVIT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "genres": [
+        "приключения",
+        "мультфильм",
+        "комедия",
+        "семейный",
+        "фэнтези"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 90,
+      "imdb_id": "tt32890033",
+      "tmdb_id": 1315772,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.563,
+      "tmdb_vote_count": 1204,
+      "popularity": 83.1909,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-06-24",
+      "digital_release_date": "2026-08-16",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:39.334632+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6637cc277a996c3d",
+          "movie_id": "tt32890033",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-16",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Миньоны и монстры",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "1920-ые годы. Миньоны снимаются в кино и покоряют Голливуд. Чтобы снять свой собственный фильм о монстрах, они отправляются на поиски самых пугающих существ.",
+            "poster": "https://image.tmdb.org/t/p/w500/kuVqoYoUnlL9OLhGfobqMRYxVIT.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+            "genres": [
+              "приключения",
+              "мультфильм",
+              "комедия",
+              "семейный",
+              "фэнтези"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 90,
+            "popularity": 83.1909,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.563,
+            "tmdb_vote_count": 1204,
+            "theatrical_release_date": "2026-06-24",
+            "digital_release_date": "2026-08-16"
+          }
+        }
+      ]
+    }
+  ]
+}

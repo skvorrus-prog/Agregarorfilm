@@ -1,0 +1,82 @@
+{
+  "date": "2026-08-08",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt42186253",
+      "title": "Герой ленты",
+      "original_title": "THE RIBBON HERO リボンヒーロー",
+      "year": 2026,
+      "overview": "Жуткий Нергал опустошает королевство принцессы Сапфир. Чтобы спасти новый дом от той же печальной участи, она снова пробуждается как Герой Ленты.",
+      "poster": "https://image.tmdb.org/t/p/w500/1fIpLk653CnjgoF8CY2O0MbahsH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+      "genres": [
+        "мультфильм",
+        "фэнтези",
+        "драма",
+        "боевик"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "runtime": 112,
+      "imdb_id": "tt42186253",
+      "tmdb_id": 1679730,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.4,
+      "tmdb_vote_count": 24,
+      "popularity": 13.3277,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-07",
+      "digital_release_date": "2026-08-08",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.231931+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "fe39928e49cd09b9",
+          "movie_id": "tt42186253",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-08",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Герой ленты",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Жуткий Нергал опустошает королевство принцессы Сапфир. Чтобы спасти новый дом от той же печальной участи, она снова пробуждается как Герой Ленты.",
+            "poster": "https://image.tmdb.org/t/p/w500/1fIpLk653CnjgoF8CY2O0MbahsH.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+            "genres": [
+              "мультфильм",
+              "фэнтези",
+              "драма",
+              "боевик"
+            ],
+            "countries": [
+              "Japan"
+            ],
+            "runtime": 112,
+            "popularity": 13.3277,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.4,
+            "tmdb_vote_count": 24,
+            "theatrical_release_date": "2026-08-07",
+            "digital_release_date": "2026-08-08"
+          }
+        }
+      ]
+    }
+  ]
+}

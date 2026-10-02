@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-24",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt30217600",
+      "title": "Бухта",
+      "original_title": "The Bay",
+      "year": 2026,
+      "overview": "Две подруги отдыхают в Таиланде и отправляются на экскурсию к заповедной лагуне. Но отпуск оборачивается кровавым кошмаром: катер терпит крушение, и девушки оказываются в ловушке, окруженные стаей тигровых акул.",
+      "poster": "https://image.tmdb.org/t/p/w500/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8OQbUnXkEFtTMAakP6dg7bRvvip.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
+      ],
+      "countries": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "runtime": 87,
+      "imdb_id": "tt30217600",
+      "tmdb_id": 1430698,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.7,
+      "tmdb_vote_count": 32,
+      "popularity": 10.7496,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-02",
+      "digital_release_date": "2026-08-24",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:38.623392+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "46d1b36d7b579e3d",
+          "movie_id": "tt30217600",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-24",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Бухта",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Две подруги отдыхают в Таиланде и отправляются на экскурсию к заповедной лагуне. Но отпуск оборачивается кровавым кошмаром: катер терпит крушение, и девушки оказываются в ловушке, окруженные стаей тигровых акул.",
+            "poster": "https://image.tmdb.org/t/p/w500/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8OQbUnXkEFtTMAakP6dg7bRvvip.jpg",
+            "genres": [
+              "триллер",
+              "ужасы"
+            ],
+            "countries": [
+              "United States of America",
+              "United Kingdom"
+            ],
+            "runtime": 87,
+            "popularity": 10.7496,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.7,
+            "tmdb_vote_count": 32,
+            "theatrical_release_date": "2026-07-02",
+            "digital_release_date": "2026-08-24"
+          }
+        }
+      ]
+    }
+  ]
+}

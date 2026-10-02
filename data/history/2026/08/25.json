@@ -1,0 +1,302 @@
+{
+  "date": "2026-08-25",
+  "count": 4,
+  "movies": [
+    {
+      "id": "tt26445387",
+      "title": "Я, никто",
+      "original_title": "I, നോബഡി",
+      "year": 2026,
+      "overview": "Радживан — обычный банковский служащий и семьянин. Во время ограбления банка он оказывается в заложниках, а после того как украденные деньги бесследно исчезают, становится главным подозреваемым. Полиция начинает охоту, а разные люди требуют от него признаться, где спрятаны средства. Из «никого» Радживан превращается в человека, которого травят и избивают за преступление, которого он, возможно, не совершал.",
+      "poster": "https://image.tmdb.org/t/p/w500/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zNvSWIvca6aA0eq63JqzVvagqLI.jpg",
+      "genres": [
+        "криминал",
+        "боевик",
+        "триллер"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 169,
+      "imdb_id": "tt26445387",
+      "tmdb_id": 1339676,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.5,
+      "tmdb_vote_count": 6,
+      "popularity": 3.0114,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-09",
+      "digital_release_date": "2026-08-25",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.945541+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "acf9e2318494ab3d",
+          "movie_id": "tt26445387",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-25",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Я, никто",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Радживан — обычный банковский служащий и семьянин. Во время ограбления банка он оказывается в заложниках, а после того как украденные деньги бесследно исчезают, становится главным подозреваемым. Полиция начинает охоту, а разные люди требуют от него признаться, где спрятаны средства. Из «никого» Радживан превращается в человека, которого травят и избивают за преступление, которого он, возможно, не совершал.",
+            "poster": "https://image.tmdb.org/t/p/w500/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/zNvSWIvca6aA0eq63JqzVvagqLI.jpg",
+            "genres": [
+              "криминал",
+              "боевик",
+              "триллер"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 169,
+            "popularity": 3.0114,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.5,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-07-09",
+            "digital_release_date": "2026-08-25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt2012616",
+      "title": "Мотор Сити",
+      "original_title": "Motor City",
+      "year": 2026,
+      "overview": "Детройт, 1970-ые. Рабочий автозавода Джон Миллер влюбляется в девушку местного криминального босса и дорого за это платит. Его подставляют и отправляют в тюрьму за преступление, которого он не совершал. Спустя годы Джон выходит на свободу. У него осталась только одна цель – отомстить человеку, который отнял у него любовь, свободу и прежнюю жизнь.",
+      "poster": "https://image.tmdb.org/t/p/w500/x21v9cId3pKCXartiirH3Rp7rlI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "криминал"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 103,
+      "imdb_id": "tt2012616",
+      "tmdb_id": 87513,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.242,
+      "tmdb_vote_count": 122,
+      "popularity": 24.4361,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-23",
+      "digital_release_date": "2026-08-25",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.532948+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "98b7483c08fbca39",
+          "movie_id": "tt2012616",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-25",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Мотор Сити",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Детройт, 1970-ые. Рабочий автозавода Джон Миллер влюбляется в девушку местного криминального босса и дорого за это платит. Его подставляют и отправляют в тюрьму за преступление, которого он не совершал. Спустя годы Джон выходит на свободу. У него осталась только одна цель – отомстить человеку, который отнял у него любовь, свободу и прежнюю жизнь.",
+            "poster": "https://image.tmdb.org/t/p/w500/x21v9cId3pKCXartiirH3Rp7rlI.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
+            "genres": [
+              "боевик",
+              "триллер",
+              "криминал"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 103,
+            "popularity": 24.4361,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.242,
+            "tmdb_vote_count": 122,
+            "theatrical_release_date": "2026-07-23",
+            "digital_release_date": "2026-08-25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt36629665",
+      "title": "Её личный ад",
+      "original_title": "Her Private Hell",
+      "year": 2026,
+      "overview": "В футуристическом мегаполисе объявляется Кожаный человек — монстр, рожденный болью и женскими страхами. Он приходит из розового тумана, чтобы убивать девушек. Случайными свидетельницами его последнего преступления становится известная актриса и ее подруга-блогерша. И если раньше девушкам приходилось биться за превосходство друг с другом, то теперь их жизни превращаются в борьбу за выживание, ведь монстр может прийти за каждой. Также в розовый ад отправляется рядовой Кей, который потерял там свою дочь, но неожиданно нашел одну из девушек.",
+      "poster": "https://image.tmdb.org/t/p/w500/vskIGrwH7li7btlgkpuPF8VVACS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+      "genres": [
+        "фантастика",
+        "ужасы",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America",
+        "Denmark",
+        "United Kingdom"
+      ],
+      "runtime": 109,
+      "imdb_id": "tt36629665",
+      "tmdb_id": 1469342,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.302,
+      "tmdb_vote_count": 81,
+      "popularity": 14.4796,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-23",
+      "digital_release_date": "2026-08-25",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.341369+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "0f607bb398bbd6ae",
+          "movie_id": "tt36629665",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-25",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Её личный ад",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В футуристическом мегаполисе объявляется Кожаный человек — монстр, рожденный болью и женскими страхами. Он приходит из розового тумана, чтобы убивать девушек. Случайными свидетельницами его последнего преступления становится известная актриса и ее подруга-блогерша. И если раньше девушкам приходилось биться за превосходство друг с другом, то теперь их жизни превращаются в борьбу за выживание, ведь монстр может прийти за каждой. Также в розовый ад отправляется рядовой Кей, который потерял там свою дочь, но неожиданно нашел одну из девушек.",
+            "poster": "https://image.tmdb.org/t/p/w500/vskIGrwH7li7btlgkpuPF8VVACS.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+            "genres": [
+              "фантастика",
+              "ужасы",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America",
+              "Denmark",
+              "United Kingdom"
+            ],
+            "runtime": 109,
+            "popularity": 14.4796,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.302,
+            "tmdb_vote_count": 81,
+            "theatrical_release_date": "2026-07-23",
+            "digital_release_date": "2026-08-25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43700434",
+      "title": "Untold: The Testimony of Vince Young",
+      "original_title": "Untold: The Testimony of Vince Young",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eVOuDbCLElehZr1U5aZtK1yAU3f.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 78,
+      "imdb_id": "tt43700434",
+      "tmdb_id": 1739186,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.3,
+      "tmdb_vote_count": 15,
+      "popularity": 3.4634,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-25",
+      "digital_release_date": "2026-08-25",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.387049+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "3a3b671b00e12d52",
+          "movie_id": "tt43700434",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-25",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Untold: The Testimony of Vince Young",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/A1n4bOedczRdAm3JRBmbg35deCD.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/eVOuDbCLElehZr1U5aZtK1yAU3f.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 78,
+            "popularity": 3.4634,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.3,
+            "tmdb_vote_count": 15,
+            "theatrical_release_date": "2026-08-25",
+            "digital_release_date": "2026-08-25"
+          }
+        }
+      ]
+    }
+  ]
+}

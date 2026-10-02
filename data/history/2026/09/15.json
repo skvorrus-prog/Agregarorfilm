@@ -1,0 +1,403 @@
+{
+  "date": "2026-09-15",
+  "count": 5,
+  "movies": [
+    {
+      "id": "tt37603783",
+      "title": "Во власти страха",
+      "original_title": "Above & Below",
+      "year": 2026,
+      "overview": "5 друзей отправляются в отпуск, чтобы заняться дайвингом и погружаться в клетке на морское дно, наблюдая за белыми акулами. Но опасная забава перерастает в схватку со смертью, когда на лодку проникает расчётливый и безжалостный контрабандист, который требует поднять на борт затонувший неподалёку груз.",
+      "poster": "https://image.tmdb.org/t/p/w500/6AHnijQqg3f5KYDkhuSzBdyuExG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
+      "genres": [
+        "триллер",
+        "криминал"
+      ],
+      "countries": [
+        "United States of America",
+        "Spain"
+      ],
+      "runtime": 96,
+      "imdb_id": "tt37603783",
+      "tmdb_id": 1514682,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.976,
+      "tmdb_vote_count": 41,
+      "popularity": 39.657,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-29",
+      "digital_release_date": "2026-09-15",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:31.105941+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "71a6d9f2abe15fbb",
+          "movie_id": "tt37603783",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-15",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Во власти страха",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "5 друзей отправляются в отпуск, чтобы заняться дайвингом и погружаться в клетке на морское дно, наблюдая за белыми акулами. Но опасная забава перерастает в схватку со смертью, когда на лодку проникает расчётливый и безжалостный контрабандист, который требует поднять на борт затонувший неподалёку груз.",
+            "poster": "https://image.tmdb.org/t/p/w500/6AHnijQqg3f5KYDkhuSzBdyuExG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
+            "genres": [
+              "триллер",
+              "криминал"
+            ],
+            "countries": [
+              "United States of America",
+              "Spain"
+            ],
+            "runtime": 96,
+            "popularity": 39.657,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.976,
+            "tmdb_vote_count": 41,
+            "theatrical_release_date": "2026-07-29",
+            "digital_release_date": "2026-09-15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33253206",
+      "title": "Поцелуй смерти",
+      "original_title": "The Last Kiss",
+      "year": 2026,
+      "overview": "После трагической поездки с классом девочка-подросток обретает способность видеть смерть людей через поцелуй. Она пытается успеть спасти своих одноклассников от неминуемой гибели, связанной с произошедшим.",
+      "poster": "https://image.tmdb.org/t/p/w500/mSJu1sIWduYvD58tTAm7mRPmR2U.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
+      "genres": [
+        "ужасы",
+        "детектив",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 96,
+      "imdb_id": "tt33253206",
+      "tmdb_id": 1318467,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.3,
+      "tmdb_vote_count": 19,
+      "popularity": 20.7295,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-15",
+      "digital_release_date": "2026-09-15",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.584769+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "7b68349b53843fe1",
+          "movie_id": "tt33253206",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-15",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Поцелуй смерти",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "После трагической поездки с классом девочка-подросток обретает способность видеть смерть людей через поцелуй. Она пытается успеть спасти своих одноклассников от неминуемой гибели, связанной с произошедшим.",
+            "poster": "https://image.tmdb.org/t/p/w500/mSJu1sIWduYvD58tTAm7mRPmR2U.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
+            "genres": [
+              "ужасы",
+              "детектив",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 96,
+            "popularity": 20.7295,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.3,
+            "tmdb_vote_count": 19,
+            "theatrical_release_date": "2026-09-15",
+            "digital_release_date": "2026-09-15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt36809539",
+      "title": "After Impact",
+      "original_title": "After Impact",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+      "genres": [
+        "фантастика",
+        "драма",
+        "триллер"
+      ],
+      "countries": [
+        "New Zealand"
+      ],
+      "runtime": 95,
+      "imdb_id": "tt36809539",
+      "tmdb_id": 1751701,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.417,
+      "tmdb_vote_count": 18,
+      "popularity": 240.7317,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-15",
+      "digital_release_date": "2026-09-15",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.542440+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "2a6f91a85b7cad41",
+          "movie_id": "tt36809539",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-15",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "After Impact",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+            "genres": [
+              "фантастика",
+              "драма",
+              "триллер"
+            ],
+            "countries": [
+              "New Zealand"
+            ],
+            "runtime": 95,
+            "popularity": 240.7317,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.417,
+            "tmdb_vote_count": 18,
+            "theatrical_release_date": "2026-09-15",
+            "digital_release_date": "2026-09-15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt39052963",
+      "title": "Джо Кой: До посинения",
+      "original_title": "Jo Koy: Blue in the Face",
+      "year": 2026,
+      "overview": "В этом смешном и откровенном шоу Джо Кой вспоминает безумную стоматологическую катастрофу и увольнение из «Макдоналдса», а также отдает дань уважения своему отчиму-ветерану.",
+      "poster": "https://image.tmdb.org/t/p/w500/ex8xdDlmo0HWv716Ml5DDMwTkAt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/Ag6J86izoe6b6mGD8HDI0TFK8hj.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 56,
+      "imdb_id": "tt39052963",
+      "tmdb_id": 1770859,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.8,
+      "tmdb_vote_count": 5,
+      "popularity": 2.0683,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-15",
+      "digital_release_date": "2026-09-15",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.523684+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "89a663ff8fc38791",
+          "movie_id": "tt39052963",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-15",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Джо Кой: До посинения",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В этом смешном и откровенном шоу Джо Кой вспоминает безумную стоматологическую катастрофу и увольнение из «Макдоналдса», а также отдает дань уважения своему отчиму-ветерану.",
+            "poster": "https://image.tmdb.org/t/p/w500/ex8xdDlmo0HWv716Ml5DDMwTkAt.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/Ag6J86izoe6b6mGD8HDI0TFK8hj.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 56,
+            "popularity": 2.0683,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.8,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-15",
+            "digital_release_date": "2026-09-15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt27706593",
+      "title": "The Rivals of Amziah King",
+      "original_title": "The Rivals of Amziah King",
+      "year": 2026,
+      "overview": "«Соперники Амзиа Кинга» — британский художественный фильм режиссёра Эндрю Паттерсона в жанре криминального триллера. В фильме снялись Мэттью Макконахи и Курт Расселл. Его премьера состоялась 10 марта 2025 года на фестивале South by Southwest.",
+      "poster": "https://images.metahub.space/poster/small/tt27706593/img",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "countries": [
+        "United States, United Kingdom"
+      ],
+      "runtime": 131,
+      "imdb_id": "tt27706593",
+      "tmdb_id": 1124142,
+      "imdb_rating": 7.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.757,
+      "tmdb_vote_count": 103,
+      "popularity": 23.9135,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-09-15",
+      "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.122857+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "fc6a15625eedc73b",
+          "movie_id": "tt27706593",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-15",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Гнев улья",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В глуши сельской Оклахомы харизматичный и музыкально одарённый Амзия Кинг руководит группой музыкантов, играющих в стиле блюграсс, и одновременно управляет ведущим в городе предприятием по производству мёда. Когда неожиданно возвращается приёмная дочь Амзии, он с радостью использует возможность восстановить связь и создать семейный бизнес. Но медовый бизнес безжалостен, и соперники Амзии угрожают разрушить всё, что он построил.",
+            "poster": "https://image.tmdb.org/t/p/w500/4GEkOQ2LGzDH8GKXQ8SyoP0NOHa.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+            "genres": [
+              "драма",
+              "криминал"
+            ],
+            "countries": [
+              "United Kingdom",
+              "United States of America"
+            ],
+            "runtime": 131,
+            "popularity": 23.9135,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.757,
+            "tmdb_vote_count": 103,
+            "theatrical_release_date": "2026-08-13",
+            "digital_release_date": "2026-09-15"
+          }
+        },
+        {
+          "id": "14ce33d43a6b2a08",
+          "movie_id": "tt27706593",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-30T12:13:51.123441+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Rivals of Amziah King (2026)",
+          "details": {
+            "title": "The Rivals of Amziah King",
+            "year": 2026,
+            "overview": "Amziah King, beekeeper, musician, and anchor of his community, reunites with former foster daughter Kateri after many years apart, and fends off threats to his honey business.",
+            "poster": "https://images.metahub.space/poster/small/tt27706593/img",
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "countries": [
+              "United States, United Kingdom"
+            ],
+            "imdb_rating": 7.3,
+            "runtime": null
+          }
+        }
+      ]
+    }
+  ]
+}

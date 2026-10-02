@@ -1,0 +1,584 @@
+{
+  "date": "2026-09-18",
+  "count": 8,
+  "movies": [
+    {
+      "id": "tt38035813",
+      "title": "年会不能停！2",
+      "original_title": "年会不能停！2",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ],
+      "countries": [
+        "China"
+      ],
+      "runtime": 126,
+      "imdb_id": "tt38035813",
+      "tmdb_id": 1541125,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 8,
+      "popularity": 6.781,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-24",
+      "digital_release_date": "2026-09-18",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:31.375566+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9ba207f87f0cd42f",
+          "movie_id": "tt38035813",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-18",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "年会不能停！2",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/x8FmUv8INF7E5fkP2Jm9KLfk87Q.jpg",
+            "genres": [
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "China"
+            ],
+            "runtime": 126,
+            "popularity": 6.781,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 8,
+            "theatrical_release_date": "2026-07-24",
+            "digital_release_date": "2026-09-18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37510017",
+      "title": "തുടക്കം",
+      "original_title": "തുടക്കം",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xcvPY9Wk2TzZWQRynWSwHEhnK2j.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 137,
+      "imdb_id": "tt37510017",
+      "tmdb_id": 1506736,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.6,
+      "tmdb_vote_count": 5,
+      "popularity": 3.788,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-07",
+      "digital_release_date": "2026-09-18",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.257715+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4cacd487a74575e8",
+          "movie_id": "tt37510017",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-18",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "തുടക്കം",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/xcvPY9Wk2TzZWQRynWSwHEhnK2j.jpg",
+            "genres": [
+              "боевик",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 137,
+            "popularity": 3.788,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.6,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-08-07",
+            "digital_release_date": "2026-09-18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt39108319",
+      "title": "ఇరుముడి",
+      "original_title": "ఇరుముడి",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "genres": [
+        "драма",
+        "семейный",
+        "боевик"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 152,
+      "imdb_id": "tt39108319",
+      "tmdb_id": 1441228,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.583,
+      "tmdb_vote_count": 24,
+      "popularity": 9.8463,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-20",
+      "digital_release_date": "2026-09-18",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.710007+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "05ea124fc7f62cf8",
+          "movie_id": "tt39108319",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-18",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "ఇరుముడి",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+            "genres": [
+              "драма",
+              "семейный",
+              "боевик"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 152,
+            "popularity": 9.8463,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.583,
+            "tmdb_vote_count": 24,
+            "theatrical_release_date": "2026-08-20",
+            "digital_release_date": "2026-09-18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt42262473",
+      "title": "மொத ராத்திரி",
+      "original_title": "மொத ராத்திரி",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/3VuNFeniljhEe9MDW12MnDbETgH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 141,
+      "imdb_id": "tt42262473",
+      "tmdb_id": 1685882,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.0,
+      "tmdb_vote_count": 10,
+      "popularity": 23.4836,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-21",
+      "digital_release_date": "2026-09-18",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.450441+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b5d2e18803319432",
+          "movie_id": "tt42262473",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-18",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "மொத ராத்திரி",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/3VuNFeniljhEe9MDW12MnDbETgH.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
+            "genres": [
+              "мелодрама",
+              "комедия"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 141,
+            "popularity": 23.4836,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.0,
+            "tmdb_vote_count": 10,
+            "theatrical_release_date": "2026-08-21",
+            "digital_release_date": "2026-09-18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt9601292",
+      "title": "Операция «Возмездие»",
+      "original_title": "The Fix",
+      "year": 2026,
+      "overview": "Разочарованные окончанием войны в Афганистане, группа опальных, потрёпанных войной бывших оперативников ЦРУ направляется в Тегеран, чтобы сорвать большой куш, который навсегда изменит их жизнь.",
+      "poster": "https://image.tmdb.org/t/p/w500/1LPzBhF0J0ObYxvMRxyo223UMXO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 144,
+      "imdb_id": "tt9601292",
+      "tmdb_id": 1228834,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.179,
+      "tmdb_vote_count": 42,
+      "popularity": 260.4762,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-10",
+      "digital_release_date": "2026-09-18",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.680000+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "8a50602836b50041",
+          "movie_id": "tt9601292",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-18",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Операция «Возмездие»",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Разочарованные окончанием войны в Афганистане, группа опальных, потрёпанных войной бывших оперативников ЦРУ направляется в Тегеран, чтобы сорвать большой куш, который навсегда изменит их жизнь.",
+            "poster": "https://image.tmdb.org/t/p/w500/1LPzBhF0J0ObYxvMRxyo223UMXO.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+            "genres": [
+              "боевик",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 144,
+            "popularity": 260.4762,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.179,
+            "tmdb_vote_count": 42,
+            "theatrical_release_date": "2026-09-10",
+            "digital_release_date": "2026-09-18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt39667834",
+      "title": "लस्ट स्टोरीज़ ३",
+      "original_title": "लस्ट स्टोरीज़ ३",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/1rYl0kaBlxsDNJtkn4msRIidBvM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jRtR4aTq4vmxRg9ah60R5i1kkQ7.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 165,
+      "imdb_id": "tt39667834",
+      "tmdb_id": 1451944,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.125,
+      "tmdb_vote_count": 8,
+      "popularity": 26.2851,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-18",
+      "digital_release_date": "2026-09-18",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:18.211409+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "84986647c101ef72",
+          "movie_id": "tt39667834",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-18",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "लस्ट स्टोरीज़ ३",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/1rYl0kaBlxsDNJtkn4msRIidBvM.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/jRtR4aTq4vmxRg9ah60R5i1kkQ7.jpg",
+            "genres": [
+              "мелодрама",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 165,
+            "popularity": 26.2851,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.125,
+            "tmdb_vote_count": 8,
+            "theatrical_release_date": "2026-09-18",
+            "digital_release_date": "2026-09-18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt16478058",
+      "title": "Лучшие из лучших",
+      "original_title": "Best of the Best",
+      "year": 2026,
+      "overview": "Лучшие подруги пытаются пережить первый курс и танцевальную команду с беспощадной конкуренцией.",
+      "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 112,
+      "imdb_id": "tt16478058",
+      "tmdb_id": 1514863,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.365,
+      "tmdb_vote_count": 78,
+      "popularity": 19.5897,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-18",
+      "digital_release_date": "2026-09-18",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:18.191486+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "8fc3182f486c21b7",
+          "movie_id": "tt16478058",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-18",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Лучшие из лучших",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Лучшие подруги пытаются пережить первый курс и танцевальную команду с беспощадной конкуренцией.",
+            "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 112,
+            "popularity": 19.5897,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.365,
+            "tmdb_vote_count": 78,
+            "theatrical_release_date": "2026-09-18",
+            "digital_release_date": "2026-09-18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43617372",
+      "title": "Ты + Я — против всего мира",
+      "original_title": "Toi+Moi - Seuls contre tous",
+      "year": 2026,
+      "overview": "18-летняя Альма Ланкастер, похоже, ведет идеальную жизнь в богатой семье, которая считает, что изучает право. Втайне она следует за своей истинной мечтой: кинопроизводством. В кампусе она знакомится с 20-летним Вадимом Аркади, притягательным и одиноким бунтарем с тяжелым прошлым. Вынужденные сотрудничать над студенческим фильмом, они сталкиваются, сближаются и влюбляются — вопреки себе. Но кто-то наблюдает за ними, решив разорвать их на части и раскрыть секреты, которые могут уничтожить и Альму, и Вадима.",
+      "poster": "https://image.tmdb.org/t/p/w500/1nZgTdXgoqt1BVWgBkot0uhwB1f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ],
+      "countries": [
+        "France",
+        "United States of America"
+      ],
+      "runtime": 94,
+      "imdb_id": "tt43617372",
+      "tmdb_id": 1641629,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.7,
+      "tmdb_vote_count": 70,
+      "popularity": 71.7123,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-18",
+      "digital_release_date": "2026-09-18",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:18.172961+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "a257463904fbd4ef",
+          "movie_id": "tt43617372",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-18",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Ты + Я — против всего мира",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "18-летняя Альма Ланкастер, похоже, ведет идеальную жизнь в богатой семье, которая считает, что изучает право. Втайне она следует за своей истинной мечтой: кинопроизводством. В кампусе она знакомится с 20-летним Вадимом Аркади, притягательным и одиноким бунтарем с тяжелым прошлым. Вынужденные сотрудничать над студенческим фильмом, они сталкиваются, сближаются и влюбляются — вопреки себе. Но кто-то наблюдает за ними, решив разорвать их на части и раскрыть секреты, которые могут уничтожить и Альму, и Вадима.",
+            "poster": "https://image.tmdb.org/t/p/w500/1nZgTdXgoqt1BVWgBkot0uhwB1f.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+            "genres": [
+              "мелодрама",
+              "драма"
+            ],
+            "countries": [
+              "France",
+              "United States of America"
+            ],
+            "runtime": 94,
+            "popularity": 71.7123,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.7,
+            "tmdb_vote_count": 70,
+            "theatrical_release_date": "2026-09-18",
+            "digital_release_date": "2026-09-18"
+          }
+        }
+      ]
+    }
+  ]
+}

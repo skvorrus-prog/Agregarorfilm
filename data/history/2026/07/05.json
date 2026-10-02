@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-05",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt43438551",
+      "title": "Hammerhead Sharks Up Close with Bertie Gregory",
+      "original_title": "Hammerhead Sharks Up Close with Bertie Gregory",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/50rAhx0C6yo3jd4sINDZkcsyNnK.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America",
+        "Mexico",
+        "United Kingdom"
+      ],
+      "runtime": 45,
+      "imdb_id": "tt43438551",
+      "tmdb_id": 1723068,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.5,
+      "tmdb_vote_count": 9,
+      "popularity": 1.8524,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-05",
+      "digital_release_date": "2026-07-05",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.238179+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "5ce16a4acde1ab84",
+          "movie_id": "tt43438551",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-05",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Hammerhead Sharks Up Close with Bertie Gregory",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/50rAhx0C6yo3jd4sINDZkcsyNnK.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America",
+              "Mexico",
+              "United Kingdom"
+            ],
+            "runtime": 45,
+            "popularity": 1.8524,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.5,
+            "tmdb_vote_count": 9,
+            "theatrical_release_date": "2026-07-05",
+            "digital_release_date": "2026-07-05"
+          }
+        }
+      ]
+    }
+  ]
+}

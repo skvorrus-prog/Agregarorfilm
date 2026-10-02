@@ -1,0 +1,154 @@
+{
+  "date": "2026-08-12",
+  "count": 2,
+  "movies": [
+    {
+      "id": "tt39316472",
+      "title": "Чудаки: Лучшее и последнее",
+      "original_title": "Jackass: Best and Last",
+      "year": 2026,
+      "overview": "Участники шоу «Чудаки» выполняют свою последнюю серию опасных трюков и розыгрышей, знаменующих конец франшизы.",
+      "poster": "https://image.tmdb.org/t/p/w500/6MTuekODKx62kzvBHxVnhv4ntJK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+      "genres": [
+        "боевик",
+        "комедия",
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 92,
+      "imdb_id": "tt39316472",
+      "tmdb_id": 1612018,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.437,
+      "tmdb_vote_count": 261,
+      "popularity": 20.5024,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-06-25",
+      "digital_release_date": "2026-08-12",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:39.184223+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "fa9c0cec7adc49d7",
+          "movie_id": "tt39316472",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-12",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Чудаки: Лучшее и последнее",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Участники шоу «Чудаки» выполняют свою последнюю серию опасных трюков и розыгрышей, знаменующих конец франшизы.",
+            "poster": "https://image.tmdb.org/t/p/w500/6MTuekODKx62kzvBHxVnhv4ntJK.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+            "genres": [
+              "боевик",
+              "комедия",
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 92,
+            "popularity": 20.5024,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.437,
+            "tmdb_vote_count": 261,
+            "theatrical_release_date": "2026-06-25",
+            "digital_release_date": "2026-08-12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43640198",
+      "title": "Nando Entre Dois Mundos: Um Filme Sintonia",
+      "original_title": "Nando Entre Dois Mundos: Um Filme Sintonia",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/dwnqhUeXO1vRgXH9zgyeeihpxqo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
+      "genres": [
+        "криминал",
+        "триллер",
+        "драма"
+      ],
+      "countries": [
+        "Brazil"
+      ],
+      "runtime": 109,
+      "imdb_id": "tt43640198",
+      "tmdb_id": 1487864,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.8,
+      "tmdb_vote_count": 27,
+      "popularity": 8.6564,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-12",
+      "digital_release_date": "2026-08-12",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.199894+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "66464467d17ef9ab",
+          "movie_id": "tt43640198",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-12",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Nando Entre Dois Mundos: Um Filme Sintonia",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/dwnqhUeXO1vRgXH9zgyeeihpxqo.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
+            "genres": [
+              "криминал",
+              "триллер",
+              "драма"
+            ],
+            "countries": [
+              "Brazil"
+            ],
+            "runtime": 109,
+            "popularity": 8.6564,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.8,
+            "tmdb_vote_count": 27,
+            "theatrical_release_date": "2026-08-12",
+            "digital_release_date": "2026-08-12"
+          }
+        }
+      ]
+    }
+  ]
+}

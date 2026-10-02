@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-05",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt29356163",
+      "title": "Щенячий патруль: Динофильм",
+      "original_title": "PAW Patrol: The Dino Movie",
+      "year": 2026,
+      "overview": "Щенки терпят крушение на неизведанном тропическом острове, населённом динозаврами, после того, как их корабль попадает в таинственный шторм. Они встречают Рекса - щенка, который много лет провёл на этом острове и стал экспертом во всём, что связано с динозаврами. Когда заклятый враг патруля, мэр Хамдингер, начинает безрассудную добычу полезных ископаемых в надежде эксплуатировать остров ради его природных ресурсов, он непреднамеренно вызывает извержение огромного спящего вулкана. Щенки оказываются втянуты в серию опасных спасательных операций, масштабы которых превосходят всё, что они делали раньше, ведь им нужно остановить Хамдингера, прежде чем всё на острове вымрет.",
+      "poster": "https://image.tmdb.org/t/p/w500/eRAMlD2MqqbilyMCpr2SCbgR4HH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения",
+        "семейный",
+        "фэнтези",
+        "комедия"
+      ],
+      "countries": [
+        "Canada",
+        "United States of America"
+      ],
+      "runtime": 88,
+      "imdb_id": "tt29356163",
+      "tmdb_id": 1185806,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.1,
+      "tmdb_vote_count": 153,
+      "popularity": 68.4095,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-23",
+      "digital_release_date": "2026-10-05",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.499805+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "aa880953ee22c0cc",
+          "movie_id": "tt29356163",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-05",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Щенячий патруль: Динофильм",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Щенки терпят крушение на неизведанном тропическом острове, населённом динозаврами, после того, как их корабль попадает в таинственный шторм. Они встречают Рекса - щенка, который много лет провёл на этом острове и стал экспертом во всём, что связано с динозаврами. Когда заклятый враг патруля, мэр Хамдингер, начинает безрассудную добычу полезных ископаемых в надежде эксплуатировать остров ради его природных ресурсов, он непреднамеренно вызывает извержение огромного спящего вулкана. Щенки оказываются втянуты в серию опасных спасательных операций, масштабы которых превосходят всё, что они делали раньше, ведь им нужно остановить Хамдингера, прежде чем всё на острове вымрет.",
+            "poster": "https://image.tmdb.org/t/p/w500/eRAMlD2MqqbilyMCpr2SCbgR4HH.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+            "genres": [
+              "мультфильм",
+              "приключения",
+              "семейный",
+              "фэнтези",
+              "комедия"
+            ],
+            "countries": [
+              "Canada",
+              "United States of America"
+            ],
+            "runtime": 88,
+            "popularity": 68.4095,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.1,
+            "tmdb_vote_count": 153,
+            "theatrical_release_date": "2026-07-23",
+            "digital_release_date": "2026-10-05"
+          }
+        }
+      ]
+    }
+  ]
+}

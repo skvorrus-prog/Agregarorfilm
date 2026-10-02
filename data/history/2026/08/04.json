@@ -1,0 +1,158 @@
+{
+  "date": "2026-08-04",
+  "count": 2,
+  "movies": [
+    {
+      "id": "tt32104007",
+      "title": "Молодой Вашингтон",
+      "original_title": "Young Washington",
+      "year": 2026,
+      "overview": "На дальних рубежах колониальной Америки разворачивается история юности Джорджа Вашингтона - 22-летнего офицера. Задолго до Революции и Конституции 1 роковая ошибка чуть не стоила ему всего. Спровоцировав начало Франко-индейской войны, Вашингтон сталкивается с личными поражениями, тяжёлыми потерями и осознанием огромной ответственности. Из этого испытания рождается не просто будущий военачальник, а человек, закалённый смирением, мужеством и внутренней верой.",
+      "poster": "https://image.tmdb.org/t/p/w500/awPGfes46oGvGncyaW4iKbAM2Ej.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+      "genres": [
+        "история",
+        "военный",
+        "драма"
+      ],
+      "countries": [
+        "United States of America",
+        "Ireland",
+        "Canada"
+      ],
+      "runtime": 121,
+      "imdb_id": "tt32104007",
+      "tmdb_id": 1308767,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.803,
+      "tmdb_vote_count": 127,
+      "popularity": 12.5874,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-02",
+      "digital_release_date": "2026-08-04",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:38.669468+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6f49c9e6945499df",
+          "movie_id": "tt32104007",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-04",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Молодой Вашингтон",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "На дальних рубежах колониальной Америки разворачивается история юности Джорджа Вашингтона - 22-летнего офицера. Задолго до Революции и Конституции 1 роковая ошибка чуть не стоила ему всего. Спровоцировав начало Франко-индейской войны, Вашингтон сталкивается с личными поражениями, тяжёлыми потерями и осознанием огромной ответственности. Из этого испытания рождается не просто будущий военачальник, а человек, закалённый смирением, мужеством и внутренней верой.",
+            "poster": "https://image.tmdb.org/t/p/w500/awPGfes46oGvGncyaW4iKbAM2Ej.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+            "genres": [
+              "история",
+              "военный",
+              "драма"
+            ],
+            "countries": [
+              "United States of America",
+              "Ireland",
+              "Canada"
+            ],
+            "runtime": 121,
+            "popularity": 12.5874,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.803,
+            "tmdb_vote_count": 127,
+            "theatrical_release_date": "2026-07-02",
+            "digital_release_date": "2026-08-04"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt35051162",
+      "title": "Вор-одиночка",
+      "original_title": "The Isolate Thief",
+      "year": 2026,
+      "overview": "Зимой 1865-го года молодая Ада остаётся одна на отдалённом военном форпосте после гибели отца. Когда в её руки случайно попадает украденное золото, она решает спрятать его и сохранить тайну. Вскоре к форпосту прибывает группа вооружённых людей, выдающих себя за солдат Союза, но Ада быстро понимает, что перед ней жестокие бандиты, разыскивающие своё сокровище. Оказавшись в ловушке посреди заснеженной глуши, она должна перехитрить превосходящих числом противников и использовать всё, что есть вокруг, чтобы пережить смертельную зиму.",
+      "poster": "https://image.tmdb.org/t/p/w500/nUpg7SIaBb1EJzOYlyHiTBk0vfq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
+      "genres": [
+        "вестерн",
+        "боевик",
+        "драма"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 95,
+      "imdb_id": "tt35051162",
+      "tmdb_id": 1404304,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.6,
+      "tmdb_vote_count": 24,
+      "popularity": 11.7175,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-10",
+      "digital_release_date": "2026-08-04",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.745918+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e857a48403d3fc6a",
+          "movie_id": "tt35051162",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-04",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Вор-одиночка",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Зимой 1865-го года молодая Ада остаётся одна на отдалённом военном форпосте после гибели отца. Когда в её руки случайно попадает украденное золото, она решает спрятать его и сохранить тайну. Вскоре к форпосту прибывает группа вооружённых людей, выдающих себя за солдат Союза, но Ада быстро понимает, что перед ней жестокие бандиты, разыскивающие своё сокровище. Оказавшись в ловушке посреди заснеженной глуши, она должна перехитрить превосходящих числом противников и использовать всё, что есть вокруг, чтобы пережить смертельную зиму.",
+            "poster": "https://image.tmdb.org/t/p/w500/nUpg7SIaBb1EJzOYlyHiTBk0vfq.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
+            "genres": [
+              "вестерн",
+              "боевик",
+              "драма"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 95,
+            "popularity": 11.7175,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.6,
+            "tmdb_vote_count": 24,
+            "theatrical_release_date": "2026-07-10",
+            "digital_release_date": "2026-08-04"
+          }
+        }
+      ]
+    }
+  ]
+}

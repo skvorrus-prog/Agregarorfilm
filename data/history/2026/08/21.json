@@ -1,0 +1,528 @@
+{
+  "date": "2026-08-21",
+  "count": 7,
+  "movies": [
+    {
+      "id": "tt28540171",
+      "title": "Добро пожаловать в джунгли",
+      "original_title": "Welcome To The Jungle",
+      "year": 2026,
+      "overview": "В центре истории — несколько сюжетных линий, которые переплетаются в хаотичную и забавную историю выживания в джунглях. Полицейские Джай Бакши и Сандхья выслеживают опасного преступника Раджа Соланки. Одновременно эксцентричный доктор Гхунгру затевает в джунглях масштабную аферу: он организует фиктивные съёмки блокбастера стоимостью 2000 крор, чтобы под этим прикрытием разоблачить международный синдикат. В итоге реальная полицейская облава, бандитские разборки и съёмочный хаос создают безумную смесь.",
+      "poster": "https://image.tmdb.org/t/p/w500/AqWZpqMeCytddxiRCvGRYnfdFNw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+      "genres": [
+        "боевик",
+        "комедия",
+        "приключения"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 170,
+      "imdb_id": "tt28540171",
+      "tmdb_id": 1169516,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.1,
+      "tmdb_vote_count": 40,
+      "popularity": 4.5663,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-06-25",
+      "digital_release_date": "2026-08-21",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:39.282681+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "715ea85c4576c4e0",
+          "movie_id": "tt28540171",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-21",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Добро пожаловать в джунгли",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В центре истории — несколько сюжетных линий, которые переплетаются в хаотичную и забавную историю выживания в джунглях. Полицейские Джай Бакши и Сандхья выслеживают опасного преступника Раджа Соланки. Одновременно эксцентричный доктор Гхунгру затевает в джунглях масштабную аферу: он организует фиктивные съёмки блокбастера стоимостью 2000 крор, чтобы под этим прикрытием разоблачить международный синдикат. В итоге реальная полицейская облава, бандитские разборки и съёмочный хаос создают безумную смесь.",
+            "poster": "https://image.tmdb.org/t/p/w500/AqWZpqMeCytddxiRCvGRYnfdFNw.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+            "genres": [
+              "боевик",
+              "комедия",
+              "приключения"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 170,
+            "popularity": 4.5663,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.1,
+            "tmdb_vote_count": 40,
+            "theatrical_release_date": "2026-06-25",
+            "digital_release_date": "2026-08-21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33379543",
+      "title": "Народный герой",
+      "original_title": "ஜன நாயகன்",
+      "year": 2026,
+      "overview": "Бывший полицейский Ветри Кондан живёт ради приёмной дочери. Он учит её не бояться и давать отпор. Но в стране появляется таинственный враг под именем Гиммлер. Он сеет хаос и хочет устроить революцию. Ветри снова берётся за оружие. Ему нужно защитить и дочь, и родину. А враг оказывается старым знакомым, который жаждет мести.",
+      "poster": "https://image.tmdb.org/t/p/w500/yTjxfu1xrRoz5cTbxNcx7X6BA8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 183,
+      "imdb_id": "tt33379543",
+      "tmdb_id": 1235877,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.286,
+      "tmdb_vote_count": 21,
+      "popularity": 14.5176,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-22",
+      "digital_release_date": "2026-08-21",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.737362+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "336c1acf383da205",
+          "movie_id": "tt33379543",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-21",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Народный герой",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Бывший полицейский Ветри Кондан живёт ради приёмной дочери. Он учит её не бояться и давать отпор. Но в стране появляется таинственный враг под именем Гиммлер. Он сеет хаос и хочет устроить революцию. Ветри снова берётся за оружие. Ему нужно защитить и дочь, и родину. А враг оказывается старым знакомым, который жаждет мести.",
+            "poster": "https://image.tmdb.org/t/p/w500/yTjxfu1xrRoz5cTbxNcx7X6BA8.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+            "genres": [
+              "боевик",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 183,
+            "popularity": 14.5176,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.286,
+            "tmdb_vote_count": 21,
+            "theatrical_release_date": "2026-07-22",
+            "digital_release_date": "2026-08-21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37161651",
+      "title": "История любви в Ченнаи",
+      "original_title": "చెన్నై లవ్ స్టొరీ",
+      "year": 2026,
+      "overview": "Ниви - IT-специалистка, чья жизнь рушится, когда её жених Аджай в последний момент отменяет свадьбу. Сломленная и впавшая в депрессию, она вместе с друзьями переезжает в Ченнаи, надеясь начать всё заново. В городе она встречает Стивена Шанкара - начинающего режиссёра, который пытается пробиться в киноиндустрию. Он становится частью её компании и постепенно помогает Ниви справиться с душевной травмой.",
+      "poster": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bccUtSQMXlZ5Cy2pYGuxg4bwHAr.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 184,
+      "imdb_id": "tt37161651",
+      "tmdb_id": 1443136,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.9,
+      "tmdb_vote_count": 7,
+      "popularity": 2.4621,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-24",
+      "digital_release_date": "2026-08-21",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:31.415723+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4f3ead129f9781c8",
+          "movie_id": "tt37161651",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-21",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "История любви в Ченнаи",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Ниви - IT-специалистка, чья жизнь рушится, когда её жених Аджай в последний момент отменяет свадьбу. Сломленная и впавшая в депрессию, она вместе с друзьями переезжает в Ченнаи, надеясь начать всё заново. В городе она встречает Стивена Шанкара - начинающего режиссёра, который пытается пробиться в киноиндустрию. Он становится частью её компании и постепенно помогает Ниви справиться с душевной травмой.",
+            "poster": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/bccUtSQMXlZ5Cy2pYGuxg4bwHAr.jpg",
+            "genres": [
+              "мелодрама",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 184,
+            "popularity": 2.4621,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.9,
+            "tmdb_vote_count": 7,
+            "theatrical_release_date": "2026-07-24",
+            "digital_release_date": "2026-08-21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37540328",
+      "title": "Назад в 90-е",
+      "original_title": "Back to the 90s",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/2T0j25ofU6aUei6J6ek2hlTL1wc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия",
+        "музыка"
+      ],
+      "countries": [
+        "Germany",
+        "Malta"
+      ],
+      "runtime": 92,
+      "imdb_id": "tt37540328",
+      "tmdb_id": 1676318,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.8,
+      "tmdb_vote_count": 26,
+      "popularity": 6.6716,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-18",
+      "digital_release_date": "2026-08-21",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.836191+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "56bff5bc63ab095b",
+          "movie_id": "tt37540328",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-21",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Назад в 90-е",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/2T0j25ofU6aUei6J6ek2hlTL1wc.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
+            "genres": [
+              "мелодрама",
+              "комедия",
+              "музыка"
+            ],
+            "countries": [
+              "Germany",
+              "Malta"
+            ],
+            "runtime": 92,
+            "popularity": 6.6716,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.8,
+            "tmdb_vote_count": 26,
+            "theatrical_release_date": "2026-08-18",
+            "digital_release_date": "2026-08-21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt39260895",
+      "title": "ப்யார் ப்ரேமா கல்யாணம்",
+      "original_title": "ப்யார் ப்ரேமா கல்யாணம்",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 127,
+      "imdb_id": "tt39260895",
+      "tmdb_id": 1538273,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.9,
+      "tmdb_vote_count": 14,
+      "popularity": 3.8026,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-21",
+      "digital_release_date": "2026-08-21",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.507910+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "04ef9f1bbd6bca09",
+          "movie_id": "tt39260895",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-21",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "ப்யார் ப்ரேமா கல்யாணம்",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/jgsptBYJbuO7omWLOj1HNsqvgLM.jpg",
+            "genres": [
+              "мелодрама",
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 127,
+            "popularity": 3.8026,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.9,
+            "tmdb_vote_count": 14,
+            "theatrical_release_date": "2026-08-21",
+            "digital_release_date": "2026-08-21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt39390497",
+      "title": "Поймать Эль Чапо",
+      "original_title": "La captura",
+      "year": 2026,
+      "overview": "2-ое мексиканских полицейских переходят дорогу жестокому главарю картеля и борются за жизнь в последние часы своей смены.",
+      "poster": "https://image.tmdb.org/t/p/w500/cd6wq3ctMo3eKnZvKeYwoasBhJL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+      "genres": [
+        "криминал",
+        "боевик",
+        "триллер"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "runtime": 91,
+      "imdb_id": "tt39390497",
+      "tmdb_id": 1621552,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.78,
+      "tmdb_vote_count": 858,
+      "popularity": 62.8092,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-21",
+      "digital_release_date": "2026-08-21",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.475781+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "8a65713843ea1a4f",
+          "movie_id": "tt39390497",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-21",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Поймать Эль Чапо",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "2-ое мексиканских полицейских переходят дорогу жестокому главарю картеля и борются за жизнь в последние часы своей смены.",
+            "poster": "https://image.tmdb.org/t/p/w500/cd6wq3ctMo3eKnZvKeYwoasBhJL.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+            "genres": [
+              "криминал",
+              "боевик",
+              "триллер"
+            ],
+            "countries": [
+              "Mexico"
+            ],
+            "runtime": 91,
+            "popularity": 62.8092,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.78,
+            "tmdb_vote_count": 858,
+            "theatrical_release_date": "2026-08-21",
+            "digital_release_date": "2026-08-21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43689138",
+      "title": "LEGO Disney Princess: Magical Mayhem",
+      "original_title": "LEGO Disney Princess: Magical Mayhem",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kBrBcgdite6vpa6VkYEcjZuof7z.jpg",
+      "genres": [
+        "мультфильм",
+        "фэнтези",
+        "комедия",
+        "приключения",
+        "семейный"
+      ],
+      "countries": [
+        "United States of America",
+        "Canada"
+      ],
+      "runtime": 22,
+      "imdb_id": "tt43689138",
+      "tmdb_id": 1732625,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.7,
+      "tmdb_vote_count": 15,
+      "popularity": 12.5143,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-21",
+      "digital_release_date": "2026-08-21",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.423249+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "fd55af749e3a9e41",
+          "movie_id": "tt43689138",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-21",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "LEGO Disney Princess: Magical Mayhem",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/kBrBcgdite6vpa6VkYEcjZuof7z.jpg",
+            "genres": [
+              "мультфильм",
+              "фэнтези",
+              "комедия",
+              "приключения",
+              "семейный"
+            ],
+            "countries": [
+              "United States of America",
+              "Canada"
+            ],
+            "runtime": 22,
+            "popularity": 12.5143,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.7,
+            "tmdb_vote_count": 15,
+            "theatrical_release_date": "2026-08-21",
+            "digital_release_date": "2026-08-21"
+          }
+        }
+      ]
+    }
+  ]
+}

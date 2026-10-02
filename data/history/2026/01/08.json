@@ -78,7 +78,7 @@
       "year": 2026,
       "overview": "Режиссер, снимающий продолжение слэшера, становится одержимым кастингом «последней девушки» оригинального фильма, что приводит женщин к психологическому и сексуальному хаосу.",
       "poster": "https://images.metahub.space/poster/small/tt35298123/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
       "genres": [
         "Comedy",
         "Horror",
@@ -87,19 +87,19 @@
       "countries": [
         "Canada, United Kingdom, United States"
       ],
-      "runtime": null,
+      "runtime": 106,
       "imdb_id": "tt35298123",
-      "tmdb_id": null,
+      "tmdb_id": 1240889,
       "imdb_rating": 7.1,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 6.319,
+      "tmdb_vote_count": 221,
+      "popularity": 78.421,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-01-08",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.263829+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.181572+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -136,6 +136,43 @@
             ],
             "imdb_rating": 7.1,
             "runtime": null
+          }
+        },
+        {
+          "id": "f204151faf1e0186",
+          "movie_id": "tt35298123",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-02",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Подростковый секс и смерть в лагере «Миазма»",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Крис получает шанс снять перезапуск культовой слэшер-франшизы \"Camp Miasma\", которой была одержима с детства. Чтобы вернуть истории её былую силу, она отправляется на поиски Билли Пресли — загадочной актрисы, сыгравшей в первом фильме и много лет назад исчезнувшей из публичной жизни. Но встреча на территории заброшенного лагеря, где когда-то снимали оригинал, превращается для Крис в опасное и всё более странное путешествие, в котором грань между кино, одержимостью и реальностью постепенно начинает исчезать.",
+            "poster": "https://image.tmdb.org/t/p/w500/auJRaXce7WVZFGpaFR54tCFr74J.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+            "genres": [
+              "комедия",
+              "ужасы",
+              "мелодрама"
+            ],
+            "countries": [
+              "United Kingdom",
+              "United States of America"
+            ],
+            "runtime": 106,
+            "popularity": 78.421,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.319,
+            "tmdb_vote_count": 221,
+            "theatrical_release_date": "2026-08-06",
+            "digital_release_date": "2026-10-02"
           }
         }
       ]

@@ -1,0 +1,524 @@
+{
+  "date": "2026-07-03",
+  "count": 7,
+  "movies": [
+    {
+      "id": "tt37369064",
+      "title": "Уинтроп",
+      "original_title": "Lockbox",
+      "year": 2026,
+      "overview": "Женщина рискует жизнью, чтобы защитить своего проблемного и загадочного кузена Уинтропа, за которым охотится могущественная потусторонняя сила.",
+      "poster": "https://image.tmdb.org/t/p/w500/gjirY7H4LdrChrpLVvbDq6RavlG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8YRMbO0OatB5J5KPEHuLhV1ZAhj.jpg",
+      "genres": [
+        "ужасы"
+      ],
+      "countries": [
+        "United States of America",
+        "Canada",
+        "United Kingdom"
+      ],
+      "runtime": 105,
+      "imdb_id": "tt37369064",
+      "tmdb_id": 1500890,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.6,
+      "tmdb_vote_count": 19,
+      "popularity": 4.8478,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-02",
+      "digital_release_date": "2026-07-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:38.542274+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "730182ffa1fd21b2",
+          "movie_id": "tt37369064",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Уинтроп",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Женщина рискует жизнью, чтобы защитить своего проблемного и загадочного кузена Уинтропа, за которым охотится могущественная потусторонняя сила.",
+            "poster": "https://image.tmdb.org/t/p/w500/gjirY7H4LdrChrpLVvbDq6RavlG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8YRMbO0OatB5J5KPEHuLhV1ZAhj.jpg",
+            "genres": [
+              "ужасы"
+            ],
+            "countries": [
+              "United States of America",
+              "Canada",
+              "United Kingdom"
+            ],
+            "runtime": 105,
+            "popularity": 4.8478,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.6,
+            "tmdb_vote_count": 19,
+            "theatrical_release_date": "2026-07-02",
+            "digital_release_date": "2026-07-03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt28089784",
+      "title": "ਸਤਲੁਜ",
+      "original_title": "ਸਤਲੁਜ",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/hm4ou83RwLVwNj3HsmQuqC1qkWy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "история"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 164,
+      "imdb_id": "tt28089784",
+      "tmdb_id": 1155818,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.0,
+      "tmdb_vote_count": 22,
+      "popularity": 3.2992,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-03",
+      "digital_release_date": "2026-07-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.629152+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "5207bd1e510a5f2c",
+          "movie_id": "tt28089784",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "ਸਤਲੁਜ",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/hm4ou83RwLVwNj3HsmQuqC1qkWy.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/h7VptulPVCJUIvWCE2HzXdHljkj.jpg",
+            "genres": [
+              "криминал",
+              "драма",
+              "история"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 164,
+            "popularity": 3.2992,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.0,
+            "tmdb_vote_count": 22,
+            "theatrical_release_date": "2026-07-03",
+            "digital_release_date": "2026-07-03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33514933",
+      "title": "万米危机",
+      "original_title": "万米危机",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/dB8adJetrhgmzA1gQXCUXSuM5li.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m0joYYat6anzyIaJ6B4CQnTMjti.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "триллер"
+      ],
+      "countries": [
+        "China"
+      ],
+      "runtime": 87,
+      "imdb_id": "tt33514933",
+      "tmdb_id": 1424435,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.4,
+      "tmdb_vote_count": 7,
+      "popularity": 6.0051,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-03",
+      "digital_release_date": "2026-07-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.556369+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b5137333edb4f7c6",
+          "movie_id": "tt33514933",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "万米危机",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/dB8adJetrhgmzA1gQXCUXSuM5li.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/m0joYYat6anzyIaJ6B4CQnTMjti.jpg",
+            "genres": [
+              "боевик",
+              "криминал",
+              "триллер"
+            ],
+            "countries": [
+              "China"
+            ],
+            "runtime": 87,
+            "popularity": 6.0051,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.4,
+            "tmdb_vote_count": 7,
+            "theatrical_release_date": "2026-07-03",
+            "digital_release_date": "2026-07-03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt39371050",
+      "title": "Summer's Last Resort",
+      "original_title": "Summer's Last Resort",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/t70Jano5laAybW9EDJAYWT4tnxL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7iMZWD9ecKLAKpi71zR3impjHxr.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама"
+      ],
+      "countries": [
+        "Canada",
+        "South Africa"
+      ],
+      "runtime": 96,
+      "imdb_id": "tt39371050",
+      "tmdb_id": 1617191,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 9,
+      "popularity": 2.6799,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-03",
+      "digital_release_date": "2026-07-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.477794+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e6aec9f5e9930dc4",
+          "movie_id": "tt39371050",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Summer's Last Resort",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/t70Jano5laAybW9EDJAYWT4tnxL.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/7iMZWD9ecKLAKpi71zR3impjHxr.jpg",
+            "genres": [
+              "комедия",
+              "мелодрама"
+            ],
+            "countries": [
+              "Canada",
+              "South Africa"
+            ],
+            "runtime": 96,
+            "popularity": 2.6799,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 9,
+            "theatrical_release_date": "2026-07-03",
+            "digital_release_date": "2026-07-03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt41605854",
+      "title": "The Odyssey",
+      "original_title": "The Odyssey",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mPy1xSASQ9NYWJdAGx2C2sOsnNw.jpg",
+      "genres": [
+        "приключения",
+        "фэнтези",
+        "боевик"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 86,
+      "imdb_id": "tt41605854",
+      "tmdb_id": 1698863,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.054,
+      "tmdb_vote_count": 642,
+      "popularity": 24.3988,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-03",
+      "digital_release_date": "2026-07-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.367794+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f9d3863ec5c0fe9b",
+          "movie_id": "tt41605854",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Odyssey",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/mPy1xSASQ9NYWJdAGx2C2sOsnNw.jpg",
+            "genres": [
+              "приключения",
+              "фэнтези",
+              "боевик"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 86,
+            "popularity": 24.3988,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.054,
+            "tmdb_vote_count": 642,
+            "theatrical_release_date": "2026-07-03",
+            "digital_release_date": "2026-07-03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43140642",
+      "title": "Simpsley",
+      "original_title": "Simpsley",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2vl4nyxi1zVtiqYqJkbP8yTMOQV.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "криминал"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 24,
+      "imdb_id": "tt43140642",
+      "tmdb_id": 1725116,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.1,
+      "tmdb_vote_count": 81,
+      "popularity": 4.2212,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-03",
+      "digital_release_date": "2026-07-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.325019+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "83cda5e9a5971676",
+          "movie_id": "tt43140642",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Simpsley",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/2vl4nyxi1zVtiqYqJkbP8yTMOQV.jpg",
+            "genres": [
+              "мультфильм",
+              "комедия",
+              "криминал"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 24,
+            "popularity": 4.2212,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.1,
+            "tmdb_vote_count": 81,
+            "theatrical_release_date": "2026-07-03",
+            "digital_release_date": "2026-07-03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt38890293",
+      "title": "Water Park Shark",
+      "original_title": "Water Park Shark",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/eIWgTZIoExUfnEZOsCsNXs9y5Aw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lCEB4vJMHiT8KEWJ7h2dpM5Zya1.jpg",
+      "genres": [
+        "боевик",
+        "комедия",
+        "ужасы"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 91,
+      "imdb_id": "tt38890293",
+      "tmdb_id": 1712828,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.4,
+      "tmdb_vote_count": 9,
+      "popularity": 1.8984,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-18",
+      "digital_release_date": "2026-07-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.957685+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f169e2e810ad8359",
+          "movie_id": "tt38890293",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Water Park Shark",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/eIWgTZIoExUfnEZOsCsNXs9y5Aw.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/lCEB4vJMHiT8KEWJ7h2dpM5Zya1.jpg",
+            "genres": [
+              "боевик",
+              "комедия",
+              "ужасы"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 91,
+            "popularity": 1.8984,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.4,
+            "tmdb_vote_count": 9,
+            "theatrical_release_date": "2026-07-18",
+            "digital_release_date": "2026-07-03"
+          }
+        }
+      ]
+    }
+  ]
+}

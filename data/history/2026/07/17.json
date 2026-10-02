@@ -1,0 +1,364 @@
+{
+  "date": "2026-07-17",
+  "count": 5,
+  "movies": [
+    {
+      "id": "tt41983440",
+      "title": "23 000 жизней",
+      "original_title": "23 000 Leben",
+      "year": 2026,
+      "overview": "Группа молодых людей выходит в Средиземное море, чтобы спасти жизни беженцев — и эта миссия испытывает на прочность их представления о законе и справедливости.",
+      "poster": "https://image.tmdb.org/t/p/w500/6K6AOzltCpLPj5P2JjWWbfw2gvO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
+      "genres": [
+        "драма"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "runtime": 112,
+      "imdb_id": "tt41983440",
+      "tmdb_id": 1656220,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.1,
+      "tmdb_vote_count": 81,
+      "popularity": 7.9846,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-02",
+      "digital_release_date": "2026-07-17",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.674525+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "98b337d43cd2df09",
+          "movie_id": "tt41983440",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-17",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "23 000 жизней",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Группа молодых людей выходит в Средиземное море, чтобы спасти жизни беженцев — и эта миссия испытывает на прочность их представления о законе и справедливости.",
+            "poster": "https://image.tmdb.org/t/p/w500/6K6AOzltCpLPj5P2JjWWbfw2gvO.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
+            "genres": [
+              "драма"
+            ],
+            "countries": [
+              "Germany"
+            ],
+            "runtime": 112,
+            "popularity": 7.9846,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.1,
+            "tmdb_vote_count": 81,
+            "theatrical_release_date": "2026-07-02",
+            "digital_release_date": "2026-07-17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt36619926",
+      "title": "Трепет сердца навсегда",
+      "original_title": "Heartstopper Forever",
+      "year": 2026,
+      "overview": "В школе Труэм-Хиггс начинается новый учебный год. Отношения Ника и Чарли крепнут, и они начинают задумываться о том, что будет после последнего звонка.",
+      "poster": "https://image.tmdb.org/t/p/w500/1BcChw4KSnOhrQRvoRdIaEnW3kz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": 110,
+      "imdb_id": "tt36619926",
+      "tmdb_id": 1468683,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.227,
+      "tmdb_vote_count": 277,
+      "popularity": 9.4753,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-14",
+      "digital_release_date": "2026-07-17",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.272056+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4f0fe98b54626ca5",
+          "movie_id": "tt36619926",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-17",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Трепет сердца навсегда",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В школе Труэм-Хиггс начинается новый учебный год. Отношения Ника и Чарли крепнут, и они начинают задумываться о том, что будет после последнего звонка.",
+            "poster": "https://image.tmdb.org/t/p/w500/1BcChw4KSnOhrQRvoRdIaEnW3kz.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+            "genres": [
+              "мелодрама",
+              "драма"
+            ],
+            "countries": [
+              "United Kingdom"
+            ],
+            "runtime": 110,
+            "popularity": 9.4753,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.227,
+            "tmdb_vote_count": 277,
+            "theatrical_release_date": "2026-07-14",
+            "digital_release_date": "2026-07-17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt34477910",
+      "title": "Наследники: Злодейская Страна Чудес",
+      "original_title": "Descendants: Wicked Wonderland",
+      "year": 2026,
+      "overview": "Действие разворачивается в современной Стране Чудес, которая принимает Игры Кубка Королевства Аурадон. Главные героини — Рэд (дочь Червонной Королевы) и Хлоя Шарминг (дочь Золушки) — сталкиваются с опасными последствиями своих прошлых путешествий во времени. Хаотичные изменения временной линии приводят к неожиданным результатам, и в Стране Чудес объявляется новый коварный злодей, пытающийся захватить власть. Чтобы спасти королевство и исправить свои ошибки, Рэд и Хлое приходится объединиться с самыми неожиданными союзниками.",
+      "poster": "https://image.tmdb.org/t/p/w500/mLooJ8vkOKzKiLhHQ6foYzedZtg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
+      "genres": [
+        "фэнтези",
+        "телевизионный фильм",
+        "семейный",
+        "приключения"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 98,
+      "imdb_id": "tt34477910",
+      "tmdb_id": 1318621,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.481,
+      "tmdb_vote_count": 187,
+      "popularity": 20.3711,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-16",
+      "digital_release_date": "2026-07-17",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.171249+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "77f28374ec70608f",
+          "movie_id": "tt34477910",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-17",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Наследники: Злодейская Страна Чудес",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Действие разворачивается в современной Стране Чудес, которая принимает Игры Кубка Королевства Аурадон. Главные героини — Рэд (дочь Червонной Королевы) и Хлоя Шарминг (дочь Золушки) — сталкиваются с опасными последствиями своих прошлых путешествий во времени. Хаотичные изменения временной линии приводят к неожиданным результатам, и в Стране Чудес объявляется новый коварный злодей, пытающийся захватить власть. Чтобы спасти королевство и исправить свои ошибки, Рэд и Хлое приходится объединиться с самыми неожиданными союзниками.",
+            "poster": "https://image.tmdb.org/t/p/w500/mLooJ8vkOKzKiLhHQ6foYzedZtg.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
+            "genres": [
+              "фэнтези",
+              "телевизионный фильм",
+              "семейный",
+              "приключения"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 98,
+            "popularity": 20.3711,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.481,
+            "tmdb_vote_count": 187,
+            "theatrical_release_date": "2026-07-16",
+            "digital_release_date": "2026-07-17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt41517310",
+      "title": "Shark Frenzy",
+      "original_title": "Shark Frenzy",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/A1dZIibysmc8fi5W4q18oJ2aSo4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zMlGEj11wRFdvu5riJJ5nekPo94.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ],
+      "countries": [],
+      "runtime": 82,
+      "imdb_id": "tt41517310",
+      "tmdb_id": 1712454,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.5,
+      "tmdb_vote_count": 7,
+      "popularity": 3.6932,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-17",
+      "digital_release_date": "2026-07-17",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.082162+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "66a9ecb0d0915d69",
+          "movie_id": "tt41517310",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-17",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Shark Frenzy",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/A1dZIibysmc8fi5W4q18oJ2aSo4.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/zMlGEj11wRFdvu5riJJ5nekPo94.jpg",
+            "genres": [
+              "ужасы",
+              "триллер"
+            ],
+            "countries": [],
+            "runtime": 82,
+            "popularity": 3.6932,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.5,
+            "tmdb_vote_count": 7,
+            "theatrical_release_date": "2026-07-17",
+            "digital_release_date": "2026-07-17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt28638842",
+      "title": "Borderline",
+      "original_title": "Borderline",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg",
+      "genres": [
+        "триллер"
+      ],
+      "countries": [
+        "United States of America",
+        "Mexico"
+      ],
+      "runtime": 94,
+      "imdb_id": "tt28638842",
+      "tmdb_id": 1727780,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 16,
+      "popularity": 26.6026,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-17",
+      "digital_release_date": "2026-07-17",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.045277+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9e1d7fd5d8350b81",
+          "movie_id": "tt28638842",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-17",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Borderline",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg",
+            "genres": [
+              "триллер"
+            ],
+            "countries": [
+              "United States of America",
+              "Mexico"
+            ],
+            "runtime": 94,
+            "popularity": 26.6026,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 16,
+            "theatrical_release_date": "2026-07-17",
+            "digital_release_date": "2026-07-17"
+          }
+        }
+      ]
+    }
+  ]
+}

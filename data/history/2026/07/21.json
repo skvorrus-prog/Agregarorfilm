@@ -1,0 +1,154 @@
+{
+  "date": "2026-07-21",
+  "count": 2,
+  "movies": [
+    {
+      "id": "tt24070874",
+      "title": "Alien Storm",
+      "original_title": "Alien Storm",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/7s1bJdyNvJWEj88GlG1ZasvmrqG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vHToMb5AuLQPLCmeonZt1CnkDyO.jpg",
+      "genres": [
+        "фантастика",
+        "ужасы"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 74,
+      "imdb_id": "tt24070874",
+      "tmdb_id": 1080959,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 2.3,
+      "tmdb_vote_count": 5,
+      "popularity": 3.1372,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-21",
+      "digital_release_date": "2026-07-21",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.851527+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "0cd01d57a099e3b0",
+          "movie_id": "tt24070874",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-21",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Alien Storm",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/7s1bJdyNvJWEj88GlG1ZasvmrqG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/vHToMb5AuLQPLCmeonZt1CnkDyO.jpg",
+            "genres": [
+              "фантастика",
+              "ужасы"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 74,
+            "popularity": 3.1372,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 2.3,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-07-21",
+            "digital_release_date": "2026-07-21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt28370319",
+      "title": "Последние ассасины",
+      "original_title": "The Last Assassins",
+      "year": 2026,
+      "overview": "После убийства её отца молодая воительница, известная как «The Kid», и её защитник Нобель пересекают жестокое антиутопическое будущее в поисках родственницы, которую девушка никогда не встречала. Мир скован вечной зимой и окутан смертоносными туманом и дымом, а Нобель связан клятвой защищать немногих оставшихся членов её семьи. Их путь приводит в заброшенную лабораторию, где голограммы раскрывают тайны семейного прошлого. По мере того как граница между цифровым и физическим мирами начинает стираться, The Kid может оказаться ключом к тому, что последует дальше.",
+      "poster": "https://image.tmdb.org/t/p/w500/dCEvwyR3XlTos78iHZzPa8a3urg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gRh0ZzVpjVW03AnOQNsO5aSYN9b.jpg",
+      "genres": [
+        "фантастика",
+        "приключения",
+        "триллер",
+        "боевик"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "runtime": 84,
+      "imdb_id": "tt28370319",
+      "tmdb_id": 1641580,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 6,
+      "popularity": 28.5223,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-21",
+      "digital_release_date": "2026-07-21",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.816096+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "30d435eae8e4634d",
+          "movie_id": "tt28370319",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-21",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Последние ассасины",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "После убийства её отца молодая воительница, известная как «The Kid», и её защитник Нобель пересекают жестокое антиутопическое будущее в поисках родственницы, которую девушка никогда не встречала. Мир скован вечной зимой и окутан смертоносными туманом и дымом, а Нобель связан клятвой защищать немногих оставшихся членов её семьи. Их путь приводит в заброшенную лабораторию, где голограммы раскрывают тайны семейного прошлого. По мере того как граница между цифровым и физическим мирами начинает стираться, The Kid может оказаться ключом к тому, что последует дальше.",
+            "poster": "https://image.tmdb.org/t/p/w500/dCEvwyR3XlTos78iHZzPa8a3urg.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/gRh0ZzVpjVW03AnOQNsO5aSYN9b.jpg",
+            "genres": [
+              "фантастика",
+              "приключения",
+              "триллер",
+              "боевик"
+            ],
+            "countries": [
+              "Canada"
+            ],
+            "runtime": 84,
+            "popularity": 28.5223,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-07-21",
+            "digital_release_date": "2026-07-21"
+          }
+        }
+      ]
+    }
+  ]
+}

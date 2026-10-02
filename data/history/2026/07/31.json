@@ -1,0 +1,376 @@
+{
+  "date": "2026-07-31",
+  "count": 5,
+  "movies": [
+    {
+      "id": "tt34383465",
+      "title": "Дитя ночи",
+      "original_title": "Yön lapsi",
+      "year": 2026,
+      "overview": "В глухом финском лесу Сага и её муж Йон начинают новую главу своей жизни, став родителями. Но долгожданное счастье быстро омрачается: Сага начинает подозревать, что с их новорождённым ребёнком происходит нечто пугающее. Скрывая свои тревоги от Йона, она всё больше отдаляется от мужа и в одиночку пытается докопаться до страшной правды.",
+      "poster": "https://image.tmdb.org/t/p/w500/bLSrV2Him731C9tDCRuHq2drit5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
+      "genres": [
+        "ужасы"
+      ],
+      "countries": [
+        "Finland",
+        "Lithuania",
+        "France",
+        "United Kingdom"
+      ],
+      "runtime": 92,
+      "imdb_id": "tt34383465",
+      "tmdb_id": 964849,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.014,
+      "tmdb_vote_count": 148,
+      "popularity": 12.1348,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-01",
+      "digital_release_date": "2026-07-31",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:38.747939+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9b86637a5ec4a4e9",
+          "movie_id": "tt34383465",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-31",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Дитя ночи",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В глухом финском лесу Сага и её муж Йон начинают новую главу своей жизни, став родителями. Но долгожданное счастье быстро омрачается: Сага начинает подозревать, что с их новорождённым ребёнком происходит нечто пугающее. Скрывая свои тревоги от Йона, она всё больше отдаляется от мужа и в одиночку пытается докопаться до страшной правды.",
+            "poster": "https://image.tmdb.org/t/p/w500/bLSrV2Him731C9tDCRuHq2drit5.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
+            "genres": [
+              "ужасы"
+            ],
+            "countries": [
+              "Finland",
+              "Lithuania",
+              "France",
+              "United Kingdom"
+            ],
+            "runtime": 92,
+            "popularity": 12.1348,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.014,
+            "tmdb_vote_count": 148,
+            "theatrical_release_date": "2026-07-01",
+            "digital_release_date": "2026-07-31"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37895011",
+      "title": "రావు బహదూర్",
+      "original_title": "రావు బహదూర్",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg",
+      "genres": [
+        "фэнтези",
+        "драма",
+        "триллер"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 169,
+      "imdb_id": "tt37895011",
+      "tmdb_id": 1443961,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.2,
+      "tmdb_vote_count": 6,
+      "popularity": 2.7335,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-02",
+      "digital_release_date": "2026-07-31",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:38.587105+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ce744c35bdb75836",
+          "movie_id": "tt37895011",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-31",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "రావు బహదూర్",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg",
+            "genres": [
+              "фэнтези",
+              "драма",
+              "триллер"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 169,
+            "popularity": 2.7335,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.2,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-07-02",
+            "digital_release_date": "2026-07-31"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37458495",
+      "title": "கட்டா குஸ்தி 2",
+      "original_title": "கட்டா குஸ்தி 2",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 153,
+      "imdb_id": "tt37458495",
+      "tmdb_id": 1509599,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.9,
+      "tmdb_vote_count": 7,
+      "popularity": 8.2869,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-03",
+      "digital_release_date": "2026-07-31",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.526466+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "d27035b0bffd4c27",
+          "movie_id": "tt37458495",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-31",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "கட்டா குஸ்தி 2",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
+            "genres": [
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 153,
+            "popularity": 8.2869,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.9,
+            "tmdb_vote_count": 7,
+            "theatrical_release_date": "2026-07-03",
+            "digital_release_date": "2026-07-31"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt42839367",
+      "title": "Снупи представляет: дом, милый дом",
+      "original_title": "Snoopy Presents: There's No Place Like Home, Snoopy",
+      "year": 2026,
+      "overview": "У Снупи пропадает дорогое сердцу имущество. Пытаясь его отыскать, он открывает для себя, что дом — это нечто большее, чем просто стены.",
+      "poster": "https://image.tmdb.org/t/p/w500/1UKwqsvR2fSquAJfblUHJUwB2qi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
+      "genres": [
+        "мультфильм",
+        "семейный"
+      ],
+      "countries": [
+        "United States of America",
+        "Canada"
+      ],
+      "runtime": 32,
+      "imdb_id": "tt42839367",
+      "tmdb_id": 1698575,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.5,
+      "tmdb_vote_count": 41,
+      "popularity": 16.8586,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-30",
+      "digital_release_date": "2026-07-31",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:31.034980+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e54eaaacfc364f63",
+          "movie_id": "tt42839367",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-31",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Снупи представляет: дом, милый дом",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "У Снупи пропадает дорогое сердцу имущество. Пытаясь его отыскать, он открывает для себя, что дом — это нечто большее, чем просто стены.",
+            "poster": "https://image.tmdb.org/t/p/w500/1UKwqsvR2fSquAJfblUHJUwB2qi.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
+            "genres": [
+              "мультфильм",
+              "семейный"
+            ],
+            "countries": [
+              "United States of America",
+              "Canada"
+            ],
+            "runtime": 32,
+            "popularity": 16.8586,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.5,
+            "tmdb_vote_count": 41,
+            "theatrical_release_date": "2026-07-30",
+            "digital_release_date": "2026-07-31"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt32654916",
+      "title": "СОУЛМ8ЙТ",
+      "original_title": "Soulm8te",
+      "year": 2026,
+      "overview": "Мужчина покупает андроида с искусственным интеллектом, чтобы справиться с потерей недавно умершей жены. Пытаясь создать по-настоящему разумного партнера, он случайно превращает безопасного робота-компаньона в смертельно опасную родственную душу.",
+      "poster": "https://image.tmdb.org/t/p/w500/rEZECujbTWvIKAfiSgHSiKYuRAH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+      "genres": [
+        "ужасы",
+        "фантастика",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 99,
+      "imdb_id": "tt32654916",
+      "tmdb_id": 1307118,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.4,
+      "tmdb_vote_count": 356,
+      "popularity": 29.0171,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-31",
+      "digital_release_date": "2026-07-31",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.601193+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b1d2fbc7a6e0f3d6",
+          "movie_id": "tt32654916",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-31",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "СОУЛМ8ЙТ",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Мужчина покупает андроида с искусственным интеллектом, чтобы справиться с потерей недавно умершей жены. Пытаясь создать по-настоящему разумного партнера, он случайно превращает безопасного робота-компаньона в смертельно опасную родственную душу.",
+            "poster": "https://image.tmdb.org/t/p/w500/rEZECujbTWvIKAfiSgHSiKYuRAH.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+            "genres": [
+              "ужасы",
+              "фантастика",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 99,
+            "popularity": 29.0171,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.4,
+            "tmdb_vote_count": 356,
+            "theatrical_release_date": "2026-07-31",
+            "digital_release_date": "2026-07-31"
+          }
+        }
+      ]
+    }
+  ]
+}

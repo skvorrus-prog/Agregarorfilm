@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-05",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt44942157",
+      "title": "Instadocs: The Decoy Plane",
+      "original_title": "Instadocs: The Decoy Plane",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 29,
+      "imdb_id": "tt44942157",
+      "tmdb_id": 1760262,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 7,
+      "popularity": 4.5197,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-04",
+      "digital_release_date": "2026-09-05",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.858486+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "57e6a49a2e419b25",
+          "movie_id": "tt44942157",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-05",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Instadocs: The Decoy Plane",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/4VFZeH7VDPZaVqv1d7w2jTpbRsy.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 29,
+            "popularity": 4.5197,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 7,
+            "theatrical_release_date": "2026-09-04",
+            "digital_release_date": "2026-09-05"
+          }
+        }
+      ]
+    }
+  ]
+}

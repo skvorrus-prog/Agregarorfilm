@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-30",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tmdb_1757539",
+      "title": "Jejak Sunyi",
+      "original_title": "Jejak Sunyi",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rQmtiuAyLeu9V9bvWH5KG8oRcsW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oBrZhGqtwV2VamrT31gzpuPJgGE.jpg",
+      "genres": [
+        "драма",
+        "семейный"
+      ],
+      "countries": [
+        "Indonesia"
+      ],
+      "runtime": 10,
+      "imdb_id": null,
+      "tmdb_id": 1757539,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.3,
+      "tmdb_vote_count": 6,
+      "popularity": 0.5076,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-30",
+      "digital_release_date": "2026-07-30",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:30.982081+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "cba82c575849c4ea",
+          "movie_id": "tmdb_1757539",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-30",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Jejak Sunyi",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/rQmtiuAyLeu9V9bvWH5KG8oRcsW.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/oBrZhGqtwV2VamrT31gzpuPJgGE.jpg",
+            "genres": [
+              "драма",
+              "семейный"
+            ],
+            "countries": [
+              "Indonesia"
+            ],
+            "runtime": 10,
+            "popularity": 0.5076,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.3,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-07-30",
+            "digital_release_date": "2026-07-30"
+          }
+        }
+      ]
+    }
+  ]
+}

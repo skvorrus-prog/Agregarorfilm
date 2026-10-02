@@ -1,7 +1,221 @@
 {
   "date": "2026-07-22",
-  "count": 3,
+  "count": 6,
   "movies": [
+    {
+      "id": "tt37042085",
+      "title": "Elize: Sombras de uma Mulher",
+      "original_title": "Elize: Sombras de uma Mulher",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/612ZyfilK8CVEEFphgPb3GOw0NF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+      "genres": [
+        "триллер",
+        "криминал",
+        "драма"
+      ],
+      "countries": [
+        "Brazil"
+      ],
+      "runtime": 93,
+      "imdb_id": "tt37042085",
+      "tmdb_id": 1487861,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.521,
+      "tmdb_vote_count": 218,
+      "popularity": 18.1023,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-22",
+      "digital_release_date": "2026-07-22",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.703636+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "7a7ad02910281282",
+          "movie_id": "tt37042085",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-22",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Elize: Sombras de uma Mulher",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/612ZyfilK8CVEEFphgPb3GOw0NF.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+            "genres": [
+              "триллер",
+              "криминал",
+              "драма"
+            ],
+            "countries": [
+              "Brazil"
+            ],
+            "runtime": 93,
+            "popularity": 18.1023,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.521,
+            "tmdb_vote_count": 218,
+            "theatrical_release_date": "2026-07-22",
+            "digital_release_date": "2026-07-22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43619305",
+      "title": "A Toxic Love Story",
+      "original_title": "A Toxic Love Story",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": 91,
+      "imdb_id": "tt43619305",
+      "tmdb_id": 1723460,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.4,
+      "tmdb_vote_count": 57,
+      "popularity": 6.2562,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-22",
+      "digital_release_date": "2026-07-22",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.622163+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4ab9e36b9979f62a",
+          "movie_id": "tt43619305",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-22",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "A Toxic Love Story",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United Kingdom"
+            ],
+            "runtime": 91,
+            "popularity": 6.2562,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.4,
+            "tmdb_vote_count": 57,
+            "theatrical_release_date": "2026-07-22",
+            "digital_release_date": "2026-07-22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43660866",
+      "title": "My Grandfather Charles Manson",
+      "original_title": "My Grandfather Charles Manson",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 106,
+      "imdb_id": "tt43660866",
+      "tmdb_id": 1728954,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.1,
+      "tmdb_vote_count": 6,
+      "popularity": 2.6192,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-22",
+      "digital_release_date": "2026-07-22",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.580596+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "96166774d30ae9ab",
+          "movie_id": "tt43660866",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-22",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "My Grandfather Charles Manson",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/mIIcUNjuMvF3TLqb5JPSPKwYPcA.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/vFLe1fespB5YMi9ZYg1XHxerWpW.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 106,
+            "popularity": 2.6192,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.1,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-07-22",
+            "digital_release_date": "2026-07-22"
+          }
+        }
+      ]
+    },
     {
       "id": "tt0427340",
       "title": "Masters of the Universe",

@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-22",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt29218808",
+      "title": "Infiltrate",
+      "original_title": "Infiltrate",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cEvyR19pmQ2s3DE8mdyL0m2Lv2N.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "runtime": 93,
+      "imdb_id": "tt29218808",
+      "tmdb_id": 1472951,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.5,
+      "tmdb_vote_count": 26,
+      "popularity": 10.6956,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-09",
+      "digital_release_date": "2026-05-22",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.909145+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f4ac7d8d80d212f1",
+          "movie_id": "tt29218808",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-05-22",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Infiltrate",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/cEvyR19pmQ2s3DE8mdyL0m2Lv2N.jpg",
+            "genres": [
+              "боевик",
+              "триллер"
+            ],
+            "countries": [
+              "Canada"
+            ],
+            "runtime": 93,
+            "popularity": 10.6956,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.5,
+            "tmdb_vote_count": 26,
+            "theatrical_release_date": "2026-07-09",
+            "digital_release_date": "2026-05-22"
+          }
+        }
+      ]
+    }
+  ]
+}

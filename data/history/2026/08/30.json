@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-30",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt38066519",
+      "title": "AEW All In 2026: London",
+      "original_title": "AEW All In 2026: London",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rYumu3P6c4zzl91Jk1cVI3pt55s.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/39avbouEle1TkOAJMn3oqmV8qyR.jpg",
+      "genres": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": 255,
+      "imdb_id": "tt38066519",
+      "tmdb_id": 1519320,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 9.2,
+      "tmdb_vote_count": 8,
+      "popularity": 5.0365,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-30",
+      "digital_release_date": "2026-08-30",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.173463+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9b24449f73dec3c7",
+          "movie_id": "tt38066519",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-30",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "AEW All In 2026: London",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/rYumu3P6c4zzl91Jk1cVI3pt55s.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/39avbouEle1TkOAJMn3oqmV8qyR.jpg",
+            "genres": [],
+            "countries": [
+              "United Kingdom"
+            ],
+            "runtime": 255,
+            "popularity": 5.0365,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 9.2,
+            "tmdb_vote_count": 8,
+            "theatrical_release_date": "2026-08-30",
+            "digital_release_date": "2026-08-30"
+          }
+        }
+      ]
+    }
+  ]
+}

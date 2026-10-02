@@ -1,0 +1,224 @@
+{
+  "date": "2026-09-07",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt30887701",
+      "title": "Пиноккио: Раскрепощённый",
+      "original_title": "Pinocchio: Unstrung",
+      "year": 2026,
+      "overview": "Пытаясь вывести внука Джеймса из тяжёлого состояния, Джеппетто дарит ему своё новое творение — деревянную куклу по имени Пиноккио, которая оказывается живой. Сначала необычный подарок становится для мальчика настоящим другом, но вскоре за его привязанностью начинает проступать нечто всё более тревожное.",
+      "poster": "https://image.tmdb.org/t/p/w500/Ai7VesRDerUCvER1tnsPnfR3iHg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg",
+      "genres": [
+        "ужасы",
+        "фэнтези",
+        "детектив"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": 82,
+      "imdb_id": "tt30887701",
+      "tmdb_id": 1232569,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.513,
+      "tmdb_vote_count": 119,
+      "popularity": 123.5829,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-22",
+      "digital_release_date": "2026-09-07",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.776640+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "2355a50daf87e471",
+          "movie_id": "tt30887701",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-07",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Пиноккио: Раскрепощённый",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Пытаясь вывести внука Джеймса из тяжёлого состояния, Джеппетто дарит ему своё новое творение — деревянную куклу по имени Пиноккио, которая оказывается живой. Сначала необычный подарок становится для мальчика настоящим другом, но вскоре за его привязанностью начинает проступать нечто всё более тревожное.",
+            "poster": "https://image.tmdb.org/t/p/w500/Ai7VesRDerUCvER1tnsPnfR3iHg.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg",
+            "genres": [
+              "ужасы",
+              "фэнтези",
+              "детектив"
+            ],
+            "countries": [
+              "United Kingdom"
+            ],
+            "runtime": 82,
+            "popularity": 123.5829,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.513,
+            "tmdb_vote_count": 119,
+            "theatrical_release_date": "2026-07-22",
+            "digital_release_date": "2026-09-07"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt38907741",
+      "title": "Заточение",
+      "original_title": "Confinement",
+      "year": 2026,
+      "overview": "После смерти мужа беременная Стелла приезжает к его загадочной семье. Но вскоре гостеприимство сменяется тревогой: родственники проявляют пугающий интерес к ее будущему ребёнку. Запертая в их доме, Стелла должна разгадать их тайну, пока не стало слишком поздно.",
+      "poster": "https://image.tmdb.org/t/p/w500/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xQbHmeJdT95pSDMzP92CrvjceBh.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": 92,
+      "imdb_id": "tt38907741",
+      "tmdb_id": 1742458,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.2,
+      "tmdb_vote_count": 13,
+      "popularity": 4.5882,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-01",
+      "digital_release_date": "2026-09-07",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.068961+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "68cd1bc6e44be854",
+          "movie_id": "tt38907741",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-07",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Заточение",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "После смерти мужа беременная Стелла приезжает к его загадочной семье. Но вскоре гостеприимство сменяется тревогой: родственники проявляют пугающий интерес к ее будущему ребёнку. Запертая в их доме, Стелла должна разгадать их тайну, пока не стало слишком поздно.",
+            "poster": "https://image.tmdb.org/t/p/w500/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/xQbHmeJdT95pSDMzP92CrvjceBh.jpg",
+            "genres": [
+              "триллер",
+              "ужасы"
+            ],
+            "countries": [
+              "United Kingdom"
+            ],
+            "runtime": 92,
+            "popularity": 4.5882,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.2,
+            "tmdb_vote_count": 13,
+            "theatrical_release_date": "2026-09-01",
+            "digital_release_date": "2026-09-07"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43600387",
+      "title": "WWE Sunday Night's Main Event",
+      "original_title": "WWE Sunday Night's Main Event",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6cb2WyORlZArPGMrObSMUdytC9j.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 0,
+      "imdb_id": "tt43600387",
+      "tmdb_id": 1748550,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.4,
+      "tmdb_vote_count": 5,
+      "popularity": 3.4532,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-06",
+      "digital_release_date": "2026-09-07",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.832288+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e3ade7d23343f5a1",
+          "movie_id": "tt43600387",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-07",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "WWE Sunday Night's Main Event",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/6cb2WyORlZArPGMrObSMUdytC9j.jpg",
+            "genres": [
+              "боевик",
+              "драма"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 0,
+            "popularity": 3.4532,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.4,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-06",
+            "digital_release_date": "2026-09-07"
+          }
+        }
+      ]
+    }
+  ]
+}

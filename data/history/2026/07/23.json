@@ -1,0 +1,154 @@
+{
+  "date": "2026-07-23",
+  "count": 2,
+  "movies": [
+    {
+      "id": "tt39749953",
+      "title": "Коллектор",
+      "original_title": "คนเดือดทวงแค้น",
+      "year": 2026,
+      "overview": "У бывшего подпольного коллектора Нума осталось всего несколько месяцев жизни - врачи поставили ему смертельный диагноз. Отчаянно пытаясь искупить вину за своё кровавое прошлое, он решает защищать простых людей, попавших в долговое рабство к безжалостным «чёрным» кредиторам. Однако его благородный порыв оборачивается кровавой бойней: он переходит дорогу По - жестокому и амбициозному сыну могущественного мафиозного босса. Так начинается беспощадная уличная война, в которой Нуму уже нечего терять...",
+      "poster": "https://image.tmdb.org/t/p/w500/bsvARJcr8FciwZa2noeiFP90DrL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "криминал"
+      ],
+      "countries": [
+        "Thailand"
+      ],
+      "runtime": 134,
+      "imdb_id": "tt39749953",
+      "tmdb_id": 1630409,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.908,
+      "tmdb_vote_count": 141,
+      "popularity": 17.5269,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-20",
+      "digital_release_date": "2026-07-23",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.884499+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "de803ab0cd4ded69",
+          "movie_id": "tt39749953",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-23",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Коллектор",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "У бывшего подпольного коллектора Нума осталось всего несколько месяцев жизни - врачи поставили ему смертельный диагноз. Отчаянно пытаясь искупить вину за своё кровавое прошлое, он решает защищать простых людей, попавших в долговое рабство к безжалостным «чёрным» кредиторам. Однако его благородный порыв оборачивается кровавой бойней: он переходит дорогу По - жестокому и амбициозному сыну могущественного мафиозного босса. Так начинается беспощадная уличная война, в которой Нуму уже нечего терять...",
+            "poster": "https://image.tmdb.org/t/p/w500/bsvARJcr8FciwZa2noeiFP90DrL.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+            "genres": [
+              "боевик",
+              "триллер",
+              "криминал"
+            ],
+            "countries": [
+              "Thailand"
+            ],
+            "runtime": 134,
+            "popularity": 17.5269,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.908,
+            "tmdb_vote_count": 141,
+            "theatrical_release_date": "2026-07-20",
+            "digital_release_date": "2026-07-23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43617119",
+      "title": "أحبك من زمان",
+      "original_title": "أحبك من زمان",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cj3uvHPlfEmdy8veYczXs7ibHah.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u017fKh6C7nhOyBeYdRPY8EdhMv.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ],
+      "countries": [
+        "Kuwait",
+        "Lebanon"
+      ],
+      "runtime": 93,
+      "imdb_id": "tt43617119",
+      "tmdb_id": 1620682,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.4,
+      "tmdb_vote_count": 28,
+      "popularity": 3.9655,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-23",
+      "digital_release_date": "2026-07-23",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.304311+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ddda8b7710f5a600",
+          "movie_id": "tt43617119",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-23",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "أحبك من زمان",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/cj3uvHPlfEmdy8veYczXs7ibHah.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/u017fKh6C7nhOyBeYdRPY8EdhMv.jpg",
+            "genres": [
+              "мелодрама",
+              "комедия"
+            ],
+            "countries": [
+              "Kuwait",
+              "Lebanon"
+            ],
+            "runtime": 93,
+            "popularity": 3.9655,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.4,
+            "tmdb_vote_count": 28,
+            "theatrical_release_date": "2026-07-23",
+            "digital_release_date": "2026-07-23"
+          }
+        }
+      ]
+    }
+  ]
+}

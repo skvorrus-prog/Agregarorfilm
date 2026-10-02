@@ -1,7 +1,79 @@
 {
   "date": "2026-10-02",
-  "count": 5,
+  "count": 6,
   "movies": [
+    {
+      "id": "tt6628920",
+      "title": "Придурки",
+      "original_title": "Idiots",
+      "year": 2026,
+      "overview": "Марк и Дэвис - 2 неудачливых водителя, которые получают простое, на первый взгляд, задание: доставить избалованного богатого подростка Шеридана в реабилитационный центр. Однако обычная поездка быстро выходит из-под контроля, когда их пассажир начинает втягивать их в мир наркотиков, преступников и опасных ситуаций. Пытаясь довезти Шеридана до места назначения, троица сталкивается с всё более безумными обстоятельствами, превращая обычную работу в хаотичное путешествие, где неприятности подстерегают на каждом шагу.",
+      "poster": "https://image.tmdb.org/t/p/w500/blXiN8wIQ5ObMSCud0pMVbANEjT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v65hwf9S6mxFtobq4w6SlLnWgLq.jpg",
+      "genres": [
+        "комедия",
+        "криминал"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 98,
+      "imdb_id": "tt6628920",
+      "tmdb_id": 445466,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.407,
+      "tmdb_vote_count": 43,
+      "popularity": 44.7226,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-20",
+      "digital_release_date": "2026-10-02",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.755654+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "251c1cfc4f9a8a28",
+          "movie_id": "tt6628920",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-02",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Придурки",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Марк и Дэвис - 2 неудачливых водителя, которые получают простое, на первый взгляд, задание: доставить избалованного богатого подростка Шеридана в реабилитационный центр. Однако обычная поездка быстро выходит из-под контроля, когда их пассажир начинает втягивать их в мир наркотиков, преступников и опасных ситуаций. Пытаясь довезти Шеридана до места назначения, троица сталкивается с всё более безумными обстоятельствами, превращая обычную работу в хаотичное путешествие, где неприятности подстерегают на каждом шагу.",
+            "poster": "https://image.tmdb.org/t/p/w500/blXiN8wIQ5ObMSCud0pMVbANEjT.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/v65hwf9S6mxFtobq4w6SlLnWgLq.jpg",
+            "genres": [
+              "комедия",
+              "криминал"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 98,
+            "popularity": 44.7226,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.407,
+            "tmdb_vote_count": 43,
+            "theatrical_release_date": "2026-08-20",
+            "digital_release_date": "2026-10-02"
+          }
+        }
+      ]
+    },
     {
       "id": "tmdb_1781915",
       "title": "Ferret-Man",
@@ -23,14 +95,14 @@
       "tmdb_id": 1781915,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.0,
-      "tmdb_vote_count": 1,
-      "popularity": 0.6929,
+      "tmdb_rating": 6.6,
+      "tmdb_vote_count": 35,
+      "popularity": 5.4446,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-02",
       "digital_release_date": "2026-10-02",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:23:19.476532+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.325864+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -38,6 +110,42 @@
       "has_hdr": false,
       "has_ru_audio": false,
       "events": [
+        {
+          "id": "f216769a5f682650",
+          "movie_id": "tmdb_1781915",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-13",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Солдат",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/dGcmv363NfonrRGSh2Lx5VB50nH.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
+            "genres": [
+              "боевик",
+              "триллер",
+              "военный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 111,
+            "popularity": 5.4446,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.6,
+            "tmdb_vote_count": 35,
+            "theatrical_release_date": "2026-07-03",
+            "digital_release_date": "2026-08-13"
+          }
+        },
         {
           "id": "90f9f9f77acf0f6d",
           "movie_id": "tmdb_1781915",

@@ -1,0 +1,290 @@
+{
+  "date": "2026-09-11",
+  "count": 4,
+  "movies": [
+    {
+      "id": "tt30332656",
+      "title": "Hasta el Fin del Mundo",
+      "original_title": "Hasta el Fin del Mundo",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/kwuQPxbJPfjU0TKXcVpdzJ0RvJ5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hmoNULa9OEIM5pCzXr1XnuTVgUT.jpg",
+      "genres": [
+        "драма"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "runtime": 98,
+      "imdb_id": "tt30332656",
+      "tmdb_id": 1428226,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.946,
+      "tmdb_vote_count": 92,
+      "popularity": 29.0755,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-23",
+      "digital_release_date": "2026-09-11",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.423903+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "35fc687f6b9628c2",
+          "movie_id": "tt30332656",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-11",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Hasta el Fin del Mundo",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/kwuQPxbJPfjU0TKXcVpdzJ0RvJ5.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/hmoNULa9OEIM5pCzXr1XnuTVgUT.jpg",
+            "genres": [
+              "драма"
+            ],
+            "countries": [
+              "Spain"
+            ],
+            "runtime": 98,
+            "popularity": 29.0755,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.946,
+            "tmdb_vote_count": 92,
+            "theatrical_release_date": "2026-07-23",
+            "digital_release_date": "2026-09-11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt35836025",
+      "title": "Вишванатх и сыновья",
+      "original_title": "விஸ்வநாத் & சன்ஸ்",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+      "genres": [
+        "драма",
+        "мелодрама",
+        "комедия"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 161,
+      "imdb_id": "tt35836025",
+      "tmdb_id": 1408162,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.3,
+      "tmdb_vote_count": 29,
+      "popularity": 38.8076,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-14",
+      "digital_release_date": "2026-09-11",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.973114+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "cf7b27ef2cfa2263",
+          "movie_id": "tt35836025",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-11",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Вишванатх и сыновья",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+            "genres": [
+              "драма",
+              "мелодрама",
+              "комедия"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 161,
+            "popularity": 38.8076,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.3,
+            "tmdb_vote_count": 29,
+            "theatrical_release_date": "2026-08-14",
+            "digital_release_date": "2026-09-11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt36460398",
+      "title": "Atlas King",
+      "original_title": "Atlas King",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qbSUXnjEMO09BT7cKsLCb1SsZid.jpg",
+      "genres": [
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 0,
+      "imdb_id": "tt36460398",
+      "tmdb_id": 1510517,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.4,
+      "tmdb_vote_count": 5,
+      "popularity": 1.7303,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-21",
+      "digital_release_date": "2026-09-11",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.532153+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b19ce97a081e628a",
+          "movie_id": "tt36460398",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-11",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Atlas King",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/qbSUXnjEMO09BT7cKsLCb1SsZid.jpg",
+            "genres": [
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 0,
+            "popularity": 1.7303,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.4,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-08-21",
+            "digital_release_date": "2026-09-11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt38616652",
+      "title": "Gracias, equipo",
+      "original_title": "Gracias, equipo",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "runtime": 93,
+      "imdb_id": "tt38616652",
+      "tmdb_id": 1558568,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.405,
+      "tmdb_vote_count": 42,
+      "popularity": 8.2402,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-11",
+      "digital_release_date": "2026-09-11",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.623188+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "356c450356922f60",
+          "movie_id": "tt38616652",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-11",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Gracias, equipo",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "Spain"
+            ],
+            "runtime": 93,
+            "popularity": 8.2402,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.405,
+            "tmdb_vote_count": 42,
+            "theatrical_release_date": "2026-09-11",
+            "digital_release_date": "2026-09-11"
+          }
+        }
+      ]
+    }
+  ]
+}

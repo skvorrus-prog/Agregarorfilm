@@ -1,0 +1,84 @@
+{
+  "date": "2026-09-24",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt44171293",
+      "title": "Spidey and the Avengers: Halloween Team-Up!",
+      "original_title": "Spidey and the Avengers: Halloween Team-Up!",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения",
+        "фэнтези",
+        "семейный"
+      ],
+      "countries": [
+        "United States of America",
+        "Canada"
+      ],
+      "runtime": 26,
+      "imdb_id": "tt44171293",
+      "tmdb_id": 1750432,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.4,
+      "tmdb_vote_count": 5,
+      "popularity": 24.5794,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-24",
+      "digital_release_date": "2026-09-24",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:18.130293+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ae201ca9cdaa288f",
+          "movie_id": "tt44171293",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-24",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Spidey and the Avengers: Halloween Team-Up!",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
+            "genres": [
+              "мультфильм",
+              "приключения",
+              "фэнтези",
+              "семейный"
+            ],
+            "countries": [
+              "United States of America",
+              "Canada"
+            ],
+            "runtime": 26,
+            "popularity": 24.5794,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.4,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-24",
+            "digital_release_date": "2026-09-24"
+          }
+        }
+      ]
+    }
+  ]
+}

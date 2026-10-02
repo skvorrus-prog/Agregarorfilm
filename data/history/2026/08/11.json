@@ -1,0 +1,220 @@
+{
+  "date": "2026-08-11",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt19035928",
+      "title": "Последний рубеж",
+      "original_title": "Lucky Strike",
+      "year": 2026,
+      "overview": "Во время Арденнской операции раненый американский офицер Джон Касл оказывается в тылу врага. Оставшийся единственным выжившим в отряде, он пытается пробиться к своим, имея при себе лишь военный радиопередатчик. Теперь Каслу надо будет попытаться выжить, но это будет весьма непросто.",
+      "poster": "https://image.tmdb.org/t/p/w500/ipnLkKOkYyDglthat3F1Ttk8jFa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
+      "genres": [
+        "боевик",
+        "военный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 103,
+      "imdb_id": "tt19035928",
+      "tmdb_id": 1594914,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.798,
+      "tmdb_vote_count": 52,
+      "popularity": 41.1383,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-06-26",
+      "digital_release_date": "2026-08-11",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:39.127591+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f3f4c45180128b4b",
+          "movie_id": "tt19035928",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-11",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Последний рубеж",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Во время Арденнской операции раненый американский офицер Джон Касл оказывается в тылу врага. Оставшийся единственным выжившим в отряде, он пытается пробиться к своим, имея при себе лишь военный радиопередатчик. Теперь Каслу надо будет попытаться выжить, но это будет весьма непросто.",
+            "poster": "https://image.tmdb.org/t/p/w500/ipnLkKOkYyDglthat3F1Ttk8jFa.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
+            "genres": [
+              "боевик",
+              "военный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 103,
+            "popularity": 41.1383,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.798,
+            "tmdb_vote_count": 52,
+            "theatrical_release_date": "2026-06-26",
+            "digital_release_date": "2026-08-11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt36834010",
+      "title": "Гейл Дотри и голливудский секс-абонемент",
+      "original_title": "Gail Daughtry and the Celebrity Sex Pass",
+      "year": 2026,
+      "overview": "Когда её жених использует их шутливую «звёздную фантазию» как реальное разрешение на измену с Дженнифер Энистон, скромная парикмахерша из Канзаса отправляется в Голливуд, чтобы восстановить справедливость и переспать со своим кумиром Джоном Хэммом. Хаотичное приключение с погонями, странными союзниками и безумными голливудскими перипетиями приводит к самым неожиданным последствиям.",
+      "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vfcqksiJMpzFJ8Y1cVbSAH6J6rY.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 94,
+      "imdb_id": "tt36834010",
+      "tmdb_id": 1476682,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.293,
+      "tmdb_vote_count": 41,
+      "popularity": 10.8349,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-09",
+      "digital_release_date": "2026-08-11",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.873372+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "dd25f4d4ad70c88e",
+          "movie_id": "tt36834010",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-11",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Гейл Дотри и голливудский секс-абонемент",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Когда её жених использует их шутливую «звёздную фантазию» как реальное разрешение на измену с Дженнифер Энистон, скромная парикмахерша из Канзаса отправляется в Голливуд, чтобы восстановить справедливость и переспать со своим кумиром Джоном Хэммом. Хаотичное приключение с погонями, странными союзниками и безумными голливудскими перипетиями приводит к самым неожиданным последствиям.",
+            "poster": "https://image.tmdb.org/t/p/w500/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/vfcqksiJMpzFJ8Y1cVbSAH6J6rY.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 94,
+            "popularity": 10.8349,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.293,
+            "tmdb_vote_count": 41,
+            "theatrical_release_date": "2026-07-09",
+            "digital_release_date": "2026-08-11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt38906892",
+      "title": "Ночная сиделка",
+      "original_title": "Night Nurse",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dcJFy0rtVZp4LqPw1aqyxa046VP.jpg",
+      "genres": [
+        "драма",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 95,
+      "imdb_id": "tt38906892",
+      "tmdb_id": 1596260,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.9,
+      "tmdb_vote_count": 15,
+      "popularity": 4.0309,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-10",
+      "digital_release_date": "2026-08-11",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.566214+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b6167737f91b0b21",
+          "movie_id": "tt38906892",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-11",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Ночная сиделка",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/dcJFy0rtVZp4LqPw1aqyxa046VP.jpg",
+            "genres": [
+              "драма",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 95,
+            "popularity": 4.0309,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.9,
+            "tmdb_vote_count": 15,
+            "theatrical_release_date": "2026-07-10",
+            "digital_release_date": "2026-08-11"
+          }
+        }
+      ]
+    }
+  ]
+}

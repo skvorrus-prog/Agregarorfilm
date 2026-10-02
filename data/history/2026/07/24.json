@@ -1,0 +1,224 @@
+{
+  "date": "2026-07-24",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt39182439",
+      "title": "கான் சிட்டி",
+      "original_title": "கான் சிட்டி",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 150,
+      "imdb_id": "tt39182439",
+      "tmdb_id": 1596008,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.4,
+      "tmdb_vote_count": 6,
+      "popularity": 1.6914,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-06-26",
+      "digital_release_date": "2026-07-24",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:39.082394+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "8ff68bccb021d467",
+          "movie_id": "tt39182439",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-24",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "கான் சிட்டி",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
+            "genres": [
+              "комедия",
+              "криминал",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 150,
+            "popularity": 1.6914,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.4,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-06-26",
+            "digital_release_date": "2026-07-24"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33499146",
+      "title": "Динк",
+      "original_title": "The Dink",
+      "year": 2026,
+      "overview": "Дасти Бойду по прозвищу Молот, вышедшему в тираж профессиональному теннисисту, очень нужна победа. Стремясь спасти убыточный загородный клуб и завоевать уважение отца, Дасти нарушает священную клятву и совершает немыслимое — начинает играть в пиклбол.",
+      "poster": "https://image.tmdb.org/t/p/w500/qzro574xelekqSTESEL09qpO2qh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z1Z1vW3bu27UUXD70vyqAcCeXU1.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 103,
+      "imdb_id": "tt33499146",
+      "tmdb_id": 1361774,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.4,
+      "tmdb_vote_count": 147,
+      "popularity": 11.0005,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-23",
+      "digital_release_date": "2026-07-24",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.454869+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "a2296a14e77d84ca",
+          "movie_id": "tt33499146",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-24",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Динк",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Дасти Бойду по прозвищу Молот, вышедшему в тираж профессиональному теннисисту, очень нужна победа. Стремясь спасти убыточный загородный клуб и завоевать уважение отца, Дасти нарушает священную клятву и совершает немыслимое — начинает играть в пиклбол.",
+            "poster": "https://image.tmdb.org/t/p/w500/qzro574xelekqSTESEL09qpO2qh.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/z1Z1vW3bu27UUXD70vyqAcCeXU1.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 103,
+            "popularity": 11.0005,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.4,
+            "tmdb_vote_count": 147,
+            "theatrical_release_date": "2026-07-23",
+            "digital_release_date": "2026-07-24"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt41111628",
+      "title": "Los creyentes",
+      "original_title": "Los creyentes",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/pUvs1iFFMDy3sNp5dNmkRak1oxD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
+      "genres": [
+        "триллер",
+        "драма",
+        "детектив"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "runtime": 106,
+      "imdb_id": "tt41111628",
+      "tmdb_id": 1659155,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.7,
+      "tmdb_vote_count": 104,
+      "popularity": 8.3962,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-24",
+      "digital_release_date": "2026-07-24",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:31.348214+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "3acbdced184d6d51",
+          "movie_id": "tt41111628",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-24",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Los creyentes",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/pUvs1iFFMDy3sNp5dNmkRak1oxD.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
+            "genres": [
+              "триллер",
+              "драма",
+              "детектив"
+            ],
+            "countries": [
+              "Spain"
+            ],
+            "runtime": 106,
+            "popularity": 8.3962,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.7,
+            "tmdb_vote_count": 104,
+            "theatrical_release_date": "2026-07-24",
+            "digital_release_date": "2026-07-24"
+          }
+        }
+      ]
+    }
+  ]
+}

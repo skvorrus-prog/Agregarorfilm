@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-01",
+  "count": 4,
+  "movies": [
+    {
+      "id": "tt32332915",
+      "title": "Хочу заняться с тобой сексом",
+      "original_title": "I Want Your Sex",
+      "year": 2026,
+      "overview": "Эллиот, выпускник художественной школы, устраивается на работу к Эрике Трейси, успешной и скандальной художнице. Эрика подчиняет Эллиота и делает его послушной музой, но вскоре парень понимает, что жизнь, полная одержимости и погони за властью, ему не по зубам.",
+      "poster": "https://image.tmdb.org/t/p/w500/oBmi0TlLUzNAg77rJj0x4lWbgWk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gQsjbxdjJUam7buy4U2TpVTiGSO.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 90,
+      "imdb_id": "tt32332915",
+      "tmdb_id": 1288059,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.1,
+      "tmdb_vote_count": 91,
+      "popularity": 33.8594,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-29",
+      "digital_release_date": "2026-09-01",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:31.182638+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "eef50d28f723ade1",
+          "movie_id": "tt32332915",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-01",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Хочу заняться с тобой сексом",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Эллиот, выпускник художественной школы, устраивается на работу к Эрике Трейси, успешной и скандальной художнице. Эрика подчиняет Эллиота и делает его послушной музой, но вскоре парень понимает, что жизнь, полная одержимости и погони за властью, ему не по зубам.",
+            "poster": "https://image.tmdb.org/t/p/w500/oBmi0TlLUzNAg77rJj0x4lWbgWk.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/gQsjbxdjJUam7buy4U2TpVTiGSO.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 90,
+            "popularity": 33.8594,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.1,
+            "tmdb_vote_count": 91,
+            "theatrical_release_date": "2026-07-29",
+            "digital_release_date": "2026-09-01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33070884",
+      "title": "На грани войны",
+      "original_title": "The Brink of War",
+      "year": 2026,
+      "overview": "В самый опасный момент холодной войны политические враги Рональд Рейган и Михаил Горбачёв встречаются в Исландии в один напряжённый уик-энд, чтобы решить, будет ли в мире мир или война.",
+      "poster": "https://image.tmdb.org/t/p/w500/iVJMqw9BobE9ojSWt5hELk6E6uA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+      "genres": [
+        "драма",
+        "история"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 119,
+      "imdb_id": "tt33070884",
+      "tmdb_id": 192139,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.2,
+      "tmdb_vote_count": 30,
+      "popularity": 8.7528,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-13",
+      "digital_release_date": "2026-09-01",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.153194+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4da137f920b96ed1",
+          "movie_id": "tt33070884",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-01",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "На грани войны",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В самый опасный момент холодной войны политические враги Рональд Рейган и Михаил Горбачёв встречаются в Исландии в один напряжённый уик-энд, чтобы решить, будет ли в мире мир или война.",
+            "poster": "https://image.tmdb.org/t/p/w500/iVJMqw9BobE9ojSWt5hELk6E6uA.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+            "genres": [
+              "драма",
+              "история"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 119,
+            "popularity": 8.7528,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.2,
+            "tmdb_vote_count": 30,
+            "theatrical_release_date": "2026-08-13",
+            "digital_release_date": "2026-09-01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt35060353",
+      "title": "Не те девушки",
+      "original_title": "The Wrong Girls",
+      "year": 2026,
+      "overview": "Две беззаботные молодые девушки после употребления экспериментального наркотика случайно обретают телепатические способности, что натравливает их на опасных соперниц, стремящихся получить такое же мощное вещество.",
+      "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "фантастика"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 99,
+      "imdb_id": "tt35060353",
+      "tmdb_id": 1226699,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.177,
+      "tmdb_vote_count": 31,
+      "popularity": 5.8584,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-14",
+      "digital_release_date": "2026-09-01",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.030470+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "eea50448c91ba81d",
+          "movie_id": "tt35060353",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-01",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Не те девушки",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Две беззаботные молодые девушки после употребления экспериментального наркотика случайно обретают телепатические способности, что натравливает их на опасных соперниц, стремящихся получить такое же мощное вещество.",
+            "poster": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+            "genres": [
+              "комедия",
+              "криминал",
+              "фантастика"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 99,
+            "popularity": 5.8584,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.177,
+            "tmdb_vote_count": 31,
+            "theatrical_release_date": "2026-08-14",
+            "digital_release_date": "2026-09-01"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt7265638",
+      "title": "The Room Below",
+      "original_title": "The Room Below",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/qKDDXjFlWbSJIjSmSH6EzNENSy7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5zGpKdXLGFYFqX0we1blyFiH3J1.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "детектив"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "runtime": 100,
+      "imdb_id": "tt7265638",
+      "tmdb_id": 1361982,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.6,
+      "tmdb_vote_count": 8,
+      "popularity": 2.0249,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-01",
+      "digital_release_date": "2026-09-01",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.124041+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f82b54d43813e5ac",
+          "movie_id": "tt7265638",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-01",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Room Below",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/qKDDXjFlWbSJIjSmSH6EzNENSy7.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/5zGpKdXLGFYFqX0we1blyFiH3J1.jpg",
+            "genres": [
+              "ужасы",
+              "триллер",
+              "детектив"
+            ],
+            "countries": [
+              "Australia"
+            ],
+            "runtime": 100,
+            "popularity": 2.0249,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.6,
+            "tmdb_vote_count": 8,
+            "theatrical_release_date": "2026-09-01",
+            "digital_release_date": "2026-09-01"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -9,7 +9,7 @@
       "year": 2026,
       "overview": "То́ни — личное имя, уменьшительное от Энтони, Антонио, Антуанетт и других производных латинского имени Антоний; также фамилия и топоним:(924) Тони — астероид, открытый в 1919 году.\n«Тони» — американская театральная премия, учреждённая в 1947 году и названная в честь актрисы Антуанетт Перри.\nТони — рисованный тигр, персонаж, ставший рекламным символом хлопьев для завтрака, выпускаемых компанией Kellogg.ФамилияТони, Грегори — французский профессиональный боксёр.\nТони, Джеймс — американский боксёр.\nТони, Кевин — американский композитор.\nТони, Лука — итальянский футболист.\nТони, Роджер Брук (1777—1864) — американский государственный деятель.\nТони, Шака — игрок в американский футбол.Де Тони, Симон — монах-цистерцианец XII века, служивший аббатом в Эссексе.\nДе Тони, Джованни Баттиста (1864—1924) — итальянский химик и врач.ТопонимТони — коммуна в департаменте Эр, регион Верхняя Нормандия (Франция).\nТони — населённый пункт в округе Раск, штат Висконсин (США).\nТони — невключённая территория в округе Линкольн, штат Западная Виргиния (США).В кинематографе«Тони» — фильм Жана Ренуара.\nТони — фильм Мэтта Джонсона.",
       "poster": "https://images.metahub.space/poster/small/tt33095251/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
       "genres": [
         "Biography",
         "Comedy",
@@ -18,19 +18,19 @@
       "countries": [
         "United States, Canada"
       ],
-      "runtime": null,
+      "runtime": 106,
       "imdb_id": "tt33095251",
-      "tmdb_id": null,
+      "tmdb_id": 1329016,
       "imdb_rating": 7.6,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 7.6,
+      "tmdb_vote_count": 115,
+      "popularity": 33.8812,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-07-08",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.383681+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.258403+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -38,6 +38,42 @@
       "has_hdr": false,
       "has_ru_audio": false,
       "events": [
+        {
+          "id": "ee564c89b91db628",
+          "movie_id": "tt33095251",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-15",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Тони",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Лето в Провинстауне пахнет океаном, солнцем и устрицами, а целый год здесь умещается в несколько курортных месяцев. 19-летний Тони приезжает сюда без чётких планов на жизнь — с амбициями стать писателем и желанием покорить девушку. Случайная подработка на кухне местного ресторана превращает беззаботные каникулы в головокружительное погружение в мир хаоса, адреналина и страсти.",
+            "poster": "https://image.tmdb.org/t/p/w500/gB7mAm5WLxp4iIwQs3dj3OOgN2m.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+            "genres": [
+              "драма",
+              "комедия"
+            ],
+            "countries": [
+              "United States of America",
+              "Canada"
+            ],
+            "runtime": 106,
+            "popularity": 33.8812,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.6,
+            "tmdb_vote_count": 115,
+            "theatrical_release_date": "2026-08-07",
+            "digital_release_date": "2026-09-15"
+          }
+        },
         {
           "id": "9c742c4fad2ec71d",
           "movie_id": "tt33095251",
@@ -78,7 +114,7 @@
       "year": 2026,
       "overview": "Семья Платт объединяется, чтобы ориентироваться в своем новом окружении после того, как космическое событие переносит их пригородный район в неизвестное место.",
       "poster": "https://images.metahub.space/poster/small/tt27165187/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "genres": [
         "Action",
         "Adventure",
@@ -87,19 +123,19 @@
       "countries": [
         "United States, Canada, Australia"
       ],
-      "runtime": null,
+      "runtime": 99,
       "imdb_id": "tt27165187",
-      "tmdb_id": null,
+      "tmdb_id": 1101383,
       "imdb_rating": 6.5,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 7.05,
+      "tmdb_vote_count": 1743,
+      "popularity": 254.6663,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-07-08",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-10-01T19:01:07.478472+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.200918+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -107,6 +143,42 @@
       "has_hdr": true,
       "has_ru_audio": true,
       "events": [
+        {
+          "id": "9fd267fa7da6e167",
+          "movie_id": "tt27165187",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-28",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "На краю Оук-стрит",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Июль 1982-го года. Семейство Платт живёт в пригороде. Однажды в их тихом районе начинают происходить странные явления: по ночам что-то гремит и вспыхивает, во дворе у соседки вырастает причудливое растение, во дворе у соседа — огромная куча экскрементов. Потом случается блэкаут, и, проснувшись поутру, Платты обнаруживают, что их квартал каким-то образом перенёсся на сотни миллионов лет назад, и по улицам теперь бродят голодные динозавры.",
+            "poster": "https://image.tmdb.org/t/p/w500/5jhArZFrQIqEuh4ZNuBaQsnEy7s.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+            "genres": [
+              "фантастика",
+              "детектив",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 99,
+            "popularity": 254.6663,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.05,
+            "tmdb_vote_count": 1743,
+            "theatrical_release_date": "2026-08-12",
+            "digital_release_date": "2026-09-28"
+          }
+        },
         {
           "id": "693290d71d4e9b3e",
           "movie_id": "tt27165187",
@@ -193,9 +265,9 @@
       "title": "Avatar Aang: The Last Airbender",
       "original_title": "Avatar Aang: The Last Airbender",
       "year": 2026,
-      "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands.",
+      "overview": "Аватар Аанг, последний Маг Воздуха в мире, узнает о древней силе, которая может спасти его культуру от вымирания. С помощью своих друзей он отправляется на глобальные поиски, чтобы найти его, прежде чем он попадет не в те руки.",
       "poster": "https://images.metahub.space/poster/small/tt18259538/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
       "genres": [
         "Animation",
         "Action",
@@ -204,26 +276,66 @@
       "countries": [
         "США"
       ],
-      "runtime": null,
+      "runtime": 99,
       "imdb_id": "tt18259538",
-      "tmdb_id": null,
+      "tmdb_id": 980431,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 9.146,
+      "tmdb_vote_count": 1224,
+      "popularity": 68.1532,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-07-08",
       "first_detected_at": "2026-07-08T12:00:00Z",
-      "last_updated_at": "2026-09-29T18:31:41.153241+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.270302+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
       "has_ru_audio": true,
-      "events": []
+      "events": [
+        {
+          "id": "22360e5bb1a5d4a4",
+          "movie_id": "tt18259538",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-22",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Легенда об Аанге: Последний маг воздуха",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Аанг, аватар и последний маг воздуха, узнаёт о древней силе, которая может спасти его культуру от исчезновения. Вместе с давними друзьями Аанг отправляется в далёкое путешествие, чтобы отыскать силу и опередить тех, кто хочет использовать её в злых целях.",
+            "poster": "https://image.tmdb.org/t/p/w500/cypsdXImFEVN3NOlckf9ZVrBY6M.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+            "genres": [
+              "мультфильм",
+              "приключения",
+              "фэнтези",
+              "боевик"
+            ],
+            "countries": [
+              "United States of America",
+              "South Korea",
+              "Australia"
+            ],
+            "runtime": 99,
+            "popularity": 68.1532,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 9.146,
+            "tmdb_vote_count": 1224,
+            "theatrical_release_date": "2026-07-24",
+            "digital_release_date": "2026-08-22"
+          }
+        }
+      ]
     },
     {
       "id": "tt31189814",

@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-01",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt36948232",
+      "title": "Сыграть в ящик",
+      "original_title": "Just Play Dead",
+      "year": 2026,
+      "overview": "Джек планирует инсценировать собственную смерть, чтобы получить страховую выплату в 30 миллионов долларов. Его жена Нора соглашается помочь провернуть аферу, но у неё оказывается собственный план — не просто заставить мужа исчезнуть, а действительно убить его и забрать деньги. Когда супруги начинают играть друг против друга, каждый пытается предугадать следующий шаг соперника и использовать окружающих в своих интересах. Постепенно обман выходит из-под контроля, превращая тщательно продуманную аферу в смертельную игру, где доверять нельзя даже самому близкому человеку.",
+      "poster": "https://image.tmdb.org/t/p/w500/a7zKrmDTolqzgCWb5qsMpdOXhpN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
+      "genres": [
+        "триллер",
+        "криминал"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": 116,
+      "imdb_id": "tt36948232",
+      "tmdb_id": 1480574,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.79,
+      "tmdb_vote_count": 50,
+      "popularity": 16.9038,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-28",
+      "digital_release_date": "2026-08-01",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.248270+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "71583b0f5172ebbc",
+          "movie_id": "tt36948232",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-01",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Сыграть в ящик",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Джек планирует инсценировать собственную смерть, чтобы получить страховую выплату в 30 миллионов долларов. Его жена Нора соглашается помочь провернуть аферу, но у неё оказывается собственный план — не просто заставить мужа исчезнуть, а действительно убить его и забрать деньги. Когда супруги начинают играть друг против друга, каждый пытается предугадать следующий шаг соперника и использовать окружающих в своих интересах. Постепенно обман выходит из-под контроля, превращая тщательно продуманную аферу в смертельную игру, где доверять нельзя даже самому близкому человеку.",
+            "poster": "https://image.tmdb.org/t/p/w500/a7zKrmDTolqzgCWb5qsMpdOXhpN.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
+            "genres": [
+              "триллер",
+              "криминал"
+            ],
+            "countries": [
+              "United Kingdom"
+            ],
+            "runtime": 116,
+            "popularity": 16.9038,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.79,
+            "tmdb_vote_count": 50,
+            "theatrical_release_date": "2026-08-28",
+            "digital_release_date": "2026-08-01"
+          }
+        }
+      ]
+    }
+  ]
+}

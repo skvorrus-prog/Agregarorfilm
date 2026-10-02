@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-30",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt41376508",
+      "title": "Луи С.К.: Нелепица",
+      "original_title": "Louis C.K.: Ridiculous",
+      "year": 2026,
+      "overview": "Комик говорит о старости, жизни в Нью-Йорке и о том, как сдать отца в дом престарелых.  Рейтинг фильма",
+      "poster": "https://image.tmdb.org/t/p/w500/7HDsSxJ4Vve54cNmpk7Qtmai77n.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ohQTIteoHPNeLd3WRlVXbCBeaN6.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 61,
+      "imdb_id": "tt41376508",
+      "tmdb_id": 1662958,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 38,
+      "popularity": 1.8064,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-06-30",
+      "digital_release_date": "2026-06-30",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:38.801025+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ea3373f5e5d42772",
+          "movie_id": "tt41376508",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-06-30",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Луи С.К.: Нелепица",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Комик говорит о старости, жизни в Нью-Йорке и о том, как сдать отца в дом престарелых.  Рейтинг фильма",
+            "poster": "https://image.tmdb.org/t/p/w500/7HDsSxJ4Vve54cNmpk7Qtmai77n.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/ohQTIteoHPNeLd3WRlVXbCBeaN6.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 61,
+            "popularity": 1.8064,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 38,
+            "theatrical_release_date": "2026-06-30",
+            "digital_release_date": "2026-06-30"
+          }
+        }
+      ]
+    }
+  ]
+}

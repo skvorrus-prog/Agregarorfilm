@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-19",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt32889884",
+      "title": "Freefall: A Reckoning for Boeing",
+      "original_title": "Freefall: A Reckoning for Boeing",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 95,
+      "imdb_id": "tt32889884",
+      "tmdb_id": 1688804,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.0,
+      "tmdb_vote_count": 39,
+      "popularity": 4.8321,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-14",
+      "digital_release_date": "2026-08-19",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.900297+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4ac81a46aa81e919",
+          "movie_id": "tt32889884",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-19",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Freefall: A Reckoning for Boeing",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 95,
+            "popularity": 4.8321,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.0,
+            "tmdb_vote_count": 39,
+            "theatrical_release_date": "2026-08-14",
+            "digital_release_date": "2026-08-19"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-27",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt32377397",
+      "title": "Mockbuster",
+      "original_title": "Mockbuster",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/inH9HxbtPFZcUYcTI4AkCNOOxpx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jPHnzX5YzhkxMM46pmUYUrqzzjT.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "runtime": 90,
+      "imdb_id": "tt32377397",
+      "tmdb_id": 1497325,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.143,
+      "tmdb_vote_count": 7,
+      "popularity": 1.8645,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-10",
+      "digital_release_date": "2026-07-27",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.601035+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "7e3a8e608299ec0d",
+          "movie_id": "tt32377397",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-27",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Mockbuster",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/inH9HxbtPFZcUYcTI4AkCNOOxpx.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/jPHnzX5YzhkxMM46pmUYUrqzzjT.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "Australia"
+            ],
+            "runtime": 90,
+            "popularity": 1.8645,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.143,
+            "tmdb_vote_count": 7,
+            "theatrical_release_date": "2026-07-10",
+            "digital_release_date": "2026-07-27"
+          }
+        }
+      ]
+    }
+  ]
+}

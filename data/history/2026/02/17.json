@@ -1,0 +1,78 @@
+{
+  "date": "2026-02-17",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt36934619",
+      "title": "Как проиграть конкурс популярности",
+      "original_title": "How to Lose a Popularity Contest",
+      "year": 2026,
+      "overview": "В мире, где за каждым шагом следят, а социальный рейтинг решает судьбу, потерять всё иногда становится единственным шансом обрести себя. Он - звезда галактической платформы, привыкший к обожанию и идеальным цифрам. Но один случайный промах, одна неверная цифра в алгоритме - и он стремительно падает в бездну забвения. Лишившись статуса, доступа и привычной защиты, герой вынужден учиться жить заново: выживать в реальности, где никто не аплодирует и не верит на слово. Постепенно он понимает, что истинная ценность не измеряется лайками, а свобода может родиться только на руинах прежней жизни. Вот только чем ближе он к новой правде, тем яснее становится: его падение могло быть не случайностью.",
+      "poster": "https://image.tmdb.org/t/p/w500/9lmyPaz7yTabWW2yiAkw952CvRQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/p6RXoveMLzMGrmfCsRgARNRIYHZ.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "runtime": 103,
+      "imdb_id": "tt36934619",
+      "tmdb_id": 1480025,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.0,
+      "tmdb_vote_count": 12,
+      "popularity": 5.2566,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-01",
+      "digital_release_date": "2026-02-17",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.506466+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "2f28949e6fde4514",
+          "movie_id": "tt36934619",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-02-17",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Как проиграть конкурс популярности",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В мире, где за каждым шагом следят, а социальный рейтинг решает судьбу, потерять всё иногда становится единственным шансом обрести себя. Он - звезда галактической платформы, привыкший к обожанию и идеальным цифрам. Но один случайный промах, одна неверная цифра в алгоритме - и он стремительно падает в бездну забвения. Лишившись статуса, доступа и привычной защиты, герой вынужден учиться жить заново: выживать в реальности, где никто не аплодирует и не верит на слово. Постепенно он понимает, что истинная ценность не измеряется лайками, а свобода может родиться только на руинах прежней жизни. Вот только чем ближе он к новой правде, тем яснее становится: его падение могло быть не случайностью.",
+            "poster": "https://image.tmdb.org/t/p/w500/9lmyPaz7yTabWW2yiAkw952CvRQ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/p6RXoveMLzMGrmfCsRgARNRIYHZ.jpg",
+            "genres": [
+              "мелодрама",
+              "комедия"
+            ],
+            "countries": [
+              "Canada"
+            ],
+            "runtime": 103,
+            "popularity": 5.2566,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.0,
+            "tmdb_vote_count": 12,
+            "theatrical_release_date": "2026-08-01",
+            "digital_release_date": "2026-02-17"
+          }
+        }
+      ]
+    }
+  ]
+}

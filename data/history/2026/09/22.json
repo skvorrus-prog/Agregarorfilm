@@ -1,0 +1,376 @@
+{
+  "date": "2026-09-22",
+  "count": 5,
+  "movies": [
+    {
+      "id": "tt36893729",
+      "title": "Мороженщик",
+      "original_title": "Ice Cream Man",
+      "year": 2026,
+      "overview": "Обычный летний городок погружается в безумие, когда продавец мороженого угощает детей сладкими лакомствами, что приводит к ужасающим последствиям.",
+      "poster": "https://image.tmdb.org/t/p/w500/43DuDvgZO1e34sylK8SRtMJ3tWw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
+      "genres": [
+        "комедия",
+        "ужасы",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America",
+        "United Kingdom",
+        "France",
+        "Japan"
+      ],
+      "runtime": 86,
+      "imdb_id": "tt36893729",
+      "tmdb_id": 1477712,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.856,
+      "tmdb_vote_count": 104,
+      "popularity": 123.5874,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-03",
+      "digital_release_date": "2026-09-22",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.380617+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b901c751480b198d",
+          "movie_id": "tt36893729",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-22",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Мороженщик",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Обычный летний городок погружается в безумие, когда продавец мороженого угощает детей сладкими лакомствами, что приводит к ужасающим последствиям.",
+            "poster": "https://image.tmdb.org/t/p/w500/43DuDvgZO1e34sylK8SRtMJ3tWw.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
+            "genres": [
+              "комедия",
+              "ужасы",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America",
+              "United Kingdom",
+              "France",
+              "Japan"
+            ],
+            "runtime": 86,
+            "popularity": 123.5874,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.856,
+            "tmdb_vote_count": 104,
+            "theatrical_release_date": "2026-08-03",
+            "digital_release_date": "2026-09-22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt8820258",
+      "title": "Суперполицейские 3",
+      "original_title": "Super Troopers 3",
+      "year": 2026,
+      "overview": "Когда чрезмерно экстравагантная индийская помолвка Фарвы с сестрой Торни перерастает в хаос, Суперполицейским приходится противостоять планам Торни по разрушению отношений, одновременно пытаясь разоблачить новый опасный наркокартель.",
+      "poster": "https://image.tmdb.org/t/p/w500/a5Rt5BMtGTFStdhxWutdjrHEgnU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "детектив"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 104,
+      "imdb_id": "tt8820258",
+      "tmdb_id": 675871,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.639,
+      "tmdb_vote_count": 36,
+      "popularity": 31.2182,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-06",
+      "digital_release_date": "2026-09-22",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.242263+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "3b86f4db3db6c564",
+          "movie_id": "tt8820258",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-22",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Суперполицейские 3",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Когда чрезмерно экстравагантная индийская помолвка Фарвы с сестрой Торни перерастает в хаос, Суперполицейским приходится противостоять планам Торни по разрушению отношений, одновременно пытаясь разоблачить новый опасный наркокартель.",
+            "poster": "https://image.tmdb.org/t/p/w500/a5Rt5BMtGTFStdhxWutdjrHEgnU.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
+            "genres": [
+              "комедия",
+              "криминал",
+              "детектив"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 104,
+            "popularity": 31.2182,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.639,
+            "tmdb_vote_count": 36,
+            "theatrical_release_date": "2026-08-06",
+            "digital_release_date": "2026-09-22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt33305867",
+      "title": "Спа-уикенд",
+      "original_title": "Spa Weekend",
+      "year": 2026,
+      "overview": "3 подруги решают провести выходные на спа-курорте, но отдых превращается в хаос, когда к ним внезапно присоединяется их приятельница-катастрофа.",
+      "poster": "https://image.tmdb.org/t/p/w500/pGyuM0qntTdW5g9bRwqH4h7gkms.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 97,
+      "imdb_id": "tt33305867",
+      "tmdb_id": 1341138,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.411,
+      "tmdb_vote_count": 56,
+      "popularity": 41.2944,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-20",
+      "digital_release_date": "2026-09-22",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.734756+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "414887d0021972e1",
+          "movie_id": "tt33305867",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-22",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Спа-уикенд",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "3 подруги решают провести выходные на спа-курорте, но отдых превращается в хаос, когда к ним внезапно присоединяется их приятельница-катастрофа.",
+            "poster": "https://image.tmdb.org/t/p/w500/pGyuM0qntTdW5g9bRwqH4h7gkms.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 97,
+            "popularity": 41.2944,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.411,
+            "tmdb_vote_count": 56,
+            "theatrical_release_date": "2026-08-20",
+            "digital_release_date": "2026-09-22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt12446086",
+      "title": "Legend of the White Dragon",
+      "original_title": "Legend of the White Dragon",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/tnIOv603JpFB0b0MkWQSBfJFNlY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+      "genres": [
+        "боевик",
+        "фэнтези"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 97,
+      "imdb_id": "tt12446086",
+      "tmdb_id": 843352,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.722,
+      "tmdb_vote_count": 18,
+      "popularity": 32.9844,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-28",
+      "digital_release_date": "2026-09-22",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.299269+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "fd66aeb69eb17804",
+          "movie_id": "tt12446086",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-22",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Legend of the White Dragon",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/tnIOv603JpFB0b0MkWQSBfJFNlY.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+            "genres": [
+              "боевик",
+              "фэнтези"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 97,
+            "popularity": 32.9844,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.722,
+            "tmdb_vote_count": 18,
+            "theatrical_release_date": "2026-08-28",
+            "digital_release_date": "2026-09-22"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37971717",
+      "title": "Один последний выстрел",
+      "original_title": "One Last Shot",
+      "year": 2026,
+      "overview": "Боец Navy SEALs Джейк Харрис должен помешать команде наёмников, возглавляемой его утратившим веру в страну бывшим товарищем, вывести из строя систему противоракетной обороны США.",
+      "poster": "https://image.tmdb.org/t/p/w500/pvZ1RcajNBWFlCj0pWHrRqyMJU8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "runtime": 98,
+      "imdb_id": "tt37971717",
+      "tmdb_id": 1607127,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.396,
+      "tmdb_vote_count": 82,
+      "popularity": 114.9352,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-22",
+      "digital_release_date": "2026-09-22",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:18.150392+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "7713bbb7403f1204",
+          "movie_id": "tt37971717",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-22",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Один последний выстрел",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Боец Navy SEALs Джейк Харрис должен помешать команде наёмников, возглавляемой его утратившим веру в страну бывшим товарищем, вывести из строя систему противоракетной обороны США.",
+            "poster": "https://image.tmdb.org/t/p/w500/pvZ1RcajNBWFlCj0pWHrRqyMJU8.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+            "genres": [
+              "боевик",
+              "триллер"
+            ],
+            "countries": [
+              "United Kingdom",
+              "United States of America"
+            ],
+            "runtime": 98,
+            "popularity": 114.9352,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.396,
+            "tmdb_vote_count": 82,
+            "theatrical_release_date": "2026-09-22",
+            "digital_release_date": "2026-09-22"
+          }
+        }
+      ]
+    }
+  ]
+}

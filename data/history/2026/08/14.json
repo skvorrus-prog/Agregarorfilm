@@ -1,0 +1,450 @@
+{
+  "date": "2026-08-14",
+  "count": 6,
+  "movies": [
+    {
+      "id": "tt39300072",
+      "title": "அன்பே டயானா",
+      "original_title": "அன்பே டயானா",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l4xqxKS7nlOni6bnTHWi3USyp4o.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 150,
+      "imdb_id": "tt39300072",
+      "tmdb_id": 1607634,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.1,
+      "tmdb_vote_count": 5,
+      "popularity": 2.3077,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-17",
+      "digital_release_date": "2026-08-14",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.119957+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "123471ec33e5e8b5",
+          "movie_id": "tt39300072",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-14",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "அன்பே டயானா",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/201CEvG6ayNj71iSLxxEk7pUv0N.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/l4xqxKS7nlOni6bnTHWi3USyp4o.jpg",
+            "genres": [
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 150,
+            "popularity": 2.3077,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.1,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-07-17",
+            "digital_release_date": "2026-08-14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt30505578",
+      "title": "Корни: Сага о вампирах",
+      "original_title": "Feed",
+      "year": 2026,
+      "overview": "Пять блогеров решают провести выходные вдали от цивилизации, в глубине леса. Но беззаботный отдых оборачивается кошмаром: их вторжение пробуждает первого в мире вампира. С этого момента начинается борьба за выживание.",
+      "poster": "https://image.tmdb.org/t/p/w500/6cMncNaBZK53DjEJqdX1Pow0fVY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
+      "genres": [
+        "ужасы"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Ireland",
+        "Belgium"
+      ],
+      "runtime": 82,
+      "imdb_id": "tt30505578",
+      "tmdb_id": 1128204,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.6,
+      "tmdb_vote_count": 7,
+      "popularity": 4.0406,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-06",
+      "digital_release_date": "2026-08-14",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.210827+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b28a22b74d1ac4aa",
+          "movie_id": "tt30505578",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-14",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Корни: Сага о вампирах",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Пять блогеров решают провести выходные вдали от цивилизации, в глубине леса. Но беззаботный отдых оборачивается кошмаром: их вторжение пробуждает первого в мире вампира. С этого момента начинается борьба за выживание.",
+            "poster": "https://image.tmdb.org/t/p/w500/6cMncNaBZK53DjEJqdX1Pow0fVY.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/4ZeaWA6DzFVOjWTi70b9ZAaQktf.jpg",
+            "genres": [
+              "ужасы"
+            ],
+            "countries": [
+              "United Kingdom",
+              "Ireland",
+              "Belgium"
+            ],
+            "runtime": 82,
+            "popularity": 4.0406,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.6,
+            "tmdb_vote_count": 7,
+            "theatrical_release_date": "2026-08-06",
+            "digital_release_date": "2026-08-14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt6743524",
+      "title": "Кэмп Рок 3",
+      "original_title": "Camp Rock 3",
+      "year": 2026,
+      "overview": "Действие разворачивается примерно через 15 лет после событий второй части. Группа Connect 3 (Шейн, Нейт и Джейсон) готовится к большому туру, но внезапно остаётся без артиста на разогреве. Музыканты возвращаются в лагерь Camp Rock, чтобы найти нового исполнителяТехданныеРелизСкриншотыКачество: WEB-DL (1080p)",
+      "poster": "https://image.tmdb.org/t/p/w500/gtOZxylm1iZdLiTvSQfbUMCRHEt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
+      "genres": [
+        "музыка",
+        "комедия",
+        "драма",
+        "телевизионный фильм"
+      ],
+      "countries": [
+        "United States of America",
+        "Canada"
+      ],
+      "runtime": 93,
+      "imdb_id": "tt6743524",
+      "tmdb_id": 1493400,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.477,
+      "tmdb_vote_count": 130,
+      "popularity": 10.5624,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-13",
+      "digital_release_date": "2026-08-14",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.122125+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "79bfadba38df7d31",
+          "movie_id": "tt6743524",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-14",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Кэмп Рок 3",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Действие разворачивается примерно через 15 лет после событий второй части. Группа Connect 3 (Шейн, Нейт и Джейсон) готовится к большому туру, но внезапно остаётся без артиста на разогреве. Музыканты возвращаются в лагерь Camp Rock, чтобы найти нового исполнителяТехданныеРелизСкриншотыКачество: WEB-DL (1080p)",
+            "poster": "https://image.tmdb.org/t/p/w500/gtOZxylm1iZdLiTvSQfbUMCRHEt.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
+            "genres": [
+              "музыка",
+              "комедия",
+              "драма",
+              "телевизионный фильм"
+            ],
+            "countries": [
+              "United States of America",
+              "Canada"
+            ],
+            "runtime": 93,
+            "popularity": 10.5624,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.477,
+            "tmdb_vote_count": 130,
+            "theatrical_release_date": "2026-08-13",
+            "digital_release_date": "2026-08-14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt36590417",
+      "title": "Не желай удачи",
+      "original_title": "Don't Say Good Luck",
+      "year": 2026,
+      "overview": "Софи Биренбаум готовится исполнить главную роль в школьном мюзикле. Внезапно девушка обнаруживает, что у нее дома происходят не менее драматические события, чем на сцене.",
+      "poster": "https://image.tmdb.org/t/p/w500/vydMBwJfkpfbVbD9muq906tJ7Hw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+      "genres": [
+        "комедия",
+        "музыка",
+        "драма"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 96,
+      "imdb_id": "tt36590417",
+      "tmdb_id": 1504358,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.3,
+      "tmdb_vote_count": 127,
+      "popularity": 8.4583,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-13",
+      "digital_release_date": "2026-08-14",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.094406+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "15a157ac39c8a9b9",
+          "movie_id": "tt36590417",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-14",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Не желай удачи",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Софи Биренбаум готовится исполнить главную роль в школьном мюзикле. Внезапно девушка обнаруживает, что у нее дома происходят не менее драматические события, чем на сцене.",
+            "poster": "https://image.tmdb.org/t/p/w500/vydMBwJfkpfbVbD9muq906tJ7Hw.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+            "genres": [
+              "комедия",
+              "музыка",
+              "драма"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 96,
+            "popularity": 8.4583,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.3,
+            "tmdb_vote_count": 127,
+            "theatrical_release_date": "2026-08-13",
+            "digital_release_date": "2026-08-14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt18316986",
+      "title": "Убойное свидание",
+      "original_title": "All Night Wrong",
+      "year": 2026,
+      "overview": "Свидание вслепую трусливого неудачника Гэри и девушки с разбитым сердцем Элл оборачивается хаосом, когда они случайно угоняют машину киллера — вместе с 40 000 долларов наличными и трупом в багажнике. Понимая, что подозрения сразу падут на них, Гэри и Элл решаются избавиться от тела и замести следы. Но, узнав о предсмертном желании покойника, парочка берется раскрыть тайну его гибели и передать последнее послание любви всей его жизни.",
+      "poster": "https://image.tmdb.org/t/p/w500/uwoTTTDXSTXzEpSlIVARkBql6cp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qmAcOMXT6oyzHntXvPM5jVUYX2n.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "триллер"
+      ],
+      "countries": [
+        "Canada",
+        "United Kingdom"
+      ],
+      "runtime": 91,
+      "imdb_id": "tt18316986",
+      "tmdb_id": 1361969,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.7,
+      "tmdb_vote_count": 14,
+      "popularity": 2.3608,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-14",
+      "digital_release_date": "2026-08-14",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:25.001588+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "d44c70d85fa2c31a",
+          "movie_id": "tt18316986",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-14",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Убойное свидание",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Свидание вслепую трусливого неудачника Гэри и девушки с разбитым сердцем Элл оборачивается хаосом, когда они случайно угоняют машину киллера — вместе с 40 000 долларов наличными и трупом в багажнике. Понимая, что подозрения сразу падут на них, Гэри и Элл решаются избавиться от тела и замести следы. Но, узнав о предсмертном желании покойника, парочка берется раскрыть тайну его гибели и передать последнее послание любви всей его жизни.",
+            "poster": "https://image.tmdb.org/t/p/w500/uwoTTTDXSTXzEpSlIVARkBql6cp.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/qmAcOMXT6oyzHntXvPM5jVUYX2n.jpg",
+            "genres": [
+              "комедия",
+              "криминал",
+              "триллер"
+            ],
+            "countries": [
+              "Canada",
+              "United Kingdom"
+            ],
+            "runtime": 91,
+            "popularity": 2.3608,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.7,
+            "tmdb_vote_count": 14,
+            "theatrical_release_date": "2026-08-14",
+            "digital_release_date": "2026-08-14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt38662472",
+      "title": "Мой лучший друг, его девушка и я",
+      "original_title": "Mein bester Freund, seine Freundin und ich",
+      "year": 2026,
+      "overview": "Лучшие друзья Олли и Матце живут, работают и собираются путешествовать по миру вместе. Однако всё меняется, когда Матце начинает романтические отношения с Ребеккой. Олли считает, что Матце подвергся «промыванию мозгов» со стороны Ребекки, что ставит под угрозу их запланированное кругосветное путешествие и многолетнюю дружбу, поэтому он пытается всячески вытеснить её из их жизни.",
+      "poster": "https://image.tmdb.org/t/p/w500/8T6VtOIDNA09Ochdql05bBsMHc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "runtime": 98,
+      "imdb_id": "tt38662472",
+      "tmdb_id": 1589248,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.2,
+      "tmdb_vote_count": 42,
+      "popularity": 6.8312,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-14",
+      "digital_release_date": "2026-08-14",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.941445+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "c9a3a9c7bd2169a4",
+          "movie_id": "tt38662472",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-14",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Мой лучший друг, его девушка и я",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Лучшие друзья Олли и Матце живут, работают и собираются путешествовать по миру вместе. Однако всё меняется, когда Матце начинает романтические отношения с Ребеккой. Олли считает, что Матце подвергся «промыванию мозгов» со стороны Ребекки, что ставит под угрозу их запланированное кругосветное путешествие и многолетнюю дружбу, поэтому он пытается всячески вытеснить её из их жизни.",
+            "poster": "https://image.tmdb.org/t/p/w500/8T6VtOIDNA09Ochdql05bBsMHc.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "Germany"
+            ],
+            "runtime": 98,
+            "popularity": 6.8312,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.2,
+            "tmdb_vote_count": 42,
+            "theatrical_release_date": "2026-08-14",
+            "digital_release_date": "2026-08-14"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -9,7 +9,7 @@
       "year": 2026,
       "overview": "После многих лет неисправных продуктов Wile E. Coyote объединяется с местным адвокатом по травмам, чтобы сразиться с ACME, производителем всего, что используется персонажами Looney Tunes.",
       "poster": "https://images.metahub.space/poster/small/tt1756855/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7GOW6jod9lLurW5utokAatxg7ql.jpg",
       "genres": [
         "Animation",
         "Adventure",
@@ -18,19 +18,19 @@
       "countries": [
         "United States"
       ],
-      "runtime": null,
+      "runtime": 103,
       "imdb_id": "tt1756855",
-      "tmdb_id": null,
+      "tmdb_id": 1204680,
       "imdb_rating": 7.6,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 7.556,
+      "tmdb_vote_count": 601,
+      "popularity": 304.7214,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-01-01",
       "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
-      "last_updated_at": "2026-09-30T12:14:20.300918+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.862585+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -211,6 +211,42 @@
             "language": "RU",
             "release_group": "HDRezka Studio",
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "7f041c18a3977a12",
+          "movie_id": "tt1756855",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-05",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Хитрый Койот",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "После очередной неудачной попытки поймать Дорожного Бегуна, Хитрый Койот окончательно решает разобраться с компанией АКМЕ, чьи товары на протяжении многих лет оборачиваются против него. Он отправляется в Альбукерке и обращается к неудачливому адвокату Кевину Эйвери, который специализируется на небольших делах и предпочитает быстрое урегулирование судебным разбирательствам. Но Койот не собирается соглашаться на очередную подачку. Вместе с Кевином, он решает доказать, что многочисленные травмы и разрушения стали результатом неисправной продукции АКМЕ. Их противником становится влиятельный адвокат Бадди Крейн, представляющий интересы могущественной корпорации. Теперь Койоту предстоит впервые бороться не с очередной ловушкой, а с целой системой, которая привыкла оставаться безнаказанной.",
+            "poster": "https://image.tmdb.org/t/p/w500/gwCwmTk2EfDccd4RtIPsWEwzd1r.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+            "genres": [
+              "комедия",
+              "приключения",
+              "семейный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 103,
+            "popularity": 304.7214,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.556,
+            "tmdb_vote_count": 601,
+            "theatrical_release_date": "2026-08-17",
+            "digital_release_date": "2026-10-05"
           }
         }
       ]

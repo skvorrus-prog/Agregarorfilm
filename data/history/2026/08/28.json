@@ -1,0 +1,393 @@
+{
+  "date": "2026-08-28",
+  "count": 5,
+  "movies": [
+    {
+      "id": "tt28363783",
+      "title": "Альфа",
+      "original_title": "अल्फा",
+      "year": 2026,
+      "overview": "Когда Сита, высококвалифицированная убийца, воспитанная в изоляции как суперсолдат командиром-изгоем, узнает темную правду о своей семье и украденном детстве, она объединяется со своей давно потерянной сестрой, чтобы уничтожить своего создателя и его незаконную военную программу.",
+      "poster": "https://image.tmdb.org/t/p/w500/icc9FNUr4jSv80QpoxGLQhxGu0q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 141,
+      "imdb_id": "tt28363783",
+      "tmdb_id": 1122030,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.083,
+      "tmdb_vote_count": 30,
+      "popularity": 9.7586,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-02",
+      "digital_release_date": "2026-08-28",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:38.703751+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "61e7197a9c1a2f14",
+          "movie_id": "tt28363783",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-28",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Альфа",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Когда Сита, высококвалифицированная убийца, воспитанная в изоляции как суперсолдат командиром-изгоем, узнает темную правду о своей семье и украденном детстве, она объединяется со своей давно потерянной сестрой, чтобы уничтожить своего создателя и его незаконную военную программу.",
+            "poster": "https://image.tmdb.org/t/p/w500/icc9FNUr4jSv80QpoxGLQhxGu0q.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+            "genres": [
+              "боевик",
+              "триллер"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 141,
+            "popularity": 9.7586,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.083,
+            "tmdb_vote_count": 30,
+            "theatrical_release_date": "2026-07-02",
+            "digital_release_date": "2026-08-28"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt35670732",
+      "title": "Пенни Лейн мертва",
+      "original_title": "Penny Lane Is Dead",
+      "year": 2026,
+      "overview": "Жаркое лето 1986 года. Пенни Лейн и её лучшие подруги — Тони и Кэт — празднуют выпуск из школы и предстоящее поступление в колледж в пляжном доме семьи Лейн. В результате неудачного розыгрыша и появления незваных гостей девичья вечеринка превращается в бойню.",
+      "poster": "https://image.tmdb.org/t/p/w500/vGZQCEnZpf0dLDW0Ok39uYl1aKG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8oBOvMTnzsKlalLzOq02qlASGe8.jpg",
+      "genres": [
+        "комедия",
+        "ужасы",
+        "триллер"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "runtime": 91,
+      "imdb_id": "tt35670732",
+      "tmdb_id": 1428766,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.5,
+      "tmdb_vote_count": 17,
+      "popularity": 2.1304,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-23",
+      "digital_release_date": "2026-08-28",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:33.380476+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "966b7a8a435fef75",
+          "movie_id": "tt35670732",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-28",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Пенни Лейн мертва",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Жаркое лето 1986 года. Пенни Лейн и её лучшие подруги — Тони и Кэт — празднуют выпуск из школы и предстоящее поступление в колледж в пляжном доме семьи Лейн. В результате неудачного розыгрыша и появления незваных гостей девичья вечеринка превращается в бойню.",
+            "poster": "https://image.tmdb.org/t/p/w500/vGZQCEnZpf0dLDW0Ok39uYl1aKG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8oBOvMTnzsKlalLzOq02qlASGe8.jpg",
+            "genres": [
+              "комедия",
+              "ужасы",
+              "триллер"
+            ],
+            "countries": [
+              "Australia"
+            ],
+            "runtime": 91,
+            "popularity": 2.1304,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.5,
+            "tmdb_vote_count": 17,
+            "theatrical_release_date": "2026-07-23",
+            "digital_release_date": "2026-08-28"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43706402",
+      "title": "Барреда",
+      "original_title": "Barreda",
+      "year": 2026,
+      "overview": "Рикардо Барреда - внешне ничем не примечательный аргентинский стоматолог, который в 1992 году убил свою жену, тёщу и двух взрослых дочерей. После совершённого преступления Барреда заявил, что действовал в порядке самообороны, а во время судебного процесса его адвокат попытался представить обвиняемого жертвой обстоятельств. История быстро вышла за рамки судебного разбирательства и превратилась в громкий общественный скандал, вызвавший огромный интерес средств массовой информации. На фоне суда и последовавшей за ним медийной шумихи фильм обращается к прошлому семьи Барреда, пытаясь разобраться в том, что происходило за стенами их дома и как убийца смог превратиться в своеобразного народного героя, тогда как судьбы четырёх погибших женщин оказались отодвинуты на второй план. Основано на реальных событиях.",
+      "poster": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
+      "genres": [
+        "драма",
+        "криминал",
+        "история"
+      ],
+      "countries": [
+        "Argentina"
+      ],
+      "runtime": 105,
+      "imdb_id": "tt43706402",
+      "tmdb_id": 1471168,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.253,
+      "tmdb_vote_count": 85,
+      "popularity": 12.7925,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-28",
+      "digital_release_date": "2026-08-28",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.268103+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4662878c9a7863f4",
+          "movie_id": "tt43706402",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-28",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Барреда",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Рикардо Барреда - внешне ничем не примечательный аргентинский стоматолог, который в 1992 году убил свою жену, тёщу и двух взрослых дочерей. После совершённого преступления Барреда заявил, что действовал в порядке самообороны, а во время судебного процесса его адвокат попытался представить обвиняемого жертвой обстоятельств. История быстро вышла за рамки судебного разбирательства и превратилась в громкий общественный скандал, вызвавший огромный интерес средств массовой информации. На фоне суда и последовавшей за ним медийной шумихи фильм обращается к прошлому семьи Барреда, пытаясь разобраться в том, что происходило за стенами их дома и как убийца смог превратиться в своеобразного народного героя, тогда как судьбы четырёх погибших женщин оказались отодвинуты на второй план. Основано на реальных событиях.",
+            "poster": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
+            "genres": [
+              "драма",
+              "криминал",
+              "история"
+            ],
+            "countries": [
+              "Argentina"
+            ],
+            "runtime": 105,
+            "popularity": 12.7925,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.253,
+            "tmdb_vote_count": 85,
+            "theatrical_release_date": "2026-08-28",
+            "digital_release_date": "2026-08-28"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt44147164",
+      "title": "Öngörü",
+      "original_title": "Öngörü",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/8JDJWhPU2rfTal8xkESkxnZb5q0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1lN0J2L4j0U2gtwZtfjET5tYbtc.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ],
+      "countries": [
+        "Turkey"
+      ],
+      "runtime": 96,
+      "imdb_id": "tt44147164",
+      "tmdb_id": 1550338,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.844,
+      "tmdb_vote_count": 16,
+      "popularity": 10.5457,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-28",
+      "digital_release_date": "2026-08-28",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.223102+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "194450da1824ee02",
+          "movie_id": "tt44147164",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-28",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Öngörü",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/8JDJWhPU2rfTal8xkESkxnZb5q0.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/1lN0J2L4j0U2gtwZtfjET5tYbtc.jpg",
+            "genres": [
+              "драма",
+              "мелодрама"
+            ],
+            "countries": [
+              "Turkey"
+            ],
+            "runtime": 96,
+            "popularity": 10.5457,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.844,
+            "tmdb_vote_count": 16,
+            "theatrical_release_date": "2026-08-28",
+            "digital_release_date": "2026-08-28"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_f7bbdf8c0c71",
+      "title": "Остров пауков",
+      "original_title": "Spider Island",
+      "year": 2026,
+      "overview": "Кучка молодых мужчин и женщин просто хотят повеселиться на солнце. Что может пойти не так?",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjFmZjE5ZDAtOTYxYi00M2U2LWI2YWEtZjM5NTQyMDA2ZjNmXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5JfVDRXXWw9iF1UERjd4QTdlCow.jpg",
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": null,
+      "imdb_id": "tt22406048",
+      "tmdb_id": 1462861,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.8,
+      "tmdb_vote_count": 27,
+      "popularity": 11.4266,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-08-28",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.300782+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "3fc969bba661743b",
+          "movie_id": "m_f7bbdf8c0c71",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-28",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Spider Island",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/gdCRJ1kwZu2WSCRhgnjfLz28or8.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/5JfVDRXXWw9iF1UERjd4QTdlCow.jpg",
+            "genres": [
+              "комедия",
+              "ужасы"
+            ],
+            "countries": [
+              "United Kingdom"
+            ],
+            "runtime": 0,
+            "popularity": 11.4266,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.8,
+            "tmdb_vote_count": 27,
+            "theatrical_release_date": "2026-08-27",
+            "digital_release_date": "2026-08-28"
+          }
+        },
+        {
+          "id": "0bce93a3eb502cef",
+          "movie_id": "m_f7bbdf8c0c71",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-28T09:33:20+00:00",
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Остров пауков / Spider Island (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}

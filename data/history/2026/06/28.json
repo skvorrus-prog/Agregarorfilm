@@ -1,0 +1,68 @@
+{
+  "date": "2026-06-28",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt41859611",
+      "title": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026",
+      "original_title": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/wpLMH4rzHzeal7aWxyn9DM2k6mj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ex19p6cqhOkTJOU9Rk5LNCGuvnK.jpg",
+      "genres": [],
+      "countries": [],
+      "runtime": 294,
+      "imdb_id": "tt41859611",
+      "tmdb_id": 1673179,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 9.0,
+      "tmdb_vote_count": 19,
+      "popularity": 1.9673,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-06-28",
+      "digital_release_date": "2026-06-28",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:38.935079+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "3fcf01c19ce6d996",
+          "movie_id": "tt41859611",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-06-28",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "AEW x NJPW x CMLL x Stardom Present Forbidden Door 2026",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/wpLMH4rzHzeal7aWxyn9DM2k6mj.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/ex19p6cqhOkTJOU9Rk5LNCGuvnK.jpg",
+            "genres": [],
+            "countries": [],
+            "runtime": 294,
+            "popularity": 1.9673,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 9.0,
+            "tmdb_vote_count": 19,
+            "theatrical_release_date": "2026-06-28",
+            "digital_release_date": "2026-06-28"
+          }
+        }
+      ]
+    }
+  ]
+}

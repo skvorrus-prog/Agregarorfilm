@@ -1,0 +1,152 @@
+{
+  "date": "2026-07-11",
+  "count": 2,
+  "movies": [
+    {
+      "id": "tt41295042",
+      "title": "ONE PIECE HEROINES",
+      "original_title": "ONE PIECE HEROINES",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "боевик"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "runtime": 24,
+      "imdb_id": "tt41295042",
+      "tmdb_id": 1659389,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.5,
+      "tmdb_vote_count": 26,
+      "popularity": 7.112,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-05",
+      "digital_release_date": "2026-07-11",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.288161+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6d84717bc1fc6296",
+          "movie_id": "tt41295042",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-11",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "ONE PIECE HEROINES",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
+            "genres": [
+              "мультфильм",
+              "комедия",
+              "боевик"
+            ],
+            "countries": [
+              "Japan"
+            ],
+            "runtime": 24,
+            "popularity": 7.112,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.5,
+            "tmdb_vote_count": 26,
+            "theatrical_release_date": "2026-07-05",
+            "digital_release_date": "2026-07-11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt39632269",
+      "title": "Ikka",
+      "original_title": "Ikka",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+      "genres": [
+        "драма",
+        "триллер"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 141,
+      "imdb_id": "tt39632269",
+      "tmdb_id": 1484913,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.7,
+      "tmdb_vote_count": 21,
+      "popularity": 4.0683,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-10",
+      "digital_release_date": "2026-07-11",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:34.630724+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "838529dffaa11f8f",
+          "movie_id": "tt39632269",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-11",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Ikka",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+            "genres": [
+              "драма",
+              "триллер"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 141,
+            "popularity": 4.0683,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.7,
+            "tmdb_vote_count": 21,
+            "theatrical_release_date": "2026-07-10",
+            "digital_release_date": "2026-07-11"
+          }
+        }
+      ]
+    }
+  ]
+}

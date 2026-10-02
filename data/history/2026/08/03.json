@@ -1,0 +1,257 @@
+{
+  "date": "2026-08-03",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt36415524",
+      "title": "Сорвать банк 3: Вор-джентльмен",
+      "original_title": "The Gentleman Thief",
+      "year": 2026,
+      "overview": "Мейсон Годдард давно пытается оставить прошлое позади, но не может устоять перед возможностью провернуть последнее, по-настоящему крупное дело. Его цель — картина стоимостью 100 миллионов долларов, выставленная на аукционе на борту роскошной яхты безжалостного коллекционера. Однако тщательно спланированное ограбление оказывается смертельной ловушкой: старый враг Мейсона готов на все ради мести. Когда план выходит из-под контроля, Мейсону предстоит использовать все свои навыки, чтобы перехитрить врага, спасти своих людей и провернуть самое дерзкое ограбление в своей карьере.",
+      "poster": "https://image.tmdb.org/t/p/w500/1M2whfncfFFkGUDFl3gg9thwl0d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aayQcCebqLmkTZdILp9JVcFiIRL.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 97,
+      "imdb_id": "tt36415524",
+      "tmdb_id": 1458215,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.6,
+      "tmdb_vote_count": 23,
+      "popularity": 7.7359,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-31",
+      "digital_release_date": "2026-08-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.575160+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "0acbb2c8fd39e91b",
+          "movie_id": "tt36415524",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Сорвать банк 3: Вор-джентльмен",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Мейсон Годдард давно пытается оставить прошлое позади, но не может устоять перед возможностью провернуть последнее, по-настоящему крупное дело. Его цель — картина стоимостью 100 миллионов долларов, выставленная на аукционе на борту роскошной яхты безжалостного коллекционера. Однако тщательно спланированное ограбление оказывается смертельной ловушкой: старый враг Мейсона готов на все ради мести. Когда план выходит из-под контроля, Мейсону предстоит использовать все свои навыки, чтобы перехитрить врага, спасти своих людей и провернуть самое дерзкое ограбление в своей карьере.",
+            "poster": "https://image.tmdb.org/t/p/w500/1M2whfncfFFkGUDFl3gg9thwl0d.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/aayQcCebqLmkTZdILp9JVcFiIRL.jpg",
+            "genres": [
+              "боевик",
+              "криминал",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 97,
+            "popularity": 7.7359,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.6,
+            "tmdb_vote_count": 23,
+            "theatrical_release_date": "2026-07-31",
+            "digital_release_date": "2026-08-03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43732886",
+      "title": "WWE SummerSlam 2026: Sunday",
+      "original_title": "WWE SummerSlam 2026: Sunday",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yvNrzX1j3mhkIs3BTu2IJqOlBkm.jpg",
+      "genres": [
+        "боевик",
+        "драма",
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 173,
+      "imdb_id": "tt43732886",
+      "tmdb_id": 1741545,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.3,
+      "tmdb_vote_count": 11,
+      "popularity": 5.0546,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-02",
+      "digital_release_date": "2026-08-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.461634+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "43bbe80872f0acdf",
+          "movie_id": "tt43732886",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-02",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "WWE SummerSlam 2026: Saturday",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/adzFKQwbd0Cy6YIOxPwMIbiY2Hh.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/yvNrzX1j3mhkIs3BTu2IJqOlBkm.jpg",
+            "genres": [
+              "боевик",
+              "драма"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 173,
+            "popularity": 5.0546,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.3,
+            "tmdb_vote_count": 11,
+            "theatrical_release_date": "2026-08-01",
+            "digital_release_date": "2026-08-02"
+          }
+        },
+        {
+          "id": "50603486dacaff23",
+          "movie_id": "tt43732886",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "WWE SummerSlam 2026: Sunday",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/yvNrzX1j3mhkIs3BTu2IJqOlBkm.jpg",
+            "genres": [
+              "боевик",
+              "драма",
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 173,
+            "popularity": 3.494,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.8,
+            "tmdb_vote_count": 10,
+            "theatrical_release_date": "2026-08-02",
+            "digital_release_date": "2026-08-03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43729889",
+      "title": "Буря на улице Сезам",
+      "original_title": "Storm on Sesame Street",
+      "year": 2026,
+      "overview": "После урагана, обрушившегося на улицу Сезам, у Большой Птицы больше нет гнезда. Но его друзья объединяются, чтобы подбодрить его и помочь восстановить его дом.",
+      "poster": "https://image.tmdb.org/t/p/w500/6xwZRT9kZ9CSCVxq3Bhmt8Wu87I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg",
+      "genres": [
+        "семейный",
+        "мультфильм"
+      ],
+      "countries": [],
+      "runtime": 30,
+      "imdb_id": "tt43729889",
+      "tmdb_id": 1740877,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.8,
+      "tmdb_vote_count": 9,
+      "popularity": 9.7373,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-03",
+      "digital_release_date": "2026-08-03",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:27.352067+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "8eb9fba95fea73ac",
+          "movie_id": "tt43729889",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-03",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Буря на улице Сезам",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "После урагана, обрушившегося на улицу Сезам, у Большой Птицы больше нет гнезда. Но его друзья объединяются, чтобы подбодрить его и помочь восстановить его дом.",
+            "poster": "https://image.tmdb.org/t/p/w500/6xwZRT9kZ9CSCVxq3Bhmt8Wu87I.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg",
+            "genres": [
+              "семейный",
+              "мультфильм"
+            ],
+            "countries": [],
+            "runtime": 30,
+            "popularity": 9.7373,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.8,
+            "tmdb_vote_count": 9,
+            "theatrical_release_date": "2026-08-03",
+            "digital_release_date": "2026-08-03"
+          }
+        }
+      ]
+    }
+  ]
+}

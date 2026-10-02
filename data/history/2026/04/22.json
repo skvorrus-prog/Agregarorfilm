@@ -78,7 +78,7 @@
       "year": 2026,
       "overview": "Скорбящий отец и его маленький сын переезжают в тихий городок Фезербанк, который 15 лет назад терроризировал серийный убийца, известный как Шепчущий человек, в то время как ходили слухи, что Шепчущий человек работал с сообщником.",
       "poster": "https://images.metahub.space/poster/small/tt11561116/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
       "genres": [
         "Crime",
         "Drama",
@@ -87,19 +87,19 @@
       "countries": [
         "United States"
       ],
-      "runtime": null,
+      "runtime": 111,
       "imdb_id": "tt11561116",
-      "tmdb_id": null,
+      "tmdb_id": 860508,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 6.882,
+      "tmdb_vote_count": 835,
+      "popularity": 38.3288,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-04-22",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.235108+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.301997+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -107,6 +107,42 @@
       "has_hdr": false,
       "has_ru_audio": false,
       "events": [
+        {
+          "id": "6feb40643306884b",
+          "movie_id": "tt11561116",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-28",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Шепот за окном",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Когда у вдовца пропадает маленький сын, мужчина обращается к отцу, с которым давно не общался. Отец — бывший детектив, поймавший маньяка, который связан с делом мальчика.",
+            "poster": "https://image.tmdb.org/t/p/w500/1hnX64v6HWSnAFAjG4GPL03DxKb.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+            "genres": [
+              "криминал",
+              "драма",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 111,
+            "popularity": 38.3288,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.882,
+            "tmdb_vote_count": 835,
+            "theatrical_release_date": "2026-08-27",
+            "digital_release_date": "2026-08-28"
+          }
+        },
         {
           "id": "6be404fd89fc4891",
           "movie_id": "tt11561116",

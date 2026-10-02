@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-28",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt38843957",
+      "title": "Mary Beth Barone: Galaxy Brain",
+      "original_title": "Mary Beth Barone: Galaxy Brain",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4X3GQW8zt29dVja3z34F2E54Row.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 56,
+      "imdb_id": "tt38843957",
+      "tmdb_id": 1723570,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.9,
+      "tmdb_vote_count": 6,
+      "popularity": 1.4066,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-28",
+      "digital_release_date": "2026-07-28",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:31.228524+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "0aa544dec5a15984",
+          "movie_id": "tt38843957",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-07-28",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Mary Beth Barone: Galaxy Brain",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/ouLtBhnTkpmgxzASXgMUTootCDx.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/4X3GQW8zt29dVja3z34F2E54Row.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 56,
+            "popularity": 1.4066,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.9,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-07-28",
+            "digital_release_date": "2026-07-28"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,81 @@
 {
   "date": "2026-09-25",
-  "count": 3,
+  "count": 4,
   "movies": [
+    {
+      "id": "tt29494959",
+      "title": "Заместитель",
+      "original_title": "The Deputy",
+      "year": 2026,
+      "overview": "Молодому помощнику шерифа Тоби Сойеру поручают охранять тело погибшего до приезда коронера. Но спустя час труп загадочно исчезает, а Тоби оказывается под подозрением и становится мишенью опасных преступников. Пытаясь найти пропавшее тело и очистить своё имя, он постепенно раскрывает сеть коррупции, старых преступлений и тёмных секретов небольшого городка.",
+      "poster": "https://image.tmdb.org/t/p/w500/tgPVH0NIfQGVSUECHOCfZN3LlcQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9yWto4XFFzSZ7yHlh6fYmwbDw8u.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 100,
+      "imdb_id": "tt29494959",
+      "tmdb_id": 1291366,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.2,
+      "tmdb_vote_count": 8,
+      "popularity": 18.1849,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-25",
+      "digital_release_date": "2026-09-25",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:18.102978+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "88054c4a13eb97c3",
+          "movie_id": "tt29494959",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-25",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Заместитель",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Молодому помощнику шерифа Тоби Сойеру поручают охранять тело погибшего до приезда коронера. Но спустя час труп загадочно исчезает, а Тоби оказывается под подозрением и становится мишенью опасных преступников. Пытаясь найти пропавшее тело и очистить своё имя, он постепенно раскрывает сеть коррупции, старых преступлений и тёмных секретов небольшого городка.",
+            "poster": "https://image.tmdb.org/t/p/w500/tgPVH0NIfQGVSUECHOCfZN3LlcQ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/9yWto4XFFzSZ7yHlh6fYmwbDw8u.jpg",
+            "genres": [
+              "боевик",
+              "криминал",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 100,
+            "popularity": 18.1849,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.2,
+            "tmdb_vote_count": 8,
+            "theatrical_release_date": "2026-09-25",
+            "digital_release_date": "2026-09-25"
+          }
+        }
+      ]
+    },
     {
       "id": "tt29883468",
       "title": "Other Half",

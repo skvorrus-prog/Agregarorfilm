@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "count": 5,
+  "count": 6,
   "movies": [
     {
       "id": "tt45584335",
@@ -230,6 +230,280 @@
             "audio": null,
             "language": null,
             "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt36983905",
+      "title": "The Uprising",
+      "original_title": "The Uprising",
+      "year": 2026,
+      "overview": "Основанный на реальной истории восстания, вдохновившего легенду о Робин Гуде, Эндрю Гарфилд играет роль лидера восстания против тирании короля Ричарда II в борьбе за справедливость.",
+      "poster": "https://images.metahub.space/poster/small/tt36983905/img",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "countries": [
+        "United Kingdom, Germany, United States"
+      ],
+      "runtime": 127,
+      "imdb_id": "tt36983905",
+      "tmdb_id": 977942,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.1,
+      "tmdb_vote_count": 123,
+      "popularity": 161.331,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-09-29",
+      "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.681717+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "125cc49e383e9ae4",
+          "movie_id": "tt36983905",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-29",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Восставший",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "1381 год, Англия охвачена беспорядками. Во главе восставших оказывается обычный крестьянин Уот Тайлер, чья семья погибла во время эпидемии чумы. Он никогда не мечтал стать лидером, но именно ему предстоит изменить ход истории.",
+            "poster": "https://image.tmdb.org/t/p/w500/uSDqNYQXOGTbWdMMmzMJkXROJDh.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+            "genres": [
+              "история",
+              "драма"
+            ],
+            "countries": [
+              "Germany",
+              "United Kingdom",
+              "United States of America"
+            ],
+            "runtime": 127,
+            "popularity": 161.331,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.1,
+            "tmdb_vote_count": 123,
+            "theatrical_release_date": "2026-09-10",
+            "digital_release_date": "2026-09-29"
+          }
+        },
+        {
+          "id": "30a00782752dbd7a",
+          "movie_id": "tt36983905",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-30T05:38:28+00:00",
+          "detected_at": "2026-09-30T12:13:51.123441+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Восставший / The Uprising (2026) WEB-DL 1080p | Sub",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "6b01c282c0fde18b",
+          "movie_id": "tt36983905",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-09-30T12:13:51.123441+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Uprising (2026)",
+          "details": {
+            "title": "The Uprising",
+            "year": 2026,
+            "overview": "Based on the true story of the uprising that inspired the legend of Robin Hood, Andrew Garfield stars as the leader of a rebellion against the tyranny of King Richard II in a fight for justice.",
+            "poster": "https://images.metahub.space/poster/small/tt36983905/img",
+            "genres": [
+              "Action",
+              "Drama",
+              "History"
+            ],
+            "countries": [
+              "United Kingdom, Germany, United States"
+            ],
+            "imdb_rating": null,
+            "runtime": null
+          }
+        },
+        {
+          "id": "2a1b7c4b084b9407",
+          "movie_id": "tt36983905",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-30T16:28:24+00:00",
+          "detected_at": "2026-09-30T22:03:00.615729+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Восставший / The Uprising (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "377465a8c73a400f",
+          "movie_id": "tt36983905",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-30T16:32:54+00:00",
+          "detected_at": "2026-09-30T22:03:00.615729+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Восставший / The Uprising (2026) UHD WEB-DL 2160p | 4K | SDR | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a981f9e7f37b337b",
+          "movie_id": "tt36983905",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-30T18:58:34+00:00",
+          "detected_at": "2026-09-30T22:03:00.615729+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Восставший / The Uprising (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "22145df6dc262874",
+          "movie_id": "tt36983905",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-30T19:20:15+00:00",
+          "detected_at": "2026-09-30T22:03:00.615729+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Восставший / The Uprising (2026) WEB-DLRip 720p от New-Team | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "30503af4f37af91c",
+          "movie_id": "tt36983905",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-30T19:50:07+00:00",
+          "detected_at": "2026-09-30T22:03:00.615729+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Восставший / The Uprising (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "ddaafd3cf29ce24d",
+          "movie_id": "tt36983905",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-01T03:35:39+00:00",
+          "detected_at": "2026-10-01T06:42:24.585192+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDRezka Studio",
+          "raw_title": "Восставший / The Uprising (2026) WEB-DLRip | P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "HDRezka Studio",
             "is_secondary_signal": true
           }
         }

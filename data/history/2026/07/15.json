@@ -209,7 +209,7 @@
       "year": 2026,
       "overview": "После импульсивного поцелуя двое ученых оказываются в поддельных отношениях, проверяя свои теории о любви и друг о друге.",
       "poster": "https://images.metahub.space/poster/small/tt22526100/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
       "genres": [
         "Comedy",
         "Romance"
@@ -217,19 +217,19 @@
       "countries": [
         "United States"
       ],
-      "runtime": null,
+      "runtime": 112,
       "imdb_id": "tt22526100",
-      "tmdb_id": null,
+      "tmdb_id": 1032863,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 8.074,
+      "tmdb_vote_count": 408,
+      "popularity": 222.3316,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-07-15",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-30T12:14:20.298948+00:00",
+      "last_updated_at": "2026-10-02T09:43:18.132140+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "720p",
@@ -237,6 +237,41 @@
       "has_hdr": false,
       "has_ru_audio": false,
       "events": [
+        {
+          "id": "5541d9d2582d9dfd",
+          "movie_id": "tt22526100",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-23",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Гипотеза любви",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Аспирантка Олив Смит полностью поглощена учёбой и карьерой в академической среде. Чтобы доказать лучшей подруге, что она давно отреклась от воспоминаний о бывшем парне, Олив спонтанно целует 1-го встречного в коридоре. Им оказывается доктор Адам Карлсен - суровый профессор. Адам решает подыграть и предлагает Олив вступить в фиктивные отношения якобы ради научного эксперимента.",
+            "poster": "https://image.tmdb.org/t/p/w500/kz4Rtf6eSc3dEl29Vk1G3QKoND6.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+            "genres": [
+              "мелодрама",
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 112,
+            "popularity": 222.3316,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.074,
+            "tmdb_vote_count": 408,
+            "theatrical_release_date": "2026-09-23",
+            "digital_release_date": "2026-09-23"
+          }
+        },
         {
           "id": "e32f66d49984536c",
           "movie_id": "tt22526100",

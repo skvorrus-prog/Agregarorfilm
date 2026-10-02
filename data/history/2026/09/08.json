@@ -1,0 +1,380 @@
+{
+  "date": "2026-09-08",
+  "count": 5,
+  "movies": [
+    {
+      "id": "tt27419466",
+      "title": "Моана",
+      "original_title": "Moana",
+      "year": 2026,
+      "overview": "Моана откликается на зов океана. Впервые в жизни она отправляется за риф своего острова Мотунуи вместе с прославленным полубогом Мауи. Их ждёт незабываемое путешествие, которое должно вернуть процветание её народу.",
+      "poster": "https://image.tmdb.org/t/p/w500/s7o0gbvgpjwb8S0Uc5QaEdwJntb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "genres": [
+        "семейный",
+        "фэнтези",
+        "комедия",
+        "приключения"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 115,
+      "imdb_id": "tt27419466",
+      "tmdb_id": 1108427,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.402,
+      "tmdb_vote_count": 823,
+      "popularity": 112.3632,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-08",
+      "digital_release_date": "2026-09-08",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:35.023721+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "8b08b3a88a8fe0c8",
+          "movie_id": "tt27419466",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-08",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Моана",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Моана откликается на зов океана. Впервые в жизни она отправляется за риф своего острова Мотунуи вместе с прославленным полубогом Мауи. Их ждёт незабываемое путешествие, которое должно вернуть процветание её народу.",
+            "poster": "https://image.tmdb.org/t/p/w500/s7o0gbvgpjwb8S0Uc5QaEdwJntb.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+            "genres": [
+              "семейный",
+              "фэнтези",
+              "комедия",
+              "приключения"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 115,
+            "popularity": 112.3632,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.402,
+            "tmdb_vote_count": 823,
+            "theatrical_release_date": "2026-07-08",
+            "digital_release_date": "2026-09-08"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt32338669",
+      "title": "Мятеж",
+      "original_title": "Mutiny",
+      "year": 2026,
+      "overview": "Коул Рид, некогда служивший в спецназе и полиции, ныне трудится в частной охране. Внезапно на его глазах убивают его босса-миллиардера. Рида подставляют, поэтому он становится главным подозреваемым. Ему приходится бежать от закона. Он решает самостоятельно выйти на след убийцы и в ходе расследования раскрывает грандиозный заговор.",
+      "poster": "https://image.tmdb.org/t/p/w500/opOHbNmV0VPOugSBxrRQKmPgfZL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "runtime": 94,
+      "imdb_id": "tt32338669",
+      "tmdb_id": 1288445,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.383,
+      "tmdb_vote_count": 735,
+      "popularity": 179.0745,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-19",
+      "digital_release_date": "2026-09-08",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.776009+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b321c5eaff437ae1",
+          "movie_id": "tt32338669",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-08",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Мятеж",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Коул Рид, некогда служивший в спецназе и полиции, ныне трудится в частной охране. Внезапно на его глазах убивают его босса-миллиардера. Рида подставляют, поэтому он становится главным подозреваемым. Ему приходится бежать от закона. Он решает самостоятельно выйти на след убийцы и в ходе расследования раскрывает грандиозный заговор.",
+            "poster": "https://image.tmdb.org/t/p/w500/opOHbNmV0VPOugSBxrRQKmPgfZL.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+            "genres": [
+              "боевик",
+              "триллер"
+            ],
+            "countries": [
+              "United Kingdom",
+              "United States of America"
+            ],
+            "runtime": 94,
+            "popularity": 179.0745,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.383,
+            "tmdb_vote_count": 735,
+            "theatrical_release_date": "2026-08-19",
+            "digital_release_date": "2026-09-08"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt14119302",
+      "title": "Опасное место",
+      "original_title": "Hot Spot",
+      "year": 2026,
+      "overview": "Действие разворачивается в конце XXI века в антиутопическом обществе, где властью обладает мыслящий искусственный интеллект. В центре истории - частный детектив, который расследует убийство в лагере беженцев. В ходе расследования он сталкивается с тайной религиозной сектой и группой мятежников. У этих бунтарей есть потенциал подорвать власть цифрового повелителя. По мере развития сюжета личность самого детектива постепенно раскрывается, и его мир погружается в глубокий кризис.",
+      "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+      "genres": [
+        "фантастика",
+        "боевик",
+        "криминал",
+        "фэнтези",
+        "триллер"
+      ],
+      "countries": [
+        "Poland",
+        "Greece",
+        "Sweden"
+      ],
+      "runtime": 101,
+      "imdb_id": "tt14119302",
+      "tmdb_id": 813418,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.611,
+      "tmdb_vote_count": 36,
+      "popularity": 46.8662,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-08-21",
+      "digital_release_date": "2026-09-08",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:24.614585+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "df24621dda6edc42",
+          "movie_id": "tt14119302",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-08",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Опасное место",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Действие разворачивается в конце XXI века в антиутопическом обществе, где властью обладает мыслящий искусственный интеллект. В центре истории - частный детектив, который расследует убийство в лагере беженцев. В ходе расследования он сталкивается с тайной религиозной сектой и группой мятежников. У этих бунтарей есть потенциал подорвать власть цифрового повелителя. По мере развития сюжета личность самого детектива постепенно раскрывается, и его мир погружается в глубокий кризис.",
+            "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+            "genres": [
+              "фантастика",
+              "боевик",
+              "криминал",
+              "фэнтези",
+              "триллер"
+            ],
+            "countries": [
+              "Poland",
+              "Greece",
+              "Sweden"
+            ],
+            "runtime": 101,
+            "popularity": 46.8662,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.611,
+            "tmdb_vote_count": 36,
+            "theatrical_release_date": "2026-08-21",
+            "digital_release_date": "2026-09-08"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt41975820",
+      "title": "Ставрос Халкиас: Дядя Став",
+      "original_title": "Stavros Halkias: Uncle Stav",
+      "year": 2026,
+      "overview": "В этом дерзком стендап-шоу Ставрос Халкиас представляет себя дядей-раздолбаем, разносит систему здравоохранения и предупреждает, чем опасна жизнь в свое удовольствие.",
+      "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aZY17mncsi7zM8IcvucdxgnbM1C.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America",
+        "Canada"
+      ],
+      "runtime": 64,
+      "imdb_id": "tt41975820",
+      "tmdb_id": 1664003,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.6,
+      "tmdb_vote_count": 9,
+      "popularity": 2.9947,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-08",
+      "digital_release_date": "2026-09-08",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.777985+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6b8f7207bf5a1c4c",
+          "movie_id": "tt41975820",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-08",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Ставрос Халкиас: Дядя Став",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В этом дерзком стендап-шоу Ставрос Халкиас представляет себя дядей-раздолбаем, разносит систему здравоохранения и предупреждает, чем опасна жизнь в свое удовольствие.",
+            "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/aZY17mncsi7zM8IcvucdxgnbM1C.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America",
+              "Canada"
+            ],
+            "runtime": 64,
+            "popularity": 2.9947,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.6,
+            "tmdb_vote_count": 9,
+            "theatrical_release_date": "2026-09-08",
+            "digital_release_date": "2026-09-08"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt43700444",
+      "title": "Untold Mr. T: I Pity the Fool",
+      "original_title": "Untold Mr. T: I Pity the Fool",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 48,
+      "imdb_id": "tt43700444",
+      "tmdb_id": 1739206,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.667,
+      "tmdb_vote_count": 24,
+      "popularity": 7.2106,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-08",
+      "digital_release_date": "2026-09-08",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:43:23.752268+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4e1b3106920cc438",
+          "movie_id": "tt43700444",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-08",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Untold Mr. T: I Pity the Fool",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 48,
+            "popularity": 7.2106,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.667,
+            "tmdb_vote_count": 24,
+            "theatrical_release_date": "2026-09-08",
+            "digital_release_date": "2026-09-08"
+          }
+        }
+      ]
+    }
+  ]
+}
