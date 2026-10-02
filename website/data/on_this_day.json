@@ -40,6 +40,21 @@
  "10-02": {
   "2026": [
    {
+    "id": "tmdb_1781915",
+    "title": "Ferret-Man",
+    "original_title": "Ferret-Man",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mNSHbj9xI2Pj1kXB9VpYZ1k761k.jpg",
+    "digital_release_date": "2026-10-02",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt6628920",
     "title": "Придурки",
     "original_title": "Idiots",

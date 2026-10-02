@@ -152,6 +152,76 @@
   ]
  },
  {
+  "id": "tmdb_1781915",
+  "title": "Ferret-Man",
+  "original_title": "Ferret-Man",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/mNSHbj9xI2Pj1kXB9VpYZ1k761k.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/3Lp81wZY6ysJ0VE9jXp8yUw8owA.jpg",
+  "genres": [
+   "комедия",
+   "ужасы",
+   "мультфильм"
+  ],
+  "countries": [],
+  "runtime": 6,
+  "imdb_id": null,
+  "tmdb_id": 1781915,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.0,
+  "tmdb_vote_count": 1,
+  "popularity": 0.6929,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-02",
+  "digital_release_date": "2026-10-02",
+  "first_detected_at": "2026-10-02T09:59:38.992578+00:00",
+  "last_updated_at": "2026-10-02T09:59:45.935099+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "d223eab834a531d4",
+    "movie_id": "tmdb_1781915",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-02",
+    "detected_at": "2026-10-02T09:59:38.992578+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Man",
+    "raw_title": "Ferret-Man",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/mNSHbj9xI2Pj1kXB9VpYZ1k761k.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/3Lp81wZY6ysJ0VE9jXp8yUw8owA.jpg",
+     "genres": [
+      "комедия",
+      "ужасы",
+      "мультфильм"
+     ],
+     "countries": [],
+     "runtime": 6,
+     "popularity": 0.6929,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.0,
+     "tmdb_vote_count": 1,
+     "theatrical_release_date": "2026-10-02",
+     "digital_release_date": "2026-10-02"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt6628920",
   "title": "Придурки",
   "original_title": "Idiots",
@@ -5169,80 +5239,6 @@
      "tmdb_vote_count": 27,
      "theatrical_release_date": "2026-09-10",
      "digital_release_date": "2026-09-10"
-    }
-   }
-  ]
- },
- {
-  "id": "tt38061210",
-  "title": "Зачем мы опять женимся?",
-  "original_title": "Why Did I Get Married Again?",
-  "year": 2026,
-  "overview": "Пары вновь встречаются на выездной свадьбе дочери Маркуса и Анджелы, поднимая старые и новые споры и задаваясь вопросом: «А зачем мы вообще поженились?»",
-  "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-  "genres": [
-   "комедия",
-   "мелодрама",
-   "драма"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 111,
-  "imdb_id": "tt38061210",
-  "tmdb_id": 1522689,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.667,
-  "tmdb_vote_count": 33,
-  "popularity": 11.6731,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-08",
-  "digital_release_date": "2026-09-09",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:23.804096+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "d9eb2461afde5933",
-    "movie_id": "tt38061210",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-09",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Зачем мы опять женимся?",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Пары вновь встречаются на выездной свадьбе дочери Маркуса и Анджелы, поднимая старые и новые споры и задаваясь вопросом: «А зачем мы вообще поженились?»",
-     "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-     "genres": [
-      "комедия",
-      "мелодрама",
-      "драма"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 111,
-     "popularity": 11.6731,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.667,
-     "tmdb_vote_count": 33,
-     "theatrical_release_date": "2026-09-08",
-     "digital_release_date": "2026-09-09"
     }
    }
   ]
