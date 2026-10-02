@@ -122,8 +122,8 @@ def generate_individual_movie_pages(movies, website_dir: Path) -> None:
           </div>
 
           <div class="flex flex-wrap gap-2 mb-4">
-            <span class="px-2.5 py-1 bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 rounded-md text-xs font-bold">{{QUALITY}}</span>
-            <span class="px-2.5 py-1 bg-emerald-500/20 text-emerald-300 border border-emerald-500/30 rounded-md text-xs font-bold">{{RESOLUTION}}</span>
+            {{QUALITY_BADGE}}
+            {{RESOLUTION_BADGE}}
             {{HDR_BADGE}}
             {{RU_BADGE}}
           </div>
@@ -267,8 +267,14 @@ def generate_individual_movie_pages(movies, website_dir: Path) -> None:
         html = html.replace("{{YEAR}}", year_val)
         html = html.replace("{{OVERVIEW}}", m.overview or "Описание пока отсутствует.")
         html = html.replace("{{POSTER}}", m.poster or "../images/no-poster.svg")
-        html = html.replace("{{QUALITY}}", m.best_quality or "unknown")
-        html = html.replace("{{RESOLUTION}}", m.best_resolution or "unknown")
+        qual_text = m.best_quality if m.best_quality and m.best_quality != 'unknown' else ('Digital' if m.digital_release_date else '')
+        quality_badge = f'<span class="spec-badge spec-quality">{qual_text}</span>' if qual_text else ''
+        res_badge = f'<span class="spec-badge spec-res">{m.best_resolution}</span>' if m.best_resolution and m.best_resolution != 'unknown' else ''
+
+        html = html.replace("{{QUALITY}}", qual_text or "Digital")
+        html = html.replace("{{RESOLUTION}}", m.best_resolution if m.best_resolution and m.best_resolution != 'unknown' else "")
+        html = html.replace("{{QUALITY_BADGE}}", quality_badge)
+        html = html.replace("{{RESOLUTION_BADGE}}", res_badge)
         html = html.replace("{{IMDB_RATING}}", f"{m.imdb_rating}" if m.imdb_rating is not None else "—")
         html = html.replace("{{IMDB_VOTES}}", f"{m.imdb_vote_count:,} голосов" if m.imdb_vote_count else "нет оценок")
 
@@ -295,12 +301,14 @@ def generate_individual_movie_pages(movies, website_dir: Path) -> None:
         if m.events:
             for ev in m.events:
                 date_label = ev.source_release_date or ev.detected_at[:10]
+                tag_parts = [t for t in [ev.quality, ev.resolution, ev.hdr, ev.audio, ev.language] if t and t != 'unknown']
+                tag_line = " • ".join(tag_parts) if tag_parts else ("Digital Release" if ev.source_name == "TMDB" else "Release Detected")
                 timeline_items.append(f"""
                 <div class="flex items-start gap-4 p-3 bg-gray-900/60 rounded-xl border border-gray-700/30">
                   <div class="text-xs font-mono text-indigo-400 bg-indigo-950/60 px-2 py-1 rounded">{date_label}</div>
                   <div class="flex-1">
                     <div class="text-sm font-semibold text-white">{ev.event_type.replace('_', ' ')} <span class="text-xs text-gray-400 font-normal">({ev.source_name})</span></div>
-                    <div class="text-xs text-gray-300 mt-1">{ev.quality} • {ev.resolution} {('• ' + ev.hdr) if ev.hdr else ''} {('• ' + ev.audio) if ev.audio else ''} {('• ' + ev.language) if ev.language else ''}</div>
+                    <div class="text-xs text-gray-300 mt-1">{tag_line}</div>
                   </div>
                 </div>""")
         else:

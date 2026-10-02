@@ -102,6 +102,7 @@ class TMDBDigitalSource(BaseSource):
                     parsed_original_title=det.get("original_title"),
                     parsed_year=int(digital_date[:4]) if digital_date else None,
                     metadata={
+                        "quality": "WEB-DL",
                         "overview": det.get("overview"),
                         "poster": poster,
                         "backdrop": backdrop,

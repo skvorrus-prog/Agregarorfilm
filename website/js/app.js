@@ -389,7 +389,7 @@ class App {
           <p class="movie-orig-title">${this.escapeHtml(m.original_title || '')} ${m.year ? `(${m.year})` : ''}</p>
 
           <div class="specs-row">
-            ${m.best_quality && m.best_quality !== 'unknown' ? `<span class="spec-badge spec-quality">${m.best_quality}</span>` : ''}
+            ${m.best_quality && m.best_quality !== 'unknown' ? `<span class="spec-badge spec-quality">${m.best_quality}</span>` : (m.digital_release_date ? `<span class="spec-badge spec-quality">Digital</span>` : '')}
             ${m.best_resolution && m.best_resolution !== 'unknown' ? `<span class="spec-badge spec-res">${m.best_resolution}</span>` : ''}
             ${m.has_4k ? `<span class="spec-badge spec-4k">4K</span>` : ''}
             ${m.has_hdr ? `<span class="spec-badge spec-hdr">HDR</span>` : ''}
@@ -412,7 +412,8 @@ class App {
     if (movie.events && movie.events.length > 0) {
       timelineHTML = movie.events.map(ev => {
         const dt = ev.source_release_date || (ev.detected_at ? ev.detected_at.slice(0, 10) : '—');
-        const tags = [ev.quality, ev.resolution, ev.hdr, ev.audio, ev.language].filter(Boolean).join(' • ');
+        const tags = [ev.quality, ev.resolution, ev.hdr, ev.audio, ev.language].filter(x => x && x !== 'unknown');
+        const tagsStr = tags.length > 0 ? tags.join(' • ') : (ev.source_name === 'TMDB' ? 'Digital Release' : 'Release Detected');
         return `
           <div class="timeline-item">
             <span class="timeline-date">${dt}</span>
@@ -421,7 +422,7 @@ class App {
                 ${ev.event_type.replace(/_/g, ' ')}
                 <span style="font-size: 0.75rem; color: var(--text-muted); font-weight: normal;">(${ev.source_name})</span>
               </div>
-              <div style="font-size: 0.78rem; color: var(--text-secondary); margin-top: 0.2rem;">${tags}</div>
+              <div style="font-size: 0.78rem; color: var(--text-secondary); margin-top: 0.2rem;">${tagsStr}</div>
               ${ev.release_group ? `<div style="font-size: 0.72rem; color: var(--text-muted);">Релиз-группа: ${ev.release_group}</div>` : ''}
             </div>
           </div>
@@ -453,6 +454,14 @@ class App {
             <span class="badge-imdb" style="font-size: 0.85rem; padding: 0.2rem 0.55rem;">⭐ IMDb ${ratingVal}</span>
             ${movie.imdb_vote_count ? `<span style="font-size: 0.78rem; color: var(--text-muted);">👥 ${movie.imdb_vote_count.toLocaleString()}</span>` : ''}
             ${movie.popularity ? `<span class="badge-pop" style="font-size: 0.8rem; padding: 0.2rem 0.55rem;">🔥 Популярность: ${popVal}</span>` : ''}
+          </div>
+
+          <div class="specs-row" style="margin-bottom: 0.85rem; border: none; padding-top: 0;">
+            ${movie.best_quality && movie.best_quality !== 'unknown' ? `<span class="spec-badge spec-quality">${movie.best_quality}</span>` : (movie.digital_release_date ? `<span class="spec-badge spec-quality">Digital</span>` : '')}
+            ${movie.best_resolution && movie.best_resolution !== 'unknown' ? `<span class="spec-badge spec-res">${movie.best_resolution}</span>` : ''}
+            ${movie.has_4k ? `<span class="spec-badge spec-4k">4K</span>` : ''}
+            ${movie.has_hdr ? `<span class="spec-badge spec-hdr">HDR</span>` : ''}
+            ${movie.has_ru_audio ? `<span class="spec-badge spec-ru">RU</span>` : ''}
           </div>
 
           <!-- Trailer Expandable Section -->
