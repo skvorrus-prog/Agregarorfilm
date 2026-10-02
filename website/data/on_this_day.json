@@ -707,6 +707,70 @@
    }
   ]
  },
+ "10-02": {
+  "2026": [
+   {
+    "id": "m_aad3f9516323",
+    "title": "Блеф",
+    "original_title": "Утёс / The Bluff",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDVlYWM2YjAtZTUxMS00OWEwLWI4YWMtNmFhMjU3MDY4OGJkXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.8,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_7e99ac6992d9",
+    "title": "Гуру",
+    "original_title": "Gourou / Guru",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt25400540/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.6,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_967cac5d8b45",
+    "title": "Чужой: Ромул",
+    "original_title": "Alien: Romulus",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.1,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_dba92d30bd0c",
+    "title": "Астрал. Спуск к дьяволу",
+    "original_title": "Запечатлённые / The Painted",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDlmZTY4MDMtYmJiYS00MTkxLTk2OWQtOThkN2E2Y2UzYTMzXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.4,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "10-01": {
   "2026": [
    {

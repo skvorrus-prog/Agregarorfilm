@@ -2951,6 +2951,251 @@
   "events": []
  },
  {
+  "id": "m_aad3f9516323",
+  "title": "Блеф",
+  "original_title": "Утёс / The Bluff",
+  "year": 2026,
+  "overview": "Блеф — поведение в покере, создающее у противника впечатление, будто у вас на руках гораздо более сильная карта, чем есть на самом деле.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDVlYWM2YjAtZTUxMS00OWEwLWI4YWMtNmFhMjU3MDY4OGJkXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt14181714",
+  "tmdb_id": null,
+  "imdb_rating": 5.8,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-02T08:50:05.334598+00:00",
+  "last_updated_at": "2026-10-02T08:50:21.500972+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "eb3c082ac2a53ada",
+    "movie_id": "m_aad3f9516323",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-02T05:57:28+00:00",
+    "detected_at": "2026-10-02T08:50:05.334598+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "WinMedia",
+    "raw_title": "Блеф / Утёс / The Bluff (2026) WEB-DLRip | D | WinMedia",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "WinMedia",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_7e99ac6992d9",
+  "title": "Гуру",
+  "original_title": "Gourou / Guru",
+  "year": 2025,
+  "overview": "Гу́ру́ в индуизме и буддизме — духовный наставник, учитель. В пенджабском сикхизме — титул главы религиозной общины.",
+  "poster": "https://images.metahub.space/poster/small/tt25400540/img",
+  "backdrop": null,
+  "genres": [
+   "Comedy"
+  ],
+  "countries": [
+   "India"
+  ],
+  "runtime": null,
+  "imdb_id": "tt25400540",
+  "tmdb_id": null,
+  "imdb_rating": 6.6,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-02T08:50:05.334598+00:00",
+  "last_updated_at": "2026-10-02T08:50:16.541961+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": true,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "b191fe8b2f5dc448",
+    "movie_id": "m_7e99ac6992d9",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-02T06:30:59+00:00",
+    "detected_at": "2026-10-02T08:50:05.334598+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Гуру / Gourou / Guru (2025) HDRip | D",
+    "details": {
+     "quality": "unknown",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_967cac5d8b45",
+  "title": "Чужой: Ромул",
+  "original_title": "Alien: Romulus",
+  "year": 2024,
+  "overview": "«Чужой: Ромул» — американский научно-фантастический фильм ужасов 2024 года режиссёра Феде Альвареса, седьмая часть франшизы «Чужой», действие которой происходит между событиями фильмов «Чужой» и «Чужие». Снят компаниями Scott Free Productions и Brandywine Productions, главные роли в нём сыграли Кейли Спейни, Дэвид Джонссон, Арчи Рено, Изабела Мерсед, Спайк Ферн и Эйлин Ву. В центре сюжета космические колонисты, которые сталкиваются с враждебными существами во время обхода заброшенной космической станции.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Horror",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "countries": [
+   "United Kingdom, United States, Hungary, Australia, New Zealand, Canada"
+  ],
+  "runtime": null,
+  "imdb_id": "tt18412256",
+  "tmdb_id": null,
+  "imdb_rating": 7.1,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-02T08:50:05.334598+00:00",
+  "last_updated_at": "2026-10-02T08:50:09.595662+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "720p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "af8da1d5fa4f6d9e",
+    "movie_id": "m_967cac5d8b45",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-02T08:21:27+00:00",
+    "detected_at": "2026-10-02T08:50:05.334598+00:00",
+    "quality": "BluRay",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Чужой: Ромул / Alien: Romulus (2024) BDRip 720p от DoMiNo & селезень | D | MovieDalen, Red Head Sound, Jaskier",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_dba92d30bd0c",
+  "title": "Астрал. Спуск к дьяволу",
+  "original_title": "Запечатлённые / The Painted",
+  "year": 2024,
+  "overview": "«Астрал. Спуск к дьяволу» — американский независимый фильм ужасов 2024 года режиссёра и сценариста Саши Сибли. Сюжет основан на его же 11-минутной короткометражной работе 2020 года с тем же названием.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDlmZTY4MDMtYmJiYS00MTkxLTk2OWQtOThkN2E2Y2UzYTMzXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "China, Canada, United States, Hong Kong"
+  ],
+  "runtime": null,
+  "imdb_id": "tt0446755",
+  "tmdb_id": null,
+  "imdb_rating": 7.4,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-02T08:50:05.334598+00:00",
+  "last_updated_at": "2026-10-02T08:50:08.150563+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "720p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "2d92ac97f8a82f39",
+    "movie_id": "m_dba92d30bd0c",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-02T08:23:12+00:00",
+    "detected_at": "2026-10-02T08:50:05.334598+00:00",
+    "quality": "BluRay",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Астрал. Спуск к дьяволу / Запечатлённые / The Painted (2024) BDRip 720p от DoMiNo & селезень | D, P2 | Paragraph Media, ViruseProject",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
   "id": "m_64257ae396c0",
   "title": "Нормал",
   "original_title": "Normal",
@@ -3851,459 +4096,6 @@
      "audio": null,
      "language": "RU",
      "release_group": "D",
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "m_42b03017f1e8",
-  "title": "Номер один",
-  "original_title": "Neombeowon / Number One",
-  "year": 2026,
-  "overview": "Восемнадцатилетний Хамин внезапно начинает видеть цифру «365» каждый раз, когда ест домашнюю еду своей матери, и число падает с каждым укусом. Полагая, что это обратный отсчет до смерти его матери, он дистанцируется от нее и ее приготовления пищи. Спустя годы, все еще преследуемый числом, Ха-Мин живет осторожно, готовясь к худшему. Как только он начинает находить мир со своей подругой Рё Ын, неожиданная правда переворачивает его мир с ног на голову.",
-  "poster": "https://m.media-amazon.com/images/M/MV5BNTVhYjgzNTMtOTJhZC00NzY1LWI3MDgtMDQ2N2UzMTdjMDZkXkEyXkFqcGc@._V1_SX250.jpg",
-  "backdrop": null,
-  "genres": [
-   "Fantasy",
-   "Drama"
-  ],
-  "countries": [
-   "South Korea"
-  ],
-  "runtime": null,
-  "imdb_id": "tt39380534",
-  "tmdb_id": null,
-  "imdb_rating": 6.4,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
-  "last_updated_at": "2026-09-30T22:03:09.178192+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "1080p",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "23a340e199c0f6d1",
-    "movie_id": "m_42b03017f1e8",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-30T10:04:13+00:00",
-    "detected_at": "2026-09-30T12:13:51.123441+00:00",
-    "quality": "WEB-DL",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "D",
-    "raw_title": "Номер один / Neombeowon / Number One (2026) WEB-DL 1080p | D",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "D",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "0d1807276f34d8e4",
-    "movie_id": "m_42b03017f1e8",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-30T12:33:34+00:00",
-    "detected_at": "2026-09-30T22:03:00.615729+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "D",
-    "raw_title": "Номер один / Neombeowon / Number One (2026) WEB-DLRip-AVC | D",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "unknown",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "D",
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "m_556296676f8a",
-  "title": "Я вижу тебя",
-  "original_title": "Глаза / Nundongja as / The Eyes",
-  "year": 2026,
-  "overview": "Юрисконсульт в отставке пишет роман в надежде найти решение по одному из его прошлых нераскрытых дел об убийстве и за его безответную любовь к своему начальнику - оба из которых все еще преследуют его десятилетия спустя.",
-  "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_SX250.jpg",
-  "backdrop": null,
-  "genres": [
-   "Drama",
-   "Mystery",
-   "Romance"
-  ],
-  "countries": [
-   "Argentina, Spain"
-  ],
-  "runtime": null,
-  "imdb_id": "tt1305806",
-  "tmdb_id": null,
-  "imdb_rating": 8.2,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
-  "last_updated_at": "2026-09-30T12:14:12.261022+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "1080p",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "ce1c2613537d8d6c",
-    "movie_id": "m_556296676f8a",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-30T10:50:16+00:00",
-    "detected_at": "2026-09-30T12:13:51.123441+00:00",
-    "quality": "WEB-DL",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "D",
-    "raw_title": "Я вижу тебя / Глаза / Nundongja as / The Eyes (2026) WEB-DL 1080p | D",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "D",
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "tt27706593",
-  "title": "The Rivals of Amziah King",
-  "original_title": "The Rivals of Amziah King",
-  "year": 2026,
-  "overview": "«Соперники Амзиа Кинга» — британский художественный фильм режиссёра Эндрю Паттерсона в жанре криминального триллера. В фильме снялись Мэттью Макконахи и Курт Расселл. Его премьера состоялась 10 марта 2025 года на фестивале South by Southwest.",
-  "poster": "https://images.metahub.space/poster/small/tt27706593/img",
-  "backdrop": null,
-  "genres": [
-   "Crime",
-   "Drama",
-   "Thriller"
-  ],
-  "countries": [
-   "United States, United Kingdom"
-  ],
-  "runtime": null,
-  "imdb_id": "tt27706593",
-  "tmdb_id": null,
-  "imdb_rating": 7.3,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
-  "last_updated_at": "2026-09-30T12:13:53.642741+00:00",
-  "status": "ANNOUNCED",
-  "best_quality": "unknown",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "14ce33d43a6b2a08",
-    "movie_id": "tt27706593",
-    "event_type": "RELEASE_DETECTED",
-    "source_name": "Cinemeta",
-    "source_release_date": null,
-    "detected_at": "2026-09-30T12:13:51.123441+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "The Rivals of Amziah King (2026)",
-    "details": {
-     "title": "The Rivals of Amziah King",
-     "year": 2026,
-     "overview": "Amziah King, beekeeper, musician, and anchor of his community, reunites with former foster daughter Kateri after many years apart, and fends off threats to his honey business.",
-     "poster": "https://images.metahub.space/poster/small/tt27706593/img",
-     "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-     ],
-     "countries": [
-      "United States, United Kingdom"
-     ],
-     "imdb_rating": 7.3,
-     "runtime": null
-    }
-   }
-  ]
- },
- {
-  "id": "tt36983905",
-  "title": "The Uprising",
-  "original_title": "The Uprising",
-  "year": 2026,
-  "overview": "Основанный на реальной истории восстания, вдохновившего легенду о Робин Гуде, Эндрю Гарфилд играет роль лидера восстания против тирании короля Ричарда II в борьбе за справедливость.",
-  "poster": "https://images.metahub.space/poster/small/tt36983905/img",
-  "backdrop": null,
-  "genres": [
-   "Action",
-   "Drama",
-   "History"
-  ],
-  "countries": [
-   "United Kingdom, Germany, United States"
-  ],
-  "runtime": null,
-  "imdb_id": "tt36983905",
-  "tmdb_id": null,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-09-30T12:13:51.123441+00:00",
-  "last_updated_at": "2026-10-01T06:42:26.119323+00:00",
-  "status": "UHD_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "2160p",
-  "has_4k": true,
-  "has_hdr": true,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "30a00782752dbd7a",
-    "movie_id": "tt36983905",
-    "event_type": "WEB_DL_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-30T05:38:28+00:00",
-    "detected_at": "2026-09-30T12:13:51.123441+00:00",
-    "quality": "WEB-DL",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": "Sub",
-    "raw_title": "Восставший / The Uprising (2026) WEB-DL 1080p | Sub",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": null,
-     "release_group": "Sub",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "6b01c282c0fde18b",
-    "movie_id": "tt36983905",
-    "event_type": "RELEASE_DETECTED",
-    "source_name": "Cinemeta",
-    "source_release_date": null,
-    "detected_at": "2026-09-30T12:13:51.123441+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "The Uprising (2026)",
-    "details": {
-     "title": "The Uprising",
-     "year": 2026,
-     "overview": "Based on the true story of the uprising that inspired the legend of Robin Hood, Andrew Garfield stars as the leader of a rebellion against the tyranny of King Richard II in a fight for justice.",
-     "poster": "https://images.metahub.space/poster/small/tt36983905/img",
-     "genres": [
-      "Action",
-      "Drama",
-      "History"
-     ],
-     "countries": [
-      "United Kingdom, Germany, United States"
-     ],
-     "imdb_rating": null,
-     "runtime": null
-    }
-   },
-   {
-    "id": "2a1b7c4b084b9407",
-    "movie_id": "tt36983905",
-    "event_type": "UHD_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-30T16:28:24+00:00",
-    "detected_at": "2026-09-30T22:03:00.615729+00:00",
-    "quality": "WEB-DL",
-    "resolution": "2160p",
-    "hdr": "Dolby Vision / HDR10",
-    "audio": null,
-    "language": "RU",
-    "release_group": "HDRezka Studio",
-    "raw_title": "Восставший / The Uprising (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D, P | HDRezka Studio",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "2160p",
-     "hdr": "Dolby Vision / HDR10",
-     "audio": null,
-     "language": "RU",
-     "release_group": "HDRezka Studio",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "377465a8c73a400f",
-    "movie_id": "tt36983905",
-    "event_type": "UHD_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-30T16:32:54+00:00",
-    "detected_at": "2026-09-30T22:03:00.615729+00:00",
-    "quality": "WEB-DL",
-    "resolution": "2160p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "HDRezka Studio",
-    "raw_title": "Восставший / The Uprising (2026) UHD WEB-DL 2160p | 4K | SDR | D, P | HDRezka Studio",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "2160p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "HDRezka Studio",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "a981f9e7f37b337b",
-    "movie_id": "tt36983905",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-30T18:58:34+00:00",
-    "detected_at": "2026-09-30T22:03:00.615729+00:00",
-    "quality": "WEB-DL",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": null,
-    "raw_title": "Восставший / The Uprising (2026) WEB-DL 1080p | D, Р",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": null,
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "22145df6dc262874",
-    "movie_id": "tt36983905",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-30T19:20:15+00:00",
-    "detected_at": "2026-09-30T22:03:00.615729+00:00",
-    "quality": "WEB-DL",
-    "resolution": "720p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "HDRezka Studio",
-    "raw_title": "Восставший / The Uprising (2026) WEB-DLRip 720p от New-Team | D, P | HDRezka Studio",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "720p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "HDRezka Studio",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "30503af4f37af91c",
-    "movie_id": "tt36983905",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-09-30T19:50:07+00:00",
-    "detected_at": "2026-09-30T22:03:00.615729+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "HDRezka Studio",
-    "raw_title": "Восставший / The Uprising (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P | HDRezka Studio",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "unknown",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "HDRezka Studio",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "ddaafd3cf29ce24d",
-    "movie_id": "tt36983905",
-    "event_type": "WEB_DL_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-01T03:35:39+00:00",
-    "detected_at": "2026-10-01T06:42:24.585192+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": "HDRezka Studio",
-    "raw_title": "Восставший / The Uprising (2026) WEB-DLRip | P | HDRezka Studio",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "unknown",
-     "hdr": null,
-     "audio": null,
-     "language": null,
-     "release_group": "HDRezka Studio",
      "is_secondary_signal": true
     }
    }

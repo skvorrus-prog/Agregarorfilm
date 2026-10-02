@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-02",
+  "count": 4,
+  "movies": [
+    {
+      "id": "m_aad3f9516323",
+      "title": "Блеф",
+      "original_title": "Утёс / The Bluff",
+      "year": 2026,
+      "overview": "Блеф — поведение в покере, создающее у противника впечатление, будто у вас на руках гораздо более сильная карта, чем есть на самом деле.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDVlYWM2YjAtZTUxMS00OWEwLWI4YWMtNmFhMjU3MDY4OGJkXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt14181714",
+      "tmdb_id": null,
+      "imdb_rating": 5.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T08:50:05.334598+00:00",
+      "last_updated_at": "2026-10-02T08:50:21.500972+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "eb3c082ac2a53ada",
+          "movie_id": "m_aad3f9516323",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T05:57:28+00:00",
+          "detected_at": "2026-10-02T08:50:05.334598+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "WinMedia",
+          "raw_title": "Блеф / Утёс / The Bluff (2026) WEB-DLRip | D | WinMedia",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "WinMedia",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_7e99ac6992d9",
+      "title": "Гуру",
+      "original_title": "Gourou / Guru",
+      "year": 2025,
+      "overview": "Гу́ру́ в индуизме и буддизме — духовный наставник, учитель. В пенджабском сикхизме — титул главы религиозной общины.",
+      "poster": "https://images.metahub.space/poster/small/tt25400540/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": null,
+      "imdb_id": "tt25400540",
+      "tmdb_id": null,
+      "imdb_rating": 6.6,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T08:50:05.334598+00:00",
+      "last_updated_at": "2026-10-02T08:50:16.541961+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "b191fe8b2f5dc448",
+          "movie_id": "m_7e99ac6992d9",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T06:30:59+00:00",
+          "detected_at": "2026-10-02T08:50:05.334598+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Гуру / Gourou / Guru (2025) HDRip | D",
+          "details": {
+            "quality": "unknown",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_967cac5d8b45",
+      "title": "Чужой: Ромул",
+      "original_title": "Alien: Romulus",
+      "year": 2024,
+      "overview": "«Чужой: Ромул» — американский научно-фантастический фильм ужасов 2024 года режиссёра Феде Альвареса, седьмая часть франшизы «Чужой», действие которой происходит между событиями фильмов «Чужой» и «Чужие». Снят компаниями Scott Free Productions и Brandywine Productions, главные роли в нём сыграли Кейли Спейни, Дэвид Джонссон, Арчи Рено, Изабела Мерсед, Спайк Ферн и Эйлин Ву. В центре сюжета космические колонисты, которые сталкиваются с враждебными существами во время обхода заброшенной космической станции.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "countries": [
+        "United Kingdom, United States, Hungary, Australia, New Zealand, Canada"
+      ],
+      "runtime": null,
+      "imdb_id": "tt18412256",
+      "tmdb_id": null,
+      "imdb_rating": 7.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T08:50:05.334598+00:00",
+      "last_updated_at": "2026-10-02T08:50:09.595662+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "af8da1d5fa4f6d9e",
+          "movie_id": "m_967cac5d8b45",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T08:21:27+00:00",
+          "detected_at": "2026-10-02T08:50:05.334598+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Чужой: Ромул / Alien: Romulus (2024) BDRip 720p от DoMiNo & селезень | D | MovieDalen, Red Head Sound, Jaskier",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_dba92d30bd0c",
+      "title": "Астрал. Спуск к дьяволу",
+      "original_title": "Запечатлённые / The Painted",
+      "year": 2024,
+      "overview": "«Астрал. Спуск к дьяволу» — американский независимый фильм ужасов 2024 года режиссёра и сценариста Саши Сибли. Сюжет основан на его же 11-минутной короткометражной работе 2020 года с тем же названием.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDlmZTY4MDMtYmJiYS00MTkxLTk2OWQtOThkN2E2Y2UzYTMzXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "countries": [
+        "China, Canada, United States, Hong Kong"
+      ],
+      "runtime": null,
+      "imdb_id": "tt0446755",
+      "tmdb_id": null,
+      "imdb_rating": 7.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T08:50:05.334598+00:00",
+      "last_updated_at": "2026-10-02T08:50:08.150563+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "2d92ac97f8a82f39",
+          "movie_id": "m_dba92d30bd0c",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T08:23:12+00:00",
+          "detected_at": "2026-10-02T08:50:05.334598+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Астрал. Спуск к дьяволу / Запечатлённые / The Painted (2024) BDRip 720p от DoMiNo & селезень | D, P2 | Paragraph Media, ViruseProject",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}
