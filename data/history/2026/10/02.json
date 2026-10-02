@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "count": 5,
+  "count": 10,
   "movies": [
     {
       "id": "tt6628920",
@@ -70,6 +70,308 @@
             "tmdb_vote_count": 43,
             "theatrical_release_date": "2026-08-20",
             "digital_release_date": "2026-10-02"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_efb8ef44b311",
+      "title": "Шесть шагов к мести",
+      "original_title": "Jackie the Stripper",
+      "year": 2026,
+      "overview": "A female empowerment grind house comedy action thriller. Jackie and her band of female vigilante assassins hatch a plan to kill six members of the evil male dominated court. With deadly and hilarious consequences",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjllN2MwODMtNjAyYS00NTAxLTkyNDgtZTJhMGUzNGQwYjdkXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Comedy"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": null,
+      "imdb_id": "tt36119712",
+      "tmdb_id": null,
+      "imdb_rating": 6.6,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T15:52:32.981894+00:00",
+      "last_updated_at": "2026-10-02T15:53:03.986500+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "8e485ae9fcb15e99",
+          "movie_id": "m_efb8ef44b311",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T10:46:34+00:00",
+          "detected_at": "2026-10-02T15:52:32.981894+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Шесть шагов к мести / Jackie the Stripper (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_59d05a32e1d0",
+      "title": "Утёс",
+      "original_title": "Блеф / The Bluff",
+      "year": 2026,
+      "overview": "A Caribbean woman gets her secret past revealed when her island is invaded by vicious buccaneers.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDVlYWM2YjAtZTUxMS00OWEwLWI4YWMtNmFhMjU3MDY4OGJkXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt14181714",
+      "tmdb_id": null,
+      "imdb_rating": 5.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T15:52:32.981894+00:00",
+      "last_updated_at": "2026-10-02T15:52:49.709530+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "881000597aef27b0",
+          "movie_id": "m_59d05a32e1d0",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T11:00:52+00:00",
+          "detected_at": "2026-10-02T15:52:32.981894+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Утёс / Блеф / The Bluff (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P | WinMedia, LostFilm, Red Head Sound",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_0b453a3d732c",
+      "title": "Триумф сердца",
+      "original_title": "Triumph of the Heart",
+      "year": 2025,
+      "overview": "The extraordinary true story of St. Maximilian Kolbe, a Polish Catholic priest who volunteered to die in place of another man in Auschwitz during World War II.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmY5MTc1MDItYzRmZC00MThmLTliZTQtMGM3ZjZlMjEyNWFiXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "countries": [],
+      "runtime": null,
+      "imdb_id": "tt29630418",
+      "tmdb_id": null,
+      "imdb_rating": 7.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T15:52:32.981894+00:00",
+      "last_updated_at": "2026-10-02T15:52:47.657838+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "3b06dbd8ab6d2052",
+          "movie_id": "m_0b453a3d732c",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T11:23:19+00:00",
+          "detected_at": "2026-10-02T15:52:32.981894+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "L",
+          "raw_title": "Триумф сердца / Triumph of the Heart (2025) WEB-DL 1080p от il68k | L",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "L",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_57678c82d674",
+      "title": "Связанные насмерть",
+      "original_title": "Shackled",
+      "year": 2026,
+      "overview": "«Связанные насмерть» — триллер канадского режиссёра Дэвида Кроненберга, вышедший на экраны в 1988 году. Гран-При Международного фестиваля фантастического кино в Авориазе.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTVmMWU4NDMtNmI4MS00M2VmLWIzM2UtMTg1ODUzMmE4ZDU1XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt39445906",
+      "tmdb_id": null,
+      "imdb_rating": 5.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T15:52:32.981894+00:00",
+      "last_updated_at": "2026-10-02T15:52:45.346727+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "6857949599a9c3b5",
+          "movie_id": "m_57678c82d674",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T13:04:27+00:00",
+          "detected_at": "2026-10-02T15:52:32.981894+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Akimbo Production",
+          "raw_title": "Связанные насмерть / Shackled (2026) WEB-DL 1080p от ELEKTRI4KA | D | Akimbo Production",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Akimbo Production",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_639a325b119d",
+      "title": "Заклятие монахини: Реинкарнация зла",
+      "original_title": "Accursed",
+      "year": 2026,
+      "overview": "When a nun’s cursed secret resurfaces on Emma’s 21st birthday, a lake-house reunion turns deadly. A masked cult and dark prophecy force Emma and her friends to face possession, betrayal, and a midnight ritual that could raise ancient evil.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzQ5MjUxOTktM2ZkYi00NDBiLWE1ZDctZjU2YjIwZjVlYjA4XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt19766724",
+      "tmdb_id": null,
+      "imdb_rating": 6.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T15:52:32.981894+00:00",
+      "last_updated_at": "2026-10-02T15:52:43.734648+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "92ec1c1caba8bfb3",
+          "movie_id": "m_639a325b119d",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T13:52:01+00:00",
+          "detected_at": "2026-10-02T15:52:32.981894+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Заклятие монахини: Реинкарнация зла / Accursed (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
           }
         }
       ]
