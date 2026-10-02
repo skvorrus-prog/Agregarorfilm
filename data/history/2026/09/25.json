@@ -29,7 +29,7 @@
       "theatrical_release_date": "2026-09-25",
       "digital_release_date": "2026-09-25",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:12:56.294333+00:00",
+      "last_updated_at": "2026-10-02T09:23:19.503105+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -52,6 +52,41 @@
           "release_group": null,
           "raw_title": "Other Half",
           "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/8YBPmsDbAj96SUw7h1UEQ0REPF6.jpg",
+            "backdrop": null,
+            "genres": [
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 15,
+            "popularity": 1.0385,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 10.0,
+            "tmdb_vote_count": 1,
+            "theatrical_release_date": "2026-09-25",
+            "digital_release_date": "2026-09-25"
+          }
+        },
+        {
+          "id": "2cf352b9b79fcddb",
+          "movie_id": "tt29883468",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-25",
+          "detected_at": "2026-10-02T09:23:12.529063+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Other Half",
+          "details": {
+            "quality": "WEB-DL",
             "overview": "",
             "poster": "https://image.tmdb.org/t/p/w500/8YBPmsDbAj96SUw7h1UEQ0REPF6.jpg",
             "backdrop": null,
@@ -102,7 +137,7 @@
       "theatrical_release_date": "2026-09-25",
       "digital_release_date": "2026-09-25",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:12:56.276663+00:00",
+      "last_updated_at": "2026-10-02T09:23:19.501835+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -125,6 +160,41 @@
           "release_group": null,
           "raw_title": "The Confession",
           "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/1sfv0USTch2ltjgUrUGFg9NwKm3.jpg",
+            "backdrop": null,
+            "genres": [
+              "детектив",
+              "криминал",
+              "драма",
+              "триллер"
+            ],
+            "countries": [],
+            "runtime": 12,
+            "popularity": 1.0601,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 9.0,
+            "tmdb_vote_count": 1,
+            "theatrical_release_date": "2026-09-25",
+            "digital_release_date": "2026-09-25"
+          }
+        },
+        {
+          "id": "dad8185e09c6e10d",
+          "movie_id": "tmdb_1781139",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-25",
+          "detected_at": "2026-10-02T09:23:12.529063+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Confession",
+          "details": {
+            "quality": "WEB-DL",
             "overview": "",
             "poster": "https://image.tmdb.org/t/p/w500/1sfv0USTch2ltjgUrUGFg9NwKm3.jpg",
             "backdrop": null,
@@ -177,7 +247,7 @@
       "theatrical_release_date": "2026-09-25",
       "digital_release_date": "2026-09-25",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:12:54.534260+00:00",
+      "last_updated_at": "2026-10-02T09:23:19.500632+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -200,6 +270,45 @@
           "release_group": null,
           "raw_title": "The CEO of Youtube finally said yes.",
           "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/jjytAlFuofsFgycq0gj4QJR5T9O.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/bPpDjsdMKqAMrItYqwGdP6S3r16.jpg",
+            "genres": [
+              "комедия",
+              "драма",
+              "боевик",
+              "приключения",
+              "триллер",
+              "детектив"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 70,
+            "popularity": 0.3268,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 10.0,
+            "tmdb_vote_count": 1,
+            "theatrical_release_date": "2026-09-25",
+            "digital_release_date": "2026-09-25"
+          }
+        },
+        {
+          "id": "ffd47189a6d5c2f2",
+          "movie_id": "tmdb_1784097",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-25",
+          "detected_at": "2026-10-02T09:23:12.529063+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The CEO of Youtube finally said yes.",
+          "details": {
+            "quality": "WEB-DL",
             "overview": "",
             "poster": "https://image.tmdb.org/t/p/w500/jjytAlFuofsFgycq0gj4QJR5T9O.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1280/bPpDjsdMKqAMrItYqwGdP6S3r16.jpg",

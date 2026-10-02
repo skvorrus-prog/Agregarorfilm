@@ -31,7 +31,7 @@
       "theatrical_release_date": "2026-10-01",
       "digital_release_date": "2026-10-01",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:12:35.295442+00:00",
+      "last_updated_at": "2026-10-02T09:23:19.485294+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -54,6 +54,43 @@
           "release_group": null,
           "raw_title": "仙逆剧场版：弑仙之战",
           "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
+            "genres": [
+              "мультфильм",
+              "боевик",
+              "приключения",
+              "фэнтези"
+            ],
+            "countries": [
+              "China"
+            ],
+            "runtime": 0,
+            "popularity": 492.9498,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.8,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-01",
+            "digital_release_date": "2026-10-01"
+          }
+        },
+        {
+          "id": "5f0f24c234ce9180",
+          "movie_id": "tmdb_1599191",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-01",
+          "detected_at": "2026-10-02T09:23:12.529063+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "仙逆剧场版：弑仙之战",
+          "details": {
+            "quality": "WEB-DL",
             "overview": "",
             "poster": "https://image.tmdb.org/t/p/w500/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1280/rJT7ARv4G2sr1uTZnBEUSigg1hf.jpg",
@@ -104,7 +141,7 @@
       "theatrical_release_date": "2026-10-01",
       "digital_release_date": "2026-10-01",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:12:33.145799+00:00",
+      "last_updated_at": "2026-10-02T09:23:19.484157+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -127,6 +164,41 @@
           "release_group": null,
           "raw_title": "There Are No Rules",
           "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/uyeCzbb2p9gsWXgrRtjnP9OwrN5.jpg",
+            "backdrop": null,
+            "genres": [
+              "документальный",
+              "фантастика"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 101,
+            "popularity": 0.2277,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 10.0,
+            "tmdb_vote_count": 1,
+            "theatrical_release_date": "2026-10-01",
+            "digital_release_date": "2026-10-01"
+          }
+        },
+        {
+          "id": "d19abe5f7bcedaf5",
+          "movie_id": "tmdb_1783630",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-01",
+          "detected_at": "2026-10-02T09:23:12.529063+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "There Are No Rules",
+          "details": {
+            "quality": "WEB-DL",
             "overview": "",
             "poster": "https://image.tmdb.org/t/p/w500/uyeCzbb2p9gsWXgrRtjnP9OwrN5.jpg",
             "backdrop": null,
@@ -175,7 +247,7 @@
       "theatrical_release_date": "2026-10-01",
       "digital_release_date": "2026-10-01",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:12:29.960730+00:00",
+      "last_updated_at": "2026-10-02T09:23:19.483009+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -198,6 +270,39 @@
           "release_group": null,
           "raw_title": "灵魂摆渡·公主之梦",
           "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/oLANXaffluZVo4qstCdYdRRxG9B.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/3gJSxVrfIWRU4Guh7dnT2f9ondK.jpg",
+            "genres": [
+              "фэнтези",
+              "драма"
+            ],
+            "countries": [],
+            "runtime": 73,
+            "popularity": 0.5857,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.0,
+            "tmdb_vote_count": 1,
+            "theatrical_release_date": "2026-10-01",
+            "digital_release_date": "2026-10-01"
+          }
+        },
+        {
+          "id": "69c1f16f2b3ce229",
+          "movie_id": "tmdb_1785448",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-01",
+          "detected_at": "2026-10-02T09:23:12.529063+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "灵魂摆渡·公主之梦",
+          "details": {
+            "quality": "WEB-DL",
             "overview": "",
             "poster": "https://image.tmdb.org/t/p/w500/oLANXaffluZVo4qstCdYdRRxG9B.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1280/3gJSxVrfIWRU4Guh7dnT2f9ondK.jpg",

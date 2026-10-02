@@ -26,7 +26,7 @@
       "theatrical_release_date": "2026-09-29",
       "digital_release_date": "2026-09-30",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:12:35.402607+00:00",
+      "last_updated_at": "2026-10-02T09:23:19.492085+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -49,6 +49,38 @@
           "release_group": null,
           "raw_title": "Miller Night Football",
           "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/gQOltzLRXVrC4umb5XFvmOL76jT.jpg",
+            "genres": [],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 43,
+            "popularity": 2.0833,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 10.0,
+            "tmdb_vote_count": 1,
+            "theatrical_release_date": "2026-09-29",
+            "digital_release_date": "2026-09-30"
+          }
+        },
+        {
+          "id": "e7ba9d9e88e7c18c",
+          "movie_id": "tt46066368",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-30",
+          "detected_at": "2026-10-02T09:23:12.529063+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Miller Night Football",
+          "details": {
+            "quality": "WEB-DL",
             "overview": "",
             "poster": "https://image.tmdb.org/t/p/w500/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1280/gQOltzLRXVrC4umb5XFvmOL76jT.jpg",
@@ -94,7 +126,7 @@
       "theatrical_release_date": "2026-09-30",
       "digital_release_date": "2026-09-30",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:12:35.361386+00:00",
+      "last_updated_at": "2026-10-02T09:23:19.488665+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -117,6 +149,41 @@
           "release_group": null,
           "raw_title": "Стрим из ада",
           "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
+            "genres": [
+              "ужасы",
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 77,
+            "popularity": 33.7104,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.111,
+            "tmdb_vote_count": 9,
+            "theatrical_release_date": "2026-09-30",
+            "digital_release_date": "2026-09-30"
+          }
+        },
+        {
+          "id": "9edaa3e3a65929d9",
+          "movie_id": "tt43750202",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-30",
+          "detected_at": "2026-10-02T09:23:12.529063+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Стрим из ада",
+          "details": {
+            "quality": "WEB-DL",
             "overview": "",
             "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1280/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
@@ -164,7 +231,7 @@
       "theatrical_release_date": "2026-09-30",
       "digital_release_date": "2026-09-30",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:12:35.343111+00:00",
+      "last_updated_at": "2026-10-02T09:23:19.487554+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -187,6 +254,40 @@
           "release_group": null,
           "raw_title": "WWE/AAA Worlds Collide 2026: Chicago",
           "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/r7rSQjPEodbeebUkFtMjcH6yGG8.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/aLBjCSSbdzPPhwTp0SksKuevSlQ.jpg",
+            "genres": [
+              "боевик"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 154,
+            "popularity": 6.8045,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.0,
+            "tmdb_vote_count": 1,
+            "theatrical_release_date": "2026-09-30",
+            "digital_release_date": "2026-09-30"
+          }
+        },
+        {
+          "id": "51e0f4f65359a06f",
+          "movie_id": "tt36602063",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-30",
+          "detected_at": "2026-10-02T09:23:12.529063+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "WWE/AAA Worlds Collide 2026: Chicago",
+          "details": {
+            "quality": "WEB-DL",
             "overview": "",
             "poster": "https://image.tmdb.org/t/p/w500/r7rSQjPEodbeebUkFtMjcH6yGG8.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1280/aLBjCSSbdzPPhwTp0SksKuevSlQ.jpg",
@@ -233,7 +334,7 @@
       "theatrical_release_date": "2026-09-30",
       "digital_release_date": "2026-09-30",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:12:35.318874+00:00",
+      "last_updated_at": "2026-10-02T09:23:19.486407+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -256,6 +357,40 @@
           "release_group": null,
           "raw_title": "The Widower: 'Til Death Do Us Part",
           "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 91,
+            "popularity": 10.523,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.75,
+            "tmdb_vote_count": 4,
+            "theatrical_release_date": "2026-09-30",
+            "digital_release_date": "2026-09-30"
+          }
+        },
+        {
+          "id": "788b01fb8bf5640c",
+          "movie_id": "tt44568097",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-30",
+          "detected_at": "2026-10-02T09:23:12.529063+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Widower: 'Til Death Do Us Part",
+          "details": {
+            "quality": "WEB-DL",
             "overview": "",
             "poster": "https://image.tmdb.org/t/p/w500/8MmN3JmgscGiAP3bUlrc2rLsGDq.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1280/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
@@ -305,7 +440,7 @@
       "theatrical_release_date": "2026-10-02",
       "digital_release_date": "2026-09-30",
       "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-      "last_updated_at": "2026-10-02T09:12:26.086565+00:00",
+      "last_updated_at": "2026-10-02T09:23:19.481849+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -328,6 +463,43 @@
           "release_group": null,
           "raw_title": "名探偵コナン 30号殺人事件",
           "details": {
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/v0T74v8LPZBSL247oGeTOp06tnm.jpg",
+            "genres": [
+              "мультфильм",
+              "боевик",
+              "детектив",
+              "криминал"
+            ],
+            "countries": [
+              "Japan"
+            ],
+            "runtime": 93,
+            "popularity": 6.943,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.5,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-10-02",
+            "digital_release_date": "2026-09-30"
+          }
+        },
+        {
+          "id": "134b9b2c601772e3",
+          "movie_id": "tt46656123",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-30",
+          "detected_at": "2026-10-02T09:23:12.529063+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "名探偵コナン 30号殺人事件",
+          "details": {
+            "quality": "WEB-DL",
             "overview": "",
             "poster": "https://image.tmdb.org/t/p/w500/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
             "backdrop": "https://image.tmdb.org/t/p/w1280/v0T74v8LPZBSL247oGeTOp06tnm.jpg",
