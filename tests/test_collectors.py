@@ -33,3 +33,31 @@ def test_raw_release_model():
     )
     assert raw.raw_title == "Some.Movie.2024.1080p"
     assert raw.metadata == {}
+
+
+def test_cinemeta_search_strict_title_matching(monkeypatch):
+    from src.collectors.cinemeta import CinemetaSource
+    source = CinemetaSource()
+
+    # Mock _safe_request to return search results where metas[0] is unrelated
+    class MockResp:
+        def json(self):
+            return {
+                "metas": [
+                    {"id": "tt9999999", "name": "Completely Unrelated Film", "year": "2026"},
+                    {"id": "tt34584846", "name": "Man of War", "year": "2026"},
+                ]
+            }
+
+    monkeypatch.setattr(source, "_safe_request", lambda url: MockResp())
+    monkeypatch.setattr(source, "fetch_movie_detail", lambda imdb_id: None)
+
+    # Search for Ferret-Man: should reject both and return None
+    res_mismatch = source.search_movie("Ferret-Man", year=2026)
+    assert res_mismatch is None
+
+    # Search for Man of War: should match correctly
+    res_match = source.search_movie("Man of War", year=2026)
+    assert res_match is not None
+    assert res_match["imdb_id"] == "tt34584846"
+

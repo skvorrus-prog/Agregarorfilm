@@ -55,21 +55,6 @@
     "has_ru_audio": false
    },
    {
-    "id": "tmdb_1781915",
-    "title": "Ferret-Man",
-    "original_title": "Ferret-Man",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mNSHbj9xI2Pj1kXB9VpYZ1k761k.jpg",
-    "digital_release_date": "2026-10-02",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
     "id": "m_aad3f9516323",
     "title": "Блеф",
     "original_title": "Утёс / The Bluff",
@@ -2238,6 +2223,21 @@
  },
  "08-13": {
   "2026": [
+   {
+    "id": "tt34584846",
+    "title": "Солдат",
+    "original_title": "Man of War",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/dGcmv363NfonrRGSh2Lx5VB50nH.jpg",
+    "digital_release_date": "2026-08-13",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt37961750",
     "title": "Un hijo propio",

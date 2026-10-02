@@ -224,147 +224,6 @@
   ]
  },
  {
-  "id": "tmdb_1781915",
-  "title": "Ferret-Man",
-  "original_title": "Ferret-Man",
-  "year": 2026,
-  "overview": "Когда гуманитарный работник исчезает в первые часы войны на Украине, бывший морской КОТИК и оперативник ЦРУ проникают в разрушенную страну, чтобы привезти домой наемников, меняя линии фронта и призраков, которых, как он думал, он оставил...",
-  "poster": "https://image.tmdb.org/t/p/w500/mNSHbj9xI2Pj1kXB9VpYZ1k761k.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/3Lp81wZY6ysJ0VE9jXp8yUw8owA.jpg",
-  "genres": [
-   "комедия",
-   "ужасы",
-   "мультфильм"
-  ],
-  "countries": [
-   "United States"
-  ],
-  "runtime": 6,
-  "imdb_id": "tt34584846",
-  "tmdb_id": 1781915,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.6,
-  "tmdb_vote_count": 35,
-  "popularity": 5.4446,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-10-02",
-  "digital_release_date": "2026-10-02",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:43:35.325864+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "f216769a5f682650",
-    "movie_id": "tmdb_1781915",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-08-13",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Солдат",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/dGcmv363NfonrRGSh2Lx5VB50nH.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
-     "genres": [
-      "боевик",
-      "триллер",
-      "военный"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 111,
-     "popularity": 5.4446,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.6,
-     "tmdb_vote_count": 35,
-     "theatrical_release_date": "2026-07-03",
-     "digital_release_date": "2026-08-13"
-    }
-   },
-   {
-    "id": "90f9f9f77acf0f6d",
-    "movie_id": "tmdb_1781915",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-02",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": "Man",
-    "raw_title": "Ferret-Man",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/mNSHbj9xI2Pj1kXB9VpYZ1k761k.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/3Lp81wZY6ysJ0VE9jXp8yUw8owA.jpg",
-     "genres": [
-      "комедия",
-      "ужасы",
-      "мультфильм"
-     ],
-     "countries": [],
-     "runtime": 6,
-     "popularity": 0.6929,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-10-02",
-     "digital_release_date": "2026-10-02"
-    }
-   },
-   {
-    "id": "d223eab834a531d4",
-    "movie_id": "tmdb_1781915",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-02",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": "Man",
-    "raw_title": "Ferret-Man",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/mNSHbj9xI2Pj1kXB9VpYZ1k761k.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/3Lp81wZY6ysJ0VE9jXp8yUw8owA.jpg",
-     "genres": [
-      "комедия",
-      "ужасы",
-      "мультфильм"
-     ],
-     "countries": [],
-     "runtime": 6,
-     "popularity": 0.6929,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-10-02",
-     "digital_release_date": "2026-10-02"
-    }
-   }
-  ]
- },
- {
   "id": "tt37601032",
   "title": "Последний богатырь. Колобок",
   "original_title": "Последний богатырь. Колобок",
@@ -5310,6 +5169,80 @@
      "tmdb_vote_count": 27,
      "theatrical_release_date": "2026-09-10",
      "digital_release_date": "2026-09-10"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt38061210",
+  "title": "Зачем мы опять женимся?",
+  "original_title": "Why Did I Get Married Again?",
+  "year": 2026,
+  "overview": "Пары вновь встречаются на выездной свадьбе дочери Маркуса и Анджелы, поднимая старые и новые споры и задаваясь вопросом: «А зачем мы вообще поженились?»",
+  "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+  "genres": [
+   "комедия",
+   "мелодрама",
+   "драма"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 111,
+  "imdb_id": "tt38061210",
+  "tmdb_id": 1522689,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.667,
+  "tmdb_vote_count": 33,
+  "popularity": 11.6731,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-08",
+  "digital_release_date": "2026-09-09",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:23.804096+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "d9eb2461afde5933",
+    "movie_id": "tt38061210",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-09",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Зачем мы опять женимся?",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Пары вновь встречаются на выездной свадьбе дочери Маркуса и Анджелы, поднимая старые и новые споры и задаваясь вопросом: «А зачем мы вообще поженились?»",
+     "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+     "genres": [
+      "комедия",
+      "мелодрама",
+      "драма"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 111,
+     "popularity": 11.6731,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.667,
+     "tmdb_vote_count": 33,
+     "theatrical_release_date": "2026-09-08",
+     "digital_release_date": "2026-09-09"
     }
    }
   ]

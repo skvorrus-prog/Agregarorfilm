@@ -104,7 +104,7 @@
   <script>
     async function loadStats() {
       try {
-        const resp = await fetch('data/stats.json');
+        const resp = await fetch(`data/stats.json?v=${Date.now()}`);
         if (!resp.ok) return;
         const data = await resp.json();
 

@@ -1,7 +1,81 @@
 {
   "date": "2026-08-13",
-  "count": 2,
+  "count": 3,
   "movies": [
+    {
+      "id": "tt34584846",
+      "title": "Солдат",
+      "original_title": "Man of War",
+      "year": 2026,
+      "overview": "Когда гуманитарный работник исчезает в первые часы войны на Украине, бывший морской КОТИК и оперативник ЦРУ проникают в разрушенную страну, чтобы привезти домой наемников, меняя линии фронта и призраков, которых, как он думал, он оставил...",
+      "poster": "https://image.tmdb.org/t/p/w500/dGcmv363NfonrRGSh2Lx5VB50nH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "военный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 111,
+      "imdb_id": "tt34584846",
+      "tmdb_id": 1705729,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.6,
+      "tmdb_vote_count": 35,
+      "popularity": 5.4446,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-07-03",
+      "digital_release_date": "2026-08-13",
+      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+      "last_updated_at": "2026-10-02T09:42:14.013589+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f216769a5f682650",
+          "movie_id": "tt34584846",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-08-13",
+          "detected_at": "2026-10-02T09:42:14.013589+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Солдат",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/dGcmv363NfonrRGSh2Lx5VB50nH.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
+            "genres": [
+              "боевик",
+              "триллер",
+              "военный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 111,
+            "popularity": 5.4446,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.6,
+            "tmdb_vote_count": 35,
+            "theatrical_release_date": "2026-07-03",
+            "digital_release_date": "2026-08-13"
+          }
+        }
+      ]
+    },
     {
       "id": "tt37961750",
       "title": "Un hijo propio",

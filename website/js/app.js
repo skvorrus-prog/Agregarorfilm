@@ -182,7 +182,7 @@ class App {
 
   async loadData() {
     try {
-      const resp = await fetch('data/catalog.json');
+      const resp = await fetch(`data/catalog.json?v=${Date.now()}`);
       if (!resp.ok) {
         throw new Error(`Catalog load failed: ${resp.status}`);
       }
@@ -192,7 +192,7 @@ class App {
 
       // Attempt to load on_this_day.json
       try {
-        const otdResp = await fetch('data/on_this_day.json');
+        const otdResp = await fetch(`data/on_this_day.json?v=${Date.now()}`);
         if (otdResp.ok) {
           this.onThisDayData = await otdResp.json();
         }

@@ -69,8 +69,8 @@
     async function init() {
       try {
         const [calResp, catResp] = await Promise.all([
-          fetch('data/calendar.json'),
-          fetch('data/catalog.json')
+          fetch(`data/calendar.json?v=${Date.now()}`),
+          fetch(`data/catalog.json?v=${Date.now()}`)
         ]);
         const counts = await calResp.json();
         allMovies = await catResp.json();

@@ -119,19 +119,39 @@ class CinemetaSource(BaseSource):
                 return None
 
             best_meta = None
-            if year:
-                for m in metas:
-                    m_year = m.get("year")
-                    try:
-                        y_int = int(str(m_year)[:4]) if m_year else None
-                        if y_int and abs(y_int - year) <= 1:
-                            best_meta = m
-                            break
-                    except Exception:
-                        pass
+            best_score = 0.0
+            from src.normalizers.title_normalizer import title_similarity, normalize_title
+            clean_norm = normalize_title(clean_title)
+
+            for m in metas:
+                m_name = m.get("name")
+                if not m_name:
+                    continue
+
+                # Check year compatibility if specified
+                m_year = m.get("year")
+                try:
+                    y_int = int(str(m_year)[:4]) if m_year else None
+                    if year and y_int and abs(y_int - year) > 1:
+                        continue
+                except Exception:
+                    pass
+
+                # Exact normalized title match gets highest score
+                if normalize_title(m_name) == clean_norm:
+                    score = 1.0
+                else:
+                    score = title_similarity(clean_title, m_name)
+
+                # Require high similarity (>= 0.70) to prevent false positives
+                if score >= 0.70 and score > best_score:
+                    best_score = score
+                    best_meta = m
+                    if score == 1.0:
+                        break
 
             if not best_meta:
-                best_meta = metas[0]
+                return None
 
             imdb_id = best_meta.get("id") or best_meta.get("imdb_id")
             poster = best_meta.get("poster")
