@@ -126,8 +126,8 @@
             <h3 class="movie-title">${m.title}</h3>
             <p class="movie-orig-title">${m.original_title || ''} ${m.year ? `(${m.year})` : ''}</p>
             <div class="specs-row">
-              <span class="spec-badge spec-quality">${m.best_quality}</span>
-              <span class="spec-badge spec-res">${m.best_resolution}</span>
+              ${m.best_quality && m.best_quality !== 'unknown' ? `<span class="spec-badge spec-quality">${m.best_quality}</span>` : (m.digital_release_date ? `<span class="spec-badge spec-quality">Digital</span>` : '')}
+              ${m.best_resolution && m.best_resolution !== 'unknown' ? `<span class="spec-badge spec-res">${m.best_resolution}</span>` : ''}
               ${m.has_4k ? '<span class="spec-badge spec-4k">4K</span>' : ''}
               ${m.has_hdr ? '<span class="spec-badge spec-hdr">HDR</span>' : ''}
               ${m.has_ru_audio ? '<span class="spec-badge spec-ru">RU</span>' : ''}
