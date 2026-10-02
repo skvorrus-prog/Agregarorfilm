@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="playGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a5b4fc"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="stripes" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e0e7ff"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Outer Glow & Background -->
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="none" stroke="#6366f1" stroke-width="2" stroke-opacity="0.8"/>
+  
+  <!-- Clapperboard Top Bar -->
+  <path d="M12 16 L52 16 A 2 2 0 0 1 54 18 L54 26 L10 26 L10 18 A 2 2 0 0 1 12 16 Z" fill="#312e81"/>
+  
+  <!-- Diagonal Slanted Stripes -->
+  <polygon points="15,16 22,16 18,26 11,26" fill="url(#stripes)"/>
+  <polygon points="27,16 34,16 30,26 23,26" fill="url(#stripes)"/>
+  <polygon points="39,16 46,16 42,26 35,26" fill="url(#stripes)"/>
+  <polygon points="51,16 53,16 49,26 47,26" fill="url(#stripes)"/>
+  
+  <!-- Clapperboard Main Body -->
+  <rect x="10" y="26" width="44" height="24" rx="2" fill="#0b0f19"/>
+  <rect x="10" y="26" width="44" height="24" rx="2" fill="none" stroke="#4338ca" stroke-width="1"/>
+  
+  <!-- Stylized Play Button in Center -->
+  <polygon points="28,32 40,38 28,44" fill="url(#playGrad)"/>
+</svg>

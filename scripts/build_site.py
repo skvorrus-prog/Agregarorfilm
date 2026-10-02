@@ -84,6 +84,8 @@ def generate_individual_movie_pages(movies, website_dir: Path) -> None:
   <meta property="og:description" content="{{OVERVIEW}}">
   <meta property="og:image" content="{{POSTER}}">
   <link rel="stylesheet" href="../css/style.css">
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+  <link rel="alternate icon" href="../favicon.ico">
 </head>
 <body class="bg-gray-900 text-white min-h-screen">
   <nav class="border-b border-gray-800 bg-gray-950/80 backdrop-blur sticky top-0 z-50">
