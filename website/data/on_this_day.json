@@ -40,6 +40,21 @@
  "10-02": {
   "2026": [
    {
+    "id": "tt36429458",
+    "title": "Жить эту жизнь",
+    "original_title": "Doing Life",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+    "digital_release_date": "2026-10-02",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt6628920",
     "title": "Придурки",
     "original_title": "Idiots",
@@ -53,6 +68,51 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   },
+   {
+    "id": "m_59a7ff5b9f7a",
+    "title": "Операция «Панда». Дикая миссия",
+    "original_title": "Xiong mao ji hua zhi bi luo qi yu ji",
+    "year": 2026,
+    "poster": null,
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_921c41d3599e",
+    "title": "Мортал Комбат 2",
+    "original_title": "Mortal Kombat II",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.3,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_bd6cb769a0f9",
+    "title": "Джек Райан: Призрачная война",
+    "original_title": "Tom Clancy's Jack Ryan: Ghost War",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGY2MDU2Y2YtOTkzNC00MTY4LThkODYtNWIxNmRlZmRjZWJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
    },
    {
     "id": "m_efb8ef44b311",

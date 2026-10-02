@@ -1,7 +1,79 @@
 {
   "date": "2026-10-02",
-  "count": 10,
+  "count": 14,
   "movies": [
+    {
+      "id": "tt36429458",
+      "title": "Жить эту жизнь",
+      "original_title": "Doing Life",
+      "year": 2026,
+      "overview": "Проникновенные письма из тюрьмы дают начало неожиданным отношениям между Аникой и Кэруселом, но выдержат ли они проверку их темным прошлым?",
+      "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 108,
+      "imdb_id": "tt36429458",
+      "tmdb_id": 1458857,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.0,
+      "tmdb_vote_count": 5,
+      "popularity": 2.0605,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-02",
+      "digital_release_date": "2026-10-02",
+      "first_detected_at": "2026-10-02T22:20:12.539835+00:00",
+      "last_updated_at": "2026-10-02T22:20:19.404953+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "820491ab64a63d49",
+          "movie_id": "tt36429458",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-02",
+          "detected_at": "2026-10-02T22:20:12.539835+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Жить эту жизнь",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Проникновенные письма из тюрьмы дают начало неожиданным отношениям между Аникой и Кэруселом, но выдержат ли они проверку их темным прошлым?",
+            "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+            "genres": [
+              "драма",
+              "мелодрама"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 108,
+            "popularity": 2.0605,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-02",
+            "digital_release_date": "2026-10-02"
+          }
+        }
+      ]
+    },
     {
       "id": "tt6628920",
       "title": "Придурки",
@@ -70,6 +142,186 @@
             "tmdb_vote_count": 43,
             "theatrical_release_date": "2026-08-20",
             "digital_release_date": "2026-10-02"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_59a7ff5b9f7a",
+      "title": "Операция «Панда». Дикая миссия",
+      "original_title": "Xiong mao ji hua zhi bi luo qi yu ji",
+      "year": 2026,
+      "overview": null,
+      "poster": null,
+      "backdrop": null,
+      "genres": [],
+      "countries": [],
+      "runtime": null,
+      "imdb_id": null,
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T22:20:12.539835+00:00",
+      "last_updated_at": "2026-10-02T22:20:22.818949+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "c41f864e4f7395b7",
+          "movie_id": "m_59a7ff5b9f7a",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T15:53:21+00:00",
+          "detected_at": "2026-10-02T22:20:12.539835+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Операция «Панда». Дикая миссия / Xiong mao ji hua zhi bi luo qi yu ji (2026) BDRip-HEVC 1080p от RIPS CLUB | D",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_921c41d3599e",
+      "title": "Мортал Комбат 2",
+      "original_title": "Mortal Kombat II",
+      "year": 2026,
+      "overview": "Может означать:Mortal Kombat II — компьютерная игра 1993 года\nСмертельная битва 2: Истребление — фильм 1997 года\nМортал Комбат 2 — фильм 2026 года",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt17490712",
+      "tmdb_id": null,
+      "imdb_rating": 6.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T22:20:12.539835+00:00",
+      "last_updated_at": "2026-10-02T22:20:21.522816+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "5e36f36da555f777",
+          "movie_id": "m_921c41d3599e",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T16:33:35+00:00",
+          "detected_at": "2026-10-02T22:20:12.539835+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Мортал Комбат 2 / Mortal Kombat II (2026) BDRip-HEVC 1080p от RIPS CLUB | D, P, L, L1, A",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_bd6cb769a0f9",
+      "title": "Джек Райан: Призрачная война",
+      "original_title": "Tom Clancy's Jack Ryan: Ghost War",
+      "year": 2026,
+      "overview": "Follows Jack Ryan who reunites with CIA operatives to navigate a treacherous web of betrayal against an enemy who knows their every move, facing a past they thought was long put to rest.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGY2MDU2Y2YtOTkzNC00MTY4LThkODYtNWIxNmRlZmRjZWJlXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt34378301",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-02T22:20:12.539835+00:00",
+      "last_updated_at": "2026-10-02T22:20:20.960115+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "2e335bc30e8a7201",
+          "movie_id": "m_bd6cb769a0f9",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T18:51:28+00:00",
+          "detected_at": "2026-10-02T22:20:12.539835+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "RStudio",
+          "raw_title": "Джек Райан: Призрачная война / Tom Clancy's Jack Ryan: Ghost War (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | RStudio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "RStudio",
+            "is_secondary_signal": true
           }
         }
       ]
@@ -282,7 +534,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-02T15:52:32.981894+00:00",
-      "last_updated_at": "2026-10-02T15:52:45.346727+00:00",
+      "last_updated_at": "2026-10-02T22:20:21.537172+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -307,6 +559,54 @@
           "details": {
             "quality": "WEB-DL",
             "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Akimbo Production",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "3eae0591377f881f",
+          "movie_id": "m_57678c82d674",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T16:08:32+00:00",
+          "detected_at": "2026-10-02T22:20:12.539835+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Akimbo Production",
+          "raw_title": "Связанные насмерть / Shackled (2026) WEB-DLRip | D | Akimbo Production",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Akimbo Production",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "e58b734796cbceec",
+          "movie_id": "m_57678c82d674",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-02T16:14:44+00:00",
+          "detected_at": "2026-10-02T22:20:12.539835+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Akimbo Production",
+          "raw_title": "Связанные насмерть / Shackled (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Akimbo Production",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
             "hdr": null,
             "audio": null,
             "language": "RU",
