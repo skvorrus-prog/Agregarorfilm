@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "count": 3,
+  "count": 2,
   "movies": [
     {
       "id": "tt36415524",
@@ -180,74 +180,6 @@
             "tmdb_rating": 7.8,
             "tmdb_vote_count": 10,
             "theatrical_release_date": "2026-08-02",
-            "digital_release_date": "2026-08-03"
-          }
-        }
-      ]
-    },
-    {
-      "id": "tt43729889",
-      "title": "Буря на улице Сезам",
-      "original_title": "Storm on Sesame Street",
-      "year": 2026,
-      "overview": "После урагана, обрушившегося на улицу Сезам, у Большой Птицы больше нет гнезда. Но его друзья объединяются, чтобы подбодрить его и помочь восстановить его дом.",
-      "poster": "https://image.tmdb.org/t/p/w500/6xwZRT9kZ9CSCVxq3Bhmt8Wu87I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg",
-      "genres": [
-        "семейный",
-        "мультфильм"
-      ],
-      "countries": [],
-      "runtime": 30,
-      "imdb_id": "tt43729889",
-      "tmdb_id": 1740877,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": 6.8,
-      "tmdb_vote_count": 9,
-      "popularity": 9.7373,
-      "popularity_source": "TMDB",
-      "theatrical_release_date": "2026-08-03",
-      "digital_release_date": "2026-08-03",
-      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-10-02T09:43:27.352067+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "8eb9fba95fea73ac",
-          "movie_id": "tt43729889",
-          "event_type": "DIGITAL_PREMIERE",
-          "source_name": "TMDB",
-          "source_release_date": "2026-08-03",
-          "detected_at": "2026-10-02T09:42:14.013589+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": null,
-          "raw_title": "Буря на улице Сезам",
-          "details": {
-            "quality": "WEB-DL",
-            "overview": "После урагана, обрушившегося на улицу Сезам, у Большой Птицы больше нет гнезда. Но его друзья объединяются, чтобы подбодрить его и помочь восстановить его дом.",
-            "poster": "https://image.tmdb.org/t/p/w500/6xwZRT9kZ9CSCVxq3Bhmt8Wu87I.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1280/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg",
-            "genres": [
-              "семейный",
-              "мультфильм"
-            ],
-            "countries": [],
-            "runtime": 30,
-            "popularity": 9.7373,
-            "popularity_source": "TMDB",
-            "tmdb_rating": 6.8,
-            "tmdb_vote_count": 9,
-            "theatrical_release_date": "2026-08-03",
             "digital_release_date": "2026-08-03"
           }
         }

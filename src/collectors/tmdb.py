@@ -28,11 +28,11 @@ class TMDBDigitalSource(BaseSource):
                 items_count=0,
             )
 
-        # Determine whether this is an explicit backfill run
+        # Always enforce quality thresholds: min 5 votes, min 50 minutes runtime
         is_backfill = bool(date_from)
         max_pages = 10 if is_backfill else 1
         max_items = 200 if is_backfill else 25
-        min_votes = 5 if is_backfill else 1
+        min_votes = 5
 
         today = datetime.now(timezone.utc).date()
         d_to = date_to or today.isoformat()
@@ -51,6 +51,7 @@ class TMDBDigitalSource(BaseSource):
                     "release_date.lte": d_to,
                     "sort_by": "primary_release_date.desc",
                     "vote_count.gte": min_votes,
+                    "with_runtime.gte": 50,
                     "language": "ru-RU",
                     "page": current_page,
                 }
@@ -80,6 +81,13 @@ class TMDBDigitalSource(BaseSource):
                         det = det_resp.json()
                     except Exception:
                         det = item
+
+                    # Strict feature film filter: reject short films and zero-vote additions
+                    runtime = det.get("runtime")
+                    if runtime is not None and runtime > 0 and runtime < 50:
+                        continue
+                    if det.get("vote_count", 0) < min_votes:
+                        continue
 
                     imdb_id = det.get("external_ids", {}).get("imdb_id")
                     poster_path = det.get("poster_path")

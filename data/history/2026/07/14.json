@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "count": 2,
+  "count": 1,
   "movies": [
     {
       "id": "tt37371014",
@@ -67,76 +67,6 @@
             "tmdb_rating": 7.1,
             "tmdb_vote_count": 6,
             "theatrical_release_date": "2026-07-10",
-            "digital_release_date": "2026-07-14"
-          }
-        }
-      ]
-    },
-    {
-      "id": "tt43677301",
-      "title": "The Odyssey: The Making of an Epic",
-      "original_title": "The Odyssey: The Making of an Epic",
-      "year": 2026,
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fXUxAL8w724dI9yT5UbwJuk29K9.jpg",
-      "genres": [
-        "документальный"
-      ],
-      "countries": [
-        "United States of America"
-      ],
-      "runtime": 23,
-      "imdb_id": "tt43677301",
-      "tmdb_id": 1731494,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": 6.3,
-      "tmdb_vote_count": 18,
-      "popularity": 3.4439,
-      "popularity_source": "TMDB",
-      "theatrical_release_date": "2026-07-14",
-      "digital_release_date": "2026-07-14",
-      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-10-02T09:43:34.228244+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "b3c82abe5edee620",
-          "movie_id": "tt43677301",
-          "event_type": "DIGITAL_PREMIERE",
-          "source_name": "TMDB",
-          "source_release_date": "2026-07-14",
-          "detected_at": "2026-10-02T09:42:14.013589+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": null,
-          "raw_title": "The Odyssey: The Making of an Epic",
-          "details": {
-            "quality": "WEB-DL",
-            "overview": "",
-            "poster": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1280/fXUxAL8w724dI9yT5UbwJuk29K9.jpg",
-            "genres": [
-              "документальный"
-            ],
-            "countries": [
-              "United States of America"
-            ],
-            "runtime": 23,
-            "popularity": 3.4439,
-            "popularity_source": "TMDB",
-            "tmdb_rating": 6.3,
-            "tmdb_vote_count": 18,
-            "theatrical_release_date": "2026-07-14",
             "digital_release_date": "2026-07-14"
           }
         }

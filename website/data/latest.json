@@ -152,76 +152,6 @@
   ]
  },
  {
-  "id": "tmdb_1781915",
-  "title": "Ferret-Man",
-  "original_title": "Ferret-Man",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/mNSHbj9xI2Pj1kXB9VpYZ1k761k.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/3Lp81wZY6ysJ0VE9jXp8yUw8owA.jpg",
-  "genres": [
-   "комедия",
-   "ужасы",
-   "мультфильм"
-  ],
-  "countries": [],
-  "runtime": 6,
-  "imdb_id": null,
-  "tmdb_id": 1781915,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 7.0,
-  "tmdb_vote_count": 1,
-  "popularity": 0.6929,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-10-02",
-  "digital_release_date": "2026-10-02",
-  "first_detected_at": "2026-10-02T09:59:38.992578+00:00",
-  "last_updated_at": "2026-10-02T09:59:45.935099+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "d223eab834a531d4",
-    "movie_id": "tmdb_1781915",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-02",
-    "detected_at": "2026-10-02T09:59:38.992578+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": "Man",
-    "raw_title": "Ferret-Man",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/mNSHbj9xI2Pj1kXB9VpYZ1k761k.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/3Lp81wZY6ysJ0VE9jXp8yUw8owA.jpg",
-     "genres": [
-      "комедия",
-      "ужасы",
-      "мультфильм"
-     ],
-     "countries": [],
-     "runtime": 6,
-     "popularity": 0.6929,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-10-02",
-     "digital_release_date": "2026-10-02"
-    }
-   }
-  ]
- },
- {
   "id": "tt6628920",
   "title": "Придурки",
   "original_title": "Idiots",
@@ -623,311 +553,6 @@
      "tmdb_vote_count": 5,
      "theatrical_release_date": "2026-10-01",
      "digital_release_date": "2026-10-01"
-    }
-   }
-  ]
- },
- {
-  "id": "tmdb_1783630",
-  "title": "There Are No Rules",
-  "original_title": "There Are No Rules",
-  "year": 2026,
-  "overview": "Три коротких рассказа об отношениях мужчин и женщин.",
-  "poster": "https://image.tmdb.org/t/p/w500/uyeCzbb2p9gsWXgrRtjnP9OwrN5.jpg",
-  "backdrop": null,
-  "genres": [
-   "документальный",
-   "фантастика"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 101,
-  "imdb_id": "tt0103284",
-  "tmdb_id": 1783630,
-  "imdb_rating": 5.4,
-  "imdb_vote_count": null,
-  "tmdb_rating": 10.0,
-  "tmdb_vote_count": 1,
-  "popularity": 0.2277,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-10-01",
-  "digital_release_date": "2026-10-01",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.484157+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "cfdc5b32b35bdbb6",
-    "movie_id": "tmdb_1783630",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-01",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "There Are No Rules",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/uyeCzbb2p9gsWXgrRtjnP9OwrN5.jpg",
-     "backdrop": null,
-     "genres": [
-      "документальный",
-      "фантастика"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 101,
-     "popularity": 0.2277,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-10-01",
-     "digital_release_date": "2026-10-01"
-    }
-   },
-   {
-    "id": "d19abe5f7bcedaf5",
-    "movie_id": "tmdb_1783630",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-01",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "There Are No Rules",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/uyeCzbb2p9gsWXgrRtjnP9OwrN5.jpg",
-     "backdrop": null,
-     "genres": [
-      "документальный",
-      "фантастика"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 101,
-     "popularity": 0.2277,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-10-01",
-     "digital_release_date": "2026-10-01"
-    }
-   }
-  ]
- },
- {
-  "id": "tmdb_1785448",
-  "title": "灵魂摆渡·公主之梦",
-  "original_title": "灵魂摆渡·公主之梦",
-  "year": 2026,
-  "overview": "Воля дизайнера видеоигр проверяется, когда таинственный дух проникает в его новую семью и угрожает жизни его будущей жены.",
-  "poster": "https://image.tmdb.org/t/p/w500/oLANXaffluZVo4qstCdYdRRxG9B.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/3gJSxVrfIWRU4Guh7dnT2f9ondK.jpg",
-  "genres": [
-   "фэнтези",
-   "драма"
-  ],
-  "countries": [
-   "Taiwan"
-  ],
-  "runtime": 73,
-  "imdb_id": "tt38365045",
-  "tmdb_id": 1785448,
-  "imdb_rating": 5.8,
-  "imdb_vote_count": null,
-  "tmdb_rating": 8.0,
-  "tmdb_vote_count": 1,
-  "popularity": 0.5857,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-10-01",
-  "digital_release_date": "2026-10-01",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.483009+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "8e8349a7c565763d",
-    "movie_id": "tmdb_1785448",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-01",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "灵魂摆渡·公主之梦",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/oLANXaffluZVo4qstCdYdRRxG9B.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/3gJSxVrfIWRU4Guh7dnT2f9ondK.jpg",
-     "genres": [
-      "фэнтези",
-      "драма"
-     ],
-     "countries": [],
-     "runtime": 73,
-     "popularity": 0.5857,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 8.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-10-01",
-     "digital_release_date": "2026-10-01"
-    }
-   },
-   {
-    "id": "69c1f16f2b3ce229",
-    "movie_id": "tmdb_1785448",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-01",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "灵魂摆渡·公主之梦",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/oLANXaffluZVo4qstCdYdRRxG9B.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/3gJSxVrfIWRU4Guh7dnT2f9ondK.jpg",
-     "genres": [
-      "фэнтези",
-      "драма"
-     ],
-     "countries": [],
-     "runtime": 73,
-     "popularity": 0.5857,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 8.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-10-01",
-     "digital_release_date": "2026-10-01"
-    }
-   }
-  ]
- },
- {
-  "id": "tt46066368",
-  "title": "Miller Night Football",
-  "original_title": "Miller Night Football",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/gQOltzLRXVrC4umb5XFvmOL76jT.jpg",
-  "genres": [],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 43,
-  "imdb_id": "tt46066368",
-  "tmdb_id": 1757068,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 10.0,
-  "tmdb_vote_count": 1,
-  "popularity": 2.0833,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-29",
-  "digital_release_date": "2026-09-30",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.492085+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "b3d81f3b9da1a732",
-    "movie_id": "tt46066368",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-30",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Miller Night Football",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/gQOltzLRXVrC4umb5XFvmOL76jT.jpg",
-     "genres": [],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 43,
-     "popularity": 2.0833,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-29",
-     "digital_release_date": "2026-09-30"
-    }
-   },
-   {
-    "id": "e7ba9d9e88e7c18c",
-    "movie_id": "tt46066368",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-30",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Miller Night Football",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/gQOltzLRXVrC4umb5XFvmOL76jT.jpg",
-     "genres": [],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 43,
-     "popularity": 2.0833,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-29",
-     "digital_release_date": "2026-09-30"
     }
    }
   ]
@@ -1352,109 +977,6 @@
      "tmdb_vote_count": 6,
      "theatrical_release_date": "2026-10-02",
      "digital_release_date": "2026-09-30"
-    }
-   }
-  ]
- },
- {
-  "id": "tt45584335",
-  "title": "Сэм Моррил: Неверно",
-  "original_title": "Sam Morril: Incorrect",
-  "year": 2026,
-  "overview": "Сэм Моррил жестко смешит публику, вспоминая свой худший роман на одну ночь, сравнивая знаменитые убийства и рассказывая о нестандартном способе истребления крыс.",
-  "poster": "https://image.tmdb.org/t/p/w500/uXLBzlQTuvGlOhfB0M9HK4BrKqD.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/wUU2MY2wK9SNsSaFzitJvhXAZez.jpg",
-  "genres": [
-   "комедия"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 47,
-  "imdb_id": "tt45584335",
-  "tmdb_id": 1768367,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.5,
-  "tmdb_vote_count": 2,
-  "popularity": 2.6505,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-29",
-  "digital_release_date": "2026-09-29",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.489741+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "a393bdddc99766be",
-    "movie_id": "tt45584335",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-29",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Сэм Моррил: Неверно",
-    "details": {
-     "overview": "Сэм Моррил жестко смешит публику, вспоминая свой худший роман на одну ночь, сравнивая знаменитые убийства и рассказывая о нестандартном способе истребления крыс.",
-     "poster": "https://image.tmdb.org/t/p/w500/uXLBzlQTuvGlOhfB0M9HK4BrKqD.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/wUU2MY2wK9SNsSaFzitJvhXAZez.jpg",
-     "genres": [
-      "комедия"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 47,
-     "popularity": 2.6505,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.5,
-     "tmdb_vote_count": 2,
-     "theatrical_release_date": "2026-09-29",
-     "digital_release_date": "2026-09-29"
-    }
-   },
-   {
-    "id": "38012f9b1f6896f8",
-    "movie_id": "tt45584335",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-29",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Сэм Моррил: Неверно",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Сэм Моррил жестко смешит публику, вспоминая свой худший роман на одну ночь, сравнивая знаменитые убийства и рассказывая о нестандартном способе истребления крыс.",
-     "poster": "https://image.tmdb.org/t/p/w500/uXLBzlQTuvGlOhfB0M9HK4BrKqD.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/wUU2MY2wK9SNsSaFzitJvhXAZez.jpg",
-     "genres": [
-      "комедия"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 47,
-     "popularity": 2.6505,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.5,
-     "tmdb_vote_count": 2,
-     "theatrical_release_date": "2026-09-29",
-     "digital_release_date": "2026-09-29"
     }
    }
   ]
@@ -2061,112 +1583,6 @@
   ]
  },
  {
-  "id": "tt38565032",
-  "title": "Uprooted",
-  "original_title": "Uprooted",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/4ZQvYFiRhZUHvY7UtQXVrdirScl.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/9Clr1Z8Ze7DDNN4hYOOdbgjXcBW.jpg",
-  "genres": [
-   "драма",
-   "семейный"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 29,
-  "imdb_id": "tt38565032",
-  "tmdb_id": 1621277,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.0,
-  "tmdb_vote_count": 1,
-  "popularity": 2.3035,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-26",
-  "digital_release_date": "2026-09-26",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.499324+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "20130a9c030dceb9",
-    "movie_id": "tt38565032",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-26",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Uprooted",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/4ZQvYFiRhZUHvY7UtQXVrdirScl.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/9Clr1Z8Ze7DDNN4hYOOdbgjXcBW.jpg",
-     "genres": [
-      "драма",
-      "семейный"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 29,
-     "popularity": 2.3035,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-26",
-     "digital_release_date": "2026-09-26"
-    }
-   },
-   {
-    "id": "3563db5b708cdbb6",
-    "movie_id": "tt38565032",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-26",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Uprooted",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/4ZQvYFiRhZUHvY7UtQXVrdirScl.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/9Clr1Z8Ze7DDNN4hYOOdbgjXcBW.jpg",
-     "genres": [
-      "драма",
-      "семейный"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 29,
-     "popularity": 2.3035,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-26",
-     "digital_release_date": "2026-09-26"
-    }
-   }
-  ]
- },
- {
   "id": "tt43651150",
   "title": "AEW All Out 2026",
   "original_title": "AEW All Out 2026",
@@ -2264,219 +1680,6 @@
   ]
  },
  {
-  "id": "tmdb_1779177",
-  "title": "Captain Dynamite",
-  "original_title": "Captain Dynamite",
-  "year": 2026,
-  "overview": "Сэм Уилсон, новый Капитан Америка, оказывается в центре международного инцидента и должен раскрыть мотив гнусного глобального плана.",
-  "poster": "https://image.tmdb.org/t/p/w500/5nzE3EmRKWkaDEBOJJsqiBdnlm7.jpg",
-  "backdrop": null,
-  "genres": [
-   "комедия",
-   "боевик",
-   "драма",
-   "приключения"
-  ],
-  "countries": [
-   "United States, Canada"
-  ],
-  "runtime": 20,
-  "imdb_id": "tt14513804",
-  "tmdb_id": 1779177,
-  "imdb_rating": 5.6,
-  "imdb_vote_count": null,
-  "tmdb_rating": 10.0,
-  "tmdb_vote_count": 1,
-  "popularity": 0.5961,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-26",
-  "digital_release_date": "2026-09-26",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.496897+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "25645e4d4e7c5107",
-    "movie_id": "tmdb_1779177",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-26",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Captain Dynamite",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/5nzE3EmRKWkaDEBOJJsqiBdnlm7.jpg",
-     "backdrop": null,
-     "genres": [
-      "комедия",
-      "боевик",
-      "драма",
-      "приключения"
-     ],
-     "countries": [],
-     "runtime": 20,
-     "popularity": 0.5961,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-26",
-     "digital_release_date": "2026-09-26"
-    }
-   },
-   {
-    "id": "5971cf24cfc62bc0",
-    "movie_id": "tmdb_1779177",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-26",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Captain Dynamite",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/5nzE3EmRKWkaDEBOJJsqiBdnlm7.jpg",
-     "backdrop": null,
-     "genres": [
-      "комедия",
-      "боевик",
-      "драма",
-      "приключения"
-     ],
-     "countries": [],
-     "runtime": 20,
-     "popularity": 0.5961,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-26",
-     "digital_release_date": "2026-09-26"
-    }
-   }
-  ]
- },
- {
-  "id": "tmdb_1782255",
-  "title": "We Are Windows",
-  "original_title": "We Are Windows",
-  "year": 2026,
-  "overview": "Прожив долгую и красочную жизнь, Аллан Карлссон застрял в доме престарелых. В свой 100-летний юбилей он выпрыгивает из окна и отправляется в неожиданное путешествие.",
-  "poster": "https://image.tmdb.org/t/p/w500/ggnqbnP8hmOp0tbylE5MhDrpHIa.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/brbYmWyg2gZBdRpkSmcYqPKR5H2.jpg",
-  "genres": [
-   "фэнтези",
-   "мелодрама",
-   "приключения"
-  ],
-  "countries": [
-   "Sweden, Croatia, United States, Turkey, Denmark, Netherlands"
-  ],
-  "runtime": 19,
-  "imdb_id": "tt2113681",
-  "tmdb_id": 1782255,
-  "imdb_rating": 7.0,
-  "imdb_vote_count": null,
-  "tmdb_rating": 10.0,
-  "tmdb_vote_count": 1,
-  "popularity": 0.4592,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-26",
-  "digital_release_date": "2026-09-26",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.495612+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "f92e61dbcd53aea7",
-    "movie_id": "tmdb_1782255",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-26",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "We Are Windows",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/ggnqbnP8hmOp0tbylE5MhDrpHIa.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/brbYmWyg2gZBdRpkSmcYqPKR5H2.jpg",
-     "genres": [
-      "фэнтези",
-      "мелодрама",
-      "приключения"
-     ],
-     "countries": [],
-     "runtime": 19,
-     "popularity": 0.4592,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-26",
-     "digital_release_date": "2026-09-26"
-    }
-   },
-   {
-    "id": "3aaa89e27b60f43f",
-    "movie_id": "tmdb_1782255",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-26",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "We Are Windows",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/ggnqbnP8hmOp0tbylE5MhDrpHIa.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/brbYmWyg2gZBdRpkSmcYqPKR5H2.jpg",
-     "genres": [
-      "фэнтези",
-      "мелодрама",
-      "приключения"
-     ],
-     "countries": [],
-     "runtime": 19,
-     "popularity": 0.4592,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-26",
-     "digital_release_date": "2026-09-26"
-    }
-   }
-  ]
- },
- {
   "id": "tt29494959",
   "title": "Заместитель",
   "original_title": "The Deputy",
@@ -2546,416 +1749,6 @@
      "tmdb_vote_count": 8,
      "theatrical_release_date": "2026-09-25",
      "digital_release_date": "2026-09-25"
-    }
-   }
-  ]
- },
- {
-  "id": "tt29883468",
-  "title": "Other Half",
-  "original_title": "Other Half",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/8YBPmsDbAj96SUw7h1UEQ0REPF6.jpg",
-  "backdrop": null,
-  "genres": [
-   "комедия",
-   "драма"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 15,
-  "imdb_id": "tt29883468",
-  "tmdb_id": 1780284,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 10.0,
-  "tmdb_vote_count": 1,
-  "popularity": 1.0385,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-25",
-  "digital_release_date": "2026-09-25",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.503105+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "892c27155b96b15a",
-    "movie_id": "tt29883468",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-25",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Other Half",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/8YBPmsDbAj96SUw7h1UEQ0REPF6.jpg",
-     "backdrop": null,
-     "genres": [
-      "комедия",
-      "драма"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 15,
-     "popularity": 1.0385,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-25",
-     "digital_release_date": "2026-09-25"
-    }
-   },
-   {
-    "id": "2cf352b9b79fcddb",
-    "movie_id": "tt29883468",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-25",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Other Half",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/8YBPmsDbAj96SUw7h1UEQ0REPF6.jpg",
-     "backdrop": null,
-     "genres": [
-      "комедия",
-      "драма"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 15,
-     "popularity": 1.0385,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-25",
-     "digital_release_date": "2026-09-25"
-    }
-   }
-  ]
- },
- {
-  "id": "tmdb_1781139",
-  "title": "The Confession",
-  "original_title": "The Confession",
-  "year": 2026,
-  "overview": "Высокопоставленный чиновник вынужден признаться в государственной измене.",
-  "poster": "https://image.tmdb.org/t/p/w500/1sfv0USTch2ltjgUrUGFg9NwKm3.jpg",
-  "backdrop": null,
-  "genres": [
-   "детектив",
-   "криминал",
-   "драма",
-   "триллер"
-  ],
-  "countries": [
-   "France, Italy"
-  ],
-  "runtime": 12,
-  "imdb_id": "tt0065439",
-  "tmdb_id": 1781139,
-  "imdb_rating": 7.8,
-  "imdb_vote_count": null,
-  "tmdb_rating": 9.0,
-  "tmdb_vote_count": 1,
-  "popularity": 1.0601,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-25",
-  "digital_release_date": "2026-09-25",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.501835+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "9e663e9c753d17f5",
-    "movie_id": "tmdb_1781139",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-25",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "The Confession",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/1sfv0USTch2ltjgUrUGFg9NwKm3.jpg",
-     "backdrop": null,
-     "genres": [
-      "детектив",
-      "криминал",
-      "драма",
-      "триллер"
-     ],
-     "countries": [],
-     "runtime": 12,
-     "popularity": 1.0601,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 9.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-25",
-     "digital_release_date": "2026-09-25"
-    }
-   },
-   {
-    "id": "dad8185e09c6e10d",
-    "movie_id": "tmdb_1781139",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-25",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "The Confession",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/1sfv0USTch2ltjgUrUGFg9NwKm3.jpg",
-     "backdrop": null,
-     "genres": [
-      "детектив",
-      "криминал",
-      "драма",
-      "триллер"
-     ],
-     "countries": [],
-     "runtime": 12,
-     "popularity": 1.0601,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 9.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-25",
-     "digital_release_date": "2026-09-25"
-    }
-   }
-  ]
- },
- {
-  "id": "tmdb_1784097",
-  "title": "The CEO of Youtube finally said yes.",
-  "original_title": "The CEO of Youtube finally said yes.",
-  "year": 2026,
-  "overview": "Пять сотрудников высшего звена компании отбираются для выездного семинара, где будет выбран новый генеральный директор глобальной компании. То, что начинается как сердечное, вскоре становится кислым, когда они пытаются превзойти друг друга, чтобы быть названными «генеральным директором».",
-  "poster": "https://image.tmdb.org/t/p/w500/jjytAlFuofsFgycq0gj4QJR5T9O.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/bPpDjsdMKqAMrItYqwGdP6S3r16.jpg",
-  "genres": [
-   "комедия",
-   "драма",
-   "боевик",
-   "приключения",
-   "триллер",
-   "детектив"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 70,
-  "imdb_id": "tt5036924",
-  "tmdb_id": 1784097,
-  "imdb_rating": 5.8,
-  "imdb_vote_count": null,
-  "tmdb_rating": 10.0,
-  "tmdb_vote_count": 1,
-  "popularity": 0.3268,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-25",
-  "digital_release_date": "2026-09-25",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.500632+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "ddbbe3c57c7e9a96",
-    "movie_id": "tmdb_1784097",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-25",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "The CEO of Youtube finally said yes.",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/jjytAlFuofsFgycq0gj4QJR5T9O.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/bPpDjsdMKqAMrItYqwGdP6S3r16.jpg",
-     "genres": [
-      "комедия",
-      "драма",
-      "боевик",
-      "приключения",
-      "триллер",
-      "детектив"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 70,
-     "popularity": 0.3268,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-25",
-     "digital_release_date": "2026-09-25"
-    }
-   },
-   {
-    "id": "ffd47189a6d5c2f2",
-    "movie_id": "tmdb_1784097",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-25",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "The CEO of Youtube finally said yes.",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/jjytAlFuofsFgycq0gj4QJR5T9O.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/bPpDjsdMKqAMrItYqwGdP6S3r16.jpg",
-     "genres": [
-      "комедия",
-      "драма",
-      "боевик",
-      "приключения",
-      "триллер",
-      "детектив"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 70,
-     "popularity": 0.3268,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 10.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-25",
-     "digital_release_date": "2026-09-25"
-    }
-   }
-  ]
- },
- {
-  "id": "tt44171293",
-  "title": "Spidey and the Avengers: Halloween Team-Up!",
-  "original_title": "Spidey and the Avengers: Halloween Team-Up!",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
-  "genres": [
-   "мультфильм",
-   "приключения",
-   "фэнтези",
-   "семейный"
-  ],
-  "countries": [
-   "United States of America",
-   "Canada"
-  ],
-  "runtime": 26,
-  "imdb_id": "tt44171293",
-  "tmdb_id": 1750432,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 7.4,
-  "tmdb_vote_count": 5,
-  "popularity": 24.5794,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-24",
-  "digital_release_date": "2026-09-24",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:18.130293+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "ae201ca9cdaa288f",
-    "movie_id": "tt44171293",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-24",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Spidey and the Avengers: Halloween Team-Up!",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
-     "genres": [
-      "мультфильм",
-      "приключения",
-      "фэнтези",
-      "семейный"
-     ],
-     "countries": [
-      "United States of America",
-      "Canada"
-     ],
-     "runtime": 26,
-     "popularity": 24.5794,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.4,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-09-24",
-     "digital_release_date": "2026-09-24"
     }
    }
   ]
@@ -3976,84 +2769,6 @@
      "tmdb_vote_count": 70,
      "theatrical_release_date": "2026-09-18",
      "digital_release_date": "2026-09-18"
-    }
-   }
-  ]
- },
- {
-  "id": "tmdb_1764166",
-  "title": "Thomas & Friends: Really Helpful Engines",
-  "original_title": "Thomas & Friends: Really Helpful Engines",
-  "year": 2026,
-  "overview": "Томас должен доказать, что он самый полезный двигатель на Содоре! Когда Томас узнает, что у Перси и Гордона есть миссия на их день, Томас отправляется на миссию, чтобы найти большую важную работу!",
-  "poster": "https://image.tmdb.org/t/p/w500/9jsgfw2XR9eiIsGRaFbPwnguUTQ.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/kTH0lBNzU8Jnhusr019VIUwL3KL.jpg",
-  "genres": [
-   "мультфильм",
-   "телевизионный фильм",
-   "семейный"
-  ],
-  "countries": [
-   "United States of America",
-   "United Kingdom",
-   "Ireland"
-  ],
-  "runtime": 30,
-  "imdb_id": "tt41007422",
-  "tmdb_id": 1764166,
-  "imdb_rating": 7.7,
-  "imdb_vote_count": null,
-  "tmdb_rating": 8.0,
-  "tmdb_vote_count": 5,
-  "popularity": 2.4849,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-17",
-  "digital_release_date": "2026-09-17",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:23.501045+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "7aec0f429289a1a5",
-    "movie_id": "tmdb_1764166",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-17",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Thomas & Friends: Really Helpful Engines",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/9jsgfw2XR9eiIsGRaFbPwnguUTQ.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/kTH0lBNzU8Jnhusr019VIUwL3KL.jpg",
-     "genres": [
-      "мультфильм",
-      "телевизионный фильм",
-      "семейный"
-     ],
-     "countries": [
-      "United States of America",
-      "United Kingdom",
-      "Ireland"
-     ],
-     "runtime": 30,
-     "popularity": 2.4849,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 8.0,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-09-17",
-     "digital_release_date": "2026-09-17"
     }
    }
   ]
@@ -5239,6 +3954,964 @@
      "tmdb_vote_count": 27,
      "theatrical_release_date": "2026-09-10",
      "digital_release_date": "2026-09-10"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt38061210",
+  "title": "Зачем мы опять женимся?",
+  "original_title": "Why Did I Get Married Again?",
+  "year": 2026,
+  "overview": "Пары вновь встречаются на выездной свадьбе дочери Маркуса и Анджелы, поднимая старые и новые споры и задаваясь вопросом: «А зачем мы вообще поженились?»",
+  "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+  "genres": [
+   "комедия",
+   "мелодрама",
+   "драма"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 111,
+  "imdb_id": "tt38061210",
+  "tmdb_id": 1522689,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.667,
+  "tmdb_vote_count": 33,
+  "popularity": 11.6731,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-08",
+  "digital_release_date": "2026-09-09",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:23.804096+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "d9eb2461afde5933",
+    "movie_id": "tt38061210",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-09",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Зачем мы опять женимся?",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Пары вновь встречаются на выездной свадьбе дочери Маркуса и Анджелы, поднимая старые и новые споры и задаваясь вопросом: «А зачем мы вообще поженились?»",
+     "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+     "genres": [
+      "комедия",
+      "мелодрама",
+      "драма"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 111,
+     "popularity": 11.6731,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.667,
+     "tmdb_vote_count": 33,
+     "theatrical_release_date": "2026-09-08",
+     "digital_release_date": "2026-09-09"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt36073210",
+  "title": "Слоновая кость",
+  "original_title": "Enfrentados: Marfil",
+  "year": 2026,
+  "overview": "После её загадочного похищения в Нью-Йорке дочери испанского магната Марфиль Кортес назначают телохранителя — Себастьяна Мура. Несмотря на конфликт характеров, между ними растёт влечение, пока они вместе сталкиваются с нарастающими угрозами в Испании, где всё не то, чем кажется.",
+  "poster": "https://image.tmdb.org/t/p/w500/kBbKY8vI3FNETcwNC70I2KGXogg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+  "genres": [
+   "мелодрама",
+   "триллер"
+  ],
+  "countries": [
+   "Spain"
+  ],
+  "runtime": 104,
+  "imdb_id": "tt36073210",
+  "tmdb_id": 1440098,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.839,
+  "tmdb_vote_count": 158,
+  "popularity": 86.7456,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-09",
+  "digital_release_date": "2026-09-09",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:23.726499+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "e2a82ff5813a53b4",
+    "movie_id": "tt36073210",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-09",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Слоновая кость",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "После её загадочного похищения в Нью-Йорке дочери испанского магната Марфиль Кортес назначают телохранителя — Себастьяна Мура. Несмотря на конфликт характеров, между ними растёт влечение, пока они вместе сталкиваются с нарастающими угрозами в Испании, где всё не то, чем кажется.",
+     "poster": "https://image.tmdb.org/t/p/w500/kBbKY8vI3FNETcwNC70I2KGXogg.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+     "genres": [
+      "мелодрама",
+      "триллер"
+     ],
+     "countries": [
+      "Spain"
+     ],
+     "runtime": 104,
+     "popularity": 86.7456,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.839,
+     "tmdb_vote_count": 158,
+     "theatrical_release_date": "2026-09-09",
+     "digital_release_date": "2026-09-09"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt27419466",
+  "title": "Моана",
+  "original_title": "Moana",
+  "year": 2026,
+  "overview": "Моана откликается на зов океана. Впервые в жизни она отправляется за риф своего острова Мотунуи вместе с прославленным полубогом Мауи. Их ждёт незабываемое путешествие, которое должно вернуть процветание её народу.",
+  "poster": "https://image.tmdb.org/t/p/w500/s7o0gbvgpjwb8S0Uc5QaEdwJntb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+  "genres": [
+   "семейный",
+   "фэнтези",
+   "комедия",
+   "приключения"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 115,
+  "imdb_id": "tt27419466",
+  "tmdb_id": 1108427,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.402,
+  "tmdb_vote_count": 823,
+  "popularity": 112.3632,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-07-08",
+  "digital_release_date": "2026-09-08",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:35.023721+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "8b08b3a88a8fe0c8",
+    "movie_id": "tt27419466",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-08",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Моана",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Моана откликается на зов океана. Впервые в жизни она отправляется за риф своего острова Мотунуи вместе с прославленным полубогом Мауи. Их ждёт незабываемое путешествие, которое должно вернуть процветание её народу.",
+     "poster": "https://image.tmdb.org/t/p/w500/s7o0gbvgpjwb8S0Uc5QaEdwJntb.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+     "genres": [
+      "семейный",
+      "фэнтези",
+      "комедия",
+      "приключения"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 115,
+     "popularity": 112.3632,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.402,
+     "tmdb_vote_count": 823,
+     "theatrical_release_date": "2026-07-08",
+     "digital_release_date": "2026-09-08"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt32338669",
+  "title": "Мятеж",
+  "original_title": "Mutiny",
+  "year": 2026,
+  "overview": "Коул Рид, некогда служивший в спецназе и полиции, ныне трудится в частной охране. Внезапно на его глазах убивают его босса-миллиардера. Рида подставляют, поэтому он становится главным подозреваемым. Ему приходится бежать от закона. Он решает самостоятельно выйти на след убийцы и в ходе расследования раскрывает грандиозный заговор.",
+  "poster": "https://image.tmdb.org/t/p/w500/opOHbNmV0VPOugSBxrRQKmPgfZL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+  "genres": [
+   "боевик",
+   "триллер"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States of America"
+  ],
+  "runtime": 94,
+  "imdb_id": "tt32338669",
+  "tmdb_id": 1288445,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.383,
+  "tmdb_vote_count": 735,
+  "popularity": 179.0745,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-08-19",
+  "digital_release_date": "2026-09-08",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:24.776009+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "b321c5eaff437ae1",
+    "movie_id": "tt32338669",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-08",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Мятеж",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Коул Рид, некогда служивший в спецназе и полиции, ныне трудится в частной охране. Внезапно на его глазах убивают его босса-миллиардера. Рида подставляют, поэтому он становится главным подозреваемым. Ему приходится бежать от закона. Он решает самостоятельно выйти на след убийцы и в ходе расследования раскрывает грандиозный заговор.",
+     "poster": "https://image.tmdb.org/t/p/w500/opOHbNmV0VPOugSBxrRQKmPgfZL.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+     "genres": [
+      "боевик",
+      "триллер"
+     ],
+     "countries": [
+      "United Kingdom",
+      "United States of America"
+     ],
+     "runtime": 94,
+     "popularity": 179.0745,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.383,
+     "tmdb_vote_count": 735,
+     "theatrical_release_date": "2026-08-19",
+     "digital_release_date": "2026-09-08"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt14119302",
+  "title": "Опасное место",
+  "original_title": "Hot Spot",
+  "year": 2026,
+  "overview": "Действие разворачивается в конце XXI века в антиутопическом обществе, где властью обладает мыслящий искусственный интеллект. В центре истории - частный детектив, который расследует убийство в лагере беженцев. В ходе расследования он сталкивается с тайной религиозной сектой и группой мятежников. У этих бунтарей есть потенциал подорвать власть цифрового повелителя. По мере развития сюжета личность самого детектива постепенно раскрывается, и его мир погружается в глубокий кризис.",
+  "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+  "genres": [
+   "фантастика",
+   "боевик",
+   "криминал",
+   "фэнтези",
+   "триллер"
+  ],
+  "countries": [
+   "Poland",
+   "Greece",
+   "Sweden"
+  ],
+  "runtime": 101,
+  "imdb_id": "tt14119302",
+  "tmdb_id": 813418,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 4.611,
+  "tmdb_vote_count": 36,
+  "popularity": 46.8662,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-08-21",
+  "digital_release_date": "2026-09-08",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:24.614585+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "df24621dda6edc42",
+    "movie_id": "tt14119302",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-08",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Опасное место",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Действие разворачивается в конце XXI века в антиутопическом обществе, где властью обладает мыслящий искусственный интеллект. В центре истории - частный детектив, который расследует убийство в лагере беженцев. В ходе расследования он сталкивается с тайной религиозной сектой и группой мятежников. У этих бунтарей есть потенциал подорвать власть цифрового повелителя. По мере развития сюжета личность самого детектива постепенно раскрывается, и его мир погружается в глубокий кризис.",
+     "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+     "genres": [
+      "фантастика",
+      "боевик",
+      "криминал",
+      "фэнтези",
+      "триллер"
+     ],
+     "countries": [
+      "Poland",
+      "Greece",
+      "Sweden"
+     ],
+     "runtime": 101,
+     "popularity": 46.8662,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 4.611,
+     "tmdb_vote_count": 36,
+     "theatrical_release_date": "2026-08-21",
+     "digital_release_date": "2026-09-08"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt41975820",
+  "title": "Ставрос Халкиас: Дядя Став",
+  "original_title": "Stavros Halkias: Uncle Stav",
+  "year": 2026,
+  "overview": "В этом дерзком стендап-шоу Ставрос Халкиас представляет себя дядей-раздолбаем, разносит систему здравоохранения и предупреждает, чем опасна жизнь в свое удовольствие.",
+  "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/aZY17mncsi7zM8IcvucdxgnbM1C.jpg",
+  "genres": [
+   "комедия"
+  ],
+  "countries": [
+   "United States of America",
+   "Canada"
+  ],
+  "runtime": 64,
+  "imdb_id": "tt41975820",
+  "tmdb_id": 1664003,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.6,
+  "tmdb_vote_count": 9,
+  "popularity": 2.9947,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-08",
+  "digital_release_date": "2026-09-08",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:23.777985+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "6b8f7207bf5a1c4c",
+    "movie_id": "tt41975820",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-08",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Ставрос Халкиас: Дядя Став",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "В этом дерзком стендап-шоу Ставрос Халкиас представляет себя дядей-раздолбаем, разносит систему здравоохранения и предупреждает, чем опасна жизнь в свое удовольствие.",
+     "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/aZY17mncsi7zM8IcvucdxgnbM1C.jpg",
+     "genres": [
+      "комедия"
+     ],
+     "countries": [
+      "United States of America",
+      "Canada"
+     ],
+     "runtime": 64,
+     "popularity": 2.9947,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.6,
+     "tmdb_vote_count": 9,
+     "theatrical_release_date": "2026-09-08",
+     "digital_release_date": "2026-09-08"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt30887701",
+  "title": "Пиноккио: Раскрепощённый",
+  "original_title": "Pinocchio: Unstrung",
+  "year": 2026,
+  "overview": "Пытаясь вывести внука Джеймса из тяжёлого состояния, Джеппетто дарит ему своё новое творение — деревянную куклу по имени Пиноккио, которая оказывается живой. Сначала необычный подарок становится для мальчика настоящим другом, но вскоре за его привязанностью начинает проступать нечто всё более тревожное.",
+  "poster": "https://image.tmdb.org/t/p/w500/Ai7VesRDerUCvER1tnsPnfR3iHg.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg",
+  "genres": [
+   "ужасы",
+   "фэнтези",
+   "детектив"
+  ],
+  "countries": [
+   "United Kingdom"
+  ],
+  "runtime": 82,
+  "imdb_id": "tt30887701",
+  "tmdb_id": 1232569,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.513,
+  "tmdb_vote_count": 119,
+  "popularity": 123.5829,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-07-22",
+  "digital_release_date": "2026-09-07",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:33.776640+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "2355a50daf87e471",
+    "movie_id": "tt30887701",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-07",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Пиноккио: Раскрепощённый",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Пытаясь вывести внука Джеймса из тяжёлого состояния, Джеппетто дарит ему своё новое творение — деревянную куклу по имени Пиноккио, которая оказывается живой. Сначала необычный подарок становится для мальчика настоящим другом, но вскоре за его привязанностью начинает проступать нечто всё более тревожное.",
+     "poster": "https://image.tmdb.org/t/p/w500/Ai7VesRDerUCvER1tnsPnfR3iHg.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg",
+     "genres": [
+      "ужасы",
+      "фэнтези",
+      "детектив"
+     ],
+     "countries": [
+      "United Kingdom"
+     ],
+     "runtime": 82,
+     "popularity": 123.5829,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.513,
+     "tmdb_vote_count": 119,
+     "theatrical_release_date": "2026-07-22",
+     "digital_release_date": "2026-09-07"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt38907741",
+  "title": "Заточение",
+  "original_title": "Confinement",
+  "year": 2026,
+  "overview": "После смерти мужа беременная Стелла приезжает к его загадочной семье. Но вскоре гостеприимство сменяется тревогой: родственники проявляют пугающий интерес к ее будущему ребёнку. Запертая в их доме, Стелла должна разгадать их тайну, пока не стало слишком поздно.",
+  "poster": "https://image.tmdb.org/t/p/w500/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/xQbHmeJdT95pSDMzP92CrvjceBh.jpg",
+  "genres": [
+   "триллер",
+   "ужасы"
+  ],
+  "countries": [
+   "United Kingdom"
+  ],
+  "runtime": 92,
+  "imdb_id": "tt38907741",
+  "tmdb_id": 1742458,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.2,
+  "tmdb_vote_count": 13,
+  "popularity": 4.5882,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-01",
+  "digital_release_date": "2026-09-07",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:24.068961+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "68cd1bc6e44be854",
+    "movie_id": "tt38907741",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-07",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Заточение",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "После смерти мужа беременная Стелла приезжает к его загадочной семье. Но вскоре гостеприимство сменяется тревогой: родственники проявляют пугающий интерес к ее будущему ребёнку. Запертая в их доме, Стелла должна разгадать их тайну, пока не стало слишком поздно.",
+     "poster": "https://image.tmdb.org/t/p/w500/i92X6pBSqZgHAvIX28p0AZJU8xz.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/xQbHmeJdT95pSDMzP92CrvjceBh.jpg",
+     "genres": [
+      "триллер",
+      "ужасы"
+     ],
+     "countries": [
+      "United Kingdom"
+     ],
+     "runtime": 92,
+     "popularity": 4.5882,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.2,
+     "tmdb_vote_count": 13,
+     "theatrical_release_date": "2026-09-01",
+     "digital_release_date": "2026-09-07"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt43600387",
+  "title": "WWE Sunday Night's Main Event",
+  "original_title": "WWE Sunday Night's Main Event",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/6cb2WyORlZArPGMrObSMUdytC9j.jpg",
+  "genres": [
+   "боевик",
+   "драма"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 0,
+  "imdb_id": "tt43600387",
+  "tmdb_id": 1748550,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.4,
+  "tmdb_vote_count": 5,
+  "popularity": 3.4532,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-06",
+  "digital_release_date": "2026-09-07",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:23.832288+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "e3ade7d23343f5a1",
+    "movie_id": "tt43600387",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-07",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "WWE Sunday Night's Main Event",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/6cb2WyORlZArPGMrObSMUdytC9j.jpg",
+     "genres": [
+      "боевик",
+      "драма"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 0,
+     "popularity": 3.4532,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.4,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-09-06",
+     "digital_release_date": "2026-09-07"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt43295610",
+  "title": "Будьте реалистами",
+  "original_title": "特立独行",
+  "year": 2026,
+  "overview": "Тридцать лет назад Ассоциация супергероев под предводительством Ван Чанхая одержала сокрушительную победу над инопланетными захватчиками. Спустя годы абсолютного мира Чанхай получает новое официальное задание - вернуться в свой родной провинциальный городок и сформировать там новый элитный боевой отряд.Однако главная угроза для наивного супергероя кроется вовсе не в монстрах. За десятилетия мирной жизни в городке успела сложиться сложнейшая и запутанная система из бюрократии, кумовства, местечкового этикета и личных связей.",
+  "poster": "https://image.tmdb.org/t/p/w500/dWtKXfN97AMW5n3S6QoUVUMCU2S.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
+  "genres": [
+   "драма",
+   "комедия",
+   "фантастика"
+  ],
+  "countries": [
+   "China"
+  ],
+  "runtime": 0,
+  "imdb_id": "tt43295610",
+  "tmdb_id": 1353926,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.7,
+  "tmdb_vote_count": 10,
+  "popularity": 2.574,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-07-03",
+  "digital_release_date": "2026-09-04",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:35.593560+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "6330e8be31128365",
+    "movie_id": "tt43295610",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-04",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Будьте реалистами",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Тридцать лет назад Ассоциация супергероев под предводительством Ван Чанхая одержала сокрушительную победу над инопланетными захватчиками. Спустя годы абсолютного мира Чанхай получает новое официальное задание - вернуться в свой родной провинциальный городок и сформировать там новый элитный боевой отряд.Однако главная угроза для наивного супергероя кроется вовсе не в монстрах. За десятилетия мирной жизни в городке успела сложиться сложнейшая и запутанная система из бюрократии, кумовства, местечкового этикета и личных связей.",
+     "poster": "https://image.tmdb.org/t/p/w500/dWtKXfN97AMW5n3S6QoUVUMCU2S.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
+     "genres": [
+      "драма",
+      "комедия",
+      "фантастика"
+     ],
+     "countries": [
+      "China"
+     ],
+     "runtime": 0,
+     "popularity": 2.574,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.7,
+     "tmdb_vote_count": 10,
+     "theatrical_release_date": "2026-07-03",
+     "digital_release_date": "2026-09-04"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt27548557",
+  "title": "धमाल ४",
+  "original_title": "धमाल ४",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/oVij5aEEE6iI4PxB4i0CgKp8h0m.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+  "genres": [
+   "комедия"
+  ],
+  "countries": [
+   "India"
+  ],
+  "runtime": 143,
+  "imdb_id": "tt27548557",
+  "tmdb_id": 1303331,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 4.3,
+  "tmdb_vote_count": 13,
+  "popularity": 8.5348,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-07-10",
+  "digital_release_date": "2026-09-04",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:34.781602+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "f494e22d909ec86c",
+    "movie_id": "tt27548557",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-04",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "धमाल ४",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/oVij5aEEE6iI4PxB4i0CgKp8h0m.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+     "genres": [
+      "комедия"
+     ],
+     "countries": [
+      "India"
+     ],
+     "runtime": 143,
+     "popularity": 8.5348,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 4.3,
+     "tmdb_vote_count": 13,
+     "theatrical_release_date": "2026-07-10",
+     "digital_release_date": "2026-09-04"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt38286171",
+  "title": "ഉന്മാദം",
+  "original_title": "ഉന്മാദം",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
+  "genres": [
+   "детектив",
+   "триллер"
+  ],
+  "countries": [
+   "India"
+  ],
+  "runtime": 141,
+  "imdb_id": "tt38286171",
+  "tmdb_id": 1545486,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.2,
+  "tmdb_vote_count": 7,
+  "popularity": 5.4736,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-07-31",
+  "digital_release_date": "2026-09-04",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:27.534701+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "82ff7ce82c4f8424",
+    "movie_id": "tt38286171",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-04",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "ഉന്മാദം",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
+     "genres": [
+      "детектив",
+      "триллер"
+     ],
+     "countries": [
+      "India"
+     ],
+     "runtime": 141,
+     "popularity": 5.4736,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.2,
+     "tmdb_vote_count": 7,
+     "theatrical_release_date": "2026-07-31",
+     "digital_release_date": "2026-09-04"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt37501035",
+  "title": "டிசி",
+  "original_title": "டிசி",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+  "genres": [
+   "мелодрама",
+   "боевик",
+   "драма"
+  ],
+  "countries": [
+   "India"
+  ],
+  "runtime": 142,
+  "imdb_id": "tt37501035",
+  "tmdb_id": 1479832,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.9,
+  "tmdb_vote_count": 23,
+  "popularity": 10.6462,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-08-06",
+  "digital_release_date": "2026-09-04",
+  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
+  "last_updated_at": "2026-10-02T09:43:25.346412+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "97d826270b562413",
+    "movie_id": "tt37501035",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-04",
+    "detected_at": "2026-10-02T09:42:14.013589+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "டிசி",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+     "genres": [
+      "мелодрама",
+      "боевик",
+      "драма"
+     ],
+     "countries": [
+      "India"
+     ],
+     "runtime": 142,
+     "popularity": 10.6462,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.9,
+     "tmdb_vote_count": 23,
+     "theatrical_release_date": "2026-08-06",
+     "digital_release_date": "2026-09-04"
     }
    }
   ]

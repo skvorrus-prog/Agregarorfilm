@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "count": 7,
+  "count": 6,
   "movies": [
     {
       "id": "tt37369064",
@@ -366,80 +366,6 @@
             "popularity_source": "TMDB",
             "tmdb_rating": 4.054,
             "tmdb_vote_count": 642,
-            "theatrical_release_date": "2026-07-03",
-            "digital_release_date": "2026-07-03"
-          }
-        }
-      ]
-    },
-    {
-      "id": "tt43140642",
-      "title": "Simpsley",
-      "original_title": "Simpsley",
-      "year": 2026,
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2vl4nyxi1zVtiqYqJkbP8yTMOQV.jpg",
-      "genres": [
-        "мультфильм",
-        "комедия",
-        "криминал"
-      ],
-      "countries": [
-        "United States of America"
-      ],
-      "runtime": 24,
-      "imdb_id": "tt43140642",
-      "tmdb_id": 1725116,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": 8.1,
-      "tmdb_vote_count": 81,
-      "popularity": 4.2212,
-      "popularity_source": "TMDB",
-      "theatrical_release_date": "2026-07-03",
-      "digital_release_date": "2026-07-03",
-      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-10-02T09:43:35.325019+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "83cda5e9a5971676",
-          "movie_id": "tt43140642",
-          "event_type": "DIGITAL_PREMIERE",
-          "source_name": "TMDB",
-          "source_release_date": "2026-07-03",
-          "detected_at": "2026-10-02T09:42:14.013589+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": null,
-          "raw_title": "Simpsley",
-          "details": {
-            "quality": "WEB-DL",
-            "overview": "",
-            "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1280/2vl4nyxi1zVtiqYqJkbP8yTMOQV.jpg",
-            "genres": [
-              "мультфильм",
-              "комедия",
-              "криминал"
-            ],
-            "countries": [
-              "United States of America"
-            ],
-            "runtime": 24,
-            "popularity": 4.2212,
-            "popularity_source": "TMDB",
-            "tmdb_rating": 8.1,
-            "tmdb_vote_count": 81,
             "theatrical_release_date": "2026-07-03",
             "digital_release_date": "2026-07-03"
           }

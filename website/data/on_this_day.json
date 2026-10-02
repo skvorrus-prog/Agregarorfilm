@@ -40,21 +40,6 @@
  "10-02": {
   "2026": [
    {
-    "id": "tmdb_1781915",
-    "title": "Ferret-Man",
-    "original_title": "Ferret-Man",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mNSHbj9xI2Pj1kXB9VpYZ1k761k.jpg",
-    "digital_release_date": "2026-10-02",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
     "id": "tt6628920",
     "title": "Придурки",
     "original_title": "Idiots",
@@ -194,36 +179,6 @@
     "has_ru_audio": false
    },
    {
-    "id": "tmdb_1783630",
-    "title": "There Are No Rules",
-    "original_title": "There Are No Rules",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/uyeCzbb2p9gsWXgrRtjnP9OwrN5.jpg",
-    "digital_release_date": "2026-10-01",
-    "imdb_rating": 5.4,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "tmdb_1785448",
-    "title": "灵魂摆渡·公主之梦",
-    "original_title": "灵魂摆渡·公主之梦",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/oLANXaffluZVo4qstCdYdRRxG9B.jpg",
-    "digital_release_date": "2026-10-01",
-    "imdb_rating": 5.8,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
     "id": "m_64257ae396c0",
     "title": "Нормал",
     "original_title": "Normal",
@@ -332,21 +287,6 @@
  },
  "09-30": {
   "2026": [
-   {
-    "id": "tt46066368",
-    "title": "Miller Night Football",
-    "original_title": "Miller Night Football",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg",
-    "digital_release_date": "2026-09-30",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
    {
     "id": "tt43750202",
     "title": "Стрим из ада",
@@ -487,21 +427,6 @@
  "09-29": {
   "2026": [
    {
-    "id": "tt45584335",
-    "title": "Сэм Моррил: Неверно",
-    "original_title": "Sam Morril: Incorrect",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/uXLBzlQTuvGlOhfB0M9HK4BrKqD.jpg",
-    "digital_release_date": "2026-09-29",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
     "id": "m_4f2bbcf53619",
     "title": "Хорошие",
     "original_title": "The Nice Ones",
@@ -615,21 +540,6 @@
  "09-26": {
   "2026": [
    {
-    "id": "tt38565032",
-    "title": "Uprooted",
-    "original_title": "Uprooted",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/4ZQvYFiRhZUHvY7UtQXVrdirScl.jpg",
-    "digital_release_date": "2026-09-26",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
     "id": "tt43651150",
     "title": "AEW All Out 2026",
     "original_title": "AEW All Out 2026",
@@ -637,36 +547,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/3Id93rTWF7zWT55Y16NtJ1lS1Am.jpg",
     "digital_release_date": "2026-09-26",
     "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "tmdb_1779177",
-    "title": "Captain Dynamite",
-    "original_title": "Captain Dynamite",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/5nzE3EmRKWkaDEBOJJsqiBdnlm7.jpg",
-    "digital_release_date": "2026-09-26",
-    "imdb_rating": 5.6,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "tmdb_1782255",
-    "title": "We Are Windows",
-    "original_title": "We Are Windows",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/ggnqbnP8hmOp0tbylE5MhDrpHIa.jpg",
-    "digital_release_date": "2026-09-26",
-    "imdb_rating": 7.0,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "unknown",
@@ -685,70 +565,6 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/tgPVH0NIfQGVSUECHOCfZN3LlcQ.jpg",
     "digital_release_date": "2026-09-25",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "tt29883468",
-    "title": "Other Half",
-    "original_title": "Other Half",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8YBPmsDbAj96SUw7h1UEQ0REPF6.jpg",
-    "digital_release_date": "2026-09-25",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "tmdb_1781139",
-    "title": "The Confession",
-    "original_title": "The Confession",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/1sfv0USTch2ltjgUrUGFg9NwKm3.jpg",
-    "digital_release_date": "2026-09-25",
-    "imdb_rating": 7.8,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "tmdb_1784097",
-    "title": "The CEO of Youtube finally said yes.",
-    "original_title": "The CEO of Youtube finally said yes.",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/jjytAlFuofsFgycq0gj4QJR5T9O.jpg",
-    "digital_release_date": "2026-09-25",
-    "imdb_rating": 5.8,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   }
-  ]
- },
- "09-24": {
-  "2026": [
-   {
-    "id": "tt44171293",
-    "title": "Spidey and the Avengers: Halloween Team-Up!",
-    "original_title": "Spidey and the Avengers: Halloween Team-Up!",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
-    "digital_release_date": "2026-09-24",
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
@@ -972,25 +788,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/1nZgTdXgoqt1BVWgBkot0uhwB1f.jpg",
     "digital_release_date": "2026-09-18",
     "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   }
-  ]
- },
- "09-17": {
-  "2026": [
-   {
-    "id": "tmdb_1764166",
-    "title": "Thomas & Friends: Really Helpful Engines",
-    "original_title": "Thomas & Friends: Really Helpful Engines",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/9jsgfw2XR9eiIsGRaFbPwnguUTQ.jpg",
-    "digital_release_date": "2026-09-17",
-    "imdb_rating": 7.7,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "unknown",
@@ -1351,21 +1148,6 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
-   },
-   {
-    "id": "tt43700444",
-    "title": "Untold Mr. T: I Pity the Fool",
-    "original_title": "Untold Mr. T: I Pity the Fool",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
-    "digital_release_date": "2026-09-08",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
    }
   ]
  },
@@ -1408,25 +1190,6 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg",
     "digital_release_date": "2026-09-07",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   }
-  ]
- },
- "09-05": {
-  "2026": [
-   {
-    "id": "tt44942157",
-    "title": "Instadocs: The Decoy Plane",
-    "original_title": "Instadocs: The Decoy Plane",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/uItPhP1Joq94T8BYCqQbIyZ73kE.jpg",
-    "digital_release_date": "2026-09-05",
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
@@ -1826,21 +1589,6 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
-   },
-   {
-    "id": "tt43141030",
-    "title": "Yellow Mirror",
-    "original_title": "Yellow Mirror",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
-    "digital_release_date": "2026-08-26",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
    }
   ]
  },
@@ -2010,21 +1758,6 @@
     "original_title": "La captura",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/cd6wq3ctMo3eKnZvKeYwoasBhJL.jpg",
-    "digital_release_date": "2026-08-21",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "tt43689138",
-    "title": "LEGO Disney Princess: Magical Mayhem",
-    "original_title": "LEGO Disney Princess: Magical Mayhem",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
     "digital_release_date": "2026-08-21",
     "imdb_rating": null,
     "imdb_vote_count": null,
@@ -2569,21 +2302,6 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
-   },
-   {
-    "id": "tt43729889",
-    "title": "Буря на улице Сезам",
-    "original_title": "Storm on Sesame Street",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/6xwZRT9kZ9CSCVxq3Bhmt8Wu87I.jpg",
-    "digital_release_date": "2026-08-03",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
    }
   ]
  },
@@ -2654,46 +2372,12 @@
     "has_ru_audio": false
    },
    {
-    "id": "tt42839367",
-    "title": "Снупи представляет: дом, милый дом",
-    "original_title": "Snoopy Presents: There's No Place Like Home, Snoopy",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/1UKwqsvR2fSquAJfblUHJUwB2qi.jpg",
-    "digital_release_date": "2026-07-31",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
     "id": "tt32654916",
     "title": "СОУЛМ8ЙТ",
     "original_title": "Soulm8te",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/rEZECujbTWvIKAfiSgHSiKYuRAH.jpg",
     "digital_release_date": "2026-07-31",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   }
-  ]
- },
- "07-30": {
-  "2026": [
-   {
-    "id": "tmdb_1757539",
-    "title": "Jejak Sunyi",
-    "original_title": "Jejak Sunyi",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/rQmtiuAyLeu9V9bvWH5KG8oRcsW.jpg",
-    "digital_release_date": "2026-07-30",
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
@@ -2751,25 +2435,6 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/inH9HxbtPFZcUYcTI4AkCNOOxpx.jpg",
     "digital_release_date": "2026-07-27",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   }
-  ]
- },
- "07-26": {
-  "2026": [
-   {
-    "id": "tt43708434",
-    "title": "Instadocs: The Prediction Games",
-    "original_title": "Instadocs: The Prediction Games",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/cFy3ShFy7tJLOrjXRHetQEpTAO5.jpg",
-    "digital_release_date": "2026-07-26",
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
@@ -3237,21 +2902,6 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
-   },
-   {
-    "id": "tt43677301",
-    "title": "The Odyssey: The Making of an Epic",
-    "original_title": "The Odyssey: The Making of an Epic",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
-    "digital_release_date": "2026-07-14",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
    }
   ]
  },
@@ -3276,21 +2926,6 @@
  },
  "07-11": {
   "2026": [
-   {
-    "id": "tt41295042",
-    "title": "ONE PIECE HEROINES",
-    "original_title": "ONE PIECE HEROINES",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-    "digital_release_date": "2026-07-11",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
    {
     "id": "tt39632269",
     "title": "Ikka",
@@ -3538,25 +3173,6 @@
    }
   ]
  },
- "07-05": {
-  "2026": [
-   {
-    "id": "tt43438551",
-    "title": "Hammerhead Sharks Up Close with Bertie Gregory",
-    "original_title": "Hammerhead Sharks Up Close with Bertie Gregory",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
-    "digital_release_date": "2026-07-05",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   }
-  ]
- },
  "07-03": {
   "2026": [
    {
@@ -3625,21 +3241,6 @@
     "original_title": "The Odyssey",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
-    "digital_release_date": "2026-07-03",
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "tt43140642",
-    "title": "Simpsley",
-    "original_title": "Simpsley",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
     "digital_release_date": "2026-07-03",
     "imdb_rating": null,
     "imdb_vote_count": null,

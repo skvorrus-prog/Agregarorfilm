@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "count": 7,
+  "count": 6,
   "movies": [
     {
       "id": "tt28540171",
@@ -438,86 +438,6 @@
             "popularity_source": "TMDB",
             "tmdb_rating": 8.78,
             "tmdb_vote_count": 858,
-            "theatrical_release_date": "2026-08-21",
-            "digital_release_date": "2026-08-21"
-          }
-        }
-      ]
-    },
-    {
-      "id": "tt43689138",
-      "title": "LEGO Disney Princess: Magical Mayhem",
-      "original_title": "LEGO Disney Princess: Magical Mayhem",
-      "year": 2026,
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kBrBcgdite6vpa6VkYEcjZuof7z.jpg",
-      "genres": [
-        "мультфильм",
-        "фэнтези",
-        "комедия",
-        "приключения",
-        "семейный"
-      ],
-      "countries": [
-        "United States of America",
-        "Canada"
-      ],
-      "runtime": 22,
-      "imdb_id": "tt43689138",
-      "tmdb_id": 1732625,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": 6.7,
-      "tmdb_vote_count": 15,
-      "popularity": 12.5143,
-      "popularity_source": "TMDB",
-      "theatrical_release_date": "2026-08-21",
-      "digital_release_date": "2026-08-21",
-      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-10-02T09:43:24.423249+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "fd55af749e3a9e41",
-          "movie_id": "tt43689138",
-          "event_type": "DIGITAL_PREMIERE",
-          "source_name": "TMDB",
-          "source_release_date": "2026-08-21",
-          "detected_at": "2026-10-02T09:42:14.013589+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": null,
-          "raw_title": "LEGO Disney Princess: Magical Mayhem",
-          "details": {
-            "quality": "WEB-DL",
-            "overview": "",
-            "poster": "https://image.tmdb.org/t/p/w500/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1280/kBrBcgdite6vpa6VkYEcjZuof7z.jpg",
-            "genres": [
-              "мультфильм",
-              "фэнтези",
-              "комедия",
-              "приключения",
-              "семейный"
-            ],
-            "countries": [
-              "United States of America",
-              "Canada"
-            ],
-            "runtime": 22,
-            "popularity": 12.5143,
-            "popularity_source": "TMDB",
-            "tmdb_rating": 6.7,
-            "tmdb_vote_count": 15,
             "theatrical_release_date": "2026-08-21",
             "digital_release_date": "2026-08-21"
           }

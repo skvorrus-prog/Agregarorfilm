@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "count": 5,
+  "count": 4,
   "movies": [
     {
       "id": "tt34383465",
@@ -219,80 +219,6 @@
             "tmdb_rating": 4.9,
             "tmdb_vote_count": 7,
             "theatrical_release_date": "2026-07-03",
-            "digital_release_date": "2026-07-31"
-          }
-        }
-      ]
-    },
-    {
-      "id": "tt42839367",
-      "title": "Снупи представляет: дом, милый дом",
-      "original_title": "Snoopy Presents: There's No Place Like Home, Snoopy",
-      "year": 2026,
-      "overview": "У Снупи пропадает дорогое сердцу имущество. Пытаясь его отыскать, он открывает для себя, что дом — это нечто большее, чем просто стены.",
-      "poster": "https://image.tmdb.org/t/p/w500/1UKwqsvR2fSquAJfblUHJUwB2qi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
-      "genres": [
-        "мультфильм",
-        "семейный"
-      ],
-      "countries": [
-        "United States of America",
-        "Canada"
-      ],
-      "runtime": 32,
-      "imdb_id": "tt42839367",
-      "tmdb_id": 1698575,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": 8.5,
-      "tmdb_vote_count": 41,
-      "popularity": 16.8586,
-      "popularity_source": "TMDB",
-      "theatrical_release_date": "2026-07-30",
-      "digital_release_date": "2026-07-31",
-      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-10-02T09:43:31.034980+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "e54eaaacfc364f63",
-          "movie_id": "tt42839367",
-          "event_type": "DIGITAL_PREMIERE",
-          "source_name": "TMDB",
-          "source_release_date": "2026-07-31",
-          "detected_at": "2026-10-02T09:42:14.013589+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": null,
-          "raw_title": "Снупи представляет: дом, милый дом",
-          "details": {
-            "quality": "WEB-DL",
-            "overview": "У Снупи пропадает дорогое сердцу имущество. Пытаясь его отыскать, он открывает для себя, что дом — это нечто большее, чем просто стены.",
-            "poster": "https://image.tmdb.org/t/p/w500/1UKwqsvR2fSquAJfblUHJUwB2qi.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1280/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
-            "genres": [
-              "мультфильм",
-              "семейный"
-            ],
-            "countries": [
-              "United States of America",
-              "Canada"
-            ],
-            "runtime": 32,
-            "popularity": 16.8586,
-            "popularity_source": "TMDB",
-            "tmdb_rating": 8.5,
-            "tmdb_vote_count": 41,
-            "theatrical_release_date": "2026-07-30",
             "digital_release_date": "2026-07-31"
           }
         }

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "count": 2,
+  "count": 1,
   "movies": [
     {
       "id": "tt37654096",
@@ -70,80 +70,6 @@
             "popularity_source": "TMDB",
             "tmdb_rating": 6.858,
             "tmdb_vote_count": 204,
-            "theatrical_release_date": "2026-08-26",
-            "digital_release_date": "2026-08-26"
-          }
-        }
-      ]
-    },
-    {
-      "id": "tt43141030",
-      "title": "Yellow Mirror",
-      "original_title": "Yellow Mirror",
-      "year": 2026,
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
-      "genres": [
-        "мультфильм",
-        "комедия",
-        "фантастика"
-      ],
-      "countries": [
-        "United States of America"
-      ],
-      "runtime": 27,
-      "imdb_id": "tt43141030",
-      "tmdb_id": 1729723,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": 8.114,
-      "tmdb_vote_count": 66,
-      "popularity": 10.2232,
-      "popularity_source": "TMDB",
-      "theatrical_release_date": "2026-08-26",
-      "digital_release_date": "2026-08-26",
-      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-10-02T09:43:24.326231+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "b3846ddd5a8544d2",
-          "movie_id": "tt43141030",
-          "event_type": "DIGITAL_PREMIERE",
-          "source_name": "TMDB",
-          "source_release_date": "2026-08-26",
-          "detected_at": "2026-10-02T09:42:14.013589+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": null,
-          "raw_title": "Yellow Mirror",
-          "details": {
-            "quality": "WEB-DL",
-            "overview": "",
-            "poster": "https://image.tmdb.org/t/p/w500/1zdGvJAuuXC7dA3eV61OtUJNyjQ.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1280/rFjlsx5IygrHmBqr0KsVolAHhy7.jpg",
-            "genres": [
-              "мультфильм",
-              "комедия",
-              "фантастика"
-            ],
-            "countries": [
-              "United States of America"
-            ],
-            "runtime": 27,
-            "popularity": 10.2232,
-            "popularity_source": "TMDB",
-            "tmdb_rating": 8.114,
-            "tmdb_vote_count": 66,
             "theatrical_release_date": "2026-08-26",
             "digital_release_date": "2026-08-26"
           }

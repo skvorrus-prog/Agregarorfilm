@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "count": 5,
+  "count": 4,
   "movies": [
     {
       "id": "tt27419466",
@@ -300,76 +300,6 @@
             "popularity_source": "TMDB",
             "tmdb_rating": 6.6,
             "tmdb_vote_count": 9,
-            "theatrical_release_date": "2026-09-08",
-            "digital_release_date": "2026-09-08"
-          }
-        }
-      ]
-    },
-    {
-      "id": "tt43700444",
-      "title": "Untold Mr. T: I Pity the Fool",
-      "original_title": "Untold Mr. T: I Pity the Fool",
-      "year": 2026,
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
-      "genres": [
-        "документальный"
-      ],
-      "countries": [
-        "United States of America"
-      ],
-      "runtime": 48,
-      "imdb_id": "tt43700444",
-      "tmdb_id": 1739206,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": 7.667,
-      "tmdb_vote_count": 24,
-      "popularity": 7.2106,
-      "popularity_source": "TMDB",
-      "theatrical_release_date": "2026-09-08",
-      "digital_release_date": "2026-09-08",
-      "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-10-02T09:43:23.752268+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "4e1b3106920cc438",
-          "movie_id": "tt43700444",
-          "event_type": "DIGITAL_PREMIERE",
-          "source_name": "TMDB",
-          "source_release_date": "2026-09-08",
-          "detected_at": "2026-10-02T09:42:14.013589+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": null,
-          "raw_title": "Untold Mr. T: I Pity the Fool",
-          "details": {
-            "quality": "WEB-DL",
-            "overview": "",
-            "poster": "https://image.tmdb.org/t/p/w500/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1280/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
-            "genres": [
-              "документальный"
-            ],
-            "countries": [
-              "United States of America"
-            ],
-            "runtime": 48,
-            "popularity": 7.2106,
-            "popularity_source": "TMDB",
-            "tmdb_rating": 7.667,
-            "tmdb_vote_count": 24,
             "theatrical_release_date": "2026-09-08",
             "digital_release_date": "2026-09-08"
           }

@@ -105,6 +105,18 @@ class PipelineRunner:
                 logger.info(f"Skipping vintage catalog release: {title} ({year})")
                 continue
 
+            # Strict short film / amateur filter: reject films with runtime < 50 min
+            runtime_val = raw.metadata.get("runtime")
+            if runtime_val is not None and runtime_val > 0 and runtime_val < 50:
+                logger.info(f"Skipping short film: {title} ({runtime_val} min)")
+                continue
+
+            # Reject unrated amateur additions without IMDb ID and with < 5 votes
+            tmdb_votes = raw.metadata.get("tmdb_vote_count")
+            if tmdb_votes is not None and tmdb_votes < 5 and not raw.imdb_id:
+                logger.info(f"Skipping low-vote amateur submission: {title}")
+                continue
+
             quality = raw.metadata.get("quality") or parsed.quality
             resolution = raw.metadata.get("resolution") or parsed.resolution
             hdr = raw.metadata.get("hdr") or parsed.hdr
