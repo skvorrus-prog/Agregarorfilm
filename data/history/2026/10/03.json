@@ -1,7 +1,67 @@
 {
   "date": "2026-10-03",
-  "count": 1,
+  "count": 2,
   "movies": [
+    {
+      "id": "m_79d35cb81c91",
+      "title": "Де Голль. Часть 1: Сопротивление",
+      "original_title": "La bataille de Gaulle: L’âge de fer",
+      "year": 2026,
+      "overview": "Апокалипсис в найденных кадрах - или как мог начаться конец света в государственной лаборатории, с небольшой группой анархистов и загадочным микроорганизмом: «мицелием», способным переваривать любой металл.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGVkZmMxNWYtNTFlOC00M2UxLTgyNTMtNTVjNWUxNjA5N2QyXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Sci-Fi"
+      ],
+      "countries": [
+        "France"
+      ],
+      "runtime": null,
+      "imdb_id": "tt35323316",
+      "tmdb_id": null,
+      "imdb_rating": 8.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-03T11:48:26.793097+00:00",
+      "last_updated_at": "2026-10-03T11:48:37.808248+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "09ebfe749d616a8e",
+          "movie_id": "m_79d35cb81c91",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-03T10:05:54+00:00",
+          "detected_at": "2026-10-03T11:48:26.793097+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Sub",
+          "raw_title": "Де Голль. Часть 1: Сопротивление / La bataille de Gaulle: L’âge de fer (2026) WEB-DL 1080p | Sub",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "tt32141377",
       "title": "28 Years Later: The Bone Temple",

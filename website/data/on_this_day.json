@@ -3444,7 +3444,7 @@
     "imdb_rating": 6.3,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "720p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
@@ -4087,6 +4087,21 @@
  },
  "10-03": {
   "2026": [
+   {
+    "id": "m_79d35cb81c91",
+    "title": "Де Голль. Часть 1: Сопротивление",
+    "original_title": "La bataille de Gaulle: L’âge de fer",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVkZmMxNWYtNTFlOC00M2UxLTgyNTMtNTVjNWUxNjA5N2QyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 8.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "tt32141377",
     "title": "28 Years Later: The Bone Temple",
