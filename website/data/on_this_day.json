@@ -3768,11 +3768,11 @@
     "digital_release_date": "2026-04-01",
     "imdb_rating": 6.3,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt15047880",
@@ -4087,6 +4087,36 @@
  },
  "10-03": {
   "2026": [
+   {
+    "id": "m_a53d46ce4f84",
+    "title": "Вес победы",
+    "original_title": "The Cut",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTMzMmZkNTctMGQyNy00OGJiLThlZjMtM2VjMTgyMzM3OTdjXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.6,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_5b4c1861119c",
+    "title": "Заклятие 4: Последний обряд",
+    "original_title": "The Conjuring: Last Rites",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2VmMzRkYzgtMzg2ZC00OTFkLTkwMTYtNTMxNjM2YzI1MjgyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "m_79d35cb81c91",
     "title": "Де Голль. Часть 1: Сопротивление",
