@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-03",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt32141377",
+      "title": "28 Years Later: The Bone Temple",
+      "original_title": "28 Years Later: The Bone Temple",
+      "year": 2026,
+      "overview": "Когда Спайка вводят в банду Джимми Кристала на материке, доктор Келсон делает открытие, которое может изменить мир.",
+      "poster": "https://images.metahub.space/poster/small/tt32141377/img",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "countries": [
+        "United Kingdom, United States, Canada"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32141377",
+      "tmdb_id": null,
+      "imdb_rating": 7.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-03T05:26:39.010024+00:00",
+      "last_updated_at": "2026-10-03T05:26:49.136005+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ab869726f19f00da",
+          "movie_id": "tt32141377",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-03T05:26:39.010024+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "28 Years Later: The Bone Temple (2026)",
+          "details": {
+            "title": "28 Years Later: The Bone Temple",
+            "year": 2026,
+            "overview": "As Spike is inducted into Jimmy Crystal's gang on the mainland, Dr. Kelson makes a discovery that could alter the world.",
+            "poster": "https://images.metahub.space/poster/small/tt32141377/img",
+            "genres": [
+              "Horror",
+              "Sci-Fi",
+              "Thriller"
+            ],
+            "countries": [
+              "United Kingdom, United States, Canada"
+            ],
+            "imdb_rating": 7.3,
+            "runtime": null
+          }
+        }
+      ]
+    }
+  ]
+}
