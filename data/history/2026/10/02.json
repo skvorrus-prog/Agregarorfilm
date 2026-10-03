@@ -1,7 +1,79 @@
 {
   "date": "2026-10-02",
-  "count": 14,
+  "count": 15,
   "movies": [
+    {
+      "id": "tt39150288",
+      "title": "К2: опасное восхождение",
+      "original_title": "The Last First: Winter K2",
+      "year": 2026,
+      "overview": "Историческая гонка за звание первого, кто покорит вершину К2 зимой, оборачивается трагедией и показывает, что амбиции, самолюбие и погоня за славой опасны не меньше, чем сама гора.",
+      "poster": "https://image.tmdb.org/t/p/w500/kAi0sMAximFfLjAG3FdtpXv3J7Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "runtime": 98,
+      "imdb_id": "tt39150288",
+      "tmdb_id": 1596303,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.0,
+      "tmdb_vote_count": 5,
+      "popularity": 10.4744,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-02",
+      "digital_release_date": "2026-10-02",
+      "first_detected_at": "2026-10-03T21:25:28.642959+00:00",
+      "last_updated_at": "2026-10-03T21:25:35.847039+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "1c918b31b3bcec30",
+          "movie_id": "tt39150288",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-02",
+          "detected_at": "2026-10-03T21:25:28.642959+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "К2: опасное восхождение",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Историческая гонка за звание первого, кто покорит вершину К2 зимой, оборачивается трагедией и показывает, что амбиции, самолюбие и погоня за славой опасны не меньше, чем сама гора.",
+            "poster": "https://image.tmdb.org/t/p/w500/kAi0sMAximFfLjAG3FdtpXv3J7Y.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America",
+              "United Kingdom"
+            ],
+            "runtime": 98,
+            "popularity": 10.4744,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-02",
+            "digital_release_date": "2026-10-02"
+          }
+        }
+      ]
+    },
     {
       "id": "tt36429458",
       "title": "Жить эту жизнь",
@@ -22,8 +94,8 @@
       "tmdb_id": 1458857,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 5.475,
-      "tmdb_vote_count": 20,
+      "tmdb_rating": 6.065,
+      "tmdb_vote_count": 23,
       "popularity": 36.6267,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-02",
@@ -94,8 +166,8 @@
       "tmdb_id": 445466,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.367,
-      "tmdb_vote_count": 45,
+      "tmdb_rating": 6.223,
+      "tmdb_vote_count": 47,
       "popularity": 42.1655,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-08-20",

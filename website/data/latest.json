@@ -152,6 +152,78 @@
   ]
  },
  {
+  "id": "tt39150288",
+  "title": "К2: опасное восхождение",
+  "original_title": "The Last First: Winter K2",
+  "year": 2026,
+  "overview": "Историческая гонка за звание первого, кто покорит вершину К2 зимой, оборачивается трагедией и показывает, что амбиции, самолюбие и погоня за славой опасны не меньше, чем сама гора.",
+  "poster": "https://image.tmdb.org/t/p/w500/kAi0sMAximFfLjAG3FdtpXv3J7Y.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
+  "genres": [
+   "документальный"
+  ],
+  "countries": [
+   "United States of America",
+   "United Kingdom"
+  ],
+  "runtime": 98,
+  "imdb_id": "tt39150288",
+  "tmdb_id": 1596303,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 5.0,
+  "tmdb_vote_count": 5,
+  "popularity": 10.4744,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-02",
+  "digital_release_date": "2026-10-02",
+  "first_detected_at": "2026-10-03T21:25:28.642959+00:00",
+  "last_updated_at": "2026-10-03T21:25:35.847039+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "1c918b31b3bcec30",
+    "movie_id": "tt39150288",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-02",
+    "detected_at": "2026-10-03T21:25:28.642959+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "К2: опасное восхождение",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Историческая гонка за звание первого, кто покорит вершину К2 зимой, оборачивается трагедией и показывает, что амбиции, самолюбие и погоня за славой опасны не меньше, чем сама гора.",
+     "poster": "https://image.tmdb.org/t/p/w500/kAi0sMAximFfLjAG3FdtpXv3J7Y.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/qRrOatipy002uFn4pPKGSAFS8SG.jpg",
+     "genres": [
+      "документальный"
+     ],
+     "countries": [
+      "United States of America",
+      "United Kingdom"
+     ],
+     "runtime": 98,
+     "popularity": 10.4744,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 5.0,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-02",
+     "digital_release_date": "2026-10-02"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt36429458",
   "title": "Жить эту жизнь",
   "original_title": "Doing Life",
@@ -171,8 +243,8 @@
   "tmdb_id": 1458857,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.475,
-  "tmdb_vote_count": 20,
+  "tmdb_rating": 6.065,
+  "tmdb_vote_count": 23,
   "popularity": 36.6267,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -243,8 +315,8 @@
   "tmdb_id": 445466,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.367,
-  "tmdb_vote_count": 45,
+  "tmdb_rating": 6.223,
+  "tmdb_vote_count": 47,
   "popularity": 42.1655,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-08-20",
@@ -650,7 +722,7 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 6.0,
-  "tmdb_vote_count": 12,
+  "tmdb_vote_count": 14,
   "popularity": 45.6894,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-30",
@@ -1204,8 +1276,8 @@
   "tmdb_id": 977942,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.895,
-  "tmdb_vote_count": 147,
+  "tmdb_rating": 7.799,
+  "tmdb_vote_count": 157,
   "popularity": 161.4715,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1773,7 +1845,7 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 6.6,
-  "tmdb_vote_count": 9,
+  "tmdb_vote_count": 10,
   "popularity": 14.5103,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-25",
@@ -1998,8 +2070,8 @@
   "tmdb_id": 1341138,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.411,
-  "tmdb_vote_count": 56,
+  "tmdb_rating": 6.397,
+  "tmdb_vote_count": 58,
   "popularity": 36.49,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-08-20",
@@ -2142,8 +2214,8 @@
   "tmdb_id": 1607127,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.4,
-  "tmdb_vote_count": 85,
+  "tmdb_rating": 7.453,
+  "tmdb_vote_count": 86,
   "popularity": 111.0886,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-22",
@@ -4837,78 +4909,6 @@
      "tmdb_rating": 4.3,
      "tmdb_vote_count": 13,
      "theatrical_release_date": "2026-07-10",
-     "digital_release_date": "2026-09-04"
-    }
-   }
-  ]
- },
- {
-  "id": "tt38286171",
-  "title": "ഉന്മാദം",
-  "original_title": "ഉന്മാദം",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
-  "genres": [
-   "детектив",
-   "триллер"
-  ],
-  "countries": [
-   "India"
-  ],
-  "runtime": 141,
-  "imdb_id": "tt38286171",
-  "tmdb_id": 1545486,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.2,
-  "tmdb_vote_count": 7,
-  "popularity": 5.4736,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-07-31",
-  "digital_release_date": "2026-09-04",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:27.534701+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "82ff7ce82c4f8424",
-    "movie_id": "tt38286171",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-04",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "ഉന്മാദം",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
-     "genres": [
-      "детектив",
-      "триллер"
-     ],
-     "countries": [
-      "India"
-     ],
-     "runtime": 141,
-     "popularity": 5.4736,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.2,
-     "tmdb_vote_count": 7,
-     "theatrical_release_date": "2026-07-31",
      "digital_release_date": "2026-09-04"
     }
    }

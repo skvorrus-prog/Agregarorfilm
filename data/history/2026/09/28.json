@@ -553,13 +553,13 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.578710+00:00",
-      "status": "ANNOUNCED",
-      "best_quality": "unknown",
-      "best_resolution": "unknown",
+      "last_updated_at": "2026-10-03T21:25:38.668471+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
-      "has_ru_audio": false,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "c46b171f6730fc37",
@@ -590,6 +590,30 @@
             ],
             "imdb_rating": 7.5,
             "runtime": null
+          }
+        },
+        {
+          "id": "90e8dd09b52d39e3",
+          "movie_id": "tt31193180",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-03T16:42:33+00:00",
+          "detected_at": "2026-10-03T21:25:28.642959+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Грешники / Sinners (2025) BDRip 1080p | D, P, А",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]

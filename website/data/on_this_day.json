@@ -40,6 +40,21 @@
  "10-02": {
   "2026": [
    {
+    "id": "tt39150288",
+    "title": "К2: опасное восхождение",
+    "original_title": "The Last First: Winter K2",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kAi0sMAximFfLjAG3FdtpXv3J7Y.jpg",
+    "digital_release_date": "2026-10-02",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt36429458",
     "title": "Жить эту жизнь",
     "original_title": "Doing Life",
@@ -4088,6 +4103,21 @@
  "10-03": {
   "2026": [
    {
+    "id": "m_adef4c1eb26f",
+    "title": "Женский шаолиньский футбол",
+    "original_title": "Убойный футбол 2 / Gong fu nv zu / Kung Fu Soccer",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjI5YTE0NGItYzAyYS00ODQwLTkyZGItY2IyOGExMGFhMDQ4XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_a53d46ce4f84",
     "title": "Вес победы",
     "original_title": "The Cut",
@@ -4235,11 +4265,11 @@
     "digital_release_date": null,
     "imdb_rating": 7.5,
     "imdb_vote_count": null,
-    "best_quality": "unknown",
-    "best_resolution": "unknown",
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt5950044",
