@@ -65,6 +65,25 @@ Sitemap: {base_url}/sitemap.xml
         f.write(content)
 
 
+EVENT_TYPE_NAMES = {
+    "DIGITAL_PREMIERE": "Цифровая премьера",
+    "WEB_DL_DETECTED": "Обнаружен WEB-DL",
+    "BLURAY_DETECTED": "Обнаружен BluRay",
+    "RU_AUDIO_DETECTED": "Русская озвучка",
+    "UHD_DETECTED": "Обнаружен 4K UHD",
+    "RELEASE_DETECTED": "Обнаружен релиз",
+}
+
+
+def format_date_ru(d_str: str | None) -> str:
+    if not d_str or len(d_str) < 10:
+        return "—"
+    parts = d_str[:10].split("-")
+    if len(parts) == 3:
+        return f"{parts[2]}.{parts[1]}.{parts[0]}"
+    return d_str[:10]
+
+
 def generate_individual_movie_pages(movies, website_dir: Path) -> None:
     """Creates static pre-rendered HTML pages for each movie for SEO and direct links."""
     movie_dir = website_dir / "movie"
@@ -296,21 +315,27 @@ def generate_individual_movie_pages(movies, website_dir: Path) -> None:
 
         html = html.replace("{{GENRES}}", ", ".join(m.genres) if m.genres else "—")
         html = html.replace("{{COUNTRIES}}", ", ".join(m.countries) if m.countries else "—")
-        html = html.replace("{{DIGITAL_RELEASE_DATE}}", m.digital_release_date or "Не объявлена")
-        html = html.replace("{{FIRST_DETECTED}}", m.first_detected_at[:10] if m.first_detected_at else "—")
+        html = html.replace("{{DIGITAL_RELEASE_DATE}}", format_date_ru(m.digital_release_date) if m.digital_release_date else "Не объявлена")
+        html = html.replace("{{FIRST_DETECTED}}", format_date_ru(m.first_detected_at) if m.first_detected_at else "—")
 
         timeline_items = []
         if m.events:
             for ev in m.events:
-                date_label = ev.source_release_date or ev.detected_at[:10]
+                date_label = format_date_ru(ev.source_release_date or ev.detected_at)
+                ev_title = EVENT_TYPE_NAMES.get(ev.event_type, ev.event_type.replace('_', ' '))
                 tag_parts = [t for t in [ev.quality, ev.resolution, ev.hdr, ev.audio, ev.language] if t and t != 'unknown']
-                tag_line = " • ".join(tag_parts) if tag_parts else ("Digital Release" if ev.source_name == "TMDB" else "Release Detected")
+                tag_line = " • ".join(tag_parts) if tag_parts else ("Цифровой релиз" if ev.source_name == "TMDB" else "Обнаружен релиз")
+                rel_group = f'<div style="font-size: 0.72rem; color: var(--text-muted); margin-top: 0.2rem;">Релиз-группа: {ev.release_group}</div>' if ev.release_group else ''
                 timeline_items.append(f"""
-                <div class="flex items-start gap-4 p-3 bg-gray-900/60 rounded-xl border border-gray-700/30">
-                  <div class="text-xs font-mono text-indigo-400 bg-indigo-950/60 px-2 py-1 rounded">{date_label}</div>
-                  <div class="flex-1">
-                    <div class="text-sm font-semibold text-white">{ev.event_type.replace('_', ' ')} <span class="text-xs text-gray-400 font-normal">({ev.source_name})</span></div>
-                    <div class="text-xs text-gray-300 mt-1">{tag_line}</div>
+                <div class="timeline-item">
+                  <span class="timeline-date">{date_label}</span>
+                  <div>
+                    <div style="font-size: 0.85rem; font-weight: 700; color: #fff;">
+                      {ev_title}
+                      <span style="font-size: 0.75rem; color: var(--text-muted); font-weight: normal;">({ev.source_name})</span>
+                    </div>
+                    <div style="font-size: 0.78rem; color: var(--text-secondary); margin-top: 0.2rem;">{tag_line}</div>
+                    {rel_group}
                   </div>
                 </div>""")
         else:

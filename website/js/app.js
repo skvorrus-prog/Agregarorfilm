@@ -426,19 +426,20 @@ class App {
     let timelineHTML = '';
     if (movie.events && movie.events.length > 0) {
       timelineHTML = movie.events.map(ev => {
-        const dt = ev.source_release_date || (ev.detected_at ? ev.detected_at.slice(0, 10) : '—');
+        const dt = this.formatDate(ev.source_release_date || ev.detected_at);
+        const eventTitle = this.formatEventType(ev.event_type);
         const tags = [ev.quality, ev.resolution, ev.hdr, ev.audio, ev.language].filter(x => x && x !== 'unknown');
-        const tagsStr = tags.length > 0 ? tags.join(' • ') : (ev.source_name === 'TMDB' ? 'Digital Release' : 'Release Detected');
+        const tagsStr = tags.length > 0 ? tags.join(' • ') : (ev.source_name === 'TMDB' ? 'Цифровой релиз' : 'Обнаружен релиз');
         return `
           <div class="timeline-item">
             <span class="timeline-date">${dt}</span>
             <div>
               <div style="font-size: 0.85rem; font-weight: 700; color: #fff;">
-                ${ev.event_type.replace(/_/g, ' ')}
+                ${eventTitle}
                 <span style="font-size: 0.75rem; color: var(--text-muted); font-weight: normal;">(${ev.source_name})</span>
               </div>
               <div style="font-size: 0.78rem; color: var(--text-secondary); margin-top: 0.2rem;">${tagsStr}</div>
-              ${ev.release_group ? `<div style="font-size: 0.72rem; color: var(--text-muted);">Релиз-группа: ${ev.release_group}</div>` : ''}
+              ${ev.release_group ? `<div style="font-size: 0.72rem; color: var(--text-muted); margin-top: 0.2rem;">Релиз-группа: ${ev.release_group}</div>` : ''}
             </div>
           </div>
         `;
@@ -613,6 +614,19 @@ class App {
     const parts = dateStr.slice(0, 10).split('-');
     if (parts.length !== 3) return dateStr;
     return `${parts[2]}.${parts[1]}.${parts[0]}`;
+  }
+
+  formatEventType(eventType) {
+    if (!eventType) return 'Обнаружен релиз';
+    const map = {
+      'DIGITAL_PREMIERE': 'Цифровая премьера',
+      'WEB_DL_DETECTED': 'Обнаружен WEB-DL',
+      'BLURAY_DETECTED': 'Обнаружен BluRay',
+      'RU_AUDIO_DETECTED': 'Русская озвучка',
+      'UHD_DETECTED': 'Обнаружен 4K UHD',
+      'RELEASE_DETECTED': 'Обнаружен релиз'
+    };
+    return map[eventType] || eventType.replace(/_/g, ' ');
   }
 
   formatMovieWord(c) {
