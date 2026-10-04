@@ -597,6 +597,14 @@ button, input, select {
   color: #fff;
 }
 
+.movie-detail-card {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 1.75rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
 .modal-grid {
   display: grid;
   grid-template-columns: 200px 1fr;
@@ -1206,20 +1214,102 @@ button, input, select {
     font-size: 0.72rem;
   }
 
-  /* Modal on mobile */
+  /* Modal preview and detail pages on mobile */
+  .movie-detail-card {
+    padding: 1rem 0.85rem !important;
+  }
+
+  .modal-overlay {
+    padding: 0.5rem !important;
+    align-items: center !important;
+    overflow-x: hidden !important;
+  }
+
   .modal-dialog {
-    width: 95% !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    overflow-x: hidden !important;
     max-height: 90vh !important;
-    padding: 1.25rem 1rem calc(2rem + env(safe-area-inset-bottom, 0px)) !important;
+    padding: 1rem 0.85rem calc(2rem + env(safe-area-inset-bottom, 0px)) !important;
     border-radius: var(--radius-md) !important;
   }
 
+  .modal-grid {
+    grid-template-columns: 1fr !important;
+    width: 100% !important;
+    min-width: 0 !important;
+    gap: 1rem !important;
+  }
+
+  .modal-grid > div {
+    min-width: 0 !important;
+    max-width: 100% !important;
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+  }
+
+  .modal-grid img {
+    max-width: 180px !important;
+    margin: 0 auto 0.5rem auto !important;
+    display: block !important;
+  }
+
+  .modal-dialog h2 {
+    font-size: 1.35rem !important;
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+    line-height: 1.25 !important;
+  }
+
   .modal-close-btn {
-    top: 0.4rem;
-    right: 0.4rem;
-    width: 38px;
-    height: 38px;
-    font-size: 1.25rem;
+    top: 0.4rem !important;
+    right: 0.4rem !important;
+    width: 36px !important;
+    height: 36px !important;
+    font-size: 1.2rem !important;
+    z-index: 10 !important;
+  }
+
+  .trailer-header {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 0.4rem !important;
+  }
+
+  .trailer-title {
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+    max-width: 100% !important;
+  }
+
+  .trailer-lang-group {
+    flex-wrap: wrap !important;
+    gap: 0.35rem !important;
+  }
+
+  .trailer-footer {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 0.35rem !important;
+  }
+
+  .timeline-item {
+    min-width: 0 !important;
+    word-break: break-word !important;
+    gap: 0.5rem !important;
+    padding: 0.5rem 0.6rem !important;
+  }
+
+  .timeline-item > div {
+    min-width: 0 !important;
+    flex: 1 1 auto !important;
+    word-break: break-word !important;
+  }
+
+  .modal-dialog [style*="grid-template-columns: 1fr 1fr"] {
+    grid-template-columns: 1fr 1fr !important;
+    min-width: 0 !important;
   }
 
   /* Calendar on mobile */
@@ -1306,3 +1396,9 @@ button, input, select {
   }
 }
 
+@media (max-width: 480px) {
+  .modal-dialog [style*="grid-template-columns: 1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+    gap: 0.5rem !important;
+  }
+}
