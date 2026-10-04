@@ -152,6 +152,76 @@
   ]
  },
  {
+  "id": "tt35682658",
+  "title": "Infirmary",
+  "original_title": "Infirmary",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qkxk9URcK33HK54YSXFPQO8aqJH.jpg",
+  "genres": [
+   "ужасы"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 85,
+  "imdb_id": "tt35682658",
+  "tmdb_id": 1610703,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.0,
+  "tmdb_vote_count": 5,
+  "popularity": 11.4534,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-02",
+  "digital_release_date": "2026-10-02",
+  "first_detected_at": "2026-10-04T12:30:48.509504+00:00",
+  "last_updated_at": "2026-10-04T12:30:55.528536+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "5febd9f3fa6533d7",
+    "movie_id": "tt35682658",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-02",
+    "detected_at": "2026-10-04T12:30:48.509504+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Infirmary",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/qkxk9URcK33HK54YSXFPQO8aqJH.jpg",
+     "genres": [
+      "ужасы"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 85,
+     "popularity": 11.4534,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.0,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-02",
+     "digital_release_date": "2026-10-02"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt39150288",
   "title": "К2: опасное восхождение",
   "original_title": "The Last First: Winter K2",
@@ -1147,7 +1217,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 5.667,
   "tmdb_vote_count": 9,
-  "popularity": 12.8963,
+  "popularity": 11.4555,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
   "digital_release_date": "2026-09-29",
@@ -1276,8 +1346,8 @@
   "tmdb_id": 977942,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.788,
-  "tmdb_vote_count": 163,
+  "tmdb_rating": 7.9,
+  "tmdb_vote_count": 179,
   "popularity": 171.1571,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -4863,76 +4933,6 @@
      "tmdb_rating": 6.7,
      "tmdb_vote_count": 10,
      "theatrical_release_date": "2026-07-03",
-     "digital_release_date": "2026-09-04"
-    }
-   }
-  ]
- },
- {
-  "id": "tt27548557",
-  "title": "धमाल ४",
-  "original_title": "धमाल ४",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/oVij5aEEE6iI4PxB4i0CgKp8h0m.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
-  "genres": [
-   "комедия"
-  ],
-  "countries": [
-   "India"
-  ],
-  "runtime": 143,
-  "imdb_id": "tt27548557",
-  "tmdb_id": 1303331,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 4.3,
-  "tmdb_vote_count": 13,
-  "popularity": 8.5348,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-07-10",
-  "digital_release_date": "2026-09-04",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:34.781602+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "f494e22d909ec86c",
-    "movie_id": "tt27548557",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-04",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "धमाल ४",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/oVij5aEEE6iI4PxB4i0CgKp8h0m.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
-     "genres": [
-      "комедия"
-     ],
-     "countries": [
-      "India"
-     ],
-     "runtime": 143,
-     "popularity": 8.5348,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 4.3,
-     "tmdb_vote_count": 13,
-     "theatrical_release_date": "2026-07-10",
      "digital_release_date": "2026-09-04"
     }
    }

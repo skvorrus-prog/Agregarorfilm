@@ -40,6 +40,21 @@
  "10-02": {
   "2026": [
    {
+    "id": "tt35682658",
+    "title": "Infirmary",
+    "original_title": "Infirmary",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+    "digital_release_date": "2026-10-02",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt39150288",
     "title": "К2: опасное восхождение",
     "original_title": "The Last First: Winter K2",
@@ -4102,6 +4117,21 @@
  },
  "10-04": {
   "2026": [
+   {
+    "id": "m_e92583f80905",
+    "title": "Это хит!",
+    "original_title": "Power Ballad",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWI3NGZlNDQtMTAwMC00MGVmLTkyMzgtNjNmYjFhY2VhNDUyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.7,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "m_e257b1d2977b",
     "title": "500 миль",

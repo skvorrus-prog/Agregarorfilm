@@ -152,6 +152,76 @@
   ]
  },
  {
+  "id": "tt35682658",
+  "title": "Infirmary",
+  "original_title": "Infirmary",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qkxk9URcK33HK54YSXFPQO8aqJH.jpg",
+  "genres": [
+   "ужасы"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 85,
+  "imdb_id": "tt35682658",
+  "tmdb_id": 1610703,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.0,
+  "tmdb_vote_count": 5,
+  "popularity": 11.4534,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-02",
+  "digital_release_date": "2026-10-02",
+  "first_detected_at": "2026-10-04T12:30:48.509504+00:00",
+  "last_updated_at": "2026-10-04T12:30:55.528536+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "5febd9f3fa6533d7",
+    "movie_id": "tt35682658",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-02",
+    "detected_at": "2026-10-04T12:30:48.509504+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Infirmary",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/qkxk9URcK33HK54YSXFPQO8aqJH.jpg",
+     "genres": [
+      "ужасы"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 85,
+     "popularity": 11.4534,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.0,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-02",
+     "digital_release_date": "2026-10-02"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt39150288",
   "title": "К2: опасное восхождение",
   "original_title": "The Last First: Winter K2",
@@ -1147,7 +1217,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 5.667,
   "tmdb_vote_count": 9,
-  "popularity": 12.8963,
+  "popularity": 11.4555,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
   "digital_release_date": "2026-09-29",
@@ -1276,8 +1346,8 @@
   "tmdb_id": 977942,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.788,
-  "tmdb_vote_count": 163,
+  "tmdb_rating": 7.9,
+  "tmdb_vote_count": 179,
   "popularity": 171.1571,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -12267,8 +12337,8 @@
   "tmdb_id": 1032863,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.038,
-  "tmdb_vote_count": 445,
+  "tmdb_rating": 8.047,
+  "tmdb_vote_count": 449,
   "popularity": 199.0851,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -15709,8 +15779,8 @@
   "tmdb_id": 1492640,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.577,
-  "tmdb_vote_count": 312,
+  "tmdb_rating": 6.59,
+  "tmdb_vote_count": 316,
   "popularity": 129.6464,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -17373,6 +17443,92 @@
      "tmdb_vote_count": 59,
      "theatrical_release_date": "2026-08-21",
      "digital_release_date": "2025-12-10"
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_e92583f80905",
+  "title": "Это хит!",
+  "original_title": "Power Ballad",
+  "year": 2026,
+  "overview": "Рик, выдохшийся свадебный певец, и Дэнни, увядающая звезда бойз-бэнда, сближаются из-за музыки и ночной джем-сейшн. Когда Дэнни превращает песню Рика в хит, Рик решает вернуть себе признание, которого, по его мнению, он заслуживает.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWI3NGZlNDQtMTAwMC00MGVmLTkyMzgtNjNmYjFhY2VhNDUyXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Music"
+  ],
+  "countries": [
+   "Ireland, United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt32267691",
+  "tmdb_id": null,
+  "imdb_rating": 6.7,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-04T12:30:48.509504+00:00",
+  "last_updated_at": "2026-10-04T12:30:58.294457+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "1577a948d5947248",
+    "movie_id": "m_e92583f80905",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-04T10:35:25+00:00",
+    "detected_at": "2026-10-04T12:30:48.509504+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Paragraph Media",
+    "raw_title": "Это хит! / Power Ballad (2026) WEB-DL 1080p от ELEKTRI4KA | D | Paragraph Media",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Paragraph Media",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "21344302c28c3bd4",
+    "movie_id": "m_e92583f80905",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-04T10:35:32+00:00",
+    "detected_at": "2026-10-04T12:30:48.509504+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Paragraph Media",
+    "raw_title": "Это хит! / Power Ballad (2026) WEB-DLRip от ELEKTRI4KA | D | Paragraph Media",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Paragraph Media",
+     "is_secondary_signal": true
     }
    }
   ]

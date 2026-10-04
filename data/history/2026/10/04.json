@@ -1,7 +1,93 @@
 {
   "date": "2026-10-04",
-  "count": 1,
+  "count": 2,
   "movies": [
+    {
+      "id": "m_e92583f80905",
+      "title": "Это хит!",
+      "original_title": "Power Ballad",
+      "year": 2026,
+      "overview": "Рик, выдохшийся свадебный певец, и Дэнни, увядающая звезда бойз-бэнда, сближаются из-за музыки и ночной джем-сейшн. Когда Дэнни превращает песню Рика в хит, Рик решает вернуть себе признание, которого, по его мнению, он заслуживает.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWI3NGZlNDQtMTAwMC00MGVmLTkyMzgtNjNmYjFhY2VhNDUyXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "countries": [
+        "Ireland, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32267691",
+      "tmdb_id": null,
+      "imdb_rating": 6.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-04T12:30:48.509504+00:00",
+      "last_updated_at": "2026-10-04T12:30:58.294457+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "1577a948d5947248",
+          "movie_id": "m_e92583f80905",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-04T10:35:25+00:00",
+          "detected_at": "2026-10-04T12:30:48.509504+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Paragraph Media",
+          "raw_title": "Это хит! / Power Ballad (2026) WEB-DL 1080p от ELEKTRI4KA | D | Paragraph Media",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Paragraph Media",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "21344302c28c3bd4",
+          "movie_id": "m_e92583f80905",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-04T10:35:32+00:00",
+          "detected_at": "2026-10-04T12:30:48.509504+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Paragraph Media",
+          "raw_title": "Это хит! / Power Ballad (2026) WEB-DLRip от ELEKTRI4KA | D | Paragraph Media",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Paragraph Media",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_e257b1d2977b",
       "title": "500 миль",
