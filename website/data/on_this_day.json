@@ -416,7 +416,7 @@
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "m_a1601de235af",
@@ -4097,6 +4097,25 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   }
+  ]
+ },
+ "10-04": {
+  "2026": [
+   {
+    "id": "m_e257b1d2977b",
+    "title": "500 миль",
+    "original_title": "500 Miles",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmViOWUwOWMtMTNhNS00ZWRiLTk0ZWEtODBiMzY4OTNkMDhiXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
    }
   ]
  },

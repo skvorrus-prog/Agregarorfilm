@@ -173,7 +173,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 7.1,
       "tmdb_vote_count": 6,
-      "popularity": 2.4157,
+      "popularity": 2.359,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-11",
       "digital_release_date": "2026-10-01",
@@ -246,8 +246,8 @@
       "tmdb_id": 1599191,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.8,
-      "tmdb_vote_count": 8,
+      "tmdb_rating": 7.35,
+      "tmdb_vote_count": 10,
       "popularity": 545.7147,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-01",
@@ -718,13 +718,13 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-01T19:01:02.118413+00:00",
-      "last_updated_at": "2026-10-01T19:01:07.474247+00:00",
+      "last_updated_at": "2026-10-04T06:02:19.997585+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
-      "has_ru_audio": false,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "e15c3c233c0bf116",
@@ -747,6 +747,30 @@
             "audio": null,
             "language": null,
             "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "8c1d3223d7639357",
+          "movie_id": "m_7d8304c58967",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-04T04:29:30+00:00",
+          "detected_at": "2026-10-04T06:02:13.120587+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Танк / Наземный корабль / Landship (2026) BDRip 1080p | D",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
             "is_secondary_signal": true
           }
         }
