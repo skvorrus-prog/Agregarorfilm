@@ -84,6 +84,11 @@
 
     <!-- Advanced Filters Drawer -->
     <div id="advanced-filters" class="filter-panel hidden">
+      <div class="mobile-sheet-header">
+        <span class="sheet-title">⚙️ Фильтры каталога</span>
+        <button id="close-filters-sheet-btn" type="button" class="tab-btn" onclick="document.getElementById('advanced-filters').classList.add('hidden'); document.getElementById('toggle-filters-btn').classList.remove('active');">✕ Закрыть</button>
+      </div>
+
       <div class="filter-group">
         <label class="filter-label" for="filter-quality">Качество</label>
         <select id="filter-quality" class="select-control">
@@ -166,6 +171,25 @@
     </div>
   </footer>
 
-  <script type="module" src="js/app.js?v=20261002-2"></script>
+  <!-- Mobile Bottom Navigation Bar (Thumb Zone) -->
+  <nav class="mobile-bottom-nav" aria-label="Мобильная навигация">
+    <a href="index.html" class="mobile-nav-item active">
+      <span class="mobile-nav-icon">🎬</span>
+      <span class="mobile-nav-text">Каталог</span>
+    </a>
+    <a href="calendar.html" class="mobile-nav-item">
+      <span class="mobile-nav-icon">📅</span>
+      <span class="mobile-nav-text">Календарь</span>
+    </a>
+    <a href="stats.html" class="mobile-nav-item">
+      <span class="mobile-nav-icon">📊</span>
+      <span class="mobile-nav-text">Статистика</span>
+    </a>
+  </nav>
+
+  <!-- Floating Scroll-to-Top Button -->
+  <button id="scroll-top-btn" class="scroll-top-btn" aria-label="Наверх" title="Наверх">↑</button>
+
+  <script type="module" src="js/app.js?v=20261004"></script>
 </body>
 </html>

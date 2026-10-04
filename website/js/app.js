@@ -178,6 +178,21 @@ class App {
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape') this.closeModal();
     });
+
+    // Floating Scroll-to-Top Button
+    const scrollBtn = document.getElementById('scroll-top-btn');
+    if (scrollBtn) {
+      window.addEventListener('scroll', () => {
+        if (window.scrollY > 280) {
+          scrollBtn.classList.add('visible');
+        } else {
+          scrollBtn.classList.remove('visible');
+        }
+      }, { passive: true });
+      scrollBtn.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    }
   }
 
   async loadData() {

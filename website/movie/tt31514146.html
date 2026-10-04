@@ -191,7 +191,36 @@
       if (trailerCloseInlineBtn) trailerCloseInlineBtn.addEventListener('click', toggleTrailer);
       if (trailerRuBtn) trailerRuBtn.addEventListener('click', function() { updateTrailerView('ru'); });
       if (trailerEnBtn) trailerEnBtn.addEventListener('click', function() { updateTrailerView('en'); });
+
+      // Scroll to top button
+      const scrollBtn = document.getElementById('scroll-top-btn');
+      if (scrollBtn) {
+        window.addEventListener('scroll', () => {
+          if (window.scrollY > 280) scrollBtn.classList.add('visible');
+          else scrollBtn.classList.remove('visible');
+        }, { passive: true });
+        scrollBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+      }
     })();
   </script>
+
+  <!-- Mobile Bottom Navigation Bar (Thumb Zone) -->
+  <nav class="mobile-bottom-nav" aria-label="Мобильная навигация">
+    <a href="../index.html" class="mobile-nav-item">
+      <span class="mobile-nav-icon">🎬</span>
+      <span class="mobile-nav-text">Каталог</span>
+    </a>
+    <a href="../calendar.html" class="mobile-nav-item">
+      <span class="mobile-nav-icon">📅</span>
+      <span class="mobile-nav-text">Календарь</span>
+    </a>
+    <a href="../stats.html" class="mobile-nav-item">
+      <span class="mobile-nav-icon">📊</span>
+      <span class="mobile-nav-text">Статистика</span>
+    </a>
+  </nav>
+
+  <!-- Floating Scroll-to-Top Button -->
+  <button id="scroll-top-btn" class="scroll-top-btn" aria-label="Наверх" title="Наверх">↑</button>
 </body>
 </html>
