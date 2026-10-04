@@ -1,7 +1,69 @@
 {
   "date": "2026-10-04",
-  "count": 2,
+  "count": 3,
   "movies": [
+    {
+      "id": "m_d7ef98948c18",
+      "title": "Дроп",
+      "original_title": "Drop",
+      "year": 2025,
+      "overview": "Дроп, дроппер или денежный мул — подставное лицо, через которое преступники проводят деньги, добытые преступным путём; чаще всего для этого используют оформленные на него банковскую карту или счёт. Федеральное бюро расследований определяет денежного мула как человека, который переводит незаконно полученные деньги по поручению или по указанию другого лица.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWUyOTNlMjItNWUyZC00ZGJiLTg3MDMtODJmMGQyMGY3NzU3XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "countries": [
+        "United States, Ireland"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32149847",
+      "tmdb_id": null,
+      "imdb_rating": 6.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-04T18:40:10.813911+00:00",
+      "last_updated_at": "2026-10-04T18:40:18.316663+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "a2ae4ecccf6b7ec9",
+          "movie_id": "m_d7ef98948c18",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-04T16:26:30+00:00",
+          "detected_at": "2026-10-04T18:40:10.813911+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Дроп / Drop (2025) BDRip 720p от DoMiNo & селезень | D | Продубляж",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_e92583f80905",
       "title": "Это хит!",
@@ -30,7 +92,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-04T12:30:48.509504+00:00",
-      "last_updated_at": "2026-10-04T12:30:58.294457+00:00",
+      "last_updated_at": "2026-10-04T18:40:17.772119+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -76,6 +138,30 @@
           "language": "RU",
           "release_group": "Paragraph Media",
           "raw_title": "Это хит! / Power Ballad (2026) WEB-DLRip от ELEKTRI4KA | D | Paragraph Media",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Paragraph Media",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "f77793c090e07635",
+          "movie_id": "m_e92583f80905",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-04T17:07:42+00:00",
+          "detected_at": "2026-10-04T18:40:10.813911+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Paragraph Media",
+          "raw_title": "Это хит! / Power Ballad (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Paragraph Media",
           "details": {
             "quality": "WEB-DL",
             "resolution": "unknown",

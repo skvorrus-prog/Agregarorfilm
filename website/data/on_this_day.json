@@ -4118,6 +4118,21 @@
  "10-04": {
   "2026": [
    {
+    "id": "m_d7ef98948c18",
+    "title": "Дроп",
+    "original_title": "Drop",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWUyOTNlMjItNWUyZC00ZGJiLTg3MDMtODJmMGQyMGY3NzU3XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.1,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_e92583f80905",
     "title": "Это хит!",
     "original_title": "Power Ballad",
