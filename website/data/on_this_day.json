@@ -36,6 +36,36 @@
     "has_ru_audio": false
    },
    {
+    "id": "m_d8580969b66b",
+    "title": "Ловушка",
+    "original_title": "Trap",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzJiN2UyZjgtMjQ3MS00MDhhLTg5ZDItZmVjMTU3MTcwNzE4XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.8,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_29b715cd78af",
+    "title": "Астрал 6: Они уже здесь",
+    "original_title": "Insidious: Out of the Further",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_7b3eb670ac41",
     "title": "Человек-паук: Новый день",
     "original_title": "Spider-Man: Brand New Day",
@@ -218,10 +248,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "720p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "m_59a7ff5b9f7a",
@@ -4035,11 +4065,11 @@
     "digital_release_date": "2026-01-22",
     "imdb_rating": 7.3,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt26657236",

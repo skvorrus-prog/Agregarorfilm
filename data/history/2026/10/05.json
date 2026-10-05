@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "count": 3,
+  "count": 5,
   "movies": [
     {
       "id": "tt29356163",
@@ -83,6 +83,154 @@
       ]
     },
     {
+      "id": "m_d8580969b66b",
+      "title": "Ловушка",
+      "original_title": "Trap",
+      "year": 2024,
+      "overview": "Лову́шка — техническое приспособление для ловли кого-либо, например дичи.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzJiN2UyZjgtMjQ3MS00MDhhLTg5ZDItZmVjMTU3MTcwNzE4XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery"
+      ],
+      "countries": [
+        "United States, Canada, United Kingdom, Yemen"
+      ],
+      "runtime": null,
+      "imdb_id": "tt26753003",
+      "tmdb_id": null,
+      "imdb_rating": 5.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-05T22:04:41.289547+00:00",
+      "last_updated_at": "2026-10-05T22:04:50.664044+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "a6d37ee8ec703e7b",
+          "movie_id": "m_d8580969b66b",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T18:17:14+00:00",
+          "detected_at": "2026-10-05T22:04:41.289547+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Ловушка / Trap (2024) BDRip-AVC от DoMiNo & селезень | D, P | Movie Dubbing, TVShows",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_29b715cd78af",
+      "title": "Астрал 6: Они уже здесь",
+      "original_title": "Insidious: Out of the Further",
+      "year": 2026,
+      "overview": "«Астрал 6: Они уже здесь» — американский фильм ужасов о сверхъестественном режиссёра Джейкоба Чейза по собственному сценарию и сюжету Дэвида Лесли Джонсона-Макголдрика и Чейза. Сиквел фильма «Астрал 5: Красная дверь» (2023) и шестой фильм франшизы «Астрал». Главные роли исполнили Лин Шэй, Амелия Ив, Мэйзи Ричардсон-Селлерс и Сэм Спрюлл.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "countries": [
+        "Australia, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32393988",
+      "tmdb_id": null,
+      "imdb_rating": 6.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-05T22:04:41.289547+00:00",
+      "last_updated_at": "2026-10-05T22:04:50.676271+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "007cc059b54fb41f",
+          "movie_id": "m_29b715cd78af",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T17:11:58+00:00",
+          "detected_at": "2026-10-05T22:04:41.289547+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Астрал 6: Они уже здесь / Insidious: Out of the Further (2026) WEB-DL 1080p от EniaHD | D | Cinema Tone Production",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "91cd243dd028ddc9",
+          "movie_id": "m_29b715cd78af",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T20:00:03+00:00",
+          "detected_at": "2026-10-05T22:04:41.289547+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Астрал 6: Они уже здесь / Insidious: Out of the Further (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Cinema Tone Production",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
       "id": "m_7b3eb670ac41",
       "title": "Человек-паук: Новый день",
       "original_title": "Spider-Man: Brand New Day",
@@ -110,7 +258,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
-      "last_updated_at": "2026-10-05T14:54:58.358284+00:00",
+      "last_updated_at": "2026-10-05T22:04:50.683116+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -255,6 +403,30 @@
           "details": {
             "quality": "WEB-DL",
             "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "MovieDalen",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "cc7ec7dd86f088ed",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T15:10:12+00:00",
+          "detected_at": "2026-10-05T22:04:41.289547+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "MovieDalen",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) WEB-DL 2160p | 4К | SDR | D | MovieDalen",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
             "hdr": null,
             "audio": null,
             "language": "RU",
