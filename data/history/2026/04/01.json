@@ -28,7 +28,7 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-04-01",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-10-03T16:29:28.333208+00:00",
+      "last_updated_at": "2026-10-05T14:54:58.349982+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "1080p",
@@ -120,6 +120,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "Movie Dubbing",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a6ff24177296c380",
+          "movie_id": "tt31170389",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T12:09:30+00:00",
+          "detected_at": "2026-10-05T14:54:50.506269+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Зловещие мертвецы: Пекло / Evil Dead Burn (2026) BDRip-HEVC 1080p от Spartanec | D",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
             "is_secondary_signal": true
           }
         }

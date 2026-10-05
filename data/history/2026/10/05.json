@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "count": 2,
+  "count": 3,
   "movies": [
     {
       "id": "tt29356163",
@@ -78,6 +78,188 @@
             "tmdb_vote_count": 153,
             "theatrical_release_date": "2026-07-23",
             "digital_release_date": "2026-10-05"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_7b3eb670ac41",
+      "title": "Человек-паук: Новый день",
+      "original_title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "overview": "«Челове́к-пау́к: Но́вый день» — американский художественный фильм 2026 года режиссёра Дестина Дэниела Креттона с Томом Холландом в главной роли. Сценарий написали Крис Маккенна и Эрик Соммерс по мотивам комиксов Marvel о приключениях супергероя Человека-паука. Фильм стал 38-м по счёту фильмом медиафраншизы «Киновселенная Marvel» (КВМ), вторым в шестой фазе и четвёртым в серии фильмов КВМ о Человеке-пауке после «Человека-паука: Нет пути домой». По сюжету Питер Паркер под альтер эго супергероя Человека-паука анонимно защищает Нью-Йорк. Пока Паркер расследует преступления, он узнаёт большую тайну. Кроме Холланда, в кинокартине сыграли Зендея, Сэди Синк, Джейкоб Баталон, Джон Бернтал, Флоренс Пью, Трэмелл Тиллман, Мариса Томей и Марк Руффало.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "countries": [
+        "United States, Canada, United Kingdom, Germany"
+      ],
+      "runtime": null,
+      "imdb_id": "tt22084616",
+      "tmdb_id": null,
+      "imdb_rating": 8.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
+      "last_updated_at": "2026-10-05T14:54:58.358284+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "0446d9e6a5f3e69c",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T11:48:49+00:00",
+          "detected_at": "2026-10-05T14:54:50.506269+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "MovieDalen",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) WEB-DL 1080p от EniaHD | D | MovieDalen",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "MovieDalen",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a40938e15215b3f2",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T12:48:15+00:00",
+          "detected_at": "2026-10-05T14:54:50.506269+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "MovieDalen",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) WEB-DL 1080p от селезень | D | MovieDalen",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "MovieDalen",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "046130b58fa8edf7",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T13:27:25+00:00",
+          "detected_at": "2026-10-05T14:54:50.506269+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "MovieDalen",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) WEB-DL 720p от селезень | D | MovieDalen",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "MovieDalen",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "2cd1b6798a5826d6",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T13:51:15+00:00",
+          "detected_at": "2026-10-05T14:54:50.506269+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "MovieDalen",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) WEB-DLRip от ELEKTRI4KA | D | MovieDalen",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "MovieDalen",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "337cb57099fc8759",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T13:58:56+00:00",
+          "detected_at": "2026-10-05T14:54:50.506269+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": "MovieDalen",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) UHD WEB-DL 2160p от селезень | HDR | HDR10+ | Dolby Vision Profile 8 | D | MovieDalen",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": "MovieDalen",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "b8749473a3d0823a",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T14:26:22+00:00",
+          "detected_at": "2026-10-05T14:54:50.506269+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "MovieDalen",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | MovieDalen",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "MovieDalen",
+            "is_secondary_signal": true
           }
         }
       ]

@@ -152,6 +152,76 @@
   ]
  },
  {
+  "id": "tt39453404",
+  "title": "Шумахер 1994: Рождение легенды",
+  "original_title": "Schumacher ’94 – Die Geburt einer Legende",
+  "year": 2026,
+  "overview": "Легендарный сезон «Формулы-1» 1994 года, когда Михаэль Шумахер впервые стал чемпионом мира, оживает в личных интервью и архивных кадрах того времени.",
+  "poster": "https://image.tmdb.org/t/p/w500/o09Z2TPQLkLg2zE6U9PUF17RmGf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+  "genres": [
+   "документальный"
+  ],
+  "countries": [
+   "Germany"
+  ],
+  "runtime": 107,
+  "imdb_id": "tt39453404",
+  "tmdb_id": 1752355,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 8.6,
+  "tmdb_vote_count": 5,
+  "popularity": 19.2482,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-02",
+  "digital_release_date": "2026-10-03",
+  "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
+  "last_updated_at": "2026-10-05T14:54:57.550195+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "3153b63db6904332",
+    "movie_id": "tt39453404",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-03",
+    "detected_at": "2026-10-05T14:54:50.506269+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Шумахер 1994: Рождение легенды",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Легендарный сезон «Формулы-1» 1994 года, когда Михаэль Шумахер впервые стал чемпионом мира, оживает в личных интервью и архивных кадрах того времени.",
+     "poster": "https://image.tmdb.org/t/p/w500/o09Z2TPQLkLg2zE6U9PUF17RmGf.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+     "genres": [
+      "документальный"
+     ],
+     "countries": [
+      "Germany"
+     ],
+     "runtime": 107,
+     "popularity": 19.2482,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 8.6,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-02",
+     "digital_release_date": "2026-10-03"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt35682658",
   "title": "Infirmary",
   "original_title": "Infirmary",
@@ -170,8 +240,8 @@
   "tmdb_id": 1610703,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.429,
-  "tmdb_vote_count": 7,
+  "tmdb_rating": 5.5,
+  "tmdb_vote_count": 10,
   "popularity": 13.4591,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -313,8 +383,8 @@
   "tmdb_id": 1458857,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.827,
-  "tmdb_vote_count": 49,
+  "tmdb_rating": 7.12,
+  "tmdb_vote_count": 54,
   "popularity": 73.5983,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -608,7 +678,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 7.1,
   "tmdb_vote_count": 6,
-  "popularity": 2.359,
+  "popularity": 2.3724,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-11",
   "digital_release_date": "2026-10-01",
@@ -791,8 +861,8 @@
   "tmdb_id": 1437195,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.667,
-  "tmdb_vote_count": 24,
+  "tmdb_rating": 5.72,
+  "tmdb_vote_count": 25,
   "popularity": 51.3116,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-30",
@@ -1105,7 +1175,7 @@
   "tmdb_id": 1777750,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.571,
+  "tmdb_rating": 6.6,
   "tmdb_vote_count": 7,
   "popularity": 6.0204,
   "popularity_source": "TMDB",
@@ -1346,9 +1416,9 @@
   "tmdb_id": 977942,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.931,
-  "tmdb_vote_count": 189,
-  "popularity": 171.1571,
+  "tmdb_rating": 7.9,
+  "tmdb_vote_count": 203,
+  "popularity": 177.7465,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
   "digital_release_date": "2026-09-29",
@@ -1839,7 +1909,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 7.75,
   "tmdb_vote_count": 6,
-  "popularity": 4.7743,
+  "popularity": 4.6187,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-26",
   "digital_release_date": "2026-09-26",
@@ -1918,6 +1988,80 @@
   ]
  },
  {
+  "id": "tt39319437",
+  "title": "Buzzkill",
+  "original_title": "Buzzkill",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/uLftvCgy9WFGRnrGbMer7i61Zkn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1tQCDBAvlC8iSt3wRmRgqwbYgNF.jpg",
+  "genres": [
+   "ужасы",
+   "комедия",
+   "триллер"
+  ],
+  "countries": [
+   "Canada"
+  ],
+  "runtime": 95,
+  "imdb_id": "tt39319437",
+  "tmdb_id": 1613037,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 5.3,
+  "tmdb_vote_count": 5,
+  "popularity": 5.8677,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-25",
+  "digital_release_date": "2026-09-25",
+  "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
+  "last_updated_at": "2026-10-05T14:54:57.604722+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "c7eea6a0291edcb6",
+    "movie_id": "tt39319437",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-25",
+    "detected_at": "2026-10-05T14:54:50.506269+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Buzzkill",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/uLftvCgy9WFGRnrGbMer7i61Zkn.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/1tQCDBAvlC8iSt3wRmRgqwbYgNF.jpg",
+     "genres": [
+      "ужасы",
+      "комедия",
+      "триллер"
+     ],
+     "countries": [
+      "Canada"
+     ],
+     "runtime": 95,
+     "popularity": 5.8677,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 5.3,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-09-25",
+     "digital_release_date": "2026-09-25"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt29494959",
   "title": "Заместитель",
   "original_title": "The Deputy",
@@ -1940,7 +2084,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 6.545,
   "tmdb_vote_count": 11,
-  "popularity": 13.2771,
+  "popularity": 11.0974,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-25",
   "digital_release_date": "2026-09-25",
@@ -2237,7 +2381,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 5.722,
   "tmdb_vote_count": 18,
-  "popularity": 29.5775,
+  "popularity": 25.2668,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-08-28",
   "digital_release_date": "2026-09-22",
@@ -4788,152 +4932,6 @@
      "tmdb_vote_count": 13,
      "theatrical_release_date": "2026-09-01",
      "digital_release_date": "2026-09-07"
-    }
-   }
-  ]
- },
- {
-  "id": "tt43600387",
-  "title": "WWE Sunday Night's Main Event",
-  "original_title": "WWE Sunday Night's Main Event",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/6cb2WyORlZArPGMrObSMUdytC9j.jpg",
-  "genres": [
-   "боевик",
-   "драма"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 0,
-  "imdb_id": "tt43600387",
-  "tmdb_id": 1748550,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.4,
-  "tmdb_vote_count": 5,
-  "popularity": 3.4532,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-06",
-  "digital_release_date": "2026-09-07",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:23.832288+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "e3ade7d23343f5a1",
-    "movie_id": "tt43600387",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-07",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "WWE Sunday Night's Main Event",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/vwYCaSIi4D5TGa0bdRhnTBK4sqZ.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/6cb2WyORlZArPGMrObSMUdytC9j.jpg",
-     "genres": [
-      "боевик",
-      "драма"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 0,
-     "popularity": 3.4532,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.4,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-09-06",
-     "digital_release_date": "2026-09-07"
-    }
-   }
-  ]
- },
- {
-  "id": "tt43295610",
-  "title": "Будьте реалистами",
-  "original_title": "特立独行",
-  "year": 2026,
-  "overview": "Тридцать лет назад Ассоциация супергероев под предводительством Ван Чанхая одержала сокрушительную победу над инопланетными захватчиками. Спустя годы абсолютного мира Чанхай получает новое официальное задание - вернуться в свой родной провинциальный городок и сформировать там новый элитный боевой отряд.Однако главная угроза для наивного супергероя кроется вовсе не в монстрах. За десятилетия мирной жизни в городке успела сложиться сложнейшая и запутанная система из бюрократии, кумовства, местечкового этикета и личных связей.",
-  "poster": "https://image.tmdb.org/t/p/w500/dWtKXfN97AMW5n3S6QoUVUMCU2S.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
-  "genres": [
-   "драма",
-   "комедия",
-   "фантастика"
-  ],
-  "countries": [
-   "China"
-  ],
-  "runtime": 0,
-  "imdb_id": "tt43295610",
-  "tmdb_id": 1353926,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.7,
-  "tmdb_vote_count": 10,
-  "popularity": 2.574,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-07-03",
-  "digital_release_date": "2026-09-04",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:35.593560+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "6330e8be31128365",
-    "movie_id": "tt43295610",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-04",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Будьте реалистами",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Тридцать лет назад Ассоциация супергероев под предводительством Ван Чанхая одержала сокрушительную победу над инопланетными захватчиками. Спустя годы абсолютного мира Чанхай получает новое официальное задание - вернуться в свой родной провинциальный городок и сформировать там новый элитный боевой отряд.Однако главная угроза для наивного супергероя кроется вовсе не в монстрах. За десятилетия мирной жизни в городке успела сложиться сложнейшая и запутанная система из бюрократии, кумовства, местечкового этикета и личных связей.",
-     "poster": "https://image.tmdb.org/t/p/w500/dWtKXfN97AMW5n3S6QoUVUMCU2S.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/kTp2i00tjARpsI6wTkU4Q8ArGaX.jpg",
-     "genres": [
-      "драма",
-      "комедия",
-      "фантастика"
-     ],
-     "countries": [
-      "China"
-     ],
-     "runtime": 0,
-     "popularity": 2.574,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.7,
-     "tmdb_vote_count": 10,
-     "theatrical_release_date": "2026-07-03",
-     "digital_release_date": "2026-09-04"
     }
    }
   ]

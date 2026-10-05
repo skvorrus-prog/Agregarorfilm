@@ -36,6 +36,21 @@
     "has_ru_audio": false
    },
    {
+    "id": "m_7b3eb670ac41",
+    "title": "Человек-паук: Новый день",
+    "original_title": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 8.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_047d8440970e",
     "title": "30 ночей с бывшим",
     "original_title": "30 notti con il mio ex",
@@ -45,6 +60,100 @@
     "imdb_rating": 5.7,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
+ "10-03": {
+  "2026": [
+   {
+    "id": "tt39453404",
+    "title": "Шумахер 1994: Рождение легенды",
+    "original_title": "Schumacher ’94 – Die Geburt einer Legende",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/o09Z2TPQLkLg2zE6U9PUF17RmGf.jpg",
+    "digital_release_date": "2026-10-03",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_adef4c1eb26f",
+    "title": "Женский шаолиньский футбол",
+    "original_title": "Убойный футбол 2 / Gong fu nv zu / Kung Fu Soccer",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjI5YTE0NGItYzAyYS00ODQwLTkyZGItY2IyOGExMGFhMDQ4XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_a53d46ce4f84",
+    "title": "Вес победы",
+    "original_title": "The Cut",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTMzMmZkNTctMGQyNy00OGJiLThlZjMtM2VjMTgyMzM3OTdjXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.6,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_5b4c1861119c",
+    "title": "Заклятие 4: Последний обряд",
+    "original_title": "The Conjuring: Last Rites",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2VmMzRkYzgtMzg2ZC00OTFkLTkwMTYtNTMxNjM2YzI1MjgyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_79d35cb81c91",
+    "title": "Де Голль. Часть 1: Сопротивление",
+    "original_title": "La bataille de Gaulle: L’âge de fer",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVkZmMxNWYtNTFlOC00M2UxLTgyNTMtNTVjNWUxNjA5N2QyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 8.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "tt32141377",
+    "title": "28 Years Later: The Bone Temple",
+    "original_title": "28 Years Later: The Bone Temple",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt32141377/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.3,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
     "best_resolution": "unknown",
     "has_4k": false,
     "has_hdr": false,
@@ -738,6 +847,21 @@
  },
  "09-25": {
   "2026": [
+   {
+    "id": "tt39319437",
+    "title": "Buzzkill",
+    "original_title": "Buzzkill",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/uLftvCgy9WFGRnrGbMer7i61Zkn.jpg",
+    "digital_release_date": "2026-09-25",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt29494959",
     "title": "Заместитель",
@@ -4191,85 +4315,6 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
-   }
-  ]
- },
- "10-03": {
-  "2026": [
-   {
-    "id": "m_adef4c1eb26f",
-    "title": "Женский шаолиньский футбол",
-    "original_title": "Убойный футбол 2 / Gong fu nv zu / Kung Fu Soccer",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjI5YTE0NGItYzAyYS00ODQwLTkyZGItY2IyOGExMGFhMDQ4XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 5.7,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "2160p",
-    "has_4k": true,
-    "has_hdr": true,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_a53d46ce4f84",
-    "title": "Вес победы",
-    "original_title": "The Cut",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTMzMmZkNTctMGQyNy00OGJiLThlZjMtM2VjMTgyMzM3OTdjXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 5.6,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "720p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_5b4c1861119c",
-    "title": "Заклятие 4: Последний обряд",
-    "original_title": "The Conjuring: Last Rites",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2VmMzRkYzgtMzg2ZC00OTFkLTkwMTYtNTMxNjM2YzI1MjgyXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.2,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_79d35cb81c91",
-    "title": "Де Голль. Часть 1: Сопротивление",
-    "original_title": "La bataille de Gaulle: L’âge de fer",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGVkZmMxNWYtNTFlOC00M2UxLTgyNTMtNTVjNWUxNjA5N2QyXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 8.5,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "tt32141377",
-    "title": "28 Years Later: The Bone Temple",
-    "original_title": "28 Years Later: The Bone Temple",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt32141377/img",
-    "digital_release_date": null,
-    "imdb_rating": 7.3,
-    "imdb_vote_count": null,
-    "best_quality": "unknown",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
    }
   ]
  },
