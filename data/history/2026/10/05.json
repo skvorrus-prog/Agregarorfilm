@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "count": 1,
+  "count": 2,
   "movies": [
     {
       "id": "tt29356163",
@@ -78,6 +78,67 @@
             "tmdb_vote_count": 153,
             "theatrical_release_date": "2026-07-23",
             "digital_release_date": "2026-10-05"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_047d8440970e",
+      "title": "30 ночей с бывшим",
+      "original_title": "30 notti con il mio ex",
+      "year": 2025,
+      "overview": "Бруно, беспокойный человек из учебника, убеждает свою дочь-подростка принять свою бывшую жену Терри на месяц, только что из долгой психиатрической госпитализации. В конце концов, это всего лишь 30 ночей - что может пойти не так? Тем не менее, изобилие и откровенная честность Терри подвергли рутину Бруно испытанию, поскольку он застрял в тусклых отношениях и на работе, где он изо всех сил пытается самоутвердиться, как ему хотелось бы.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTYzNzAxOWItYTYwMi00YWYwLWE2YTAtNjU4ZTJkZDcyN2ViXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32589868",
+      "tmdb_id": null,
+      "imdb_rating": 5.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-05T05:51:38.084133+00:00",
+      "last_updated_at": "2026-10-05T05:51:48.429551+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4c25c2b11f55f431",
+          "movie_id": "m_047d8440970e",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-05T03:33:25+00:00",
+          "detected_at": "2026-10-05T05:51:38.084133+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "30 ночей с бывшим / 30 notti con il mio ex (2025) WEB-DLRip | Р | Кирилица",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]
