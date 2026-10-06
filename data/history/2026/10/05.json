@@ -306,7 +306,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
-      "last_updated_at": "2026-10-05T22:04:50.683116+00:00",
+      "last_updated_at": "2026-10-06T16:01:16.452792+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -480,6 +480,85 @@
             "language": "RU",
             "release_group": "MovieDalen",
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "e5f7c4f51677b242",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-06T09:09:12+00:00",
+          "detected_at": "2026-10-06T16:01:08.191043+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "MovieDalen",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) UHD WEB-DL 2160p | 4K | SDR | D | MovieDalen",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "MovieDalen",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "dd83d253ed91442c",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-06T14:29:03+00:00",
+          "detected_at": "2026-10-06T16:01:08.191043+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) WEB-DLRip 720p от New-Team | D, P | MovieDalen, HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "76a0e6be2e209299",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-06T16:01:08.191043+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Spider-Man: Brand New Day (2026)",
+          "details": {
+            "title": "Spider-Man: Brand New Day",
+            "year": 2026,
+            "overview": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+            "poster": "https://images.metahub.space/poster/small/tt22084616/img",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Sci-Fi"
+            ],
+            "countries": [
+              "United States, Canada, United Kingdom, Germany"
+            ],
+            "imdb_rating": 8.1,
+            "runtime": null
           }
         }
       ]

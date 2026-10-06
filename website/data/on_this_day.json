@@ -30,7 +30,7 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
@@ -45,10 +45,40 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   },
+   {
+    "id": "m_1a791326beb1",
+    "title": "Мёртвые души",
+    "original_title": "Dead $oul$ / Dead Souls",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWE5ZjlmOGMtNzg2NC00MGI3LWFhYTktYjk2OTJiYmY0M2E2XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_0867eaf73a4c",
+    "title": "Флорист",
+    "original_title": "The Florist",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzlkZWEtNmQ3MC00YWE5LWEwYTctZmU3MzJkYmU2OWQxXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
    },
    {
     "id": "tt30144839",
@@ -966,10 +996,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    }
   ]
  },
