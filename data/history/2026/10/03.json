@@ -282,7 +282,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-03T11:48:26.793097+00:00",
-      "last_updated_at": "2026-10-03T11:48:37.808248+00:00",
+      "last_updated_at": "2026-10-06T06:30:53.336817+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -311,6 +311,54 @@
             "audio": null,
             "language": "RU",
             "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "91db3683de8c3863",
+          "movie_id": "m_79d35cb81c91",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-06T03:51:31+00:00",
+          "detected_at": "2026-10-06T06:30:40.997289+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "L",
+          "raw_title": "Де Голль. Часть 1: Сопротивление / La bataille de Gaulle: L’âge de fer (2026) WEB-DL 1080p | L",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "L",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "fce480ecf23e0731",
+          "movie_id": "m_79d35cb81c91",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-06T04:02:05+00:00",
+          "detected_at": "2026-10-06T06:30:40.997289+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "L",
+          "raw_title": "Де Голль. Часть 1. Сопротивление / La bataille de Gaulle: L’âge de fer (2026) WEB-DLRip-AVC | L",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "L",
             "is_secondary_signal": true
           }
         }

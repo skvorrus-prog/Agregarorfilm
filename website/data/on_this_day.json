@@ -18,6 +18,55 @@
    }
   ]
  },
+ "10-06": {
+  "2026": [
+   {
+    "id": "tt31192372",
+    "title": "Вышка 2",
+    "original_title": "Fall 2: Deadpoint",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/81FLOOicWMgiT67RiqP42pRcTaw.jpg",
+    "digital_release_date": "2026-10-06",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "tt32268691",
+    "title": "Натиск",
+    "original_title": "Onslaught",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fPNLwXvZvBR0gPailvasgqNRVEh.jpg",
+    "digital_release_date": "2026-10-06",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "tt30144839",
+    "title": "One Battle After Another",
+    "original_title": "One Battle After Another",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt30144839/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.7,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-05": {
   "2026": [
    {
@@ -60,9 +109,9 @@
     "imdb_rating": 6.2,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
     "has_ru_audio": true
    },
    {
@@ -437,6 +486,21 @@
  },
  "10-01": {
   "2026": [
+   {
+    "id": "tt43738050",
+    "title": "безумно богатые абсолютно нищие",
+    "original_title": "المهايطية",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/4nQD7STEWNYW2cKldZQZRrYri90.jpg",
+    "digital_release_date": "2026-10-01",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt37601032",
     "title": "Последний богатырь. Колобок",
@@ -3855,7 +3919,7 @@
     "imdb_rating": 7.5,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false

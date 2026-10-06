@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-06",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt31192372",
+      "title": "Вышка 2",
+      "original_title": "Fall 2: Deadpoint",
+      "year": 2026,
+      "overview": "После трагической гибели на вышке B67 видео Шайло разлетелись по сети, а сама она стала легендой среди экстремалов. Однако ее сестра Джакс так и не смогла смириться с утратой. Она находит список самых экстремальных мест на планете, которые Шайло мечтала покорить, и решает пройти его до конца. Следующая цель — смертельно опасный маршрут на горе Кван в Таиланде высотой 2070 метров над уровнем моря. Джакс вместе с подругой и местным гидом отправляется наверх, где ей предстоит столкнуться со своим главным страхом — повторить судьбу сестры.",
+      "poster": "https://image.tmdb.org/t/p/w500/81FLOOicWMgiT67RiqP42pRcTaw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "genres": [
+        "триллер"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "runtime": 98,
+      "imdb_id": "tt31192372",
+      "tmdb_id": 1101412,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.2,
+      "tmdb_vote_count": 60,
+      "popularity": 57.8372,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-01",
+      "digital_release_date": "2026-10-06",
+      "first_detected_at": "2026-10-06T06:30:40.997289+00:00",
+      "last_updated_at": "2026-10-06T06:30:48.398607+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "adfde01c572a6a13",
+          "movie_id": "tt31192372",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-06",
+          "detected_at": "2026-10-06T06:30:40.997289+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Вышка 2",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "После трагической гибели на вышке B67 видео Шайло разлетелись по сети, а сама она стала легендой среди экстремалов. Однако ее сестра Джакс так и не смогла смириться с утратой. Она находит список самых экстремальных мест на планете, которые Шайло мечтала покорить, и решает пройти его до конца. Следующая цель — смертельно опасный маршрут на горе Кван в Таиланде высотой 2070 метров над уровнем моря. Джакс вместе с подругой и местным гидом отправляется наверх, где ей предстоит столкнуться со своим главным страхом — повторить судьбу сестры.",
+            "poster": "https://image.tmdb.org/t/p/w500/81FLOOicWMgiT67RiqP42pRcTaw.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+            "genres": [
+              "триллер"
+            ],
+            "countries": [
+              "United Kingdom",
+              "United States of America"
+            ],
+            "runtime": 98,
+            "popularity": 57.8372,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.2,
+            "tmdb_vote_count": 60,
+            "theatrical_release_date": "2026-09-01",
+            "digital_release_date": "2026-10-06"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt32268691",
+      "title": "Натиск",
+      "original_title": "Onslaught",
+      "year": 2026,
+      "overview": "Когда военный эксперимент выходит из-под контроля, из сверхсекретной лаборатории вдали от цивилизации сбегает группа безжалостных суперсолдат — генетически модифицированных машин для убийств, уничтожающих всё живое на своём пути. Оставляя за собой кровавый след, они нападают на дом Селесты — и теперь ей придётся вспомнить все боевые навыки своего прошлого, чтобы защитить дочь.",
+      "poster": "https://image.tmdb.org/t/p/w500/fPNLwXvZvBR0gPailvasgqNRVEh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "ужасы"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 92,
+      "imdb_id": "tt32268691",
+      "tmdb_id": 1284046,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.8,
+      "tmdb_vote_count": 32,
+      "popularity": 26.9297,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-02",
+      "digital_release_date": "2026-10-06",
+      "first_detected_at": "2026-10-06T06:30:40.997289+00:00",
+      "last_updated_at": "2026-10-06T06:30:48.344344+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "496282e753b35079",
+          "movie_id": "tt32268691",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-06",
+          "detected_at": "2026-10-06T06:30:40.997289+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Натиск",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Когда военный эксперимент выходит из-под контроля, из сверхсекретной лаборатории вдали от цивилизации сбегает группа безжалостных суперсолдат — генетически модифицированных машин для убийств, уничтожающих всё живое на своём пути. Оставляя за собой кровавый след, они нападают на дом Селесты — и теперь ей придётся вспомнить все боевые навыки своего прошлого, чтобы защитить дочь.",
+            "poster": "https://image.tmdb.org/t/p/w500/fPNLwXvZvBR0gPailvasgqNRVEh.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+            "genres": [
+              "боевик",
+              "триллер",
+              "ужасы"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 92,
+            "popularity": 26.9297,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.8,
+            "tmdb_vote_count": 32,
+            "theatrical_release_date": "2026-09-02",
+            "digital_release_date": "2026-10-06"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "original_title": "One Battle After Another",
+      "year": 2025,
+      "overview": "«Битва за битвой» — художественный фильм 2025 года американского режиссёра Пола Томаса Андерсона с Леонардо Ди Каприо, Чейз Инфинити, Шоном Пенном, Бенисио дель Торо и Тейяной Тейлор в главных ролях. Получил высокие оценки критиков.",
+      "poster": "https://images.metahub.space/poster/small/tt30144839/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt30144839",
+      "tmdb_id": null,
+      "imdb_rating": 7.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-06T06:30:40.997289+00:00",
+      "last_updated_at": "2026-10-06T06:30:51.026175+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "dcde9a2c4b2b4521",
+          "movie_id": "tt30144839",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-06T06:30:40.997289+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "One Battle After Another (2025)",
+          "details": {
+            "title": "One Battle After Another",
+            "year": 2025,
+            "overview": "When their enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+            "poster": "https://images.metahub.space/poster/small/tt30144839/img",
+            "genres": [
+              "Action",
+              "Crime",
+              "Drama"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 7.7,
+            "runtime": null
+          }
+        }
+      ]
+    }
+  ]
+}

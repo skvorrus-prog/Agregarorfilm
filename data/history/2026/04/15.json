@@ -99,10 +99,10 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-04-15",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.289177+00:00",
+      "last_updated_at": "2026-10-06T06:30:53.357888+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
+      "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
       "has_ru_audio": false,
@@ -136,6 +136,30 @@
             ],
             "imdb_rating": 7.5,
             "runtime": null
+          }
+        },
+        {
+          "id": "7c578b2ef6362182",
+          "movie_id": "tt14173636",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-06T02:37:33+00:00",
+          "detected_at": "2026-10-06T06:30:40.997289+00:00",
+          "quality": "unknown",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "P",
+          "raw_title": "Приглашение / The Invite (2026) BDRemux 1080p | P",
+          "details": {
+            "quality": "unknown",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "P",
+            "is_secondary_signal": true
           }
         }
       ]

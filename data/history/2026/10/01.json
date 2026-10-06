@@ -1,7 +1,79 @@
 {
   "date": "2026-10-01",
-  "count": 11,
+  "count": 12,
   "movies": [
+    {
+      "id": "tt43738050",
+      "title": "безумно богатые абсолютно нищие",
+      "original_title": "المهايطية",
+      "year": 2026,
+      "overview": "«Когда снобистская и состоятельная семья Аль-Тахаби обнаруживает, что осталась без гроша, им приходится изо всех сил изображать роскошную жизнь, чтобы не потерять лицо».",
+      "poster": "https://image.tmdb.org/t/p/w500/4nQD7STEWNYW2cKldZQZRrYri90.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ],
+      "countries": [
+        "Saudi Arabia"
+      ],
+      "runtime": 0,
+      "imdb_id": "tt43738050",
+      "tmdb_id": 1763619,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 5,
+      "popularity": 39.2919,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-01",
+      "digital_release_date": "2026-10-01",
+      "first_detected_at": "2026-10-06T06:30:40.997289+00:00",
+      "last_updated_at": "2026-10-06T06:30:48.280077+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "dfe2fc83964cade4",
+          "movie_id": "tt43738050",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-01",
+          "detected_at": "2026-10-06T06:30:40.997289+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "безумно богатые абсолютно нищие",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "«Когда снобистская и состоятельная семья Аль-Тахаби обнаруживает, что осталась без гроша, им приходится изо всех сил изображать роскошную жизнь, чтобы не потерять лицо».",
+            "poster": "https://image.tmdb.org/t/p/w500/4nQD7STEWNYW2cKldZQZRrYri90.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
+            "genres": [
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "Saudi Arabia"
+            ],
+            "runtime": 0,
+            "popularity": 39.2919,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-01",
+            "digital_release_date": "2026-10-01"
+          }
+        }
+      ]
+    },
     {
       "id": "tt37601032",
       "title": "Последний богатырь. Колобок",
@@ -173,7 +245,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 7.1,
       "tmdb_vote_count": 6,
-      "popularity": 2.3724,
+      "popularity": 2.3808,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-11",
       "digital_release_date": "2026-10-01",
@@ -248,7 +320,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 7.3,
       "tmdb_vote_count": 13,
-      "popularity": 432.5374,
+      "popularity": 399.5621,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-01",
       "digital_release_date": "2026-10-01",

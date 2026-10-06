@@ -72,6 +72,152 @@
   ]
  },
  {
+  "id": "tt31192372",
+  "title": "Вышка 2",
+  "original_title": "Fall 2: Deadpoint",
+  "year": 2026,
+  "overview": "После трагической гибели на вышке B67 видео Шайло разлетелись по сети, а сама она стала легендой среди экстремалов. Однако ее сестра Джакс так и не смогла смириться с утратой. Она находит список самых экстремальных мест на планете, которые Шайло мечтала покорить, и решает пройти его до конца. Следующая цель — смертельно опасный маршрут на горе Кван в Таиланде высотой 2070 метров над уровнем моря. Джакс вместе с подругой и местным гидом отправляется наверх, где ей предстоит столкнуться со своим главным страхом — повторить судьбу сестры.",
+  "poster": "https://image.tmdb.org/t/p/w500/81FLOOicWMgiT67RiqP42pRcTaw.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+  "genres": [
+   "триллер"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States of America"
+  ],
+  "runtime": 98,
+  "imdb_id": "tt31192372",
+  "tmdb_id": 1101412,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.2,
+  "tmdb_vote_count": 60,
+  "popularity": 57.8372,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-01",
+  "digital_release_date": "2026-10-06",
+  "first_detected_at": "2026-10-06T06:30:40.997289+00:00",
+  "last_updated_at": "2026-10-06T06:30:48.398607+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "adfde01c572a6a13",
+    "movie_id": "tt31192372",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-06",
+    "detected_at": "2026-10-06T06:30:40.997289+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Вышка 2",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "После трагической гибели на вышке B67 видео Шайло разлетелись по сети, а сама она стала легендой среди экстремалов. Однако ее сестра Джакс так и не смогла смириться с утратой. Она находит список самых экстремальных мест на планете, которые Шайло мечтала покорить, и решает пройти его до конца. Следующая цель — смертельно опасный маршрут на горе Кван в Таиланде высотой 2070 метров над уровнем моря. Джакс вместе с подругой и местным гидом отправляется наверх, где ей предстоит столкнуться со своим главным страхом — повторить судьбу сестры.",
+     "poster": "https://image.tmdb.org/t/p/w500/81FLOOicWMgiT67RiqP42pRcTaw.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+     "genres": [
+      "триллер"
+     ],
+     "countries": [
+      "United Kingdom",
+      "United States of America"
+     ],
+     "runtime": 98,
+     "popularity": 57.8372,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.2,
+     "tmdb_vote_count": 60,
+     "theatrical_release_date": "2026-09-01",
+     "digital_release_date": "2026-10-06"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt32268691",
+  "title": "Натиск",
+  "original_title": "Onslaught",
+  "year": 2026,
+  "overview": "Когда военный эксперимент выходит из-под контроля, из сверхсекретной лаборатории вдали от цивилизации сбегает группа безжалостных суперсолдат — генетически модифицированных машин для убийств, уничтожающих всё живое на своём пути. Оставляя за собой кровавый след, они нападают на дом Селесты — и теперь ей придётся вспомнить все боевые навыки своего прошлого, чтобы защитить дочь.",
+  "poster": "https://image.tmdb.org/t/p/w500/fPNLwXvZvBR0gPailvasgqNRVEh.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+  "genres": [
+   "боевик",
+   "триллер",
+   "ужасы"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 92,
+  "imdb_id": "tt32268691",
+  "tmdb_id": 1284046,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 5.8,
+  "tmdb_vote_count": 32,
+  "popularity": 26.9297,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-02",
+  "digital_release_date": "2026-10-06",
+  "first_detected_at": "2026-10-06T06:30:40.997289+00:00",
+  "last_updated_at": "2026-10-06T06:30:48.344344+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "496282e753b35079",
+    "movie_id": "tt32268691",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-06",
+    "detected_at": "2026-10-06T06:30:40.997289+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Натиск",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Когда военный эксперимент выходит из-под контроля, из сверхсекретной лаборатории вдали от цивилизации сбегает группа безжалостных суперсолдат — генетически модифицированных машин для убийств, уничтожающих всё живое на своём пути. Оставляя за собой кровавый след, они нападают на дом Селесты — и теперь ей придётся вспомнить все боевые навыки своего прошлого, чтобы защитить дочь.",
+     "poster": "https://image.tmdb.org/t/p/w500/fPNLwXvZvBR0gPailvasgqNRVEh.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+     "genres": [
+      "боевик",
+      "триллер",
+      "ужасы"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 92,
+     "popularity": 26.9297,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 5.8,
+     "tmdb_vote_count": 32,
+     "theatrical_release_date": "2026-09-02",
+     "digital_release_date": "2026-10-06"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt29356163",
   "title": "Щенячий патруль: Динофильм",
   "original_title": "PAW Patrol: The Dino Movie",
@@ -313,7 +459,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 5.3,
   "tmdb_vote_count": 9,
-  "popularity": 12.2997,
+  "popularity": 11.15,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
   "digital_release_date": "2026-10-02",
@@ -383,8 +529,8 @@
   "tmdb_id": 1458857,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.2,
-  "tmdb_vote_count": 56,
+  "tmdb_rating": 7.229,
+  "tmdb_vote_count": 59,
   "popularity": 73.5983,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -527,6 +673,78 @@
      "language": "RU",
      "release_group": null,
      "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt43738050",
+  "title": "безумно богатые абсолютно нищие",
+  "original_title": "المهايطية",
+  "year": 2026,
+  "overview": "«Когда снобистская и состоятельная семья Аль-Тахаби обнаруживает, что осталась без гроша, им приходится изо всех сил изображать роскошную жизнь, чтобы не потерять лицо».",
+  "poster": "https://image.tmdb.org/t/p/w500/4nQD7STEWNYW2cKldZQZRrYri90.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
+  "genres": [
+   "комедия",
+   "драма"
+  ],
+  "countries": [
+   "Saudi Arabia"
+  ],
+  "runtime": 0,
+  "imdb_id": "tt43738050",
+  "tmdb_id": 1763619,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.0,
+  "tmdb_vote_count": 5,
+  "popularity": 39.2919,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-01",
+  "digital_release_date": "2026-10-01",
+  "first_detected_at": "2026-10-06T06:30:40.997289+00:00",
+  "last_updated_at": "2026-10-06T06:30:48.280077+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "dfe2fc83964cade4",
+    "movie_id": "tt43738050",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-01",
+    "detected_at": "2026-10-06T06:30:40.997289+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "безумно богатые абсолютно нищие",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "«Когда снобистская и состоятельная семья Аль-Тахаби обнаруживает, что осталась без гроша, им приходится изо всех сил изображать роскошную жизнь, чтобы не потерять лицо».",
+     "poster": "https://image.tmdb.org/t/p/w500/4nQD7STEWNYW2cKldZQZRrYri90.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
+     "genres": [
+      "комедия",
+      "драма"
+     ],
+     "countries": [
+      "Saudi Arabia"
+     ],
+     "runtime": 0,
+     "popularity": 39.2919,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.0,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-01",
+     "digital_release_date": "2026-10-01"
     }
    }
   ]
@@ -702,7 +920,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 7.1,
   "tmdb_vote_count": 6,
-  "popularity": 2.3724,
+  "popularity": 2.3808,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-11",
   "digital_release_date": "2026-10-01",
@@ -777,7 +995,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 7.3,
   "tmdb_vote_count": 13,
-  "popularity": 432.5374,
+  "popularity": 399.5621,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-01",
   "digital_release_date": "2026-10-01",
@@ -885,9 +1103,9 @@
   "tmdb_id": 1437195,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.769,
-  "tmdb_vote_count": 26,
-  "popularity": 51.3116,
+  "tmdb_rating": 5.379,
+  "tmdb_vote_count": 29,
+  "popularity": 48.4993,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-30",
   "digital_release_date": "2026-09-30",
@@ -1095,7 +1313,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 6.6,
   "tmdb_vote_count": 8,
-  "popularity": 11.9212,
+  "popularity": 11.3942,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-30",
   "digital_release_date": "2026-09-30",
@@ -1201,7 +1419,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 6.6,
   "tmdb_vote_count": 7,
-  "popularity": 6.0204,
+  "popularity": 5.3017,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
   "digital_release_date": "2026-09-30",
@@ -1311,7 +1529,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 5.667,
   "tmdb_vote_count": 9,
-  "popularity": 10.3182,
+  "popularity": 9.475,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
   "digital_release_date": "2026-09-29",
@@ -1440,9 +1658,9 @@
   "tmdb_id": 977942,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.939,
-  "tmdb_vote_count": 204,
-  "popularity": 177.7465,
+  "tmdb_rating": 7.998,
+  "tmdb_vote_count": 215,
+  "popularity": 160.78,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
   "digital_release_date": "2026-09-29",
@@ -1933,7 +2151,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 7.75,
   "tmdb_vote_count": 6,
-  "popularity": 4.6187,
+  "popularity": 4.2034,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-26",
   "digital_release_date": "2026-09-26",
@@ -2034,7 +2252,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 5.3,
   "tmdb_vote_count": 5,
-  "popularity": 5.8677,
+  "popularity": 5.8809,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-25",
   "digital_release_date": "2026-09-25",
@@ -2108,7 +2326,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 6.545,
   "tmdb_vote_count": 11,
-  "popularity": 11.0974,
+  "popularity": 9.4363,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-25",
   "digital_release_date": "2026-09-25",
@@ -12529,9 +12747,9 @@
   "tmdb_id": 1032863,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.065,
-  "tmdb_vote_count": 480,
-  "popularity": 197.0906,
+  "tmdb_rating": 8.1,
+  "tmdb_vote_count": 487,
+  "popularity": 177.1075,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
   "digital_release_date": "2026-07-15",
@@ -15570,10 +15788,10 @@
   "theatrical_release_date": null,
   "digital_release_date": "2026-04-15",
   "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-28T19:44:00.289177+00:00",
+  "last_updated_at": "2026-10-06T06:30:53.357888+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
+  "best_resolution": "1080p",
   "has_4k": false,
   "has_hdr": false,
   "has_ru_audio": false,
@@ -15607,6 +15825,30 @@
      ],
      "imdb_rating": 7.5,
      "runtime": null
+    }
+   },
+   {
+    "id": "7c578b2ef6362182",
+    "movie_id": "tt14173636",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-06T02:37:33+00:00",
+    "detected_at": "2026-10-06T06:30:40.997289+00:00",
+    "quality": "unknown",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "P",
+    "raw_title": "Приглашение / The Invite (2026) BDRemux 1080p | P",
+    "details": {
+     "quality": "unknown",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "P",
+     "is_secondary_signal": true
     }
    }
   ]
@@ -15972,8 +16214,8 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 6.6,
-  "tmdb_vote_count": 345,
-  "popularity": 114.024,
+  "tmdb_vote_count": 352,
+  "popularity": 96.4254,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
   "digital_release_date": "2026-04-08",
@@ -17017,7 +17259,7 @@
   "title": "Hokum",
   "original_title": "Hokum",
   "year": 2026,
-  "overview": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
+  "overview": "Писатель ужасов посещает ирландскую гостиницу, чтобы развеять прах своих родителей, не подозревая, что дом, как говорят, преследует ведьма.",
   "poster": "https://images.metahub.space/poster/small/tt35672862/img",
   "backdrop": null,
   "genres": [
@@ -17039,14 +17281,45 @@
   "theatrical_release_date": null,
   "digital_release_date": "2026-01-15",
   "first_detected_at": "2026-01-15T12:00:00Z",
-  "last_updated_at": "2026-09-29T18:31:13.015474+00:00",
+  "last_updated_at": "2026-10-06T06:30:53.317455+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
   "has_4k": true,
   "has_hdr": true,
   "has_ru_audio": true,
-  "events": []
+  "events": [
+   {
+    "id": "9643d431dc7d7cb4",
+    "movie_id": "tt35672862",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-10-06T06:30:40.997289+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Hokum (2026)",
+    "details": {
+     "title": "Hokum",
+     "year": 2026,
+     "overview": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
+     "poster": "https://images.metahub.space/poster/small/tt35672862/img",
+     "genres": [
+      "Horror",
+      "Thriller"
+     ],
+     "countries": [
+      "Ireland, United Arab Emirates"
+     ],
+     "imdb_rating": 7.3,
+     "runtime": null
+    }
+   }
+  ]
  },
  {
   "id": "tt32565993",
@@ -17712,6 +17985,75 @@
   ]
  },
  {
+  "id": "tt30144839",
+  "title": "One Battle After Another",
+  "original_title": "One Battle After Another",
+  "year": 2025,
+  "overview": "«Битва за битвой» — художественный фильм 2025 года американского режиссёра Пола Томаса Андерсона с Леонардо Ди Каприо, Чейз Инфинити, Шоном Пенном, Бенисио дель Торо и Тейяной Тейлор в главных ролях. Получил высокие оценки критиков.",
+  "poster": "https://images.metahub.space/poster/small/tt30144839/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt30144839",
+  "tmdb_id": null,
+  "imdb_rating": 7.7,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-06T06:30:40.997289+00:00",
+  "last_updated_at": "2026-10-06T06:30:51.026175+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "dcde9a2c4b2b4521",
+    "movie_id": "tt30144839",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-10-06T06:30:40.997289+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "One Battle After Another (2025)",
+    "details": {
+     "title": "One Battle After Another",
+     "year": 2025,
+     "overview": "When their enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+     "poster": "https://images.metahub.space/poster/small/tt30144839/img",
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 7.7,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
   "id": "m_d8580969b66b",
   "title": "Ловушка",
   "original_title": "Trap",
@@ -17801,12 +18143,12 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-05T22:04:41.289547+00:00",
-  "last_updated_at": "2026-10-05T22:04:50.676271+00:00",
-  "status": "WEB_RELEASE",
+  "last_updated_at": "2026-10-06T06:30:53.351388+00:00",
+  "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
-  "best_resolution": "1080p",
-  "has_4k": false,
-  "has_hdr": false,
+  "best_resolution": "2160p",
+  "has_4k": true,
+  "has_hdr": true,
   "has_ru_audio": true,
   "events": [
    {
@@ -17854,6 +18196,54 @@
      "audio": null,
      "language": "RU",
      "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "7e89789a546eb98d",
+    "movie_id": "m_29b715cd78af",
+    "event_type": "UHD_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-06T02:43:11+00:00",
+    "detected_at": "2026-10-06T06:30:40.997289+00:00",
+    "quality": "WEB-DL",
+    "resolution": "2160p",
+    "hdr": "Dolby Vision",
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Астрал 6: Они уже здесь / Insidious: Out of the Further (2026) WEB-DL 2160p | 4К | НDR+10 | Dolby Vision Profile 8 | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "2160p",
+     "hdr": "Dolby Vision",
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "260bd4d3607d1ea7",
+    "movie_id": "m_29b715cd78af",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-06T03:24:40+00:00",
+    "detected_at": "2026-10-06T06:30:40.997289+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Астрал 6: Они уже здесь / Insidious: Out of the Further (2026) WEB-DLRip | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
      "is_secondary_signal": true
     }
    }
@@ -18654,7 +19044,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-03T11:48:26.793097+00:00",
-  "last_updated_at": "2026-10-03T11:48:37.808248+00:00",
+  "last_updated_at": "2026-10-06T06:30:53.336817+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -18683,6 +19073,54 @@
      "audio": null,
      "language": "RU",
      "release_group": "Sub",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "91db3683de8c3863",
+    "movie_id": "m_79d35cb81c91",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-06T03:51:31+00:00",
+    "detected_at": "2026-10-06T06:30:40.997289+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "L",
+    "raw_title": "Де Голль. Часть 1: Сопротивление / La bataille de Gaulle: L’âge de fer (2026) WEB-DL 1080p | L",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "L",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "fce480ecf23e0731",
+    "movie_id": "m_79d35cb81c91",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-06T04:02:05+00:00",
+    "detected_at": "2026-10-06T06:30:40.997289+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "L",
+    "raw_title": "Де Голль. Часть 1. Сопротивление / La bataille de Gaulle: L’âge de fer (2026) WEB-DLRip-AVC | L",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "L",
      "is_secondary_signal": true
     }
    }

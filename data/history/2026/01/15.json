@@ -218,7 +218,7 @@
       "title": "Hokum",
       "original_title": "Hokum",
       "year": 2026,
-      "overview": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
+      "overview": "Писатель ужасов посещает ирландскую гостиницу, чтобы развеять прах своих родителей, не подозревая, что дом, как говорят, преследует ведьма.",
       "poster": "https://images.metahub.space/poster/small/tt35672862/img",
       "backdrop": null,
       "genres": [
@@ -240,14 +240,45 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-01-15",
       "first_detected_at": "2026-01-15T12:00:00Z",
-      "last_updated_at": "2026-09-29T18:31:13.015474+00:00",
+      "last_updated_at": "2026-10-06T06:30:53.317455+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
       "has_4k": true,
       "has_hdr": true,
       "has_ru_audio": true,
-      "events": []
+      "events": [
+        {
+          "id": "9643d431dc7d7cb4",
+          "movie_id": "tt35672862",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-06T06:30:40.997289+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Hokum (2026)",
+          "details": {
+            "title": "Hokum",
+            "year": 2026,
+            "overview": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
+            "poster": "https://images.metahub.space/poster/small/tt35672862/img",
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "countries": [
+              "Ireland, United Arab Emirates"
+            ],
+            "imdb_rating": 7.3,
+            "runtime": null
+          }
+        }
+      ]
     }
   ]
 }
