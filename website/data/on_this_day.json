@@ -33,7 +33,7 @@
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt32268691",
@@ -48,7 +48,7 @@
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "m_1a791326beb1",
@@ -3246,7 +3246,7 @@
     "digital_release_date": "2026-07-15",
     "imdb_rating": 6.5,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
+    "best_quality": "BluRay",
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": false,
@@ -4025,7 +4025,7 @@
     "year": 2026,
     "poster": "https://images.metahub.space/poster/small/tt6933238/img",
     "digital_release_date": "2026-04-08",
-    "imdb_rating": null,
+    "imdb_rating": 6.2,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "unknown",

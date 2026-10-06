@@ -1,10 +1,10 @@
 {
   "total_releases": 283,
-  "web_dl_count": 256,
-  "bluray_count": 20,
+  "web_dl_count": 255,
+  "bluray_count": 21,
   "four_k_count": 17,
   "hdr_count": 18,
-  "ru_audio_count": 65,
+  "ru_audio_count": 67,
   "avg_rating": 6.5,
   "rated_movies_count": 277,
   "by_year": {
@@ -24,8 +24,8 @@
     "2026-10": 49
   },
   "by_quality": {
-    "WEB-DL": 249,
-    "BluRay": 20,
+    "WEB-DL": 248,
+    "BluRay": 21,
     "unknown": 7,
     "WEBRip": 7
   },
