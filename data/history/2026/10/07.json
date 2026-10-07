@@ -1,7 +1,128 @@
 {
   "date": "2026-10-07",
-  "count": 5,
+  "count": 7,
   "movies": [
+    {
+      "id": "m_572aa32c39ae",
+      "title": "Соседки по комнате",
+      "original_title": "Roommates",
+      "year": 2026,
+      "overview": "Когда обнадеживающий, наивный первокурсник колледжа, Девон, просит прохладную и уверенную Селесту стать ее соседкой по комнате, расцветающая дружба перерастает в войну пассивной агрессии.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjk2YmRhNTItOGY5Ni00MjgwLTk4ZGMtMzE0MTQzMmMxYWRlXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Comedy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt37540875",
+      "tmdb_id": null,
+      "imdb_rating": 5.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-07T20:40:02.908865+00:00",
+      "last_updated_at": "2026-10-07T20:40:16.019566+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "d1eeefebab65e9c4",
+          "movie_id": "m_572aa32c39ae",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-07T16:18:22+00:00",
+          "detected_at": "2026-10-07T20:40:02.908865+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "L",
+          "raw_title": "Соседки по комнате / Roommates (2026) WEB-DLRip-AVC от DoMiNo | L",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "L",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_6541a46d98c8",
+      "title": "Рука, качающая колыбель",
+      "original_title": "The Hand That Rocks the Cradle",
+      "year": 2025,
+      "overview": "«Рука, качающая колыбель» — американский триллер 1992 года режиссёра Кёртиса Хэнсона.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWRhYzA1NDUtY2ExZC00MTQzLWE4MjYtMGJlODJkNTYwNzI5XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt33502160",
+      "tmdb_id": null,
+      "imdb_rating": 5.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-07T20:40:02.908865+00:00",
+      "last_updated_at": "2026-10-07T20:40:12.848508+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9be6bc613003be21",
+          "movie_id": "m_6541a46d98c8",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-07T16:46:10+00:00",
+          "detected_at": "2026-10-07T20:40:02.908865+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Рука, качающая колыбель / The Hand That Rocks the Cradle (2025) WEB-DL 720p от селезень | P | TVShows, Red Head Sound",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_12ccf1b2fb57",
       "title": "Электрический поцелуй",
@@ -30,7 +151,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-07T13:35:17.150465+00:00",
-      "last_updated_at": "2026-10-07T13:35:38.925826+00:00",
+      "last_updated_at": "2026-10-07T20:40:16.023712+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "1080p",
@@ -79,6 +200,30 @@
           "details": {
             "quality": "BluRay",
             "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Akimbo Production",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "e4e6528ed0fef6c5",
+          "movie_id": "m_12ccf1b2fb57",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-07T15:19:03+00:00",
+          "detected_at": "2026-10-07T20:40:02.908865+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Akimbo Production",
+          "raw_title": "Электрический поцелуй / La Vénus électrique / The Electric Kiss (2026) BDRip 720p от DoMiNo & селезень | D | Akimbo Production",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
             "hdr": null,
             "audio": null,
             "language": "RU",

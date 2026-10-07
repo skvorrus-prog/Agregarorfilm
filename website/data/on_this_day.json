@@ -3274,7 +3274,7 @@
     "year": 2026,
     "poster": "https://images.metahub.space/poster/small/tt37969426/img",
     "digital_release_date": "2026-07-15",
-    "imdb_rating": 8.6,
+    "imdb_rating": 8.0,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "unknown",
@@ -4380,6 +4380,36 @@
  },
  "10-07": {
   "2026": [
+   {
+    "id": "m_572aa32c39ae",
+    "title": "Соседки по комнате",
+    "original_title": "Roommates",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjk2YmRhNTItOGY5Ni00MjgwLTk4ZGMtMzE0MTQzMmMxYWRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_6541a46d98c8",
+    "title": "Рука, качающая колыбель",
+    "original_title": "The Hand That Rocks the Cradle",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhYzA1NDUtY2ExZC00MTQzLWE4MjYtMGJlODJkNTYwNzI5XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.3,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "m_12ccf1b2fb57",
     "title": "Электрический поцелуй",
