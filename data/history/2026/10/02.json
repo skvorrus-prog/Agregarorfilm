@@ -23,7 +23,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 5.5,
       "tmdb_vote_count": 10,
-      "popularity": 13.2998,
+      "popularity": 12.7053,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-02",
       "digital_release_date": "2026-10-02",
@@ -164,14 +164,14 @@
       "tmdb_id": 1458857,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.373,
-      "tmdb_vote_count": 63,
-      "popularity": 72.298,
+      "tmdb_rating": 7.414,
+      "tmdb_vote_count": 64,
+      "popularity": 74.2363,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-02",
       "digital_release_date": "2026-10-02",
       "first_detected_at": "2026-10-02T22:20:12.539835+00:00",
-      "last_updated_at": "2026-10-02T22:20:19.404953+00:00",
+      "last_updated_at": "2026-10-07T06:09:55.124186+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -212,6 +212,33 @@
             "tmdb_vote_count": 5,
             "theatrical_release_date": "2026-10-02",
             "digital_release_date": "2026-10-02"
+          }
+        },
+        {
+          "id": "698a021c1adbf58a",
+          "movie_id": "tt36429458",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-07T06:09:48.106969+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Doing Life (2026)",
+          "details": {
+            "title": "Doing Life",
+            "year": 2026,
+            "overview": "A single mother fighting to survive and a reformed ex-con with untapped talent find in each other an unlikely second chance.",
+            "poster": "https://images.metahub.space/poster/small/tt36429458/img",
+            "genres": [
+              "Drama"
+            ],
+            "countries": [],
+            "imdb_rating": null,
+            "runtime": null
           }
         }
       ]

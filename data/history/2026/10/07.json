@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-07",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt36981462",
+      "title": "Union County",
+      "original_title": "Union County",
+      "year": 2026,
+      "overview": "Коди Парсонс, назначенный в окружной суд по делам о наркотиках, отправляется в непростой путь к выздоровлению на фоне опиоидной эпидемии в сельской местности штата Огайо.",
+      "poster": "https://images.metahub.space/poster/small/tt36981462/img",
+      "backdrop": null,
+      "genres": [
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt36981462",
+      "tmdb_id": null,
+      "imdb_rating": 6.6,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-07T06:09:48.106969+00:00",
+      "last_updated_at": "2026-10-07T06:09:57.023147+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ebd754b32caf0f64",
+          "movie_id": "tt36981462",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-07T06:09:48.106969+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Union County (2026)",
+          "details": {
+            "title": "Union County",
+            "year": 2026,
+            "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amidst the opioid epidemic in rural Ohio.",
+            "poster": "https://images.metahub.space/poster/small/tt36981462/img",
+            "genres": [
+              "Drama"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 6.6,
+            "runtime": null
+          }
+        }
+      ]
+    }
+  ]
+}
