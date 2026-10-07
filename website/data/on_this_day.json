@@ -45,9 +45,9 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
     "has_ru_audio": true
    },
    {
@@ -1527,10 +1527,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
    },
    {
     "id": "tt32338669",
@@ -2809,10 +2809,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    }
   ]
  },
@@ -4380,6 +4380,66 @@
  },
  "10-07": {
   "2026": [
+   {
+    "id": "m_12ccf1b2fb57",
+    "title": "Электрический поцелуй",
+    "original_title": "La Vénus électrique / The Electric Kiss",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjYxZGY1NWItNTYyMS00ZmRiLTg4NTUtZjQzZDk4NGEwOGY4XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.6,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_69dbb1faa60a",
+    "title": "Линчеватель",
+    "original_title": "Vigilante",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODUwOWU3MzEtZjk5MS00YTZkLWE3MjgtZjIzMWFlZTFiMzZmXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_3a559f4e0b81",
+    "title": "Изгой",
+    "original_title": "Molt lluny / Away",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjMxOGU2YjMtMjY3YS00NWJmLWFiNzYtMTFkMDQzOWM0NGZhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_824115f2d1a4",
+    "title": "Не такой уж незнакомый",
+    "original_title": "Mniej obcy / Less of a Stranger",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDhhZjVmNzUtMDljZC00YTllLWIzYzAtYTg1YzhhZDYyYmQyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "tt36981462",
     "title": "Union County",

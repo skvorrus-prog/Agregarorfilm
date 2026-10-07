@@ -252,13 +252,13 @@
       "theatrical_release_date": "2026-07-31",
       "digital_release_date": "2026-07-31",
       "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-10-02T09:43:27.601193+00:00",
+      "last_updated_at": "2026-10-07T13:35:38.938984+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
+      "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
-      "has_ru_audio": false,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "b1d2fbc7a6e0f3d6",
@@ -294,6 +294,30 @@
             "tmdb_vote_count": 356,
             "theatrical_release_date": "2026-07-31",
             "digital_release_date": "2026-07-31"
+          }
+        },
+        {
+          "id": "6d205b77224710eb",
+          "movie_id": "tt32654916",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-07T06:12:45+00:00",
+          "detected_at": "2026-10-07T13:35:17.150465+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "СОУЛМ8ЙТ / Soulm8te (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]
