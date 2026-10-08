@@ -1,7 +1,81 @@
 {
   "date": "2026-10-02",
-  "count": 16,
+  "count": 17,
   "movies": [
+    {
+      "id": "tt33038782",
+      "title": "Stranglehold",
+      "original_title": "Stranglehold",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dBziuJUx0tteX1eSzKj05twjDJi.jpg",
+      "genres": [
+        "комедия",
+        "триллер",
+        "криминал"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 0,
+      "imdb_id": "tt33038782",
+      "tmdb_id": 1320039,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.0,
+      "tmdb_vote_count": 5,
+      "popularity": 10.1374,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-02",
+      "digital_release_date": "2026-10-02",
+      "first_detected_at": "2026-10-08T01:03:38.807362+00:00",
+      "last_updated_at": "2026-10-08T01:03:45.815372+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "c2dcba573cdae7cf",
+          "movie_id": "tt33038782",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-02",
+          "detected_at": "2026-10-08T01:03:38.807362+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Stranglehold",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/dBziuJUx0tteX1eSzKj05twjDJi.jpg",
+            "genres": [
+              "комедия",
+              "триллер",
+              "криминал"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 0,
+            "popularity": 10.1374,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-02",
+            "digital_release_date": "2026-10-02"
+          }
+        }
+      ]
+    },
     {
       "id": "tt35682658",
       "title": "Infirmary",

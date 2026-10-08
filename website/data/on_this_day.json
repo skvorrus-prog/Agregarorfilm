@@ -273,6 +273,21 @@
  "10-02": {
   "2026": [
    {
+    "id": "tt33038782",
+    "title": "Stranglehold",
+    "original_title": "Stranglehold",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
+    "digital_release_date": "2026-10-02",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt35682658",
     "title": "Infirmary",
     "original_title": "Infirmary",
@@ -971,6 +986,21 @@
  },
  "09-25": {
   "2026": [
+   {
+    "id": "tt30834999",
+    "title": "Family",
+    "original_title": "Family",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
+    "digital_release_date": "2026-09-25",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt39319437",
     "title": "Buzzkill",

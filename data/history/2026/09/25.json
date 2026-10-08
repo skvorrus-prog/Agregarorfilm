@@ -1,7 +1,79 @@
 {
   "date": "2026-09-25",
-  "count": 2,
+  "count": 3,
   "movies": [
+    {
+      "id": "tt30834999",
+      "title": "Family",
+      "original_title": "Family",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
+      "genres": [
+        "драма",
+        "ужасы"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 95,
+      "imdb_id": "tt30834999",
+      "tmdb_id": 1229906,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.333,
+      "tmdb_vote_count": 6,
+      "popularity": 71.6772,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-25",
+      "digital_release_date": "2026-09-25",
+      "first_detected_at": "2026-10-08T01:03:38.807362+00:00",
+      "last_updated_at": "2026-10-08T01:03:45.871355+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "92b68446a121bebe",
+          "movie_id": "tt30834999",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-09-25",
+          "detected_at": "2026-10-08T01:03:38.807362+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Family",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
+            "genres": [
+              "драма",
+              "ужасы"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 95,
+            "popularity": 71.6772,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.333,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-09-25",
+            "digital_release_date": "2026-09-25"
+          }
+        }
+      ]
+    },
     {
       "id": "tt39319437",
       "title": "Buzzkill",
@@ -23,8 +95,8 @@
       "tmdb_id": 1613037,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 5.583,
-      "tmdb_vote_count": 6,
+      "tmdb_rating": 5.643,
+      "tmdb_vote_count": 7,
       "popularity": 5.1528,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-25",

@@ -676,8 +676,8 @@
   "tmdb_id": 1752355,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.389,
-  "tmdb_vote_count": 9,
+  "tmdb_rating": 7.5,
+  "tmdb_vote_count": 11,
   "popularity": 18.3285,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -723,6 +723,80 @@
      "tmdb_vote_count": 5,
      "theatrical_release_date": "2026-10-02",
      "digital_release_date": "2026-10-03"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt33038782",
+  "title": "Stranglehold",
+  "original_title": "Stranglehold",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dBziuJUx0tteX1eSzKj05twjDJi.jpg",
+  "genres": [
+   "комедия",
+   "триллер",
+   "криминал"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 0,
+  "imdb_id": "tt33038782",
+  "tmdb_id": 1320039,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.0,
+  "tmdb_vote_count": 5,
+  "popularity": 10.1374,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-02",
+  "digital_release_date": "2026-10-02",
+  "first_detected_at": "2026-10-08T01:03:38.807362+00:00",
+  "last_updated_at": "2026-10-08T01:03:45.815372+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "c2dcba573cdae7cf",
+    "movie_id": "tt33038782",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-02",
+    "detected_at": "2026-10-08T01:03:38.807362+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Stranglehold",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/eTWcOmwSqC8Xr5o5VKFj7BFHKSI.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/dBziuJUx0tteX1eSzKj05twjDJi.jpg",
+     "genres": [
+      "комедия",
+      "триллер",
+      "криминал"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 0,
+     "popularity": 10.1374,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.0,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-02",
+     "digital_release_date": "2026-10-02"
     }
    }
   ]
@@ -1331,7 +1405,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 7.1,
   "tmdb_vote_count": 6,
-  "popularity": 2.1529,
+  "popularity": 2.3956,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-11",
   "digital_release_date": "2026-10-01",
@@ -2069,8 +2143,8 @@
   "tmdb_id": 977942,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.977,
-  "tmdb_vote_count": 242,
+  "tmdb_rating": 7.986,
+  "tmdb_vote_count": 243,
   "popularity": 144.5524,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -2641,6 +2715,78 @@
   ]
  },
  {
+  "id": "tt30834999",
+  "title": "Family",
+  "original_title": "Family",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
+  "genres": [
+   "драма",
+   "ужасы"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 95,
+  "imdb_id": "tt30834999",
+  "tmdb_id": 1229906,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.333,
+  "tmdb_vote_count": 6,
+  "popularity": 71.6772,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-25",
+  "digital_release_date": "2026-09-25",
+  "first_detected_at": "2026-10-08T01:03:38.807362+00:00",
+  "last_updated_at": "2026-10-08T01:03:45.871355+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "92b68446a121bebe",
+    "movie_id": "tt30834999",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-25",
+    "detected_at": "2026-10-08T01:03:38.807362+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Family",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
+     "genres": [
+      "драма",
+      "ужасы"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 95,
+     "popularity": 71.6772,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.333,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-09-25",
+     "digital_release_date": "2026-09-25"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt39319437",
   "title": "Buzzkill",
   "original_title": "Buzzkill",
@@ -2661,8 +2807,8 @@
   "tmdb_id": 1613037,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.583,
-  "tmdb_vote_count": 6,
+  "tmdb_rating": 5.643,
+  "tmdb_vote_count": 7,
   "popularity": 5.1528,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-25",
@@ -3225,8 +3371,8 @@
   "tmdb_id": 1607127,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.3,
-  "tmdb_vote_count": 98,
+  "tmdb_rating": 7.345,
+  "tmdb_vote_count": 100,
   "popularity": 95.8143,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-22",
@@ -5355,162 +5501,6 @@
      "language": "RU",
      "release_group": "MovieDalen",
      "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "tt32338669",
-  "title": "Мятеж",
-  "original_title": "Mutiny",
-  "year": 2026,
-  "overview": "Коул Рид, некогда служивший в спецназе и полиции, ныне трудится в частной охране. Внезапно на его глазах убивают его босса-миллиардера. Рида подставляют, поэтому он становится главным подозреваемым. Ему приходится бежать от закона. Он решает самостоятельно выйти на след убийцы и в ходе расследования раскрывает грандиозный заговор.",
-  "poster": "https://image.tmdb.org/t/p/w500/opOHbNmV0VPOugSBxrRQKmPgfZL.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-  "genres": [
-   "боевик",
-   "триллер"
-  ],
-  "countries": [
-   "United Kingdom",
-   "United States of America"
-  ],
-  "runtime": 94,
-  "imdb_id": "tt32338669",
-  "tmdb_id": 1288445,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 7.383,
-  "tmdb_vote_count": 735,
-  "popularity": 179.0745,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-08-19",
-  "digital_release_date": "2026-09-08",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:24.776009+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "b321c5eaff437ae1",
-    "movie_id": "tt32338669",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-08",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Мятеж",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Коул Рид, некогда служивший в спецназе и полиции, ныне трудится в частной охране. Внезапно на его глазах убивают его босса-миллиардера. Рида подставляют, поэтому он становится главным подозреваемым. Ему приходится бежать от закона. Он решает самостоятельно выйти на след убийцы и в ходе расследования раскрывает грандиозный заговор.",
-     "poster": "https://image.tmdb.org/t/p/w500/opOHbNmV0VPOugSBxrRQKmPgfZL.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-     "genres": [
-      "боевик",
-      "триллер"
-     ],
-     "countries": [
-      "United Kingdom",
-      "United States of America"
-     ],
-     "runtime": 94,
-     "popularity": 179.0745,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.383,
-     "tmdb_vote_count": 735,
-     "theatrical_release_date": "2026-08-19",
-     "digital_release_date": "2026-09-08"
-    }
-   }
-  ]
- },
- {
-  "id": "tt14119302",
-  "title": "Опасное место",
-  "original_title": "Hot Spot",
-  "year": 2026,
-  "overview": "Действие разворачивается в конце XXI века в антиутопическом обществе, где властью обладает мыслящий искусственный интеллект. В центре истории - частный детектив, который расследует убийство в лагере беженцев. В ходе расследования он сталкивается с тайной религиозной сектой и группой мятежников. У этих бунтарей есть потенциал подорвать власть цифрового повелителя. По мере развития сюжета личность самого детектива постепенно раскрывается, и его мир погружается в глубокий кризис.",
-  "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
-  "genres": [
-   "фантастика",
-   "боевик",
-   "криминал",
-   "фэнтези",
-   "триллер"
-  ],
-  "countries": [
-   "Poland",
-   "Greece",
-   "Sweden"
-  ],
-  "runtime": 101,
-  "imdb_id": "tt14119302",
-  "tmdb_id": 813418,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 4.611,
-  "tmdb_vote_count": 36,
-  "popularity": 46.8662,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-08-21",
-  "digital_release_date": "2026-09-08",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:24.614585+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "df24621dda6edc42",
-    "movie_id": "tt14119302",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-08",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Опасное место",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Действие разворачивается в конце XXI века в антиутопическом обществе, где властью обладает мыслящий искусственный интеллект. В центре истории - частный детектив, который расследует убийство в лагере беженцев. В ходе расследования он сталкивается с тайной религиозной сектой и группой мятежников. У этих бунтарей есть потенциал подорвать власть цифрового повелителя. По мере развития сюжета личность самого детектива постепенно раскрывается, и его мир погружается в глубокий кризис.",
-     "poster": "https://image.tmdb.org/t/p/w500/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
-     "genres": [
-      "фантастика",
-      "боевик",
-      "криминал",
-      "фэнтези",
-      "триллер"
-     ],
-     "countries": [
-      "Poland",
-      "Greece",
-      "Sweden"
-     ],
-     "runtime": 101,
-     "popularity": 46.8662,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 4.611,
-     "tmdb_vote_count": 36,
-     "theatrical_release_date": "2026-08-21",
-     "digital_release_date": "2026-09-08"
     }
    }
   ]
