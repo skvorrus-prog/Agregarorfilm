@@ -4408,6 +4408,40 @@
    }
   ]
  },
+ "10-08": {
+  "2026": [
+   {
+    "id": "m_5f2acd8cdbc4",
+    "title": "Монетки",
+    "original_title": "Nickels",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmRjM2UwMzAtMjkwMC00ZDIyLThlNmMtYzY4MTE5YThkYTdiXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_6da085ed7605",
+    "title": "Ненасытные люди",
+    "original_title": "Greedy People",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzBlM2E0M2EtMjBhNy00NTEwLWJlZTgtNTg5NGFiYTNmNGZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "10-07": {
   "2026": [
    {
