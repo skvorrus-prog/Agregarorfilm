@@ -18,6 +18,25 @@
    }
   ]
  },
+ "10-09": {
+  "2026": [
+   {
+    "id": "tt36150957",
+    "title": "Oasis: Don't Look Back in Anger",
+    "original_title": "Oasis: Don't Look Back in Anger",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+    "digital_release_date": "2026-10-09",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-06": {
   "2026": [
    {
@@ -151,7 +170,7 @@
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg",
     "digital_release_date": null,
-    "imdb_rating": 8.1,
+    "imdb_rating": 8.0,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "2160p",
@@ -4251,7 +4270,7 @@
     "year": 2026,
     "poster": "https://images.metahub.space/poster/small/tt37287335/img",
     "digital_release_date": "2026-01-15",
-    "imdb_rating": 7.9,
+    "imdb_rating": 7.8,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "unknown",

@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-09",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt36150957",
+      "title": "Oasis: Don't Look Back in Anger",
+      "original_title": "Oasis: Don't Look Back in Anger",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+      "genres": [
+        "документальный",
+        "музыка"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States of America"
+      ],
+      "runtime": 123,
+      "imdb_id": "tt36150957",
+      "tmdb_id": 1447853,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.5,
+      "tmdb_vote_count": 21,
+      "popularity": 20.0527,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-09",
+      "digital_release_date": "2026-10-09",
+      "first_detected_at": "2026-10-09T01:15:54.124233+00:00",
+      "last_updated_at": "2026-10-09T01:16:01.854520+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4a4728a22efee9b6",
+          "movie_id": "tt36150957",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-09",
+          "detected_at": "2026-10-09T01:15:54.124233+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Oasis: Don't Look Back in Anger",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+            "genres": [
+              "документальный",
+              "музыка"
+            ],
+            "countries": [
+              "United Kingdom",
+              "United States of America"
+            ],
+            "runtime": 123,
+            "popularity": 20.0527,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.5,
+            "tmdb_vote_count": 21,
+            "theatrical_release_date": "2026-09-09",
+            "digital_release_date": "2026-10-09"
+          }
+        }
+      ]
+    }
+  ]
+}
