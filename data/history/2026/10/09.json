@@ -1,7 +1,271 @@
 {
   "date": "2026-10-09",
-  "count": 7,
+  "count": 10,
   "movies": [
+    {
+      "id": "m_a6f6abfee9f7",
+      "title": "Matchbox. Фильм",
+      "original_title": "Matchbox the Movie",
+      "year": 2026,
+      "overview": "На основе культовых игрушечных автомобилей, созданных в 1953 году.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzFjYmM0NTQtM2ZkNS00ODUwLWI2Y2UtNTJkYThjM2RmODQ2XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "genres": [
+        "Action"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": 127,
+      "imdb_id": "tt28498219",
+      "tmdb_id": 1148365,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.056,
+      "tmdb_vote_count": 9,
+      "popularity": 14.756,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-10-09",
+      "first_detected_at": "2026-10-09T10:42:54.830647+00:00",
+      "last_updated_at": "2026-10-09T18:24:56.306678+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "5e114e26bc64e13c",
+          "movie_id": "m_a6f6abfee9f7",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-09",
+          "detected_at": "2026-10-09T18:24:49.166125+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Matchbox: фильм",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Встреча бывших друзей детства принимает неожиданный оборот — они случайно узнают об опасном международном заговоре и должны спасти мир.",
+            "poster": "https://image.tmdb.org/t/p/w500/ojUXGiBCqgZ9aFYYGNg9jJU0DE5.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+            "genres": [
+              "боевик",
+              "комедия",
+              "приключения"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 127,
+            "popularity": 14.756,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.056,
+            "tmdb_vote_count": 9,
+            "theatrical_release_date": "2026-10-05",
+            "digital_release_date": "2026-10-09"
+          }
+        },
+        {
+          "id": "c81722b729b02850",
+          "movie_id": "m_a6f6abfee9f7",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-09T04:00:27+00:00",
+          "detected_at": "2026-10-09T10:42:54.830647+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Matchbox. Фильм / Matchbox the Movie (2026) WEB-DL 1080p | Sub",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_4852554f6655",
+      "title": "Животные",
+      "original_title": "Animals",
+      "year": 2026,
+      "overview": "Живо́тные (лат. Animalia) — традиционно выделяемая категория организмов, в настоящее время рассматриваемая в качестве биологического царства. Животные являются основным объектом изучения зоологии.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": 109,
+      "imdb_id": "tt31049299",
+      "tmdb_id": 1236045,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.7,
+      "tmdb_vote_count": 15,
+      "popularity": 8.6916,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-10-09",
+      "first_detected_at": "2026-10-09T10:42:54.830647+00:00",
+      "last_updated_at": "2026-10-09T18:25:07.639225+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "93286de1920e941c",
+          "movie_id": "m_4852554f6655",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-09",
+          "detected_at": "2026-10-09T18:24:49.166125+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Животные",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Когда их сына похищают, кандидат на пост мэра Лос-Анджелеса и его жена в панике пытаются собрать выкуп, принимая решения, из-за которых их мир может рухнуть.",
+            "poster": "https://image.tmdb.org/t/p/w500/tivUBDoIEXHnL5ZjyNca3FMTH86.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+            "genres": [
+              "триллер",
+              "драма"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 109,
+            "popularity": 8.6916,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.7,
+            "tmdb_vote_count": 15,
+            "theatrical_release_date": "2026-10-09",
+            "digital_release_date": "2026-10-09"
+          }
+        },
+        {
+          "id": "53923f5d769a5dfb",
+          "movie_id": "m_4852554f6655",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-09T07:11:28+00:00",
+          "detected_at": "2026-10-09T10:42:54.830647+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Животные / Animals (2026) WEB-DL 1080p от EniaHD | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "b11532cf07d80eb7",
+          "movie_id": "m_4852554f6655",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-09T08:39:40+00:00",
+          "detected_at": "2026-10-09T10:42:54.830647+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Животные / Animals (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D | Videofilm Int.",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "457e8687645e4d0c",
+          "movie_id": "m_4852554f6655",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-09T09:20:24+00:00",
+          "detected_at": "2026-10-09T10:42:54.830647+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Животные / Animals (2026) UHD WEB-DL 2160p | 4K | SDR | D | Videofilm Int.",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a20ac905659f47cb",
+          "movie_id": "m_4852554f6655",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-09T11:10:43+00:00",
+          "detected_at": "2026-10-09T18:24:49.166125+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Животные / Animals (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Videofilm Int.",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "tt36150957",
       "title": "Oasis: Don't Look Back in Anger",
@@ -77,23 +341,24 @@
       ]
     },
     {
-      "id": "m_a6f6abfee9f7",
-      "title": "Matchbox. Фильм",
-      "original_title": "Matchbox the Movie",
-      "year": 2026,
-      "overview": "На основе культовых игрушечных автомобилей, созданных в 1953 году.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzFjYmM0NTQtM2ZkNS00ODUwLWI2Y2UtNTJkYThjM2RmODQ2XkEyXkFqcGc@._V1_SX250.jpg",
+      "id": "m_ab1008a90041",
+      "title": "Хищные твари",
+      "original_title": "Dangerous Animals",
+      "year": 2025,
+      "overview": "Когда Зефир, опытный и свободолюбивый серфер, похищен одержимым акулами серийным убийцей и взят в плен на его лодке, она должна выяснить, как сбежать, прежде чем он проведет ритуальное кормление акул внизу.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg5M2ZjNjItZThiZi00NDFiLTg3NmYtMmFhZTkxZWQ2OWVmXkEyXkFqcGc@._V1_SX250.jpg",
       "backdrop": null,
       "genres": [
-        "Action"
+        "Horror",
+        "Thriller"
       ],
       "countries": [
-        "United States"
+        "Australia, United States, Canada"
       ],
       "runtime": null,
-      "imdb_id": "tt28498219",
+      "imdb_id": "tt32299316",
       "tmdb_id": null,
-      "imdb_rating": null,
+      "imdb_rating": 6.4,
       "imdb_vote_count": null,
       "tmdb_rating": null,
       "tmdb_vote_count": null,
@@ -101,36 +366,179 @@
       "popularity_source": null,
       "theatrical_release_date": null,
       "digital_release_date": null,
-      "first_detected_at": "2026-10-09T10:42:54.830647+00:00",
-      "last_updated_at": "2026-10-09T10:43:29.357400+00:00",
+      "first_detected_at": "2026-10-09T18:24:49.166125+00:00",
+      "last_updated_at": "2026-10-09T18:25:07.633148+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "08bfd5ac93af1228",
+          "movie_id": "m_ab1008a90041",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-09T11:23:45+00:00",
+          "detected_at": "2026-10-09T18:24:49.166125+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Хищные твари / Dangerous Animals (2025) BDRip 720p от DoMiNo & селезень | D, P | Мосфильм-Мастер, HDrezka Studio",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_81b333e24c66",
+      "title": "Университеты с привидениями 4",
+      "original_title": "Thoem 4",
+      "year": 2026,
+      "overview": "Четыре тайских кампуса, четыре смертельных легенды. В этой антологии ужасов студенты сталкиваются с проклятым мостом, домом-призраком, жестоким ритуалом и комнатой с привидениями.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDc5YjQwNTgtYzg4Yi00ZDRiLWE1YWItZTZhY2FhYjYwYjNiXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "countries": [],
+      "runtime": null,
+      "imdb_id": "tt43380212",
+      "tmdb_id": null,
+      "imdb_rating": 6.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-09T18:24:49.166125+00:00",
+      "last_updated_at": "2026-10-09T18:25:02.579809+00:00",
       "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
+      "best_quality": "WEBRip",
       "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
       "has_ru_audio": false,
       "events": [
         {
-          "id": "c81722b729b02850",
-          "movie_id": "m_a6f6abfee9f7",
+          "id": "cf6faf21aa8d1714",
+          "movie_id": "m_81b333e24c66",
           "event_type": "WEB_DL_DETECTED",
           "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-09T04:00:27+00:00",
-          "detected_at": "2026-10-09T10:42:54.830647+00:00",
-          "quality": "WEB-DL",
+          "source_release_date": "2026-10-09T14:30:52+00:00",
+          "detected_at": "2026-10-09T18:24:49.166125+00:00",
+          "quality": "WEBRip",
           "resolution": "1080p",
           "hdr": null,
           "audio": null,
           "language": null,
           "release_group": "Sub",
-          "raw_title": "Matchbox. Фильм / Matchbox the Movie (2026) WEB-DL 1080p | Sub",
+          "raw_title": "Университеты с привидениями 4 / Thoem 4 (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_e3b7fc662278",
+      "title": "Поздняя слава",
+      "original_title": "Late Fame",
+      "year": 2025,
+      "overview": "В самом конце 1970-х годов работник почты Эд Саксбергер написал книгу стихов, которая никого не волновала. После того, как на его пороге появляется нетерпеливый и лестный поклонник, Саксбергера манят в кружок молодых поклонников, которые помазывают его вновь открывшимся гением. Группу богемы в центре города возглавляет их «трагическая героиня» Глория. Опьяненный вниманием и заманчивым присутствием Глории, Саксбергер постепенно начинает считаться с подлинностью",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2VlZDk4Y2MtYzVlNC00NTY5LWI4YWEtOTBiMDZmYTQwZDRjXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Drama"
+      ],
+      "countries": [
+        "United States, France"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32298494",
+      "tmdb_id": null,
+      "imdb_rating": 6.9,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-09T18:24:49.166125+00:00",
+      "last_updated_at": "2026-10-09T18:25:02.587201+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "7d646cf61dec2d1c",
+          "movie_id": "m_e3b7fc662278",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-09T13:00:29+00:00",
+          "detected_at": "2026-10-09T18:24:49.166125+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "TVShows",
+          "raw_title": "Поздняя слава / Late Fame (2025) WEB-DL 1080p | P | TVShows",
           "details": {
             "quality": "WEB-DL",
             "resolution": "1080p",
             "hdr": null,
             "audio": null,
             "language": null,
-            "release_group": "Sub",
+            "release_group": "TVShows",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "bb6c9fc789308e48",
+          "movie_id": "m_e3b7fc662278",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-09T17:22:41+00:00",
+          "detected_at": "2026-10-09T18:24:49.166125+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "TVShows",
+          "raw_title": "Поздняя слава / Late Fame (2025) BDRip 720p от DoMiNo & селезень | P | TVShows",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "TVShows",
             "is_secondary_signal": true
           }
         }
@@ -375,115 +783,6 @@
             "audio": null,
             "language": "RU",
             "release_group": "D",
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "m_4852554f6655",
-      "title": "Животные",
-      "original_title": "Animals",
-      "year": 2026,
-      "overview": "Живо́тные (лат. Animalia) — традиционно выделяемая категория организмов, в настоящее время рассматриваемая в качестве биологического царства. Животные являются основным объектом изучения зоологии.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "runtime": null,
-      "imdb_id": "tt31049299",
-      "tmdb_id": null,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-10-09T10:42:54.830647+00:00",
-      "last_updated_at": "2026-10-09T10:43:02.893817+00:00",
-      "status": "UHD_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "2160p",
-      "has_4k": true,
-      "has_hdr": true,
-      "has_ru_audio": true,
-      "events": [
-        {
-          "id": "53923f5d769a5dfb",
-          "movie_id": "m_4852554f6655",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-09T07:11:28+00:00",
-          "detected_at": "2026-10-09T10:42:54.830647+00:00",
-          "quality": "WEB-DL",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": "D",
-          "raw_title": "Животные / Animals (2026) WEB-DL 1080p от EniaHD | D",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": "D",
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "b11532cf07d80eb7",
-          "movie_id": "m_4852554f6655",
-          "event_type": "UHD_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-09T08:39:40+00:00",
-          "detected_at": "2026-10-09T10:42:54.830647+00:00",
-          "quality": "WEB-DL",
-          "resolution": "2160p",
-          "hdr": "Dolby Vision / HDR10",
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "Животные / Animals (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D | Videofilm Int.",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "2160p",
-            "hdr": "Dolby Vision / HDR10",
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "457e8687645e4d0c",
-          "movie_id": "m_4852554f6655",
-          "event_type": "UHD_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-09T09:20:24+00:00",
-          "detected_at": "2026-10-09T10:42:54.830647+00:00",
-          "quality": "WEB-DL",
-          "resolution": "2160p",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "Животные / Animals (2026) UHD WEB-DL 2160p | 4K | SDR | D | Videofilm Int.",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "2160p",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
             "is_secondary_signal": true
           }
         }

@@ -72,6 +72,270 @@
   ]
  },
  {
+  "id": "m_a6f6abfee9f7",
+  "title": "Matchbox. Фильм",
+  "original_title": "Matchbox the Movie",
+  "year": 2026,
+  "overview": "На основе культовых игрушечных автомобилей, созданных в 1953 году.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzFjYmM0NTQtM2ZkNS00ODUwLWI2Y2UtNTJkYThjM2RmODQ2XkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+  "genres": [
+   "Action"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": 127,
+  "imdb_id": "tt28498219",
+  "tmdb_id": 1148365,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.056,
+  "tmdb_vote_count": 9,
+  "popularity": 14.756,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": null,
+  "digital_release_date": "2026-10-09",
+  "first_detected_at": "2026-10-09T10:42:54.830647+00:00",
+  "last_updated_at": "2026-10-09T18:24:56.306678+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "5e114e26bc64e13c",
+    "movie_id": "m_a6f6abfee9f7",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-09",
+    "detected_at": "2026-10-09T18:24:49.166125+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Matchbox: фильм",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Встреча бывших друзей детства принимает неожиданный оборот — они случайно узнают об опасном международном заговоре и должны спасти мир.",
+     "poster": "https://image.tmdb.org/t/p/w500/ojUXGiBCqgZ9aFYYGNg9jJU0DE5.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+     "genres": [
+      "боевик",
+      "комедия",
+      "приключения"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 127,
+     "popularity": 14.756,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.056,
+     "tmdb_vote_count": 9,
+     "theatrical_release_date": "2026-10-05",
+     "digital_release_date": "2026-10-09"
+    }
+   },
+   {
+    "id": "c81722b729b02850",
+    "movie_id": "m_a6f6abfee9f7",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-09T04:00:27+00:00",
+    "detected_at": "2026-10-09T10:42:54.830647+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Sub",
+    "raw_title": "Matchbox. Фильм / Matchbox the Movie (2026) WEB-DL 1080p | Sub",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Sub",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_4852554f6655",
+  "title": "Животные",
+  "original_title": "Animals",
+  "year": 2026,
+  "overview": "Живо́тные (лат. Animalia) — традиционно выделяемая категория организмов, в настоящее время рассматриваемая в качестве биологического царства. Животные являются основным объектом изучения зоологии.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+  "genres": [
+   "Crime",
+   "Thriller"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": 109,
+  "imdb_id": "tt31049299",
+  "tmdb_id": 1236045,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 5.7,
+  "tmdb_vote_count": 15,
+  "popularity": 8.6916,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": null,
+  "digital_release_date": "2026-10-09",
+  "first_detected_at": "2026-10-09T10:42:54.830647+00:00",
+  "last_updated_at": "2026-10-09T18:25:07.639225+00:00",
+  "status": "UHD_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "2160p",
+  "has_4k": true,
+  "has_hdr": true,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "93286de1920e941c",
+    "movie_id": "m_4852554f6655",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-09",
+    "detected_at": "2026-10-09T18:24:49.166125+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Животные",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Когда их сына похищают, кандидат на пост мэра Лос-Анджелеса и его жена в панике пытаются собрать выкуп, принимая решения, из-за которых их мир может рухнуть.",
+     "poster": "https://image.tmdb.org/t/p/w500/tivUBDoIEXHnL5ZjyNca3FMTH86.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+     "genres": [
+      "триллер",
+      "драма"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 109,
+     "popularity": 8.6916,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 5.7,
+     "tmdb_vote_count": 15,
+     "theatrical_release_date": "2026-10-09",
+     "digital_release_date": "2026-10-09"
+    }
+   },
+   {
+    "id": "53923f5d769a5dfb",
+    "movie_id": "m_4852554f6655",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-09T07:11:28+00:00",
+    "detected_at": "2026-10-09T10:42:54.830647+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Животные / Animals (2026) WEB-DL 1080p от EniaHD | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "b11532cf07d80eb7",
+    "movie_id": "m_4852554f6655",
+    "event_type": "UHD_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-09T08:39:40+00:00",
+    "detected_at": "2026-10-09T10:42:54.830647+00:00",
+    "quality": "WEB-DL",
+    "resolution": "2160p",
+    "hdr": "Dolby Vision / HDR10",
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Животные / Animals (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D | Videofilm Int.",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "2160p",
+     "hdr": "Dolby Vision / HDR10",
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "457e8687645e4d0c",
+    "movie_id": "m_4852554f6655",
+    "event_type": "UHD_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-09T09:20:24+00:00",
+    "detected_at": "2026-10-09T10:42:54.830647+00:00",
+    "quality": "WEB-DL",
+    "resolution": "2160p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Животные / Animals (2026) UHD WEB-DL 2160p | 4K | SDR | D | Videofilm Int.",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "2160p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "a20ac905659f47cb",
+    "movie_id": "m_4852554f6655",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-09T11:10:43+00:00",
+    "detected_at": "2026-10-09T18:24:49.166125+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Животные / Animals (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Videofilm Int.",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
   "id": "tt36150957",
   "title": "Oasis: Don't Look Back in Anger",
   "original_title": "Oasis: Don't Look Back in Anger",
@@ -750,8 +1014,8 @@
   "tmdb_id": 1752355,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.533,
-  "tmdb_vote_count": 15,
+  "tmdb_rating": 7.5,
+  "tmdb_vote_count": 16,
   "popularity": 17.517,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -1037,8 +1301,8 @@
   "tmdb_id": 1458857,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.727,
-  "tmdb_vote_count": 75,
+  "tmdb_rating": 7.757,
+  "tmdb_vote_count": 76,
   "popularity": 71.3483,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -1256,8 +1520,8 @@
   "tmdb_id": 1763619,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.6,
-  "tmdb_vote_count": 7,
+  "tmdb_rating": 6.75,
+  "tmdb_vote_count": 8,
   "popularity": 35.7638,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-01",
@@ -2955,8 +3219,8 @@
   "tmdb_id": 1291366,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.308,
-  "tmdb_vote_count": 13,
+  "tmdb_rating": 6.357,
+  "tmdb_vote_count": 14,
   "popularity": 6.9004,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-25",
@@ -5353,152 +5617,6 @@
      "tmdb_vote_count": 27,
      "theatrical_release_date": "2026-09-10",
      "digital_release_date": "2026-09-10"
-    }
-   }
-  ]
- },
- {
-  "id": "tt38061210",
-  "title": "Зачем мы опять женимся?",
-  "original_title": "Why Did I Get Married Again?",
-  "year": 2026,
-  "overview": "Пары вновь встречаются на выездной свадьбе дочери Маркуса и Анджелы, поднимая старые и новые споры и задаваясь вопросом: «А зачем мы вообще поженились?»",
-  "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-  "genres": [
-   "комедия",
-   "мелодрама",
-   "драма"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 111,
-  "imdb_id": "tt38061210",
-  "tmdb_id": 1522689,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.667,
-  "tmdb_vote_count": 33,
-  "popularity": 11.6731,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-08",
-  "digital_release_date": "2026-09-09",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:23.804096+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "d9eb2461afde5933",
-    "movie_id": "tt38061210",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-09",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Зачем мы опять женимся?",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Пары вновь встречаются на выездной свадьбе дочери Маркуса и Анджелы, поднимая старые и новые споры и задаваясь вопросом: «А зачем мы вообще поженились?»",
-     "poster": "https://image.tmdb.org/t/p/w500/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-     "genres": [
-      "комедия",
-      "мелодрама",
-      "драма"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 111,
-     "popularity": 11.6731,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.667,
-     "tmdb_vote_count": 33,
-     "theatrical_release_date": "2026-09-08",
-     "digital_release_date": "2026-09-09"
-    }
-   }
-  ]
- },
- {
-  "id": "tt36073210",
-  "title": "Слоновая кость",
-  "original_title": "Enfrentados: Marfil",
-  "year": 2026,
-  "overview": "После её загадочного похищения в Нью-Йорке дочери испанского магната Марфиль Кортес назначают телохранителя — Себастьяна Мура. Несмотря на конфликт характеров, между ними растёт влечение, пока они вместе сталкиваются с нарастающими угрозами в Испании, где всё не то, чем кажется.",
-  "poster": "https://image.tmdb.org/t/p/w500/kBbKY8vI3FNETcwNC70I2KGXogg.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-  "genres": [
-   "мелодрама",
-   "триллер"
-  ],
-  "countries": [
-   "Spain"
-  ],
-  "runtime": 104,
-  "imdb_id": "tt36073210",
-  "tmdb_id": 1440098,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.839,
-  "tmdb_vote_count": 158,
-  "popularity": 86.7456,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-09",
-  "digital_release_date": "2026-09-09",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:23.726499+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "e2a82ff5813a53b4",
-    "movie_id": "tt36073210",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-09",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Слоновая кость",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "После её загадочного похищения в Нью-Йорке дочери испанского магната Марфиль Кортес назначают телохранителя — Себастьяна Мура. Несмотря на конфликт характеров, между ними растёт влечение, пока они вместе сталкиваются с нарастающими угрозами в Испании, где всё не то, чем кажется.",
-     "poster": "https://image.tmdb.org/t/p/w500/kBbKY8vI3FNETcwNC70I2KGXogg.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-     "genres": [
-      "мелодрама",
-      "триллер"
-     ],
-     "countries": [
-      "Spain"
-     ],
-     "runtime": 104,
-     "popularity": 86.7456,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.839,
-     "tmdb_vote_count": 158,
-     "theatrical_release_date": "2026-09-09",
-     "digital_release_date": "2026-09-09"
     }
    }
   ]
