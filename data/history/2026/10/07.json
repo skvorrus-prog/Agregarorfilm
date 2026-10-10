@@ -345,7 +345,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-07T13:35:17.150465+00:00",
-      "last_updated_at": "2026-10-07T13:35:34.161968+00:00",
+      "last_updated_at": "2026-10-10T09:58:58.450403+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -400,6 +400,30 @@
             "release_group": "CPI Films",
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "71e8073c8f35b746",
+          "movie_id": "m_3a559f4e0b81",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-10T07:19:56+00:00",
+          "detected_at": "2026-10-10T09:58:42.423736+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "CPI Films",
+          "raw_title": "Изгой / Molt lluny / Away (2025) WEB-DLRip-AVC | D | CPI Films",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "CPI Films",
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -428,7 +452,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-07T13:35:17.150465+00:00",
-      "last_updated_at": "2026-10-08T18:54:39.840370+00:00",
+      "last_updated_at": "2026-10-10T09:58:58.479716+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -481,6 +505,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "9d0617dfb85f66eb",
+          "movie_id": "m_824115f2d1a4",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-10T06:15:39+00:00",
+          "detected_at": "2026-10-10T09:58:42.423736+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "Не такой уж незнакомый / Mniej obcy / Less of a Stranger (2026) WEB-DLRip-AVC от NiTrID | D | Movie Dubbing",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Movie Dubbing",
             "is_secondary_signal": true
           }
         }
