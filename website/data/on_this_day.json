@@ -686,6 +686,21 @@
  "10-01": {
   "2026": [
    {
+    "id": "tt28541577",
+    "title": "சர்தார் 2",
+    "original_title": "சர்தார் 2",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/cfHUMXmEDHmY7NYEUVsfvcqBVrD.jpg",
+    "digital_release_date": "2026-10-01",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt43738050",
     "title": "безумно богатые абсолютно нищие",
     "original_title": "المهايطية",
@@ -4194,7 +4209,7 @@
     "year": 2026,
     "poster": "https://images.metahub.space/poster/small/tt27681354/img",
     "digital_release_date": "2026-04-08",
-    "imdb_rating": 6.6,
+    "imdb_rating": 6.3,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "unknown",
@@ -4559,6 +4574,25 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   }
+  ]
+ },
+ "10-10": {
+  "2026": [
+   {
+    "id": "m_964d6556ae53",
+    "title": "Мой пёс Гохан",
+    "original_title": "Gohan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDVhZDcwMDgtMTU3Yi00MjI2LTkzNTUtZDY4ZDJiNjYwYWFhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
    }
   ]
  },

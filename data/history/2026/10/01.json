@@ -1,7 +1,79 @@
 {
   "date": "2026-10-01",
-  "count": 12,
+  "count": 13,
   "movies": [
+    {
+      "id": "tt28541577",
+      "title": "சர்தார் 2",
+      "original_title": "சர்தார் 2",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cfHUMXmEDHmY7NYEUVsfvcqBVrD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 180,
+      "imdb_id": "tt28541577",
+      "tmdb_id": 1317872,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.6,
+      "tmdb_vote_count": 5,
+      "popularity": 22.0877,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-10",
+      "digital_release_date": "2026-10-01",
+      "first_detected_at": "2026-10-10T00:57:58.939948+00:00",
+      "last_updated_at": "2026-10-10T00:58:05.707013+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "7cc7c72fa005cbac",
+          "movie_id": "tt28541577",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-01",
+          "detected_at": "2026-10-10T00:57:58.939948+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "சர்தார் 2",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/cfHUMXmEDHmY7NYEUVsfvcqBVrD.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
+            "genres": [
+              "боевик",
+              "триллер"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 180,
+            "popularity": 22.0877,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.6,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-10",
+            "digital_release_date": "2026-10-01"
+          }
+        }
+      ]
+    },
     {
       "id": "tt43738050",
       "title": "безумно богатые абсолютно нищие",
@@ -318,7 +390,7 @@
       "tmdb_id": 1599191,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.464,
+      "tmdb_rating": 7.5,
       "tmdb_vote_count": 14,
       "popularity": 162.6296,
       "popularity_source": "TMDB",

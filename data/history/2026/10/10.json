@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-10",
+  "count": 1,
+  "movies": [
+    {
+      "id": "m_964d6556ae53",
+      "title": "Мой пёс Гохан",
+      "original_title": "Gohan",
+      "year": 2026,
+      "overview": "Связи между людьми и животными следуют за бродячей собакой по имени Гохан, когда она движется по жизни с временными владельцами более десяти лет, через хорошие и плохие времена, радость и печаль, привет и прощания.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDVhZDcwMDgtMTU3Yi00MjI2LTkzNTUtZDY4ZDJiNjYwYWFhXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Drama"
+      ],
+      "countries": [
+        "Thailand"
+      ],
+      "runtime": null,
+      "imdb_id": "tt36958999",
+      "tmdb_id": null,
+      "imdb_rating": 7.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-10T00:57:58.939948+00:00",
+      "last_updated_at": "2026-10-10T00:58:08.421792+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "0ed565b6c0a17d76",
+          "movie_id": "m_964d6556ae53",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-09T20:57:51+00:00",
+          "detected_at": "2026-10-10T00:57:58.939948+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Pride Production",
+          "raw_title": "Мой пёс Гохан / Gohan (2026) WEB-DL 1080p от ELEKTRI4KA | D | Pride Production",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Pride Production",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}
