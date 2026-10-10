@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "count": 5,
+  "count": 4,
   "movies": [
     {
       "id": "tt31192372",
@@ -588,115 +588,6 @@
             "audio": null,
             "language": "RU",
             "release_group": "L",
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "m_0867eaf73a4c",
-      "title": "Флорист",
-      "original_title": "The Florist",
-      "year": 2026,
-      "overview": "Флори́ст:\nФлорист, или флоро́граф — учёный-ботаник, специалист в области флористики.\nФлорист — специалист в области флористики.\nФлорист — художник, мастер цветочного натюрморта.\n«Флорист» — американский биографический фильм режиссёра Ника Сэндоу о Вивьен Ли.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzlkZWEtNmQ3MC00YWE5LWEwYTctZmU3MzJkYmU2OWQxXkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "countries": [
-        "United Kingdom, Italy"
-      ],
-      "runtime": null,
-      "imdb_id": "tt33214716",
-      "tmdb_id": null,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-10-06T16:01:08.191043+00:00",
-      "last_updated_at": "2026-10-06T22:41:47.237117+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "1080p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": true,
-      "events": [
-        {
-          "id": "b09644b43f9f3bc9",
-          "movie_id": "m_0867eaf73a4c",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-06T11:43:20+00:00",
-          "detected_at": "2026-10-06T16:01:08.191043+00:00",
-          "quality": "WEB-DL",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "Флорист / The Florist (2026) WEB-DL 1080p от ELEKTRI4KA | D | Мосфильм-Мастер",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "10190a2adfece68f",
-          "movie_id": "m_0867eaf73a4c",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-06T11:47:57+00:00",
-          "detected_at": "2026-10-06T16:01:08.191043+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "Флорист / The Florist (2026) WEB-DLRip от ELEKTRI4KA | D | Мосфильм-Мастер",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "unknown",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "e70d0c800fb33747",
-          "movie_id": "m_0867eaf73a4c",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-06T16:03:45+00:00",
-          "detected_at": "2026-10-06T22:41:40.348916+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": null,
-          "raw_title": "Флорист / The Florist (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Мосфильм-Мастер | Локализованная версия",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "unknown",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": null,
             "is_secondary_signal": true
           }
         }

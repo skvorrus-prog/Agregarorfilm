@@ -172,7 +172,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-05T22:04:41.289547+00:00",
-      "last_updated_at": "2026-10-10T09:58:58.457116+00:00",
+      "last_updated_at": "2026-10-10T17:23:14.858292+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -299,6 +299,30 @@
             "release_group": null,
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "e07a3a1b8eab0b14",
+          "movie_id": "m_29b715cd78af",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-10T11:13:01+00:00",
+          "detected_at": "2026-10-10T17:23:04.700142+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Астрал 6: Они уже здесь / Insidious: Out of the Further (2026) WEB-DL 2160p | 4К | НDR+10 | Dolby Vision Profile 8 | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -330,7 +354,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
-      "last_updated_at": "2026-10-10T09:58:49.563183+00:00",
+      "last_updated_at": "2026-10-10T17:23:14.853423+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -770,6 +794,30 @@
           "details": {
             "quality": "WEB-DL",
             "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "IMAX",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a2026f33d676a08c",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-10T11:14:04+00:00",
+          "detected_at": "2026-10-10T17:23:04.700142+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "IMAX",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) WEB-Rip 1080p от New-Team | D | IMAX",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
             "hdr": null,
             "audio": null,
             "language": "RU",

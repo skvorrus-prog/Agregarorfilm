@@ -321,7 +321,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-08T18:54:00.961808+00:00",
-      "last_updated_at": "2026-10-09T10:43:27.209617+00:00",
+      "last_updated_at": "2026-10-10T17:23:12.032325+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -374,6 +374,30 @@
             "audio": null,
             "language": null,
             "release_group": "P",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "f556758e8dee475c",
+          "movie_id": "m_447806008176",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-10T15:22:44+00:00",
+          "detected_at": "2026-10-10T17:23:04.700142+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Official",
+          "raw_title": "Узники рая / Ambleside / Prisoners of Paradise (2025) WEB-DLRip-AVC от NiTrID | P | Official",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Official",
             "is_secondary_signal": true
           }
         }

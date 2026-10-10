@@ -220,21 +220,6 @@
     "has_ru_audio": true
    },
    {
-    "id": "m_0867eaf73a4c",
-    "title": "Флорист",
-    "original_title": "The Florist",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzlkZWEtNmQ3MC00YWE5LWEwYTctZmU3MzJkYmU2OWQxXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
     "id": "tt30144839",
     "title": "One Battle After Another",
     "original_title": "One Battle After Another",
@@ -440,6 +425,21 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   },
+   {
+    "id": "m_0867eaf73a4c",
+    "title": "Флорист",
+    "original_title": "The Florist",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzlkZWEtNmQ3MC00YWE5LWEwYTctZmU3MzJkYmU2OWQxXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-10-02",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
    },
    {
     "id": "tt35682658",
@@ -4579,6 +4579,21 @@
  },
  "10-10": {
   "2026": [
+   {
+    "id": "m_157ef95a00a5",
+    "title": "Тогда. Сейчас. Потом",
+    "original_title": "Here",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQ5ZDQ5YWQtMThiMS00MGM4LTk2NjktYTllYzg2NTRiNTMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.3,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
    {
     "id": "m_64673331a5e2",
     "title": "З",
