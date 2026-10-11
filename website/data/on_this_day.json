@@ -4719,6 +4719,36 @@
  "10-11": {
   "2026": [
    {
+    "id": "m_c492190abcf5",
+    "title": "Вечность",
+    "original_title": "Eternity",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzlmZTNiOTAtNzhlOC00ZTA1LWJhNTgtMDQ4YmY4NWIyNTA4XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.9,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_c7420c3add1e",
+    "title": "Красота смирения",
+    "original_title": "Красота принятия / Beauty from Surrender",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjUyMzg0YmQtY2RkMC00ZDFmLWE0YmEtOGE4MTcxYzhmYjNlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_3d664987840e",
     "title": "Ночной бизнес",
     "original_title": "The Get Out",
