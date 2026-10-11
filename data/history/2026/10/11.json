@@ -1,7 +1,68 @@
 {
   "date": "2026-10-11",
-  "count": 1,
+  "count": 2,
   "movies": [
+    {
+      "id": "m_3d664987840e",
+      "title": "Ночной бизнес",
+      "original_title": "The Get Out",
+      "year": 2026,
+      "overview": "«Ночной бизнес» — будущий художественный фильм режиссёра Деррика Борте с Расселом Кроу в главной роли. Авторами сценария стали Борте и Дэниел Форте. Экранизация романа Томаса Перри «Strip».",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "countries": [
+        "United States, Australia"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32321803",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-11T13:03:51.633016+00:00",
+      "last_updated_at": "2026-10-11T13:03:59.826667+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "a09b10b5ff64b054",
+          "movie_id": "m_3d664987840e",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-11T12:00:54+00:00",
+          "detected_at": "2026-10-11T13:03:51.633016+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Ночной бизнес / The Get Out (2026) WEB-DL 720p от селезень | D | Мосфильм-Мастер",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_7920f113efba",
       "title": "Сладкая сказка",

@@ -1,7 +1,79 @@
 {
   "date": "2026-10-08",
-  "count": 7,
+  "count": 8,
   "movies": [
+    {
+      "id": "tt36596965",
+      "title": "மண்டாடி",
+      "original_title": "மண்டாடி",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/xRIsVUcCBRVGh2pt9VgzRIw2tK5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 153,
+      "imdb_id": "tt36596965",
+      "tmdb_id": 1465943,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.4,
+      "tmdb_vote_count": 5,
+      "popularity": 19.3037,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-10",
+      "digital_release_date": "2026-10-08",
+      "first_detected_at": "2026-10-11T13:03:51.633016+00:00",
+      "last_updated_at": "2026-10-11T13:03:58.863515+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "4919a9f7c281a6df",
+          "movie_id": "tt36596965",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-08",
+          "detected_at": "2026-10-11T13:03:51.633016+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "மண்டாடி",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/xRIsVUcCBRVGh2pt9VgzRIw2tK5.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
+            "genres": [
+              "боевик",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 153,
+            "popularity": 19.3037,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.4,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-10",
+            "digital_release_date": "2026-10-08"
+          }
+        }
+      ]
+    },
     {
       "id": "m_be3cc9383509",
       "title": "Души под замком",

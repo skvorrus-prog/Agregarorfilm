@@ -35,13 +35,19 @@
   </url>
   <url>
     <loc>https://digitalreleases.github.io/movie/m_4852554f6655.html</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://digitalreleases.github.io/movie/tt36150957.html</loc>
     <lastmod>2026-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://digitalreleases.github.io/movie/tt36596965.html</loc>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -407,7 +413,7 @@
   </url>
   <url>
     <loc>https://digitalreleases.github.io/movie/tt27419466.html</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -965,7 +971,7 @@
   </url>
   <url>
     <loc>https://digitalreleases.github.io/movie/tt12042730.html</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1211,7 +1217,7 @@
   </url>
   <url>
     <loc>https://digitalreleases.github.io/movie/tt37853455.html</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1444,6 +1450,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://digitalreleases.github.io/movie/m_3d664987840e.html</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://digitalreleases.github.io/movie/m_7920f113efba.html</loc>
     <lastmod>2026-10-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -1487,7 +1499,7 @@
   </url>
   <url>
     <loc>https://digitalreleases.github.io/movie/m_964d6556ae53.html</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
