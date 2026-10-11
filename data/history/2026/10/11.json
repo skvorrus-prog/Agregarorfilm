@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-11",
+  "count": 1,
+  "movies": [
+    {
+      "id": "m_7920f113efba",
+      "title": "Сладкая сказка",
+      "original_title": "Cukrkandl / Sugar Candy",
+      "year": 2025,
+      "overview": "«Сладкая сказка» — советский кукольный мультфильм, снятый в 1970 году режиссёром Владимиром Дегтярёвым. Один из его познавательных фильмов, адресованных самым маленьким, рассказывающий об увлекательности кондитерского производства.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjMwZjI4NTItNTg1Yi00YTgwLTg0YTUtNGQzZWEzYzEzMTgzXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Documentary"
+      ],
+      "countries": [
+        "Canada, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt30319854",
+      "tmdb_id": null,
+      "imdb_rating": 7.0,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-11T05:58:43.191778+00:00",
+      "last_updated_at": "2026-10-11T05:58:51.788913+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "b7842e8ae44f00d8",
+          "movie_id": "m_7920f113efba",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-11T04:41:24+00:00",
+          "detected_at": "2026-10-11T05:58:43.191778+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Сладкая сказка / Cukrkandl / Sugar Candy (2025) WEB-DLRip | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}
