@@ -4716,6 +4716,40 @@
    }
   ]
  },
+ "10-12": {
+  "2026": [
+   {
+    "id": "m_87719b6f5c4e",
+    "title": "Заманчивое предложение",
+    "original_title": "Дверь в подвал / Cellar Door",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmIyNDdkMWUtNmU3MC00MzAyLWIxZTMtNDk5MjgwMTRjNzcyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_9f4b2ee9863d",
+    "title": "Тараканы",
+    "original_title": "Cockroaches",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODgyOTQ4ZGUtZWZlNC00MmZiLTk4NGQtMmI1NjVjMTU0ZGJiXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.8,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "10-11": {
   "2026": [
    {
