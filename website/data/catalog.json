@@ -72,6 +72,78 @@
   ]
  },
  {
+  "id": "tt38275278",
+  "title": "WWE Money in the Bank 2026",
+  "original_title": "WWE Money in the Bank 2026",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/wRFDnH3XzwDKV9QU3DTYNU8XX2R.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vdwmT1oZcDgkjvmyu7OYw1z6GYx.jpg",
+  "genres": [
+   "боевик",
+   "драма"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 194,
+  "imdb_id": "tt38275278",
+  "tmdb_id": 1545690,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.1,
+  "tmdb_vote_count": 7,
+  "popularity": 9.1987,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-10",
+  "digital_release_date": "2026-10-11",
+  "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
+  "last_updated_at": "2026-10-12T21:18:59.738523+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "b2f9d7845880d766",
+    "movie_id": "tt38275278",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-11",
+    "detected_at": "2026-10-12T21:18:52.358190+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "WWE Money in the Bank 2026",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/wRFDnH3XzwDKV9QU3DTYNU8XX2R.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/vdwmT1oZcDgkjvmyu7OYw1z6GYx.jpg",
+     "genres": [
+      "боевик",
+      "драма"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 194,
+     "popularity": 9.1987,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.1,
+     "tmdb_vote_count": 7,
+     "theatrical_release_date": "2026-10-10",
+     "digital_release_date": "2026-10-11"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt43739386",
   "title": "З/Л/О: Сборник",
   "original_title": "V/H/S/Mixtape",
@@ -93,8 +165,8 @@
   "tmdb_id": 1742441,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 4.364,
-  "tmdb_vote_count": 11,
+  "tmdb_rating": 4.1,
+  "tmdb_vote_count": 13,
   "popularity": 106.6138,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -166,8 +238,8 @@
   "tmdb_id": 1148365,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.9,
-  "tmdb_vote_count": 222,
+  "tmdb_rating": 7.896,
+  "tmdb_vote_count": 246,
   "popularity": 354.5083,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -383,8 +455,8 @@
   "tmdb_id": 1236045,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.491,
-  "tmdb_vote_count": 232,
+  "tmdb_rating": 7.426,
+  "tmdb_vote_count": 256,
   "popularity": 240.3403,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1354,8 +1426,8 @@
   "tmdb_id": 1752355,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.8,
-  "tmdb_vote_count": 21,
+  "tmdb_rating": 7.609,
+  "tmdb_vote_count": 23,
   "popularity": 13.5659,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -1426,7 +1498,7 @@
   "tmdb_id": 1320039,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.714,
+  "tmdb_rating": 6.7,
   "tmdb_vote_count": 7,
   "popularity": 4.6208,
   "popularity_source": "TMDB",
@@ -1786,7 +1858,7 @@
   "tmdb_id": 1458857,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.708,
+  "tmdb_rating": 7.7,
   "tmdb_vote_count": 89,
   "popularity": 53.76,
   "popularity_source": "TMDB",
@@ -2883,6 +2955,76 @@
      "tmdb_vote_count": 6,
      "theatrical_release_date": "2026-10-02",
      "digital_release_date": "2026-09-30"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt46060457",
+  "title": "The Swan: Behind the Mirror",
+  "original_title": "The Swan: Behind the Mirror",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cxAOlicoljfeXzuNKKpElM4Bovc.jpg",
+  "genres": [
+   "документальный"
+  ],
+  "countries": [
+   "United Kingdom"
+  ],
+  "runtime": 100,
+  "imdb_id": "tt46060457",
+  "tmdb_id": 1646945,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.8,
+  "tmdb_vote_count": 5,
+  "popularity": 3.598,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-29",
+  "digital_release_date": "2026-09-29",
+  "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
+  "last_updated_at": "2026-10-12T21:18:59.848341+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "805775b8cf7161d1",
+    "movie_id": "tt46060457",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-29",
+    "detected_at": "2026-10-12T21:18:52.358190+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Swan: Behind the Mirror",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/cxAOlicoljfeXzuNKKpElM4Bovc.jpg",
+     "genres": [
+      "документальный"
+     ],
+     "countries": [
+      "United Kingdom"
+     ],
+     "runtime": 100,
+     "popularity": 3.598,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.8,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-09-29",
+     "digital_release_date": "2026-09-29"
     }
    }
   ]
@@ -4266,7 +4408,7 @@
   "tmdb_id": 1607127,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.409,
+  "tmdb_rating": 7.4,
   "tmdb_vote_count": 116,
   "popularity": 80.619,
   "popularity_source": "TMDB",
@@ -16626,13 +16768,13 @@
   "theatrical_release_date": null,
   "digital_release_date": "2026-07-01",
   "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-10-12T00:37:20.196977+00:00",
+  "last_updated_at": "2026-10-12T21:18:59.900745+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "REMUX",
   "best_resolution": "2160p",
   "has_4k": true,
   "has_hdr": true,
-  "has_ru_audio": false,
+  "has_ru_audio": true,
   "events": [
    {
     "id": "fea17591a69b94d8",
@@ -16782,6 +16924,30 @@
      "audio": null,
      "language": null,
      "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "d62faebe3669131b",
+    "movie_id": "tt37853455",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-12T20:25:14+00:00",
+    "detected_at": "2026-10-12T21:18:52.358190+00:00",
+    "quality": "BluRay",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Movie Dubbing",
+    "raw_title": "Всего одна ночь / One Night Only (2026) BDRip 720p от DoMiNo & селезень | D | Movie Dubbing",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Movie Dubbing",
      "is_secondary_signal": true
     }
    },
@@ -19845,6 +20011,189 @@
   ]
  },
  {
+  "id": "m_bbe48dfd70de",
+  "title": "Проклятие Малены",
+  "original_title": "Nanay, Tatay",
+  "year": 2024,
+  "overview": "Трое сирот, Олив, Паула и Беттина, бегут из плена и усыновлены Амандой и Лито, которые потеряли свою дочь Малену. Сироты обнаруживают, что Малена, теперь одержимая демоном из-за пакта ее родителей, заключена в тюрьму на складе. Когда Малена выслеживает их, сирот принуждают ограбить пару. Конфликт привел к гибели нескольких человек, в том числе пары. Олив и Беттина сбегают, обещая заботиться друг о друге.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDc4Y2VmZGItOGE5Yi00MTY4LTkzZmYtNWVlMzFlMmQzYmM3XkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Horror"
+  ],
+  "countries": [
+   "Philippines"
+  ],
+  "runtime": null,
+  "imdb_id": "tt33203446",
+  "tmdb_id": null,
+  "imdb_rating": 6.9,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
+  "last_updated_at": "2026-10-12T21:19:11.519683+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "d024f7e72a86de94",
+    "movie_id": "m_bbe48dfd70de",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-12T16:50:48+00:00",
+    "detected_at": "2026-10-12T21:18:52.358190+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Проклятие Малены / Nanay, Tatay (2024) WEB-DL 1080p | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_10b6bb853ed1",
+  "title": "Практическая магия 2",
+  "original_title": "Practical Magic 2",
+  "year": 2026,
+  "overview": "«Практическая магия 2» — американский художественный фильм в жанре романтического фэнтези режиссёра Сюзанны Бир по сценарию Акивы Голдсмана, продолжение фильма «Практическая магия» 1998 года. Сюжет основан на романе Элис Хоффман «Книга Магии» (2021), являющемся продолжением оригинальной истории. Главные роли исполняют Сандра Буллок, Николь Кидман, Стокард Чэннинг и Дайан Уист, которые повторят свои роли из первого фильма. Среди новых актёров значатся Джоуи Кинг, Шоло Маридуэнья, Мэйси Уильямс и Ли Пейс.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Fantasy"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt32588798",
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
+  "last_updated_at": "2026-10-12T21:19:06.953343+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "a731539d7a1d1bb4",
+    "movie_id": "m_10b6bb853ed1",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-12T17:51:40+00:00",
+    "detected_at": "2026-10-12T21:18:52.358190+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Sub",
+    "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DL 1080p | Sub",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Sub",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_db7cafe1f5fc",
+  "title": "Уроки соблазна или О чём мечтает каждая женщина",
+  "original_title": "De mannenmaker",
+  "year": 2024,
+  "overview": "«Человек-мейкер» Энн не занимается отношениями, а проецирует: каждые полгода она подбирает мужчину и ухаживает за ним в желаемый экземпляр. Как только она добивается успеха, она расстается с ним и начинает новый проект. Это хорошо, пока она не начнет развивать чувства к своему новому партнеру по проекту.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDNmODFjNzUtZGQ5Ny00YzM2LWJkYTAtNWE1NTgxNTI1MDU0XkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Romance",
+   "Comedy"
+  ],
+  "countries": [
+   "Netherlands"
+  ],
+  "runtime": null,
+  "imdb_id": "tt29261292",
+  "tmdb_id": null,
+  "imdb_rating": 5.5,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
+  "last_updated_at": "2026-10-12T21:19:06.318264+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "6bd40ba0b6107ed3",
+    "movie_id": "m_db7cafe1f5fc",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-12T17:54:24+00:00",
+    "detected_at": "2026-10-12T21:18:52.358190+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Уроки соблазна или О чём мечтает каждая женщина / De mannenmaker (2024) WEB-DL 1080p | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
   "id": "m_87719b6f5c4e",
   "title": "Заманчивое предложение",
   "original_title": "Дверь в подвал / Cellar Door",
@@ -20294,13 +20643,13 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-10T09:58:42.423736+00:00",
-  "last_updated_at": "2026-10-10T09:59:07.741378+00:00",
+  "last_updated_at": "2026-10-12T21:19:11.557807+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
   "has_4k": false,
   "has_hdr": false,
-  "has_ru_audio": false,
+  "has_ru_audio": true,
   "events": [
    {
     "id": "4a610745c906be1d",
@@ -20323,6 +20672,78 @@
      "audio": null,
      "language": null,
      "release_group": "Sub",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "83ddcb136a09fae9",
+    "movie_id": "m_64673331a5e2",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-12T14:03:28+00:00",
+    "detected_at": "2026-10-12T21:18:52.358190+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "ViruseProject",
+    "raw_title": "З/Л/О: Сборник / V/H/S/Mixtape (2026) WEB-DL 1080p | P2 | ViruseProject",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "ViruseProject",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "e9c1a24cdfa10a85",
+    "movie_id": "m_64673331a5e2",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-12T16:47:23+00:00",
+    "detected_at": "2026-10-12T21:18:52.358190+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "ViruseProject",
+    "raw_title": "З/Л/О: Сборник / V/H/S/Mixtape (2026) WEB-DLRip-AVC от DoMiNo & селезень | P2 | ViruseProject",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "ViruseProject",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "a98f5712471e7e99",
+    "movie_id": "m_64673331a5e2",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-12T18:16:29+00:00",
+    "detected_at": "2026-10-12T21:18:52.358190+00:00",
+    "quality": "WEB-DL",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "ViruseProject",
+    "raw_title": "З/Л/О: Сборник / V/H/S/Mixtape (2026) WEB-DL 720p | P2 | ViruseProject",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "ViruseProject",
      "is_secondary_signal": true
     }
    }
@@ -20852,7 +21273,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-09T18:24:49.166125+00:00",
-  "last_updated_at": "2026-10-10T17:23:14.848521+00:00",
+  "last_updated_at": "2026-10-12T21:19:11.534611+00:00",
   "status": "BLURAY_RELEASE",
   "best_quality": "BluRay",
   "best_resolution": "1080p",
@@ -20973,6 +21394,30 @@
     "details": {
      "quality": "BluRay",
      "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "TVShows",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "774fa0b3fc3227af",
+    "movie_id": "m_e3b7fc662278",
+    "event_type": "BLURAY_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-12T16:44:05+00:00",
+    "detected_at": "2026-10-12T21:18:52.358190+00:00",
+    "quality": "BluRay",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "TVShows",
+    "raw_title": "Поздняя слава / Late Fame (2025) BDRip 1080p от NiTrID | P | TVShows",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "1080p",
      "hdr": null,
      "audio": null,
      "language": null,
@@ -23296,12 +23741,12 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-05T05:51:38.084133+00:00",
-  "last_updated_at": "2026-10-11T05:58:50.336503+00:00",
+  "last_updated_at": "2026-10-12T21:18:59.908616+00:00",
   "status": "BLURAY_RELEASE",
   "best_quality": "BluRay",
   "best_resolution": "1080p",
   "has_4k": false,
-  "has_hdr": false,
+  "has_hdr": true,
   "has_ru_audio": false,
   "events": [
    {
@@ -23345,6 +23790,30 @@
     "details": {
      "quality": "BluRay",
      "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "7ab8444530dd8ed2",
+    "movie_id": "m_047d8440970e",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-12T20:04:09+00:00",
+    "detected_at": "2026-10-12T21:18:52.358190+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "30 ночей с бывшим / 30 notti con il mio ex (2025) HDRip-AVC от ELEKTRI4KA | P | Кирилица",
+    "details": {
+     "quality": "unknown",
+     "resolution": "unknown",
      "hdr": null,
      "audio": null,
      "language": null,

@@ -18,6 +18,85 @@
    }
   ]
  },
+ "10-11": {
+  "2026": [
+   {
+    "id": "tt38275278",
+    "title": "WWE Money in the Bank 2026",
+    "original_title": "WWE Money in the Bank 2026",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/wRFDnH3XzwDKV9QU3DTYNU8XX2R.jpg",
+    "digital_release_date": "2026-10-11",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_c492190abcf5",
+    "title": "Вечность",
+    "original_title": "Eternity",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzlmZTNiOTAtNzhlOC00ZTA1LWJhNTgtMDQ4YmY4NWIyNTA4XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.9,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_c7420c3add1e",
+    "title": "Красота смирения",
+    "original_title": "Красота принятия / Beauty from Surrender",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjUyMzg0YmQtY2RkMC00ZDFmLWE0YmEtOGE4MTcxYzhmYjNlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_3d664987840e",
+    "title": "Ночной бизнес",
+    "original_title": "The Get Out",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_7920f113efba",
+    "title": "Сладкая сказка",
+    "original_title": "Cukrkandl / Sugar Candy",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjMwZjI4NTItNTg1Yi00YTgwLTg0YTUtNGQzZWEzYzEzMTgzXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.0,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "10-09": {
   "2026": [
    {
@@ -449,7 +528,7 @@
     "best_quality": "BluRay",
     "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": false,
+    "has_hdr": true,
     "has_ru_audio": false
    }
   ]
@@ -1162,6 +1241,21 @@
  },
  "09-29": {
   "2026": [
+   {
+    "id": "tt46060457",
+    "title": "The Swan: Behind the Mirror",
+    "original_title": "The Swan: Behind the Mirror",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg",
+    "digital_release_date": "2026-09-29",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "m_4f2bbcf53619",
     "title": "Хорошие",
@@ -4078,7 +4172,7 @@
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt28014327",
@@ -4719,6 +4813,51 @@
  "10-12": {
   "2026": [
    {
+    "id": "m_bbe48dfd70de",
+    "title": "Проклятие Малены",
+    "original_title": "Nanay, Tatay",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc4Y2VmZGItOGE5Yi00MTY4LTkzZmYtNWVlMzFlMmQzYmM3XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.9,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_10b6bb853ed1",
+    "title": "Практическая магия 2",
+    "original_title": "Practical Magic 2",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_db7cafe1f5fc",
+    "title": "Уроки соблазна или О чём мечтает каждая женщина",
+    "original_title": "De mannenmaker",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDNmODFjNzUtZGQ5Ny00YzM2LWJkYTAtNWE1NTgxNTI1MDU0XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_87719b6f5c4e",
     "title": "Заманчивое предложение",
     "original_title": "Дверь в подвал / Cellar Door",
@@ -4744,70 +4883,6 @@
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   }
-  ]
- },
- "10-11": {
-  "2026": [
-   {
-    "id": "m_c492190abcf5",
-    "title": "Вечность",
-    "original_title": "Eternity",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzlmZTNiOTAtNzhlOC00ZTA1LWJhNTgtMDQ4YmY4NWIyNTA4XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.9,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "720p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_c7420c3add1e",
-    "title": "Красота смирения",
-    "original_title": "Красота принятия / Beauty from Surrender",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjUyMzg0YmQtY2RkMC00ZDFmLWE0YmEtOGE4MTcxYzhmYjNlXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 7.5,
-    "imdb_vote_count": null,
-    "best_quality": "WEBRip",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "m_3d664987840e",
-    "title": "Ночной бизнес",
-    "original_title": "The Get Out",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "720p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_7920f113efba",
-    "title": "Сладкая сказка",
-    "original_title": "Cukrkandl / Sugar Candy",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjMwZjI4NTItNTg1Yi00YTgwLTg0YTUtNGQzZWEzYzEzMTgzXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 7.0,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
@@ -4844,7 +4919,7 @@
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "m_0ef0e372ef41",

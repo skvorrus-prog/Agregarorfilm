@@ -90,13 +90,13 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-10T09:58:42.423736+00:00",
-      "last_updated_at": "2026-10-10T09:59:07.741378+00:00",
+      "last_updated_at": "2026-10-12T21:19:11.557807+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
-      "has_ru_audio": false,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "4a610745c906be1d",
@@ -119,6 +119,78 @@
             "audio": null,
             "language": null,
             "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "83ddcb136a09fae9",
+          "movie_id": "m_64673331a5e2",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-12T14:03:28+00:00",
+          "detected_at": "2026-10-12T21:18:52.358190+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "ViruseProject",
+          "raw_title": "З/Л/О: Сборник / V/H/S/Mixtape (2026) WEB-DL 1080p | P2 | ViruseProject",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "ViruseProject",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "e9c1a24cdfa10a85",
+          "movie_id": "m_64673331a5e2",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-12T16:47:23+00:00",
+          "detected_at": "2026-10-12T21:18:52.358190+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "ViruseProject",
+          "raw_title": "З/Л/О: Сборник / V/H/S/Mixtape (2026) WEB-DLRip-AVC от DoMiNo & селезень | P2 | ViruseProject",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "ViruseProject",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a98f5712471e7e99",
+          "movie_id": "m_64673331a5e2",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-12T18:16:29+00:00",
+          "detected_at": "2026-10-12T21:18:52.358190+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "ViruseProject",
+          "raw_title": "З/Л/О: Сборник / V/H/S/Mixtape (2026) WEB-DL 720p | P2 | ViruseProject",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "ViruseProject",
             "is_secondary_signal": true
           }
         }

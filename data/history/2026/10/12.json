@@ -1,7 +1,190 @@
 {
   "date": "2026-10-12",
-  "count": 2,
+  "count": 5,
   "movies": [
+    {
+      "id": "m_bbe48dfd70de",
+      "title": "Проклятие Малены",
+      "original_title": "Nanay, Tatay",
+      "year": 2024,
+      "overview": "Трое сирот, Олив, Паула и Беттина, бегут из плена и усыновлены Амандой и Лито, которые потеряли свою дочь Малену. Сироты обнаруживают, что Малена, теперь одержимая демоном из-за пакта ее родителей, заключена в тюрьму на складе. Когда Малена выслеживает их, сирот принуждают ограбить пару. Конфликт привел к гибели нескольких человек, в том числе пары. Олив и Беттина сбегают, обещая заботиться друг о друге.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDc4Y2VmZGItOGE5Yi00MTY4LTkzZmYtNWVlMzFlMmQzYmM3XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "Philippines"
+      ],
+      "runtime": null,
+      "imdb_id": "tt33203446",
+      "tmdb_id": null,
+      "imdb_rating": 6.9,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
+      "last_updated_at": "2026-10-12T21:19:11.519683+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "d024f7e72a86de94",
+          "movie_id": "m_bbe48dfd70de",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-12T16:50:48+00:00",
+          "detected_at": "2026-10-12T21:18:52.358190+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Проклятие Малены / Nanay, Tatay (2024) WEB-DL 1080p | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_10b6bb853ed1",
+      "title": "Практическая магия 2",
+      "original_title": "Practical Magic 2",
+      "year": 2026,
+      "overview": "«Практическая магия 2» — американский художественный фильм в жанре романтического фэнтези режиссёра Сюзанны Бир по сценарию Акивы Голдсмана, продолжение фильма «Практическая магия» 1998 года. Сюжет основан на романе Элис Хоффман «Книга Магии» (2021), являющемся продолжением оригинальной истории. Главные роли исполняют Сандра Буллок, Николь Кидман, Стокард Чэннинг и Дайан Уист, которые повторят свои роли из первого фильма. Среди новых актёров значатся Джоуи Кинг, Шоло Маридуэнья, Мэйси Уильямс и Ли Пейс.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32588798",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
+      "last_updated_at": "2026-10-12T21:19:06.953343+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "a731539d7a1d1bb4",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-12T17:51:40+00:00",
+          "detected_at": "2026-10-12T21:18:52.358190+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DL 1080p | Sub",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_db7cafe1f5fc",
+      "title": "Уроки соблазна или О чём мечтает каждая женщина",
+      "original_title": "De mannenmaker",
+      "year": 2024,
+      "overview": "«Человек-мейкер» Энн не занимается отношениями, а проецирует: каждые полгода она подбирает мужчину и ухаживает за ним в желаемый экземпляр. Как только она добивается успеха, она расстается с ним и начинает новый проект. Это хорошо, пока она не начнет развивать чувства к своему новому партнеру по проекту.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDNmODFjNzUtZGQ5Ny00YzM2LWJkYTAtNWE1NTgxNTI1MDU0XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "runtime": null,
+      "imdb_id": "tt29261292",
+      "tmdb_id": null,
+      "imdb_rating": 5.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
+      "last_updated_at": "2026-10-12T21:19:06.318264+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "6bd40ba0b6107ed3",
+          "movie_id": "m_db7cafe1f5fc",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-12T17:54:24+00:00",
+          "detected_at": "2026-10-12T21:18:52.358190+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Уроки соблазна или О чём мечтает каждая женщина / De mannenmaker (2024) WEB-DL 1080p | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_87719b6f5c4e",
       "title": "Заманчивое предложение",
