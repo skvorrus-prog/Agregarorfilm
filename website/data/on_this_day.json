@@ -4813,6 +4813,36 @@
  "10-13": {
   "2026": [
    {
+    "id": "m_bb0f7e13992e",
+    "title": "Войны ниндзя: Черная лиса против ниндзя",
+    "original_title": "Ninja Wars: Blackfox Vs Shogun’s Ninja",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTdmNTQ3ZTctMWMwMi00NTRhLTlhNDAtZWNhNzBjMDRlMjg5XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.8,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "tt37281055",
+    "title": "Buddy",
+    "original_title": "Buddy",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt37281055/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.1,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt27369017",
     "title": "Hope",
     "original_title": "Hope",
@@ -4821,8 +4851,8 @@
     "digital_release_date": null,
     "imdb_rating": 6.9,
     "imdb_vote_count": null,
-    "best_quality": "unknown",
-    "best_resolution": "unknown",
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false

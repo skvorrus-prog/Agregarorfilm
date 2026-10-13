@@ -455,8 +455,8 @@
   "tmdb_id": 1236045,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.406,
-  "tmdb_vote_count": 299,
+  "tmdb_rating": 7.363,
+  "tmdb_vote_count": 306,
   "popularity": 260.506,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1426,8 +1426,8 @@
   "tmdb_id": 1752355,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.609,
-  "tmdb_vote_count": 23,
+  "tmdb_rating": 7.542,
+  "tmdb_vote_count": 24,
   "popularity": 11.2865,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -2591,8 +2591,8 @@
   "tmdb_id": 1437195,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 4.588,
-  "tmdb_vote_count": 40,
+  "tmdb_rating": 4.524,
+  "tmdb_vote_count": 41,
   "popularity": 30.8322,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-30",
@@ -3014,8 +3014,8 @@
   "tmdb_id": 1646945,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.833,
-  "tmdb_vote_count": 6,
+  "tmdb_rating": 6.857,
+  "tmdb_vote_count": 7,
   "popularity": 3.4766,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-29",
@@ -20095,6 +20095,132 @@
   ]
  },
  {
+  "id": "m_bb0f7e13992e",
+  "title": "Войны ниндзя: Черная лиса против ниндзя",
+  "original_title": "Ninja Wars: Blackfox Vs Shogun’s Ninja",
+  "year": 2026,
+  "overview": "Рикка Исуруги (Тихиро Ямамото), глава клана Фокс, расследует «Белый лотос», таинственный культ, подозреваемый в подготовке восстания против сёгуната. Во время своей миссии она встречает Окё (Канон Мияхара), ниндзя Фума, посланного сёгуном. Их пути сходятся, когда они сталкиваются с грозным общим врагом: кланом ниндзя Ига во главе с Хаттори Хандзо (Кейн Косуги), который скрывает глубокую месть против семьи Токугава. Трехсторонний",
+  "poster": "https://m.media-amazon.com/images/M/MV5BZTdmNTQ3ZTctMWMwMi00NTRhLTlhNDAtZWNhNzBjMDRlMjg5XkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "History"
+  ],
+  "countries": [
+   "Japan"
+  ],
+  "runtime": null,
+  "imdb_id": "tt39122447",
+  "tmdb_id": null,
+  "imdb_rating": 7.8,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-13T22:53:54.819019+00:00",
+  "last_updated_at": "2026-10-13T22:54:07.386712+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "024ce3c701e81809",
+    "movie_id": "m_bb0f7e13992e",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-13T17:52:29+00:00",
+    "detected_at": "2026-10-13T22:53:54.819019+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Sub",
+    "raw_title": "Войны ниндзя: Черная лиса против ниндзя / Ninja Wars: Blackfox Vs Shogun’s Ninja (2026) WEB-DL 1080p | Sub",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Sub",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt37281055",
+  "title": "Buddy",
+  "original_title": "Buddy",
+  "year": 2026,
+  "overview": "Ба́дди — английское прозвище, изредка может быть личным именем.",
+  "poster": "https://images.metahub.space/poster/small/tt37281055/img",
+  "backdrop": null,
+  "genres": [
+   "Horror"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt37281055",
+  "tmdb_id": null,
+  "imdb_rating": 7.1,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-13T22:53:54.819019+00:00",
+  "last_updated_at": "2026-10-13T22:54:02.255060+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "e1ec7d867bae9be5",
+    "movie_id": "tt37281055",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-10-13T22:53:54.819019+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Buddy (2026)",
+    "details": {
+     "title": "Buddy",
+     "year": 2026,
+     "overview": "A brave girl and her friends must escape a kids television show.",
+     "poster": "https://images.metahub.space/poster/small/tt37281055/img",
+     "genres": [
+      "Horror"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 7.1,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
   "id": "tt27369017",
   "title": "Hope",
   "original_title": "Hope",
@@ -20122,10 +20248,10 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-13T17:00:10.764973+00:00",
-  "last_updated_at": "2026-10-13T17:00:18.576354+00:00",
-  "status": "ANNOUNCED",
-  "best_quality": "unknown",
-  "best_resolution": "unknown",
+  "last_updated_at": "2026-10-13T22:54:02.262776+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
   "has_4k": false,
   "has_hdr": false,
   "has_ru_audio": false,
@@ -20159,6 +20285,30 @@
      ],
      "imdb_rating": 6.9,
      "runtime": null
+    }
+   },
+   {
+    "id": "421bcf4e75ed48fd",
+    "movie_id": "tt27369017",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-13T21:23:39+00:00",
+    "detected_at": "2026-10-13T22:53:54.819019+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Sub",
+    "raw_title": "Надежда / Hope (2026) WEB-DL 1080p | Sub",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Sub",
+     "is_secondary_signal": true
     }
    }
   ]
@@ -23552,7 +23702,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
-  "last_updated_at": "2026-10-10T17:23:14.853423+00:00",
+  "last_updated_at": "2026-10-13T22:54:02.271380+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -24020,6 +24170,30 @@
      "audio": null,
      "language": "RU",
      "release_group": "IMAX",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "b9ae6fe9e98a3333",
+    "movie_id": "m_7b3eb670ac41",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-13T18:34:18+00:00",
+    "detected_at": "2026-10-13T22:53:54.819019+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "LostFilm",
+    "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) WEB-DLRip-AVC | P | IMAX | LostFilm",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "LostFilm",
      "is_secondary_signal": true
     }
    }

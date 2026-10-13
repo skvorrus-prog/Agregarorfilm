@@ -433,7 +433,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
-      "last_updated_at": "2026-10-10T17:23:14.853423+00:00",
+      "last_updated_at": "2026-10-13T22:54:02.271380+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -901,6 +901,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "IMAX",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "b9ae6fe9e98a3333",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-13T18:34:18+00:00",
+          "detected_at": "2026-10-13T22:53:54.819019+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "LostFilm",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) WEB-DLRip-AVC | P | IMAX | LostFilm",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "LostFilm",
             "is_secondary_signal": true
           }
         }
