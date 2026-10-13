@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-13",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt27369017",
+      "title": "Hope",
+      "original_title": "Hope",
+      "year": 2026,
+      "overview": "Hope :Hope — язык программирования.\nHope Technology — британская компания, крупный производитель велосипедного оборудования.\nHope International — христианская микрофинансовая организация.\nHope — автоматическая межпланетная станция, отправленная ОАЭ в 2020 году к Марсу в рамках программы Emirates Mars Mission.\nHope — студийный альбом финской группы Swallow the Sun (2007).\n«Hope» — песня американского рэпера и певца XXXTentacion (2018).\n«Hope» — песня армяно-эстонского певца Стефана (2022).",
+      "poster": "https://images.metahub.space/poster/small/tt27369017/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "runtime": null,
+      "imdb_id": "tt27369017",
+      "tmdb_id": null,
+      "imdb_rating": 6.9,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-13T17:00:10.764973+00:00",
+      "last_updated_at": "2026-10-13T17:00:18.576354+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6e3a77c031e8bbcf",
+          "movie_id": "tt27369017",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-13T17:00:10.764973+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Hope (2026)",
+          "details": {
+            "title": "Hope",
+            "year": 2026,
+            "overview": "A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before.",
+            "poster": "https://images.metahub.space/poster/small/tt27369017/img",
+            "genres": [
+              "Action",
+              "Drama",
+              "Horror"
+            ],
+            "countries": [
+              "South Korea"
+            ],
+            "imdb_rating": 6.9,
+            "runtime": null
+          }
+        }
+      ]
+    }
+  ]
+}

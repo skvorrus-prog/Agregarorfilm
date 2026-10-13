@@ -238,8 +238,8 @@
   "tmdb_id": 1148365,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.952,
-  "tmdb_vote_count": 260,
+  "tmdb_rating": 7.928,
+  "tmdb_vote_count": 269,
   "popularity": 377.6855,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -455,8 +455,8 @@
   "tmdb_id": 1236045,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.398,
-  "tmdb_vote_count": 290,
+  "tmdb_rating": 7.406,
+  "tmdb_vote_count": 299,
   "popularity": 260.506,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1571,7 +1571,7 @@
   "tmdb_id": 1476746,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.067,
+  "tmdb_rating": 7.1,
   "tmdb_vote_count": 15,
   "popularity": 37.3621,
   "popularity_source": "TMDB",
@@ -1751,8 +1751,8 @@
   "tmdb_id": 1610703,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.294,
-  "tmdb_vote_count": 17,
+  "tmdb_rating": 5.444,
+  "tmdb_vote_count": 18,
   "popularity": 67.491,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -1822,8 +1822,8 @@
   "tmdb_id": 1596303,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.1,
-  "tmdb_vote_count": 15,
+  "tmdb_rating": 6.125,
+  "tmdb_vote_count": 16,
   "popularity": 8.3031,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -2481,7 +2481,7 @@
   "tmdb_id": 1599191,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.633,
+  "tmdb_rating": 7.6,
   "tmdb_vote_count": 15,
   "popularity": 34.1326,
   "popularity_source": "TMDB",
@@ -4444,7 +4444,7 @@
   "tmdb_id": 1607127,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.453,
+  "tmdb_rating": 7.5,
   "tmdb_vote_count": 118,
   "popularity": 75.8204,
   "popularity_source": "TMDB",
@@ -20095,6 +20095,75 @@
   ]
  },
  {
+  "id": "tt27369017",
+  "title": "Hope",
+  "original_title": "Hope",
+  "year": 2026,
+  "overview": "Hope :Hope — язык программирования.\nHope Technology — британская компания, крупный производитель велосипедного оборудования.\nHope International — христианская микрофинансовая организация.\nHope — автоматическая межпланетная станция, отправленная ОАЭ в 2020 году к Марсу в рамках программы Emirates Mars Mission.\nHope — студийный альбом финской группы Swallow the Sun (2007).\n«Hope» — песня американского рэпера и певца XXXTentacion (2018).\n«Hope» — песня армяно-эстонского певца Стефана (2022).",
+  "poster": "https://images.metahub.space/poster/small/tt27369017/img",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Drama",
+   "Horror"
+  ],
+  "countries": [
+   "South Korea"
+  ],
+  "runtime": null,
+  "imdb_id": "tt27369017",
+  "tmdb_id": null,
+  "imdb_rating": 6.9,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-13T17:00:10.764973+00:00",
+  "last_updated_at": "2026-10-13T17:00:18.576354+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "6e3a77c031e8bbcf",
+    "movie_id": "tt27369017",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-10-13T17:00:10.764973+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Hope (2026)",
+    "details": {
+     "title": "Hope",
+     "year": 2026,
+     "overview": "A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before.",
+     "poster": "https://images.metahub.space/poster/small/tt27369017/img",
+     "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+     ],
+     "countries": [
+      "South Korea"
+     ],
+     "imdb_rating": 6.9,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
   "id": "m_bbe48dfd70de",
   "title": "Проклятие Малены",
   "original_title": "Nanay, Tatay",
@@ -20182,7 +20251,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
-  "last_updated_at": "2026-10-12T21:19:06.953343+00:00",
+  "last_updated_at": "2026-10-13T17:00:18.588136+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -20212,6 +20281,37 @@
      "language": null,
      "release_group": "Sub",
      "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "29dd1bf679da7a1e",
+    "movie_id": "m_10b6bb853ed1",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-10-13T17:00:10.764973+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Practical Magic 2 (2026)",
+    "details": {
+     "title": "Practical Magic 2",
+     "year": 2026,
+     "overview": "A multi generational family of witches, cursed to be loveless for centuries, attempts to break the spell by confronting dark secrets and sacrificing for each other.",
+     "poster": "https://images.metahub.space/poster/small/tt32588798/img",
+     "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": null,
+     "runtime": null
     }
    }
   ]
@@ -20243,7 +20343,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
-  "last_updated_at": "2026-10-12T21:19:06.318264+00:00",
+  "last_updated_at": "2026-10-13T17:00:18.617477+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -20272,6 +20372,30 @@
      "audio": null,
      "language": "RU",
      "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "5609e0ee856933ba",
+    "movie_id": "m_db7cafe1f5fc",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-13T11:56:31+00:00",
+    "detected_at": "2026-10-13T17:00:10.764973+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Official",
+    "raw_title": "Уроки соблазна или О чём мечтает каждая женщина / De mannenmaker (2024) WEB-DLRip-AVC от DoMiNo & селезень | D | Official",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Official",
      "is_secondary_signal": true
     }
    }
@@ -23167,7 +23291,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-05T22:04:41.289547+00:00",
-  "last_updated_at": "2026-10-13T06:53:06.481304+00:00",
+  "last_updated_at": "2026-10-13T17:00:18.610583+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -23348,6 +23472,54 @@
      ],
      "imdb_rating": 6.2,
      "runtime": null
+    }
+   },
+   {
+    "id": "8b6b22e21bea52bf",
+    "movie_id": "m_29b715cd78af",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-13T12:57:27+00:00",
+    "detected_at": "2026-10-13T17:00:10.764973+00:00",
+    "quality": "WEB-DL",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Астрал 6: Они уже здесь / Insidious: Out of the Further (2026) WEB-DL 720p от New-Team | D, P",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "aa726da0dc631004",
+    "movie_id": "m_29b715cd78af",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-13T16:11:07+00:00",
+    "detected_at": "2026-10-13T17:00:10.764973+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Астрал 6: Они уже здесь / Insidious: Out of the Further (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P | Cinema Tone Production, TVShows, HDRezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
     }
    }
   ]
@@ -26814,7 +26986,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-10-01T19:01:34.067637+00:00",
+  "last_updated_at": "2026-10-13T17:00:18.432438+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -27036,6 +27208,37 @@
      "language": "RU",
      "release_group": "HDrezka Studio",
      "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "810a7210dbc6eb59",
+    "movie_id": "m_17f933a625b7",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-10-13T17:00:10.764973+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Runner (2026)",
+    "details": {
+     "title": "Runner",
+     "year": 2026,
+     "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+     "poster": "https://images.metahub.space/poster/small/tt31349844/img",
+     "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+     ],
+     "countries": [
+      "Australia, United States, United Kingdom"
+     ],
+     "imdb_rating": 6.6,
+     "runtime": null
     }
    }
   ]

@@ -90,7 +90,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
-      "last_updated_at": "2026-10-12T21:19:06.953343+00:00",
+      "last_updated_at": "2026-10-13T17:00:18.588136+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -120,6 +120,37 @@
             "language": null,
             "release_group": "Sub",
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "29dd1bf679da7a1e",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-13T17:00:10.764973+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Practical Magic 2 (2026)",
+          "details": {
+            "title": "Practical Magic 2",
+            "year": 2026,
+            "overview": "A multi generational family of witches, cursed to be loveless for centuries, attempts to break the spell by confronting dark secrets and sacrificing for each other.",
+            "poster": "https://images.metahub.space/poster/small/tt32588798/img",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": null,
+            "runtime": null
           }
         }
       ]
@@ -151,7 +182,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
-      "last_updated_at": "2026-10-12T21:19:06.318264+00:00",
+      "last_updated_at": "2026-10-13T17:00:18.617477+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -180,6 +211,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "5609e0ee856933ba",
+          "movie_id": "m_db7cafe1f5fc",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-13T11:56:31+00:00",
+          "detected_at": "2026-10-13T17:00:10.764973+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Official",
+          "raw_title": "Уроки соблазна или О чём мечтает каждая женщина / De mannenmaker (2024) WEB-DLRip-AVC от DoMiNo & селезень | D | Official",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Official",
             "is_secondary_signal": true
           }
         }
