@@ -172,7 +172,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-05T22:04:41.289547+00:00",
-      "last_updated_at": "2026-10-10T17:23:14.858292+00:00",
+      "last_updated_at": "2026-10-13T06:53:06.481304+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -322,6 +322,37 @@
             "language": "RU",
             "release_group": null,
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "d302ca19a5367598",
+          "movie_id": "m_29b715cd78af",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-13T06:52:59.567393+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Insidious: Out of the Further (2026)",
+          "details": {
+            "title": "Insidious: Out of the Further",
+            "year": 2026,
+            "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+            "poster": "https://images.metahub.space/poster/small/tt32393988/img",
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "countries": [
+              "Australia, United States"
+            ],
+            "imdb_rating": 6.2,
+            "runtime": null
           }
         }
       ]
