@@ -1,7 +1,223 @@
 {
   "date": "2026-10-14",
-  "count": 2,
+  "count": 5,
   "movies": [
+    {
+      "id": "tt34384900",
+      "title": "Любовь твоей жизни",
+      "original_title": "Love of Your Life",
+      "year": 2026,
+      "overview": "Майя, умная, проницательная медсестра, охвачена всепоглощающей любовью, которая направляет её жизнь по такому пути, который она и представить себе не могла.",
+      "poster": "https://image.tmdb.org/t/p/w500/lEKMurnSzjynTUMIHdr6jLA1MMK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 106,
+      "imdb_id": "tt34384900",
+      "tmdb_id": 1381078,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.7,
+      "tmdb_vote_count": 11,
+      "popularity": 6.5158,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-07",
+      "digital_release_date": "2026-10-14",
+      "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
+      "last_updated_at": "2026-10-14T21:47:44.549664+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "899f0a78d411bed8",
+          "movie_id": "tt34384900",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-14",
+          "detected_at": "2026-10-14T21:47:36.181609+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Любовь твоей жизни",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Майя, умная, проницательная медсестра, охвачена всепоглощающей любовью, которая направляет её жизнь по такому пути, который она и представить себе не могла.",
+            "poster": "https://image.tmdb.org/t/p/w500/lEKMurnSzjynTUMIHdr6jLA1MMK.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+            "genres": [
+              "мелодрама",
+              "драма"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 106,
+            "popularity": 6.5158,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.7,
+            "tmdb_vote_count": 11,
+            "theatrical_release_date": "2026-10-07",
+            "digital_release_date": "2026-10-14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_7fc88f96f71e",
+      "title": "Приезжий",
+      "original_title": "The Incomer",
+      "year": 2026,
+      "overview": "Прие́зжий — русское обиходное название человека, приехавшего откуда-либо.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWNkYTBhZDctYjFmMi00Mjc3LTlkZGYtMzRiYzgxOGVhYmNmXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Comedy"
+      ],
+      "countries": [
+        "United Kingdom, Ireland"
+      ],
+      "runtime": null,
+      "imdb_id": "tt36980182",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
+      "last_updated_at": "2026-10-14T21:47:46.563616+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "8ab2aed86867652b",
+          "movie_id": "m_7fc88f96f71e",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T17:54:39+00:00",
+          "detected_at": "2026-10-14T21:47:36.181609+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "L",
+          "raw_title": "Приезжий / The Incomer (2026) WEB-DLRip-AVC | L",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "L",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "3da5bb5b29b96c1d",
+          "movie_id": "m_7fc88f96f71e",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T18:01:50+00:00",
+          "detected_at": "2026-10-14T21:47:36.181609+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "L",
+          "raw_title": "Приезжий / The Incomer (2026) WEBRip 1080p | L",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "L",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_bdaf13a6f255",
+      "title": "Приятель",
+      "original_title": "Бадди / Buddy",
+      "year": 2026,
+      "overview": "Приятель:Приятель — британский художественный фильм в жанрах комедии и мюзикла редиссёра Кена Рассела, вышедший в 1971 году.\nПриятель — американский художественный фильм в жанре комедии ужасов с элементами триллера режиссёра Каспера Келли, вышедший в 2026 году.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWRkNWJhNjYtY2FkZC00YjFlLWFjMjUtZGFhMjc5MGYyODE4XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt37281055",
+      "tmdb_id": null,
+      "imdb_rating": 7.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
+      "last_updated_at": "2026-10-14T21:47:45.368130+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "aa653e0de9b00ae6",
+          "movie_id": "m_bdaf13a6f255",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T18:50:08+00:00",
+          "detected_at": "2026-10-14T21:47:36.181609+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Приятель / Бадди / Buddy (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_ab1a8ae70a60",
       "title": "Выживший",
@@ -91,13 +307,13 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-14T17:19:45.012163+00:00",
-      "last_updated_at": "2026-10-14T17:19:53.025470+00:00",
+      "last_updated_at": "2026-10-14T21:47:46.590855+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": true,
-      "has_ru_audio": false,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "a7d020958d7d6f17",
@@ -120,6 +336,78 @@
             "audio": null,
             "language": null,
             "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "7ed7a731c750b5ae",
+          "movie_id": "m_49646bb857dc",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T16:32:50+00:00",
+          "detected_at": "2026-10-14T21:47:36.181609+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "Надежда / Hope (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P |  HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "8ad078ae7e842f28",
+          "movie_id": "m_49646bb857dc",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T16:34:02+00:00",
+          "detected_at": "2026-10-14T21:47:36.181609+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Надежда / Hope (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "3c146cfb4398c972",
+          "movie_id": "m_49646bb857dc",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T20:00:56+00:00",
+          "detected_at": "2026-10-14T21:47:36.181609+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Надежда / Hope (2026) WEB-DL 720p от NiTrID | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
             "is_secondary_signal": true
           }
         }

@@ -90,7 +90,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
-      "last_updated_at": "2026-10-14T17:19:52.291741+00:00",
+      "last_updated_at": "2026-10-14T21:47:44.608512+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -198,6 +198,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "8c70ac2dca663fd3",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T19:13:12+00:00",
+          "detected_at": "2026-10-14T21:47:36.181609+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "WinMedia",
+          "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | WinMedia",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "WinMedia",
             "is_secondary_signal": true
           }
         }
@@ -375,7 +399,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-12T11:03:00.828711+00:00",
-      "last_updated_at": "2026-10-12T11:03:10.219229+00:00",
+      "last_updated_at": "2026-10-14T21:47:44.614690+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -400,6 +424,30 @@
           "details": {
             "quality": "WEB-DL",
             "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "L",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "73410338fe5be804",
+          "movie_id": "m_9f4b2ee9863d",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T18:50:23+00:00",
+          "detected_at": "2026-10-14T21:47:36.181609+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "L",
+          "raw_title": "Тараканы / Cockroaches (2026) WEB-DLRip-AVC | L",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
             "hdr": null,
             "audio": null,
             "language": "RU",

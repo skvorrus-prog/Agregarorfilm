@@ -18,6 +18,85 @@
    }
   ]
  },
+ "10-14": {
+  "2026": [
+   {
+    "id": "tt34384900",
+    "title": "Любовь твоей жизни",
+    "original_title": "Love of Your Life",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lEKMurnSzjynTUMIHdr6jLA1MMK.jpg",
+    "digital_release_date": "2026-10-14",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_7fc88f96f71e",
+    "title": "Приезжий",
+    "original_title": "The Incomer",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWNkYTBhZDctYjFmMi00Mjc3LTlkZGYtMzRiYzgxOGVhYmNmXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_bdaf13a6f255",
+    "title": "Приятель",
+    "original_title": "Бадди / Buddy",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWRkNWJhNjYtY2FkZC00YjFlLWFjMjUtZGFhMjc5MGYyODE4XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_ab1a8ae70a60",
+    "title": "Выживший",
+    "original_title": "Not Without Hope",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGRmYThiOGItYTdhNi00ZjUxLTgyMTktYzQwYjhkZmYyNTRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.4,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_49646bb857dc",
+    "title": "Надежда",
+    "original_title": "Hopeu / Hope",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.9,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "10-11": {
   "2026": [
    {
@@ -91,6 +170,130 @@
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
+ "10-10": {
+  "2026": [
+   {
+    "id": "tmdb_1794652",
+    "title": "Raio-X Lula 3",
+    "original_title": "Raio-X Lula 3",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/cdfBGRBphX73nvY7xiWO24nUYou.jpg",
+    "digital_release_date": "2026-10-10",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_157ef95a00a5",
+    "title": "Тогда. Сейчас. Потом",
+    "original_title": "Here",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQ5ZDQ5YWQtMThiMS00MGM4LTk2NjktYTllYzg2NTRiNTMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.3,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_64673331a5e2",
+    "title": "З",
+    "original_title": "Л/О: Сборник / V/H/S/Mixtape",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIyYjQyYzYtZDA0Ni00ZWJiLTk0YzQtNTQ5MzVjZWQyZGJhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.6,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_0ef0e372ef41",
+    "title": "Очи",
+    "original_title": "The Legend of Ochi",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2MzMDg4MmUtMzAyZS00YTU2LWE2OTgtYjhhNmJhZGExNzYxXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.8,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_659522df2035",
+    "title": "Возвращение Одиссея",
+    "original_title": "The Return",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDNlNzQ5NDAtYTdlZC00YTRiLTg0ZWUtMmY5NWYyNzdiYTYyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.3,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_d1232b88e040",
+    "title": "Охота за тенью",
+    "original_title": "Край тени / Bu feng zhui ying / The Shadow's Edge",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZhMGU1MTItMzBkMi00MjZmLWI2MDQtMWE1ODNjMWFhZjY4XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.0,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_7b669c703393",
+    "title": "И сыновья",
+    "original_title": "&amp; Sons / And Sons",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1NzkyOGUtYjJhYS00MzBkLTgwZGQtYWRhN2RjNTJmNTdkXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.4,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_964d6556ae53",
+    "title": "Мой пёс Гохан",
+    "original_title": "Gohan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDVhZDcwMDgtMTU3Yi00MjI2LTkzNTUtZDY4ZDJiNjYwYWFhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
@@ -4810,40 +5013,6 @@
    }
   ]
  },
- "10-14": {
-  "2026": [
-   {
-    "id": "m_ab1a8ae70a60",
-    "title": "Выживший",
-    "original_title": "Not Without Hope",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGRmYThiOGItYTdhNi00ZjUxLTgyMTktYzQwYjhkZmYyNTRlXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 5.4,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "720p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_49646bb857dc",
-    "title": "Надежда",
-    "original_title": "Hopeu / Hope",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.9,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": true,
-    "has_ru_audio": false
-   }
-  ]
- },
  "10-13": {
   "2026": [
    {
@@ -4963,115 +5132,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODgyOTQ4ZGUtZWZlNC00MmZiLTk4NGQtMmI1NjVjMTU0ZGJiXkEyXkFqcGc@._V1_SX250.jpg",
     "digital_release_date": null,
     "imdb_rating": 5.8,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   }
-  ]
- },
- "10-10": {
-  "2026": [
-   {
-    "id": "m_157ef95a00a5",
-    "title": "Тогда. Сейчас. Потом",
-    "original_title": "Here",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWQ5ZDQ5YWQtMThiMS00MGM4LTk2NjktYTllYzg2NTRiNTMxXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.3,
-    "imdb_vote_count": null,
-    "best_quality": "unknown",
-    "best_resolution": "2160p",
-    "has_4k": true,
-    "has_hdr": true,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_64673331a5e2",
-    "title": "З",
-    "original_title": "Л/О: Сборник / V/H/S/Mixtape",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGIyYjQyYzYtZDA0Ni00ZWJiLTk0YzQtNTQ5MzVjZWQyZGJhXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.6,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_0ef0e372ef41",
-    "title": "Очи",
-    "original_title": "The Legend of Ochi",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2MzMDg4MmUtMzAyZS00YTU2LWE2OTgtYjhhNmJhZGExNzYxXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 5.8,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "720p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_659522df2035",
-    "title": "Возвращение Одиссея",
-    "original_title": "The Return",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDNlNzQ5NDAtYTdlZC00YTRiLTg0ZWUtMmY5NWYyNzdiYTYyXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.3,
-    "imdb_vote_count": null,
-    "best_quality": "unknown",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_d1232b88e040",
-    "title": "Охота за тенью",
-    "original_title": "Край тени / Bu feng zhui ying / The Shadow's Edge",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZhMGU1MTItMzBkMi00MjZmLWI2MDQtMWE1ODNjMWFhZjY4XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 7.0,
-    "imdb_vote_count": null,
-    "best_quality": "unknown",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_7b669c703393",
-    "title": "И сыновья",
-    "original_title": "&amp; Sons / And Sons",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1NzkyOGUtYjJhYS00MzBkLTgwZGQtYWRhN2RjNTJmNTdkXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.4,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_964d6556ae53",
-    "title": "Мой пёс Гохан",
-    "original_title": "Gohan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDVhZDcwMDgtMTU3Yi00MjI2LTkzNTUtZDY4ZDJiNjYwYWFhXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 7.5,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",

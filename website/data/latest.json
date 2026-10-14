@@ -72,6 +72,78 @@
   ]
  },
  {
+  "id": "tt34384900",
+  "title": "Любовь твоей жизни",
+  "original_title": "Love of Your Life",
+  "year": 2026,
+  "overview": "Майя, умная, проницательная медсестра, охвачена всепоглощающей любовью, которая направляет её жизнь по такому пути, который она и представить себе не могла.",
+  "poster": "https://image.tmdb.org/t/p/w500/lEKMurnSzjynTUMIHdr6jLA1MMK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+  "genres": [
+   "мелодрама",
+   "драма"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 106,
+  "imdb_id": "tt34384900",
+  "tmdb_id": 1381078,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.7,
+  "tmdb_vote_count": 11,
+  "popularity": 6.5158,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-07",
+  "digital_release_date": "2026-10-14",
+  "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
+  "last_updated_at": "2026-10-14T21:47:44.549664+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "899f0a78d411bed8",
+    "movie_id": "tt34384900",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-14",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Любовь твоей жизни",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Майя, умная, проницательная медсестра, охвачена всепоглощающей любовью, которая направляет её жизнь по такому пути, который она и представить себе не могла.",
+     "poster": "https://image.tmdb.org/t/p/w500/lEKMurnSzjynTUMIHdr6jLA1MMK.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+     "genres": [
+      "мелодрама",
+      "драма"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 106,
+     "popularity": 6.5158,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.7,
+     "tmdb_vote_count": 11,
+     "theatrical_release_date": "2026-10-07",
+     "digital_release_date": "2026-10-14"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt38275278",
   "title": "WWE Money in the Bank 2026",
   "original_title": "WWE Money in the Bank 2026",
@@ -139,6 +211,72 @@
      "tmdb_vote_count": 7,
      "theatrical_release_date": "2026-10-10",
      "digital_release_date": "2026-10-11"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tmdb_1794652",
+  "title": "Raio-X Lula 3",
+  "original_title": "Raio-X Lula 3",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/cdfBGRBphX73nvY7xiWO24nUYou.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y7MAACYHqkrYROAz0sRD3AIYs74.jpg",
+  "genres": [
+   "документальный"
+  ],
+  "countries": [],
+  "runtime": 0,
+  "imdb_id": null,
+  "tmdb_id": 1794652,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.0,
+  "tmdb_vote_count": 5,
+  "popularity": 1.2743,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-10",
+  "digital_release_date": "2026-10-10",
+  "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
+  "last_updated_at": "2026-10-14T21:47:44.479956+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "2029c4d2027297fd",
+    "movie_id": "tmdb_1794652",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-10",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Raio-X Lula 3",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/cdfBGRBphX73nvY7xiWO24nUYou.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/y7MAACYHqkrYROAz0sRD3AIYs74.jpg",
+     "genres": [
+      "документальный"
+     ],
+     "countries": [],
+     "runtime": 0,
+     "popularity": 1.2743,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.0,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-10",
+     "digital_release_date": "2026-10-10"
     }
    }
   ]
@@ -238,8 +376,8 @@
   "tmdb_id": 1148365,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.91,
-  "tmdb_vote_count": 293,
+  "tmdb_rating": 7.894,
+  "tmdb_vote_count": 302,
   "popularity": 381.2533,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -479,8 +617,8 @@
   "tmdb_id": 1236045,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.345,
-  "tmdb_vote_count": 329,
+  "tmdb_rating": 7.283,
+  "tmdb_vote_count": 341,
   "popularity": 269.1292,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1595,8 +1733,8 @@
   "tmdb_id": 1476746,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.75,
-  "tmdb_vote_count": 16,
+  "tmdb_rating": 6.706,
+  "tmdb_vote_count": 17,
   "popularity": 54.467,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1918,8 +2056,8 @@
   "tmdb_id": 1458857,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.711,
-  "tmdb_vote_count": 90,
+  "tmdb_rating": 7.7,
+  "tmdb_vote_count": 91,
   "popularity": 41.0213,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -2209,7 +2347,7 @@
   "tmdb_id": 1763619,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.545,
+  "tmdb_rating": 6.5,
   "tmdb_vote_count": 11,
   "popularity": 20.1637,
   "popularity_source": "TMDB",
@@ -5803,146 +5941,6 @@
      "tmdb_rating": 7.3,
      "tmdb_vote_count": 29,
      "theatrical_release_date": "2026-08-14",
-     "digital_release_date": "2026-09-11"
-    }
-   }
-  ]
- },
- {
-  "id": "tt36460398",
-  "title": "Atlas King",
-  "original_title": "Atlas King",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/qbSUXnjEMO09BT7cKsLCb1SsZid.jpg",
-  "genres": [
-   "триллер"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 0,
-  "imdb_id": "tt36460398",
-  "tmdb_id": 1510517,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.4,
-  "tmdb_vote_count": 5,
-  "popularity": 1.7303,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-08-21",
-  "digital_release_date": "2026-09-11",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:24.532153+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "b19ce97a081e628a",
-    "movie_id": "tt36460398",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-11",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Atlas King",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/kiqTyCJxng3X6KFiyQ4GqJa0N8e.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/qbSUXnjEMO09BT7cKsLCb1SsZid.jpg",
-     "genres": [
-      "триллер"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 0,
-     "popularity": 1.7303,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.4,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-08-21",
-     "digital_release_date": "2026-09-11"
-    }
-   }
-  ]
- },
- {
-  "id": "tt38616652",
-  "title": "Gracias, equipo",
-  "original_title": "Gracias, equipo",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
-  "genres": [
-   "комедия"
-  ],
-  "countries": [
-   "Spain"
-  ],
-  "runtime": 93,
-  "imdb_id": "tt38616652",
-  "tmdb_id": 1558568,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 5.405,
-  "tmdb_vote_count": 42,
-  "popularity": 8.2402,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-11",
-  "digital_release_date": "2026-09-11",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:23.623188+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "356c450356922f60",
-    "movie_id": "tt38616652",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-11",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Gracias, equipo",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
-     "genres": [
-      "комедия"
-     ],
-     "countries": [
-      "Spain"
-     ],
-     "runtime": 93,
-     "popularity": 8.2402,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 5.405,
-     "tmdb_vote_count": 42,
-     "theatrical_release_date": "2026-09-11",
      "digital_release_date": "2026-09-11"
     }
    }

@@ -1,7 +1,73 @@
 {
   "date": "2026-10-10",
-  "count": 7,
+  "count": 8,
   "movies": [
+    {
+      "id": "tmdb_1794652",
+      "title": "Raio-X Lula 3",
+      "original_title": "Raio-X Lula 3",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cdfBGRBphX73nvY7xiWO24nUYou.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y7MAACYHqkrYROAz0sRD3AIYs74.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [],
+      "runtime": 0,
+      "imdb_id": null,
+      "tmdb_id": 1794652,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 5,
+      "popularity": 1.2743,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-10",
+      "digital_release_date": "2026-10-10",
+      "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
+      "last_updated_at": "2026-10-14T21:47:44.479956+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "2029c4d2027297fd",
+          "movie_id": "tmdb_1794652",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-10",
+          "detected_at": "2026-10-14T21:47:36.181609+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Raio-X Lula 3",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/cdfBGRBphX73nvY7xiWO24nUYou.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/y7MAACYHqkrYROAz0sRD3AIYs74.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [],
+            "runtime": 0,
+            "popularity": 1.2743,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-10",
+            "digital_release_date": "2026-10-10"
+          }
+        }
+      ]
+    },
     {
       "id": "m_157ef95a00a5",
       "title": "Тогда. Сейчас. Потом",

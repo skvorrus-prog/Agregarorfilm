@@ -72,6 +72,78 @@
   ]
  },
  {
+  "id": "tt34384900",
+  "title": "Любовь твоей жизни",
+  "original_title": "Love of Your Life",
+  "year": 2026,
+  "overview": "Майя, умная, проницательная медсестра, охвачена всепоглощающей любовью, которая направляет её жизнь по такому пути, который она и представить себе не могла.",
+  "poster": "https://image.tmdb.org/t/p/w500/lEKMurnSzjynTUMIHdr6jLA1MMK.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+  "genres": [
+   "мелодрама",
+   "драма"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 106,
+  "imdb_id": "tt34384900",
+  "tmdb_id": 1381078,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.7,
+  "tmdb_vote_count": 11,
+  "popularity": 6.5158,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-07",
+  "digital_release_date": "2026-10-14",
+  "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
+  "last_updated_at": "2026-10-14T21:47:44.549664+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "899f0a78d411bed8",
+    "movie_id": "tt34384900",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-14",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Любовь твоей жизни",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Майя, умная, проницательная медсестра, охвачена всепоглощающей любовью, которая направляет её жизнь по такому пути, который она и представить себе не могла.",
+     "poster": "https://image.tmdb.org/t/p/w500/lEKMurnSzjynTUMIHdr6jLA1MMK.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+     "genres": [
+      "мелодрама",
+      "драма"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 106,
+     "popularity": 6.5158,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.7,
+     "tmdb_vote_count": 11,
+     "theatrical_release_date": "2026-10-07",
+     "digital_release_date": "2026-10-14"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt38275278",
   "title": "WWE Money in the Bank 2026",
   "original_title": "WWE Money in the Bank 2026",
@@ -139,6 +211,72 @@
      "tmdb_vote_count": 7,
      "theatrical_release_date": "2026-10-10",
      "digital_release_date": "2026-10-11"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tmdb_1794652",
+  "title": "Raio-X Lula 3",
+  "original_title": "Raio-X Lula 3",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/cdfBGRBphX73nvY7xiWO24nUYou.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/y7MAACYHqkrYROAz0sRD3AIYs74.jpg",
+  "genres": [
+   "документальный"
+  ],
+  "countries": [],
+  "runtime": 0,
+  "imdb_id": null,
+  "tmdb_id": 1794652,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.0,
+  "tmdb_vote_count": 5,
+  "popularity": 1.2743,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-10",
+  "digital_release_date": "2026-10-10",
+  "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
+  "last_updated_at": "2026-10-14T21:47:44.479956+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "2029c4d2027297fd",
+    "movie_id": "tmdb_1794652",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-10",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Raio-X Lula 3",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/cdfBGRBphX73nvY7xiWO24nUYou.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/y7MAACYHqkrYROAz0sRD3AIYs74.jpg",
+     "genres": [
+      "документальный"
+     ],
+     "countries": [],
+     "runtime": 0,
+     "popularity": 1.2743,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.0,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-10",
+     "digital_release_date": "2026-10-10"
     }
    }
   ]
@@ -238,8 +376,8 @@
   "tmdb_id": 1148365,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.91,
-  "tmdb_vote_count": 293,
+  "tmdb_rating": 7.894,
+  "tmdb_vote_count": 302,
   "popularity": 381.2533,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -479,8 +617,8 @@
   "tmdb_id": 1236045,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.345,
-  "tmdb_vote_count": 329,
+  "tmdb_rating": 7.283,
+  "tmdb_vote_count": 341,
   "popularity": 269.1292,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1595,8 +1733,8 @@
   "tmdb_id": 1476746,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.75,
-  "tmdb_vote_count": 16,
+  "tmdb_rating": 6.706,
+  "tmdb_vote_count": 17,
   "popularity": 54.467,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1918,8 +2056,8 @@
   "tmdb_id": 1458857,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.711,
-  "tmdb_vote_count": 90,
+  "tmdb_rating": 7.7,
+  "tmdb_vote_count": 91,
   "popularity": 41.0213,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-02",
@@ -2209,7 +2347,7 @@
   "tmdb_id": 1763619,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.545,
+  "tmdb_rating": 6.5,
   "tmdb_vote_count": 11,
   "popularity": 20.1637,
   "popularity_source": "TMDB",
@@ -6930,7 +7068,7 @@
   "theatrical_release_date": "2026-07-22",
   "digital_release_date": "2026-09-07",
   "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-14T17:19:53.034644+00:00",
+  "last_updated_at": "2026-10-14T21:47:44.595326+00:00",
   "status": "BLURAY_RELEASE",
   "best_quality": "BluRay",
   "best_resolution": "1080p",
@@ -7039,6 +7177,30 @@
     "details": {
      "quality": "BluRay",
      "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Flarrow Films",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "934f74dd73b26c88",
+    "movie_id": "tt30887701",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-14T21:03:43+00:00",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "unknown",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Flarrow Films",
+    "raw_title": "Пиноккио: Раскрепощённый / Pinocchio: Unstrung (2026) BDRemux 1080p | D | Flarrow Films",
+    "details": {
+     "quality": "unknown",
+     "resolution": "1080p",
      "hdr": null,
      "audio": null,
      "language": "RU",
@@ -20191,6 +20353,150 @@
   ]
  },
  {
+  "id": "m_7fc88f96f71e",
+  "title": "Приезжий",
+  "original_title": "The Incomer",
+  "year": 2026,
+  "overview": "Прие́зжий — русское обиходное название человека, приехавшего откуда-либо.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWNkYTBhZDctYjFmMi00Mjc3LTlkZGYtMzRiYzgxOGVhYmNmXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Comedy"
+  ],
+  "countries": [
+   "United Kingdom, Ireland"
+  ],
+  "runtime": null,
+  "imdb_id": "tt36980182",
+  "tmdb_id": null,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
+  "last_updated_at": "2026-10-14T21:47:46.563616+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "8ab2aed86867652b",
+    "movie_id": "m_7fc88f96f71e",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-14T17:54:39+00:00",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "L",
+    "raw_title": "Приезжий / The Incomer (2026) WEB-DLRip-AVC | L",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "L",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "3da5bb5b29b96c1d",
+    "movie_id": "m_7fc88f96f71e",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-14T18:01:50+00:00",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEBRip",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "L",
+    "raw_title": "Приезжий / The Incomer (2026) WEBRip 1080p | L",
+    "details": {
+     "quality": "WEBRip",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "L",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_bdaf13a6f255",
+  "title": "Приятель",
+  "original_title": "Бадди / Buddy",
+  "year": 2026,
+  "overview": "Приятель:Приятель — британский художественный фильм в жанрах комедии и мюзикла редиссёра Кена Рассела, вышедший в 1971 году.\nПриятель — американский художественный фильм в жанре комедии ужасов с элементами триллера режиссёра Каспера Келли, вышедший в 2026 году.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWRkNWJhNjYtY2FkZC00YjFlLWFjMjUtZGFhMjc5MGYyODE4XkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Horror"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt37281055",
+  "tmdb_id": null,
+  "imdb_rating": 7.1,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
+  "last_updated_at": "2026-10-14T21:47:45.368130+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "aa653e0de9b00ae6",
+    "movie_id": "m_bdaf13a6f255",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-14T18:50:08+00:00",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Приятель / Бадди / Buddy (2026) WEB-DL 1080p | D, Р",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
   "id": "m_ab1a8ae70a60",
   "title": "Выживший",
   "original_title": "Not Without Hope",
@@ -20279,13 +20585,13 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-14T17:19:45.012163+00:00",
-  "last_updated_at": "2026-10-14T17:19:53.025470+00:00",
+  "last_updated_at": "2026-10-14T21:47:46.590855+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
   "has_4k": false,
   "has_hdr": true,
-  "has_ru_audio": false,
+  "has_ru_audio": true,
   "events": [
    {
     "id": "a7d020958d7d6f17",
@@ -20308,6 +20614,78 @@
      "audio": null,
      "language": null,
      "release_group": "HDrezka Studio",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "7ed7a731c750b5ae",
+    "movie_id": "m_49646bb857dc",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-14T16:32:50+00:00",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "HDrezka Studio",
+    "raw_title": "Надежда / Hope (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P |  HDrezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "HDrezka Studio",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "8ad078ae7e842f28",
+    "movie_id": "m_49646bb857dc",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-14T16:34:02+00:00",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Надежда / Hope (2026) WEB-DL 1080p | D, Р",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "3c146cfb4398c972",
+    "movie_id": "m_49646bb857dc",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-14T20:00:56+00:00",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEB-DL",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Надежда / Hope (2026) WEB-DL 720p от NiTrID | D, Р",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
      "is_secondary_signal": true
     }
    }
@@ -20668,7 +21046,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
-  "last_updated_at": "2026-10-14T17:19:52.291741+00:00",
+  "last_updated_at": "2026-10-14T21:47:44.608512+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -20776,6 +21154,30 @@
      "audio": null,
      "language": "RU",
      "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "8c70ac2dca663fd3",
+    "movie_id": "m_10b6bb853ed1",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-14T19:13:12+00:00",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "WinMedia",
+    "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | WinMedia",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "WinMedia",
      "is_secondary_signal": true
     }
    }
@@ -20953,7 +21355,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-12T11:03:00.828711+00:00",
-  "last_updated_at": "2026-10-12T11:03:10.219229+00:00",
+  "last_updated_at": "2026-10-14T21:47:44.614690+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -20978,6 +21380,30 @@
     "details": {
      "quality": "WEB-DL",
      "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "L",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "73410338fe5be804",
+    "movie_id": "m_9f4b2ee9863d",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-14T18:50:23+00:00",
+    "detected_at": "2026-10-14T21:47:36.181609+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "L",
+    "raw_title": "Тараканы / Cockroaches (2026) WEB-DLRip-AVC | L",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
      "hdr": null,
      "audio": null,
      "language": "RU",
