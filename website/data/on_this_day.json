@@ -2022,11 +2022,11 @@
     "digital_release_date": "2026-09-07",
     "imdb_rating": null,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "has_hdr": true,
+    "has_ru_audio": true
    },
    {
     "id": "tt38907741",
@@ -4604,7 +4604,7 @@
     "year": 2026,
     "poster": "https://images.metahub.space/poster/small/tt26657236/img",
     "digital_release_date": "2026-01-22",
-    "imdb_rating": 6.8,
+    "imdb_rating": 6.7,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "unknown",
@@ -4810,6 +4810,40 @@
    }
   ]
  },
+ "10-14": {
+  "2026": [
+   {
+    "id": "m_ab1a8ae70a60",
+    "title": "Выживший",
+    "original_title": "Not Without Hope",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGRmYThiOGItYTdhNi00ZjUxLTgyMTktYzQwYjhkZmYyNTRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.4,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_49646bb857dc",
+    "title": "Надежда",
+    "original_title": "Hopeu / Hope",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.9,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-13": {
   "2026": [
    {
@@ -4854,8 +4888,8 @@
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "has_hdr": true,
+    "has_ru_audio": true
    }
   ]
  },
@@ -4886,10 +4920,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
    },
    {
     "id": "m_db7cafe1f5fc",

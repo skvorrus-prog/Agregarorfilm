@@ -156,13 +156,13 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-13T17:00:10.764973+00:00",
-      "last_updated_at": "2026-10-13T22:54:02.262776+00:00",
+      "last_updated_at": "2026-10-14T17:19:52.308188+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
       "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "6e3a77c031e8bbcf",
@@ -216,6 +216,54 @@
             "audio": null,
             "language": null,
             "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "657cdedf321415a6",
+          "movie_id": "tt27369017",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T16:32:50+00:00",
+          "detected_at": "2026-10-14T17:19:45.012163+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "Надежда / Hope (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P |  HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "aa598ccce8e162cd",
+          "movie_id": "tt27369017",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T16:34:02+00:00",
+          "detected_at": "2026-10-14T17:19:45.012163+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Надежда / Hope (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
             "is_secondary_signal": true
           }
         }
