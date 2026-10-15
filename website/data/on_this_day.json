@@ -5080,6 +5080,21 @@
  "10-15": {
   "2026": [
    {
+    "id": "m_e79fb82827d7",
+    "title": "Суккуб",
+    "original_title": "Succubus",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0N2M4YmYtNzJlNi00MzkyLWJlMDQtNTczODZkMjg5ZTY5XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 4.7,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_97a00a1358f8",
     "title": "Агент Зеро",
     "original_title": "Badh / Agent Zero",
