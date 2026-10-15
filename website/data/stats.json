@@ -1,14 +1,14 @@
 {
-  "total_releases": 340,
+  "total_releases": 341,
   "web_dl_count": 293,
-  "bluray_count": 35,
+  "bluray_count": 36,
   "four_k_count": 25,
-  "hdr_count": 32,
-  "ru_audio_count": 103,
-  "avg_rating": 6.5,
-  "rated_movies_count": 330,
+  "hdr_count": 33,
+  "ru_audio_count": 104,
+  "avg_rating": 6.49,
+  "rated_movies_count": 331,
   "by_year": {
-    "2026": 339,
+    "2026": 340,
     "2025": 1
   },
   "by_month": {
@@ -21,11 +21,11 @@
     "2026-07": 61,
     "2026-08": 52,
     "2026-09": 86,
-    "2026-10": 104
+    "2026-10": 105
   },
   "by_quality": {
     "WEB-DL": 280,
-    "BluRay": 33,
+    "BluRay": 34,
     "WEBRip": 13,
     "unknown": 12,
     "REMUX": 2
@@ -34,16 +34,16 @@
     "unknown": 221,
     "1080p": 74,
     "2160p": 25,
-    "720p": 20
+    "720p": 21
   },
   "by_genre": {
-    "Drama": 67,
+    "Drama": 68,
     "триллер": 59,
     "комедия": 58,
     "драма": 55,
     "боевик": 51,
-    "Action": 46,
-    "Thriller": 45,
+    "Action": 47,
+    "Thriller": 46,
     "Comedy": 38,
     "ужасы": 31,
     "Horror": 30,
