@@ -1,7 +1,73 @@
 {
   "date": "2026-10-13",
-  "count": 3,
+  "count": 4,
   "movies": [
+    {
+      "id": "tt9174288",
+      "title": "Let's Have Kids!",
+      "original_title": "Let's Have Kids!",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A42JE6WJDMsICN3NU6XkUyYEF5F.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [],
+      "runtime": 90,
+      "imdb_id": "tt9174288",
+      "tmdb_id": 1282159,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.25,
+      "tmdb_vote_count": 6,
+      "popularity": 13.2336,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-13",
+      "digital_release_date": "2026-10-13",
+      "first_detected_at": "2026-10-15T04:50:53.991044+00:00",
+      "last_updated_at": "2026-10-15T04:51:01.041731+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "099bf41bdc7df627",
+          "movie_id": "tt9174288",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-13",
+          "detected_at": "2026-10-15T04:50:53.991044+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Let's Have Kids!",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/A42JE6WJDMsICN3NU6XkUyYEF5F.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [],
+            "runtime": 90,
+            "popularity": 13.2336,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.25,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-10-13",
+            "digital_release_date": "2026-10-13"
+          }
+        }
+      ]
+    },
     {
       "id": "m_bb0f7e13992e",
       "title": "Войны ниндзя: Черная лиса против ниндзя",

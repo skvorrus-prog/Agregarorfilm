@@ -90,7 +90,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
-      "last_updated_at": "2026-10-14T21:47:44.608512+00:00",
+      "last_updated_at": "2026-10-15T04:51:07.077548+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -222,6 +222,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "WinMedia",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "22af003c952c3e00",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-15T02:50:52+00:00",
+          "detected_at": "2026-10-15T04:50:53.991044+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DLRip | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
             "is_secondary_signal": true
           }
         }
