@@ -60,8 +60,8 @@
     "imdb_rating": 7.1,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
     "has_hdr": false,
     "has_ru_audio": true
    },
@@ -4406,10 +4406,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "720p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt37275992",
@@ -5079,6 +5079,36 @@
  },
  "10-15": {
   "2026": [
+   {
+    "id": "m_97a00a1358f8",
+    "title": "Агент Зеро",
+    "original_title": "Badh / Agent Zero",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjkyOTc5ZjUtMTQzMS00NTQ0LWI3NTktZWExMTI3NzM4ZWIxXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "tt36064406",
+    "title": "Phantom Power",
+    "original_title": "Phantom Power",
+    "year": null,
+    "poster": "https://live.metahub.space/poster/small/tt36064406/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "m_4ca8b1aa7356",
     "title": "Досье «Чёрная канарейка»",

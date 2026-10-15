@@ -1,7 +1,153 @@
 {
   "date": "2026-10-15",
-  "count": 1,
+  "count": 3,
   "movies": [
+    {
+      "id": "m_97a00a1358f8",
+      "title": "Агент Зеро",
+      "original_title": "Badh / Agent Zero",
+      "year": 2025,
+      "overview": "Дэвид Норт, также известен как Кристоф Норд — персонаж американских комиксов издательства Marvel Comics, наиболее известный как один из второстепенных героев в комиксах о Людях Икс и Росомахе. Был создан сценаристом Джоном Бирном и художником Джимом Ли и дебютировал в X-Men #5 под прозвищем Мэверик. Кроме того, у него было несколько других псевдонимов, таких как Агент Зеро.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjkyOTc5ZjUtMTQzMS00NTQ0LWI3NTktZWExMTI3NzM4ZWIxXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "countries": [
+        "France"
+      ],
+      "runtime": null,
+      "imdb_id": "tt35526133",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-15T17:08:57.425549+00:00",
+      "last_updated_at": "2026-10-15T17:09:13.566455+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "d52a4deeab5bbd66",
+          "movie_id": "m_97a00a1358f8",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-15T12:44:20+00:00",
+          "detected_at": "2026-10-15T17:08:57.425549+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Official",
+          "raw_title": "Агент Зеро / Badh / Agent Zero (2025) HDRip от ELEKTRI4KA | D | Official",
+          "details": {
+            "quality": "unknown",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Official",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "c3a39e85dab1214b",
+          "movie_id": "m_97a00a1358f8",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-15T13:18:36+00:00",
+          "detected_at": "2026-10-15T17:08:57.425549+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Official",
+          "raw_title": "Агент Зеро / Badh / Agent Zero (2025) BDRip 1080p от ELEKTRI4KA | D | Official",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Official",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt36064406",
+      "title": "Phantom Power",
+      "original_title": "Phantom Power",
+      "year": null,
+      "overview": "Небольшое произведение Пьера Леона, созданное с нерегулярными интервалами, колеблется между экспериментальным домашним фильмом и театральной мизансценой, найденными кадрами и документальными сборками. ФАНТОМНАЯ СИЛА - это своего рода сумма этих богатых и щедрых усилий, поэтическая серия кинематографических фрагментов, инвентарь его кинематографического произведения. Между русскими народными песнями и пением Ингрид Кейвен, между микродрамами и найденными кадрами разворачивается поэтический мир",
+      "poster": "https://live.metahub.space/poster/small/tt36064406/img",
+      "backdrop": null,
+      "genres": [],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt36064406",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-15T17:08:57.425549+00:00",
+      "last_updated_at": "2026-10-15T17:09:06.969001+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "7635409ad1c17ffc",
+          "movie_id": "tt36064406",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-15T17:08:57.425549+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Phantom Power ()",
+          "details": {
+            "title": "Phantom Power",
+            "year": null,
+            "overview": "Created at irregular intervals, Pierre Léon’s small oeuvre oscillates between experimental home movie and theatrical mise-en-scène, found footage and documentary assemblages. PHANTOM POWER is a kind of sum of these rich and lavish efforts, a poetic series of cinematic fragments, an inventory of his cinematic output. What unfolds between russian folk songs and Ingrid Caven’s singing, between micro-dramas and found footage, is the poetic world of this wayward and still unknown artist, whose discovery and recognition is long overdue.  - Viennale",
+            "poster": "https://live.metahub.space/poster/small/tt36064406/img",
+            "genres": [],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": null,
+            "runtime": null
+          }
+        }
+      ]
+    },
     {
       "id": "m_4ca8b1aa7356",
       "title": "Досье «Чёрная канарейка»",
