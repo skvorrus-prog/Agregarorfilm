@@ -22,9 +22,9 @@
       "tmdb_id": 1623256,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 8.188,
-      "tmdb_vote_count": 8,
-      "popularity": 3.3963,
+      "tmdb_rating": 8.2,
+      "tmdb_vote_count": 9,
+      "popularity": 39.5119,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-15",
       "digital_release_date": "2026-10-15",
@@ -249,11 +249,15 @@
       "id": "tt36064406",
       "title": "Phantom Power",
       "original_title": "Phantom Power",
-      "year": null,
+      "year": 2026,
       "overview": "Небольшое произведение Пьера Леона, созданное с нерегулярными интервалами, колеблется между экспериментальным домашним фильмом и театральной мизансценой, найденными кадрами и документальными сборками. ФАНТОМНАЯ СИЛА - это своего рода сумма этих богатых и щедрых усилий, поэтическая серия кинематографических фрагментов, инвентарь его кинематографического произведения. Между русскими народными песнями и пением Ингрид Кейвен, между микродрамами и найденными кадрами разворачивается поэтический мир",
       "poster": "https://live.metahub.space/poster/small/tt36064406/img",
       "backdrop": null,
-      "genres": [],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
       "countries": [
         "United States"
       ],
