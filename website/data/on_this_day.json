@@ -1,4 +1,23 @@
 {
+ "10-25": {
+  "2026": [
+   {
+    "id": "m_10b6bb853ed1",
+    "title": "Практическая магия 2",
+    "original_title": "Practical Magic 2",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-10-25",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "10-19": {
   "2026": [
    {
@@ -15,6 +34,85 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   }
+  ]
+ },
+ "10-15": {
+  "2026": [
+   {
+    "id": "tt37070354",
+    "title": "Stormen",
+    "original_title": "Stormen",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kjAsuaDcNsemYTQ8tUorpVE1FJb.jpg",
+    "digital_release_date": "2026-10-15",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_e79fb82827d7",
+    "title": "Суккуб",
+    "original_title": "Succubus",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0N2M4YmYtNzJlNi00MzkyLWJlMDQtNTczODZkMjg5ZTY5XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 4.7,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_97a00a1358f8",
+    "title": "Агент Зеро",
+    "original_title": "Badh / Agent Zero",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjkyOTc5ZjUtMTQzMS00NTQ0LWI3NTktZWExMTI3NzM4ZWIxXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "tt36064406",
+    "title": "Phantom Power",
+    "original_title": "Phantom Power",
+    "year": null,
+    "poster": "https://live.metahub.space/poster/small/tt36064406/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_4ca8b1aa7356",
+    "title": "Досье «Чёрная канарейка»",
+    "original_title": "Canary Black",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDUyZThkMDYtY2FlYy00MmFjLThkZGMtMDgxZTk1Zjg2YjRmXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.4,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
    }
   ]
  },
@@ -113,6 +211,21 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   },
+   {
+    "id": "m_17f933a625b7",
+    "title": "Курьер",
+    "original_title": "Runner",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOThmN2YyMzMtN2Y2Zi00MjViLTg2NzQtNGM0ZDU3ZDAyYThhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-10-13",
+    "imdb_rating": 6.6,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
    },
    {
     "id": "m_bb0f7e13992e",
@@ -495,7 +608,7 @@
     "digital_release_date": null,
     "imdb_rating": 8.3,
     "imdb_vote_count": null,
-    "best_quality": "WEBRip",
+    "best_quality": "WEB-DL",
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
@@ -5077,70 +5190,6 @@
    }
   ]
  },
- "10-15": {
-  "2026": [
-   {
-    "id": "m_e79fb82827d7",
-    "title": "Суккуб",
-    "original_title": "Succubus",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0N2M4YmYtNzJlNi00MzkyLWJlMDQtNTczODZkMjg5ZTY5XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 4.7,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "720p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_97a00a1358f8",
-    "title": "Агент Зеро",
-    "original_title": "Badh / Agent Zero",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjkyOTc5ZjUtMTQzMS00NTQ0LWI3NTktZWExMTI3NzM4ZWIxXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": true,
-    "has_ru_audio": true
-   },
-   {
-    "id": "tt36064406",
-    "title": "Phantom Power",
-    "original_title": "Phantom Power",
-    "year": null,
-    "poster": "https://live.metahub.space/poster/small/tt36064406/img",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "unknown",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "m_4ca8b1aa7356",
-    "title": "Досье «Чёрная канарейка»",
-    "original_title": "Canary Black",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDUyZThkMDYtY2FlYy00MmFjLThkZGMtMDgxZTk1Zjg2YjRmXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 5.4,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "720p",
-    "has_4k": false,
-    "has_hdr": true,
-    "has_ru_audio": true
-   }
-  ]
- },
  "10-12": {
   "2026": [
    {
@@ -5156,21 +5205,6 @@
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_10b6bb853ed1",
-    "title": "Практическая магия 2",
-    "original_title": "Practical Magic 2",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "2160p",
-    "has_4k": true,
-    "has_hdr": true,
     "has_ru_audio": true
    },
    {
@@ -5438,21 +5472,6 @@
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_17f933a625b7",
-    "title": "Курьер",
-    "original_title": "Runner",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOThmN2YyMzMtN2Y2Zi00MjViLTg2NzQtNGM0ZDU3ZDAyYThhXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.6,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": true,
     "has_ru_audio": true
    },
    {

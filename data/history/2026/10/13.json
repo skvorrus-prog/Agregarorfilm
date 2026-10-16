@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "count": 4,
+  "count": 5,
   "movies": [
     {
       "id": "tt9174288",
@@ -21,7 +21,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 8.2,
       "tmdb_vote_count": 6,
-      "popularity": 13.2336,
+      "popularity": 12.8237,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-13",
       "digital_release_date": "2026-10-13",
@@ -64,6 +64,328 @@
             "tmdb_vote_count": 6,
             "theatrical_release_date": "2026-10-13",
             "digital_release_date": "2026-10-13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_17f933a625b7",
+      "title": "Курьер",
+      "original_title": "Runner",
+      "year": 2026,
+      "overview": "Курье́р — человек работающий в учреждении, разносящий деловые бумаги или компания, нанимаемые для доставки сообщений, писем, иной корреспонденции, а также небольших грузов.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOThmN2YyMzMtN2Y2Zi00MjViLTg2NzQtNGM0ZDU3ZDAyYThhXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "countries": [
+        "Australia, United States, United Kingdom"
+      ],
+      "runtime": 97,
+      "imdb_id": "tt31349844",
+      "tmdb_id": 1377237,
+      "imdb_rating": 6.6,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.301,
+      "tmdb_vote_count": 574,
+      "popularity": 237.4458,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-10-13",
+      "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
+      "last_updated_at": "2026-10-16T04:41:32.075057+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "0e50e429dfa00d1a",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-28T15:38:17+00:00",
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Курьер / Runner (2026) WEB-DL 1080p | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "e134c730e7358ca1",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-28T17:49:45+00:00",
+          "detected_at": "2026-09-28T19:43:56.728164+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Курьер / Runner (2026) WEB-DLRip-AVC от DoMiNo | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "71ad901718d03f82",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-30T08:57:19+00:00",
+          "detected_at": "2026-09-30T12:13:51.123441+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDrezka Studio",
+          "raw_title": "Курьер / Runner (2026) WEB-DLRip-AVC от DoMiNo & селезень | P | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "d5e85e76e475e0f8",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-30T12:19:58+00:00",
+          "detected_at": "2026-09-30T22:03:00.615729+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDRezka Studio",
+          "raw_title": "Курьер / Runner (2026) WEB-DL 720p от New-Team | P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "9f68656a37063c87",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-30T13:35:59+00:00",
+          "detected_at": "2026-09-30T22:03:00.615729+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDrezka Studio",
+          "raw_title": "Курьер / Runner (2026) WEB-DL 1080p от селезень | P | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "743866235d48d97c",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-30T15:02:48+00:00",
+          "detected_at": "2026-09-30T22:03:00.615729+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDrezka Studio",
+          "raw_title": "Курьер / Runner (2026) WEB-DLRip | P | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "ac5221522a117cfb",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-09-30T18:35:27+00:00",
+          "detected_at": "2026-09-30T22:03:00.615729+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Курьер / Runner (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "c336193033e4db42",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-01T06:32:58+00:00",
+          "detected_at": "2026-10-01T06:42:24.585192+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "Курьер / Runner (2026) WEB-DL 1080p | D, Р | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "4a1f88ae2e797ab0",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-01T16:04:15+00:00",
+          "detected_at": "2026-10-01T19:01:02.118413+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "Курьер / Runner (2026) WEB-DL 720p | D, Р | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "7a57d2a7c150cef0",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-13",
+          "detected_at": "2026-10-16T04:41:24.062106+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Курьер",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "У Хэнка Мэлоуна, элитного курьера, есть 3 часа, чтобы доставить печень и спасти 7-летнюю девочку, которой требуется срочная пересадка. Простая задача превращается в смертельное испытание, когда глава известной преступной группировки решает любой ценой завладеть органом.",
+            "poster": "https://image.tmdb.org/t/p/w500/vnrrZCe2sDMdEY7xyGSZMpSsZyG.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+            "genres": [
+              "боевик",
+              "комедия"
+            ],
+            "countries": [
+              "United States of America",
+              "Australia",
+              "United Kingdom"
+            ],
+            "runtime": 97,
+            "popularity": 237.4458,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.301,
+            "tmdb_vote_count": 574,
+            "theatrical_release_date": "2026-09-07",
+            "digital_release_date": "2026-10-13"
+          }
+        },
+        {
+          "id": "810a7210dbc6eb59",
+          "movie_id": "m_17f933a625b7",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-13T17:00:10.764973+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Runner (2026)",
+          "details": {
+            "title": "Runner",
+            "year": 2026,
+            "overview": "A former soldier and his unlikely partner become the targets of a ruthless cartel while racing to complete a critical medical delivery and save the life of a little girl.",
+            "poster": "https://images.metahub.space/poster/small/tt31349844/img",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Thriller"
+            ],
+            "countries": [
+              "Australia, United States, United Kingdom"
+            ],
+            "imdb_rating": 6.6,
+            "runtime": null
           }
         }
       ]

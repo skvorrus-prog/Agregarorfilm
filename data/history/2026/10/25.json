@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-25",
+  "count": 1,
+  "movies": [
+    {
+      "id": "m_10b6bb853ed1",
+      "title": "Практическая магия 2",
+      "original_title": "Practical Magic 2",
+      "year": 2026,
+      "overview": "«Практическая магия 2» — американский художественный фильм в жанре романтического фэнтези режиссёра Сюзанны Бир по сценарию Акивы Голдсмана, продолжение фильма «Практическая магия» 1998 года. Сюжет основан на романе Элис Хоффман «Книга Магии» (2021), являющемся продолжением оригинальной истории. Главные роли исполняют Сандра Буллок, Николь Кидман, Стокард Чэннинг и Дайан Уист, которые повторят свои роли из первого фильма. Среди новых актёров значатся Джоуи Кинг, Шоло Маридуэнья, Мэйси Уильямс и Ли Пейс.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": 130,
+      "imdb_id": "tt32588798",
+      "tmdb_id": 1302904,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.6,
+      "tmdb_vote_count": 174,
+      "popularity": 142.9498,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-10-25",
+      "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
+      "last_updated_at": "2026-10-16T04:41:32.073492+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "a731539d7a1d1bb4",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-12T17:51:40+00:00",
+          "detected_at": "2026-10-12T21:18:52.358190+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DL 1080p | Sub",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "29dd1bf679da7a1e",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-13T17:00:10.764973+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Practical Magic 2 (2026)",
+          "details": {
+            "title": "Practical Magic 2",
+            "year": 2026,
+            "overview": "A multi generational family of witches, cursed to be loveless for centuries, attempts to break the spell by confronting dark secrets and sacrificing for each other.",
+            "poster": "https://images.metahub.space/poster/small/tt32588798/img",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": null,
+            "runtime": null
+          }
+        },
+        {
+          "id": "37fb51642e041589",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T16:50:51+00:00",
+          "detected_at": "2026-10-14T17:19:45.012163+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DL 1080p | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "e554fbc559708ff6",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T17:14:00+00:00",
+          "detected_at": "2026-10-14T17:19:45.012163+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "HDR10+",
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DL 2160p | 4K | HDR10+ | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "HDR10+",
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "8c70ac2dca663fd3",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-14T19:13:12+00:00",
+          "detected_at": "2026-10-14T21:47:36.181609+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "WinMedia",
+          "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | WinMedia",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "WinMedia",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "22af003c952c3e00",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-15T02:50:52+00:00",
+          "detected_at": "2026-10-15T04:50:53.991044+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DLRip | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "91b6048417d98e65",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-15T07:39:02+00:00",
+          "detected_at": "2026-10-15T11:41:21.249959+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": "WinMedia",
+          "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D | WinMedia",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": "WinMedia",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "6a0d814f87cf68c1",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-15T18:11:31+00:00",
+          "detected_at": "2026-10-15T21:30:50.340677+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DL 720p | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "0f1a00878e4c5dc1",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-25",
+          "detected_at": "2026-10-16T04:41:24.062106+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Практическая магия 2",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Кайли, старшая дочь Салли Оуэнс, начинает раскрывать семейные тайны и развивает свои собственные тёмные способности. Семья оказывается втянута в многовековую борьбу за то, чтобы наконец снять проклятие, которое преследует их род на протяжении поколений. Женщины из семьи Оуэнс — Салли, Джиллиан, тёти Фрэнсис и Бриджит — должны вновь объединиться и отправиться в Великобританию, чтобы противостоять источнику своей магии и спасти следующее поколение своей семьи.",
+            "poster": "https://image.tmdb.org/t/p/w500/sxusbJzNx21lHnwQ1ssBTs2EGwg.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+            "genres": [
+              "мелодрама",
+              "фэнтези",
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 130,
+            "popularity": 142.9498,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.6,
+            "tmdb_vote_count": 174,
+            "theatrical_release_date": "2026-09-09",
+            "digital_release_date": "2026-10-25"
+          }
+        }
+      ]
+    }
+  ]
+}
