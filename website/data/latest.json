@@ -345,6 +345,80 @@
   ]
  },
  {
+  "id": "tt38672588",
+  "title": "Masterplan",
+  "original_title": "Masterplan",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+  "genres": [
+   "боевик",
+   "триллер"
+  ],
+  "countries": [
+   "France",
+   "United States of America"
+  ],
+  "runtime": 109,
+  "imdb_id": "tt38672588",
+  "tmdb_id": 1561726,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.7,
+  "tmdb_vote_count": 6,
+  "popularity": 10.9215,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-16",
+  "digital_release_date": "2026-10-16",
+  "first_detected_at": "2026-10-16T16:45:57.762404+00:00",
+  "last_updated_at": "2026-10-16T16:46:11.220719+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "0d11fc49441c13b2",
+    "movie_id": "tt38672588",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-16",
+    "detected_at": "2026-10-16T16:45:57.762404+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Masterplan",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+     "genres": [
+      "боевик",
+      "триллер"
+     ],
+     "countries": [
+      "France",
+      "United States of America"
+     ],
+     "runtime": 109,
+     "popularity": 10.9215,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.7,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-10-16",
+     "digital_release_date": "2026-10-16"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt6262770",
   "title": "Тенцинг",
   "original_title": "Tenzing",
@@ -366,17 +440,17 @@
   "tmdb_id": 1288069,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.0,
-  "tmdb_vote_count": 5,
+  "tmdb_rating": 6.3,
+  "tmdb_vote_count": 7,
   "popularity": 7.478,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
   "digital_release_date": "2026-10-16",
   "first_detected_at": "2026-10-16T11:34:55.535444+00:00",
-  "last_updated_at": "2026-10-16T11:35:04.342111+00:00",
+  "last_updated_at": "2026-10-16T16:46:11.355243+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
+  "best_resolution": "1080p",
   "has_4k": false,
   "has_hdr": false,
   "has_ru_audio": false,
@@ -417,6 +491,30 @@
      "theatrical_release_date": "2026-10-09",
      "digital_release_date": "2026-10-16"
     }
+   },
+   {
+    "id": "4e3f90f03c4b8f39",
+    "movie_id": "tt6262770",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-16T13:33:05+00:00",
+    "detected_at": "2026-10-16T16:45:57.762404+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Sub",
+    "raw_title": "Тенцинг / Tenzing (2026) WEB-DL 1080p | Sub",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Sub",
+     "is_secondary_signal": true
+    }
    }
   ]
  },
@@ -435,13 +533,13 @@
   "countries": [
    "Sweden"
   ],
-  "runtime": 0,
+  "runtime": 101,
   "imdb_id": "tt37070354",
   "tmdb_id": 1623256,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.2,
-  "tmdb_vote_count": 9,
+  "tmdb_rating": 8.3,
+  "tmdb_vote_count": 10,
   "popularity": 39.5119,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-15",
@@ -512,8 +610,8 @@
   "tmdb_id": 1381078,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.528,
-  "tmdb_vote_count": 36,
+  "tmdb_rating": 6.6,
+  "tmdb_vote_count": 38,
   "popularity": 89.9551,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-07",
@@ -1185,8 +1283,8 @@
   "tmdb_id": 1148365,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.899,
-  "tmdb_vote_count": 336,
+  "tmdb_rating": 7.909,
+  "tmdb_vote_count": 339,
   "popularity": 391.6431,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1474,8 +1572,8 @@
   "tmdb_id": 1236045,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.189,
-  "tmdb_vote_count": 378,
+  "tmdb_rating": 7.2,
+  "tmdb_vote_count": 380,
   "popularity": 262.6055,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1691,7 +1789,7 @@
   "tmdb_id": 1447853,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.422,
+  "tmdb_rating": 7.4,
   "tmdb_vote_count": 32,
   "popularity": 32.0691,
   "popularity_source": "TMDB",
@@ -6331,80 +6429,6 @@
      "tmdb_rating": 5.976,
      "tmdb_vote_count": 41,
      "theatrical_release_date": "2026-07-29",
-     "digital_release_date": "2026-09-15"
-    }
-   }
-  ]
- },
- {
-  "id": "tt33253206",
-  "title": "Поцелуй смерти",
-  "original_title": "The Last Kiss",
-  "year": 2026,
-  "overview": "После трагической поездки с классом девочка-подросток обретает способность видеть смерть людей через поцелуй. Она пытается успеть спасти своих одноклассников от неминуемой гибели, связанной с произошедшим.",
-  "poster": "https://image.tmdb.org/t/p/w500/mSJu1sIWduYvD58tTAm7mRPmR2U.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
-  "genres": [
-   "ужасы",
-   "детектив",
-   "триллер"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 96,
-  "imdb_id": "tt33253206",
-  "tmdb_id": 1318467,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.3,
-  "tmdb_vote_count": 19,
-  "popularity": 20.7295,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-15",
-  "digital_release_date": "2026-09-15",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:23.584769+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "7b68349b53843fe1",
-    "movie_id": "tt33253206",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-15",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Поцелуй смерти",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "После трагической поездки с классом девочка-подросток обретает способность видеть смерть людей через поцелуй. Она пытается успеть спасти своих одноклассников от неминуемой гибели, связанной с произошедшим.",
-     "poster": "https://image.tmdb.org/t/p/w500/mSJu1sIWduYvD58tTAm7mRPmR2U.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/ifAdNCn67jW5y7hcDOUozjRBLU0.jpg",
-     "genres": [
-      "ужасы",
-      "детектив",
-      "триллер"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 96,
-     "popularity": 20.7295,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.3,
-     "tmdb_vote_count": 19,
-     "theatrical_release_date": "2026-09-15",
      "digital_release_date": "2026-09-15"
     }
    }
