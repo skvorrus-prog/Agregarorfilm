@@ -64,6 +64,36 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_2aed2654dae1",
+    "title": "Подай знак",
+    "original_title": "Blink Twice",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzczYmQ0NTUtMTM5OS00Mzc4LWExZDYtOWE4YjRkOWJkYWRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.5,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_d1e8d277a25b",
+    "title": "Сиджин 9",
+    "original_title": "Siccin 9",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk5OWNhYTMtOTllMi00ODY5LTlkZWYtNWNiMDQzNDVlYjVlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 4.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
@@ -194,7 +224,7 @@
     "best_quality": "WEB-DL",
     "best_resolution": "2160p",
     "has_4k": true,
-    "has_hdr": false,
+    "has_hdr": true,
     "has_ru_audio": true
    },
    {
@@ -2388,10 +2418,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt14119302",
@@ -3893,10 +3923,10 @@
     "imdb_rating": 6.4,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
    },
    {
     "id": "tt12042730",
