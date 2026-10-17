@@ -1,7 +1,77 @@
 {
   "date": "2026-10-13",
-  "count": 5,
+  "count": 6,
   "movies": [
+    {
+      "id": "tt47658621",
+      "title": "Майкл Че: Снято в Миннесоте",
+      "original_title": "Michael Che: Shot in Minnesota",
+      "year": 2026,
+      "overview": "Майкл Че поднимает темы расизма, брака, свободы слова и всего, что с этим связано.",
+      "poster": "https://image.tmdb.org/t/p/w500/1DbNbV9zWT29yAUr45qSbCGCtFz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ax5fGBSTqYEeYkgPmvYK47xdKHj.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 59,
+      "imdb_id": "tt47658621",
+      "tmdb_id": 1783629,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.4,
+      "tmdb_vote_count": 5,
+      "popularity": 3.1305,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-13",
+      "digital_release_date": "2026-10-13",
+      "first_detected_at": "2026-10-17T20:43:13.692658+00:00",
+      "last_updated_at": "2026-10-17T20:43:20.653222+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "2dfaa0d1b2d96139",
+          "movie_id": "tt47658621",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-13",
+          "detected_at": "2026-10-17T20:43:13.692658+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Майкл Че: Снято в Миннесоте",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Майкл Че поднимает темы расизма, брака, свободы слова и всего, что с этим связано.",
+            "poster": "https://image.tmdb.org/t/p/w500/1DbNbV9zWT29yAUr45qSbCGCtFz.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/ax5fGBSTqYEeYkgPmvYK47xdKHj.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 59,
+            "popularity": 3.1305,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.4,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-13",
+            "digital_release_date": "2026-10-13"
+          }
+        }
+      ]
+    },
     {
       "id": "tt9174288",
       "title": "Let's Have Kids!",
@@ -89,8 +159,8 @@
       "tmdb_id": 1377237,
       "imdb_rating": 6.6,
       "imdb_vote_count": null,
-      "tmdb_rating": 8.299,
-      "tmdb_vote_count": 590,
+      "tmdb_rating": 8.309,
+      "tmdb_vote_count": 598,
       "popularity": 228.277,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,

@@ -1,7 +1,79 @@
 {
   "date": "2026-10-09",
-  "count": 11,
+  "count": 12,
   "movies": [
+    {
+      "id": "tt47657999",
+      "title": "रिपोर्टिंग लाइव",
+      "original_title": "रिपोर्टिंग लाइव",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+      "genres": [
+        "криминал",
+        "триллер"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 116,
+      "imdb_id": "tt47657999",
+      "tmdb_id": 1389172,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.9,
+      "tmdb_vote_count": 5,
+      "popularity": 131.0874,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-09",
+      "digital_release_date": "2026-10-09",
+      "first_detected_at": "2026-10-17T20:43:13.692658+00:00",
+      "last_updated_at": "2026-10-17T20:43:22.410755+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "25f7c0e6a74d24a4",
+          "movie_id": "tt47657999",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-09",
+          "detected_at": "2026-10-17T20:43:13.692658+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "रिपोर्टिंग लाइव",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+            "genres": [
+              "криминал",
+              "триллер"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 116,
+            "popularity": 131.0874,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.9,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-09",
+            "digital_release_date": "2026-10-09"
+          }
+        }
+      ]
+    },
     {
       "id": "tt43739386",
       "title": "З/Л/О: Сборник",
@@ -386,8 +458,8 @@
       "tmdb_id": 1236045,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.117,
-      "tmdb_vote_count": 413,
+      "tmdb_rating": 7.096,
+      "tmdb_vote_count": 422,
       "popularity": 244.8255,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,

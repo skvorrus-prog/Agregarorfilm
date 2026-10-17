@@ -20,14 +20,14 @@
   "tmdb_id": 1302904,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.833,
-  "tmdb_vote_count": 201,
+  "tmdb_rating": 6.866,
+  "tmdb_vote_count": 205,
   "popularity": 157.5418,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
   "digital_release_date": "2026-10-25",
   "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
-  "last_updated_at": "2026-10-16T04:41:32.073492+00:00",
+  "last_updated_at": "2026-10-17T20:43:22.468792+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -235,6 +235,30 @@
     }
    },
    {
+    "id": "2277c9a53f4226d1",
+    "movie_id": "m_10b6bb853ed1",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-17T19:54:42+00:00",
+    "detected_at": "2026-10-17T20:43:13.692658+00:00",
+    "quality": "WEB-DL",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Практическая магия 2 / Practical Magic 2 (2026) WEB-DLRip 720p от New-Team | D, P | WinMedia, TVShows",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
     "id": "0f1a00878e4c5dc1",
     "movie_id": "m_10b6bb853ed1",
     "event_type": "DIGITAL_PREMIERE",
@@ -364,8 +388,8 @@
   "tmdb_id": 1487317,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.5,
-  "tmdb_vote_count": 6,
+  "tmdb_rating": 7.583,
+  "tmdb_vote_count": 12,
   "popularity": 18.2837,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-08",
@@ -438,7 +462,7 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 7.0,
-  "tmdb_vote_count": 22,
+  "tmdb_vote_count": 39,
   "popularity": 110.6207,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-16",
@@ -512,14 +536,14 @@
   "tmdb_id": 1288069,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.0,
-  "tmdb_vote_count": 28,
+  "tmdb_rating": 8.182,
+  "tmdb_vote_count": 33,
   "popularity": 68.4263,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
   "digital_release_date": "2026-10-16",
   "first_detected_at": "2026-10-16T11:34:55.535444+00:00",
-  "last_updated_at": "2026-10-16T21:20:47.380512+00:00",
+  "last_updated_at": "2026-10-17T20:43:36.736413+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -609,6 +633,54 @@
      "audio": null,
      "language": "RU",
      "release_group": "L",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "87fd2f19db19d369",
+    "movie_id": "tt6262770",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-17T16:07:30+00:00",
+    "detected_at": "2026-10-17T20:43:13.692658+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "HDRezka Studio",
+    "raw_title": "Тенцинг / Tenzing (2026) WEB-DL 1080p от New-Team | D, P | HDRezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "HDRezka Studio",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "ad74b2785c70ade7",
+    "movie_id": "tt6262770",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-17T17:33:55+00:00",
+    "detected_at": "2026-10-17T20:43:13.692658+00:00",
+    "quality": "WEB-DL",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "HDRezka Studio",
+    "raw_title": "Тенцинг / Tenzing (2026) WEB-DLRip 720p от New-Team | D, P | HDRezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "HDRezka Studio",
      "is_secondary_signal": true
     }
    }
@@ -707,13 +779,13 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 6.8,
-  "tmdb_vote_count": 51,
+  "tmdb_vote_count": 56,
   "popularity": 83.0413,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-07",
   "digital_release_date": "2026-10-14",
   "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
-  "last_updated_at": "2026-10-17T15:42:33.170353+00:00",
+  "last_updated_at": "2026-10-17T20:43:34.724898+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -802,6 +874,100 @@
      "language": null,
      "release_group": "TVShows",
      "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "ff6a258bf7fc66b6",
+    "movie_id": "tt34384900",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-17T17:44:49+00:00",
+    "detected_at": "2026-10-17T20:43:13.692658+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "TVShows",
+    "raw_title": "Любовь твоей жизни / Love of Your Life (2026) WEB-DLRip | P | TVShows",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "TVShows",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt47658621",
+  "title": "Майкл Че: Снято в Миннесоте",
+  "original_title": "Michael Che: Shot in Minnesota",
+  "year": 2026,
+  "overview": "Майкл Че поднимает темы расизма, брака, свободы слова и всего, что с этим связано.",
+  "poster": "https://image.tmdb.org/t/p/w500/1DbNbV9zWT29yAUr45qSbCGCtFz.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/ax5fGBSTqYEeYkgPmvYK47xdKHj.jpg",
+  "genres": [
+   "комедия"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 59,
+  "imdb_id": "tt47658621",
+  "tmdb_id": 1783629,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.4,
+  "tmdb_vote_count": 5,
+  "popularity": 3.1305,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-13",
+  "digital_release_date": "2026-10-13",
+  "first_detected_at": "2026-10-17T20:43:13.692658+00:00",
+  "last_updated_at": "2026-10-17T20:43:20.653222+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "2dfaa0d1b2d96139",
+    "movie_id": "tt47658621",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-13",
+    "detected_at": "2026-10-17T20:43:13.692658+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Майкл Че: Снято в Миннесоте",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Майкл Че поднимает темы расизма, брака, свободы слова и всего, что с этим связано.",
+     "poster": "https://image.tmdb.org/t/p/w500/1DbNbV9zWT29yAUr45qSbCGCtFz.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/ax5fGBSTqYEeYkgPmvYK47xdKHj.jpg",
+     "genres": [
+      "комедия"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 59,
+     "popularity": 3.1305,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.4,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-13",
+     "digital_release_date": "2026-10-13"
     }
    }
   ]
@@ -893,8 +1059,8 @@
   "tmdb_id": 1377237,
   "imdb_rating": 6.6,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.299,
-  "tmdb_vote_count": 590,
+  "tmdb_rating": 8.309,
+  "tmdb_vote_count": 598,
   "popularity": 228.277,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1333,6 +1499,78 @@
   ]
  },
  {
+  "id": "tt47657999",
+  "title": "रिपोर्टिंग लाइव",
+  "original_title": "रिपोर्टिंग लाइव",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+  "genres": [
+   "криминал",
+   "триллер"
+  ],
+  "countries": [
+   "India"
+  ],
+  "runtime": 116,
+  "imdb_id": "tt47657999",
+  "tmdb_id": 1389172,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.9,
+  "tmdb_vote_count": 5,
+  "popularity": 131.0874,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-09",
+  "digital_release_date": "2026-10-09",
+  "first_detected_at": "2026-10-17T20:43:13.692658+00:00",
+  "last_updated_at": "2026-10-17T20:43:22.410755+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "25f7c0e6a74d24a4",
+    "movie_id": "tt47657999",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-09",
+    "detected_at": "2026-10-17T20:43:13.692658+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "रिपोर्टिंग लाइव",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+     "genres": [
+      "криминал",
+      "триллер"
+     ],
+     "countries": [
+      "India"
+     ],
+     "runtime": 116,
+     "popularity": 131.0874,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.9,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-09",
+     "digital_release_date": "2026-10-09"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt43739386",
   "title": "З/Л/О: Сборник",
   "original_title": "V/H/S/Mixtape",
@@ -1716,8 +1954,8 @@
   "tmdb_id": 1236045,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.117,
-  "tmdb_vote_count": 413,
+  "tmdb_rating": 7.096,
+  "tmdb_vote_count": 422,
   "popularity": 244.8255,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -2006,7 +2244,7 @@
   "tmdb_id": 1465943,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.786,
+  "tmdb_rating": 7.8,
   "tmdb_vote_count": 7,
   "popularity": 13.5846,
   "popularity_source": "TMDB",
@@ -2832,8 +3070,8 @@
   "tmdb_id": 1476746,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.318,
-  "tmdb_vote_count": 22,
+  "tmdb_rating": 6.217,
+  "tmdb_vote_count": 23,
   "popularity": 82.3468,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -6354,152 +6592,6 @@
      "tmdb_vote_count": 78,
      "theatrical_release_date": "2026-09-18",
      "digital_release_date": "2026-09-18"
-    }
-   }
-  ]
- },
- {
-  "id": "tt43617372",
-  "title": "Ты + Я — против всего мира",
-  "original_title": "Toi+Moi - Seuls contre tous",
-  "year": 2026,
-  "overview": "18-летняя Альма Ланкастер, похоже, ведет идеальную жизнь в богатой семье, которая считает, что изучает право. Втайне она следует за своей истинной мечтой: кинопроизводством. В кампусе она знакомится с 20-летним Вадимом Аркади, притягательным и одиноким бунтарем с тяжелым прошлым. Вынужденные сотрудничать над студенческим фильмом, они сталкиваются, сближаются и влюбляются — вопреки себе. Но кто-то наблюдает за ними, решив разорвать их на части и раскрыть секреты, которые могут уничтожить и Альму, и Вадима.",
-  "poster": "https://image.tmdb.org/t/p/w500/1nZgTdXgoqt1BVWgBkot0uhwB1f.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-  "genres": [
-   "мелодрама",
-   "драма"
-  ],
-  "countries": [
-   "France",
-   "United States of America"
-  ],
-  "runtime": 94,
-  "imdb_id": "tt43617372",
-  "tmdb_id": 1641629,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 5.778,
-  "tmdb_vote_count": 72,
-  "popularity": 71.7123,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-18",
-  "digital_release_date": "2026-09-18",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:18.172961+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "a257463904fbd4ef",
-    "movie_id": "tt43617372",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-18",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Ты + Я — против всего мира",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "18-летняя Альма Ланкастер, похоже, ведет идеальную жизнь в богатой семье, которая считает, что изучает право. Втайне она следует за своей истинной мечтой: кинопроизводством. В кампусе она знакомится с 20-летним Вадимом Аркади, притягательным и одиноким бунтарем с тяжелым прошлым. Вынужденные сотрудничать над студенческим фильмом, они сталкиваются, сближаются и влюбляются — вопреки себе. Но кто-то наблюдает за ними, решив разорвать их на части и раскрыть секреты, которые могут уничтожить и Альму, и Вадима.",
-     "poster": "https://image.tmdb.org/t/p/w500/1nZgTdXgoqt1BVWgBkot0uhwB1f.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-     "genres": [
-      "мелодрама",
-      "драма"
-     ],
-     "countries": [
-      "France",
-      "United States of America"
-     ],
-     "runtime": 94,
-     "popularity": 71.7123,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 5.7,
-     "tmdb_vote_count": 70,
-     "theatrical_release_date": "2026-09-18",
-     "digital_release_date": "2026-09-18"
-    }
-   }
-  ]
- },
- {
-  "id": "tt40231163",
-  "title": "Беги, прячься, бей: Неверные",
-  "original_title": "Run Hide Fight: Infidels",
-  "year": 2026,
-  "overview": "История разворачивается на территории либерального американского колледжа. Радикальные исламистские террористы захватывают пропалестинский палаточный лагерь студентов, пытаясь установить свои жестокие порядки. Противостоять им берется случайная команда: капитан отряда «Дельта» в отставке, охранник кампуса и группа патриотически настроенных студентов. Вместе они берут в руки оружие, чтобы спасти заложников.",
-  "poster": "https://image.tmdb.org/t/p/w500/5O5IJ4iu2zFLZ6b1BEf1VeWDzrS.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/5LINHN9KrzfYZxogKlTCcvR1Gki.jpg",
-  "genres": [
-   "боевик",
-   "триллер"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 129,
-  "imdb_id": "tt40231163",
-  "tmdb_id": 1643135,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 5.8,
-  "tmdb_vote_count": 12,
-  "popularity": 8.785,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-15",
-  "digital_release_date": "2026-09-16",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:23.566173+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "c2da054ae3ffb217",
-    "movie_id": "tt40231163",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-16",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Беги, прячься, бей: Неверные",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "История разворачивается на территории либерального американского колледжа. Радикальные исламистские террористы захватывают пропалестинский палаточный лагерь студентов, пытаясь установить свои жестокие порядки. Противостоять им берется случайная команда: капитан отряда «Дельта» в отставке, охранник кампуса и группа патриотически настроенных студентов. Вместе они берут в руки оружие, чтобы спасти заложников.",
-     "poster": "https://image.tmdb.org/t/p/w500/5O5IJ4iu2zFLZ6b1BEf1VeWDzrS.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/5LINHN9KrzfYZxogKlTCcvR1Gki.jpg",
-     "genres": [
-      "боевик",
-      "триллер"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 129,
-     "popularity": 8.785,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 5.8,
-     "tmdb_vote_count": 12,
-     "theatrical_release_date": "2026-09-15",
-     "digital_release_date": "2026-09-16"
     }
    }
   ]

@@ -277,6 +277,21 @@
  "10-13": {
   "2026": [
    {
+    "id": "tt47658621",
+    "title": "Майкл Че: Снято в Миннесоте",
+    "original_title": "Michael Che: Shot in Minnesota",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/1DbNbV9zWT29yAUr45qSbCGCtFz.jpg",
+    "digital_release_date": "2026-10-13",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt9174288",
     "title": "Let's Have Kids!",
     "original_title": "Let's Have Kids!",
@@ -558,6 +573,21 @@
  },
  "10-09": {
   "2026": [
+   {
+    "id": "tt47657999",
+    "title": "रिपोर्टिंग लाइव",
+    "original_title": "रिपोर्टिंग लाइव",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
+    "digital_release_date": "2026-10-09",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt43739386",
     "title": "З/Л/О: Сборник",
@@ -1539,7 +1569,7 @@
     "best_quality": "BluRay",
     "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": false,
+    "has_hdr": true,
     "has_ru_audio": true
    },
    {
@@ -5272,6 +5302,51 @@
  "10-17": {
   "2026": [
    {
+    "id": "m_4917535d350d",
+    "title": "Собиратель душ",
+    "original_title": "Longlegs",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmJkNGNiNjgtMzFlYy00ZDI5LWI2YzktZGVjYjI5MjQyMGU3XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.5,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_d198fbff341a",
+    "title": "Чистые руки",
+    "original_title": "Clean Hands",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODgwMmI3NDMtMzllNC00ZGVkLTgzODItZTYzMDRkZTIwN2YwXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_bd8ecc01781c",
+    "title": "Смотрители",
+    "original_title": "The Watchers",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2I3MjIzYzMtNDkxNS00ZDIzLWEzZjktNDJlZDZlOGZlMTMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_ccdc19cea746",
     "title": "Пушистые каникулы",
     "original_title": "Campamento Garra de Oso",
@@ -5313,7 +5388,7 @@
     "best_quality": "BluRay",
     "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": false,
+    "has_hdr": true,
     "has_ru_audio": true
    },
    {

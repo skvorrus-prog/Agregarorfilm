@@ -862,12 +862,12 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-01T19:01:02.118413+00:00",
-      "last_updated_at": "2026-10-04T18:40:18.322542+00:00",
+      "last_updated_at": "2026-10-17T20:43:34.746125+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "1080p",
       "has_4k": false,
-      "has_hdr": false,
+      "has_hdr": true,
       "has_ru_audio": true,
       "events": [
         {
@@ -958,6 +958,30 @@
           "raw_title": "Танк / Наземный корабль / Landship (2026) BDRip-AVC | D",
           "details": {
             "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "c18e01cf106f8015",
+          "movie_id": "m_7d8304c58967",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-17T16:29:39+00:00",
+          "detected_at": "2026-10-17T20:43:13.692658+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Танк / Наземный корабль / Landship (2026) HDRip-AVC | КПК | D",
+          "details": {
+            "quality": "unknown",
             "resolution": "unknown",
             "hdr": null,
             "audio": null,
