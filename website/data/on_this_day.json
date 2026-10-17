@@ -5254,6 +5254,55 @@
    }
   ]
  },
+ "10-17": {
+  "2026": [
+   {
+    "id": "m_247157b5a852",
+    "title": "Не шевелись",
+    "original_title": "Don’t Move",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg4NTdjYmYtN2ZiNi00YWUwLWE4MzItMWU3ZTM3NTNiZTY5XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.7,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_f028ee6a152d",
+    "title": "Мститель",
+    "original_title": "Protector",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt34471850/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.3,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_3193497f63f4",
+    "title": "Без лица",
+    "original_title": "Eolgul",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt27860118/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-12": {
   "2026": [
    {

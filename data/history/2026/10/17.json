@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-17",
+  "count": 3,
+  "movies": [
+    {
+      "id": "m_247157b5a852",
+      "title": "Не шевелись",
+      "original_title": "Don’t Move",
+      "year": 2026,
+      "overview": "Следит за доисторическим паукообразным, который пугает застрявшую группу отдыхающих, которые отправляются в неправильный лес. Фильм основан на потрясающем романе ужасов от актера, известного как «Мурр» из телесериала «Непрактичные шутники».",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDg4NTdjYmYtN2ZiNi00YWUwLWE4MzItMWU3ZTM3NTNiZTY5XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "countries": [
+        "United States, Canada"
+      ],
+      "runtime": null,
+      "imdb_id": "tt29630464",
+      "tmdb_id": null,
+      "imdb_rating": 6.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-17T10:54:20.363466+00:00",
+      "last_updated_at": "2026-10-17T10:54:41.254609+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "45f57b6f7d2c49fe",
+          "movie_id": "m_247157b5a852",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-17T05:27:46+00:00",
+          "detected_at": "2026-10-17T10:54:20.363466+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Не шевелись / Don’t Move (2026) WEB-DL 1080p | Sub",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_f028ee6a152d",
+      "title": "Мститель",
+      "original_title": "Protector",
+      "year": 2025,
+      "overview": "Мститель — тот, кто мстит; также: название ряда литературных, кинематографических и анимационных произведений.",
+      "poster": "https://images.metahub.space/poster/small/tt34471850/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt34471850",
+      "tmdb_id": null,
+      "imdb_rating": 5.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-17T10:54:20.363466+00:00",
+      "last_updated_at": "2026-10-17T10:54:38.265879+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f77c06146d637836",
+          "movie_id": "m_f028ee6a152d",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-17T08:25:45+00:00",
+          "detected_at": "2026-10-17T10:54:20.363466+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Мститель / Protector (2025) BDRip 720p от DoMiNo & селезень | A | Яроцкий",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_3193497f63f4",
+      "title": "Без лица",
+      "original_title": "Eolgul",
+      "year": 2025,
+      "overview": "«Без лица» — американский художественный фильм в жанре фантастического боевика, поставленный режиссёром Джоном Ву по сценарию Майка Уэрба и Майкла Коллеари. В главных ролях снялись Джон Траволта и Николас Кейдж.",
+      "poster": "https://images.metahub.space/poster/small/tt27860118/img",
+      "backdrop": null,
+      "genres": [
+        "Romance"
+      ],
+      "countries": [
+        "Korea"
+      ],
+      "runtime": null,
+      "imdb_id": "tt27860118",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-17T10:54:20.363466+00:00",
+      "last_updated_at": "2026-10-17T10:54:35.440573+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ac816df015ca9035",
+          "movie_id": "m_3193497f63f4",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-17T09:41:00+00:00",
+          "detected_at": "2026-10-17T10:54:20.363466+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "P",
+          "raw_title": "Без лица / Eolgul (2025) BDRip-AVC от msltel | P",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "P",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}
