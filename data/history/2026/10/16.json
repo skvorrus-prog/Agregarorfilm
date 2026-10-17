@@ -1,7 +1,79 @@
 {
   "date": "2026-10-16",
-  "count": 4,
+  "count": 5,
   "movies": [
+    {
+      "id": "tt37027309",
+      "title": "Lo dejamos acá",
+      "original_title": "Lo dejamos acá",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ],
+      "countries": [
+        "Argentina"
+      ],
+      "runtime": 97,
+      "imdb_id": "tt37027309",
+      "tmdb_id": 1487317,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.5,
+      "tmdb_vote_count": 6,
+      "popularity": 18.2837,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-08",
+      "digital_release_date": "2026-10-16",
+      "first_detected_at": "2026-10-17T15:42:20.500211+00:00",
+      "last_updated_at": "2026-10-17T15:42:27.709760+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9740254f0f12b684",
+          "movie_id": "tt37027309",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-16",
+          "detected_at": "2026-10-17T15:42:20.500211+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Lo dejamos acá",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+            "genres": [
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "Argentina"
+            ],
+            "runtime": 97,
+            "popularity": 18.2837,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.5,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-10-08",
+            "digital_release_date": "2026-10-16"
+          }
+        }
+      ]
+    },
     {
       "id": "tt38672588",
       "title": "Masterplan",
@@ -98,8 +170,8 @@
       "tmdb_id": 1288069,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.917,
-      "tmdb_vote_count": 24,
+      "tmdb_rating": 8.0,
+      "tmdb_vote_count": 28,
       "popularity": 68.4263,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-09",

@@ -20,8 +20,8 @@
   "tmdb_id": 1302904,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.827,
-  "tmdb_vote_count": 199,
+  "tmdb_rating": 6.833,
+  "tmdb_vote_count": 201,
   "popularity": 157.5418,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -345,6 +345,78 @@
   ]
  },
  {
+  "id": "tt37027309",
+  "title": "Lo dejamos acá",
+  "original_title": "Lo dejamos acá",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+  "genres": [
+   "комедия",
+   "драма"
+  ],
+  "countries": [
+   "Argentina"
+  ],
+  "runtime": 97,
+  "imdb_id": "tt37027309",
+  "tmdb_id": 1487317,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.5,
+  "tmdb_vote_count": 6,
+  "popularity": 18.2837,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-08",
+  "digital_release_date": "2026-10-16",
+  "first_detected_at": "2026-10-17T15:42:20.500211+00:00",
+  "last_updated_at": "2026-10-17T15:42:27.709760+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "9740254f0f12b684",
+    "movie_id": "tt37027309",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-16",
+    "detected_at": "2026-10-17T15:42:20.500211+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Lo dejamos acá",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+     "genres": [
+      "комедия",
+      "драма"
+     ],
+     "countries": [
+      "Argentina"
+     ],
+     "runtime": 97,
+     "popularity": 18.2837,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.5,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-10-08",
+     "digital_release_date": "2026-10-16"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt38672588",
   "title": "Masterplan",
   "original_title": "Masterplan",
@@ -440,8 +512,8 @@
   "tmdb_id": 1288069,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.917,
-  "tmdb_vote_count": 24,
+  "tmdb_rating": 8.0,
+  "tmdb_vote_count": 28,
   "popularity": 68.4263,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -547,7 +619,7 @@
   "title": "Stormen",
   "original_title": "Stormen",
   "year": 2026,
-  "overview": "",
+  "overview": "Старые друзья-сокурсники празднуют день рождения, но из-за разыгравшейся пурги теряют контроль над собой.",
   "poster": "https://image.tmdb.org/t/p/w500/kjAsuaDcNsemYTQ8tUorpVE1FJb.jpg",
   "backdrop": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
   "genres": [
@@ -562,8 +634,8 @@
   "tmdb_id": 1623256,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.567,
-  "tmdb_vote_count": 15,
+  "tmdb_rating": 7.559,
+  "tmdb_vote_count": 17,
   "popularity": 59.7408,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-15",
@@ -634,19 +706,19 @@
   "tmdb_id": 1381078,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.75,
-  "tmdb_vote_count": 50,
+  "tmdb_rating": 6.8,
+  "tmdb_vote_count": 51,
   "popularity": 83.0413,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-07",
   "digital_release_date": "2026-10-14",
   "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
-  "last_updated_at": "2026-10-14T21:47:44.549664+00:00",
-  "status": "WEB_RELEASE",
+  "last_updated_at": "2026-10-17T15:42:33.170353+00:00",
+  "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
+  "best_resolution": "2160p",
+  "has_4k": true,
+  "has_hdr": true,
   "has_ru_audio": false,
   "events": [
    {
@@ -682,6 +754,54 @@
      "tmdb_vote_count": 11,
      "theatrical_release_date": "2026-10-07",
      "digital_release_date": "2026-10-14"
+    }
+   },
+   {
+    "id": "23705e07a47dc5ef",
+    "movie_id": "tt34384900",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-17T13:23:48+00:00",
+    "detected_at": "2026-10-17T15:42:20.500211+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "TVShows",
+    "raw_title": "Любовь твоей жизни / Love of Your Life (2026) WEB-DL 1080p от New-Team | P | TVShows",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "TVShows",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "b26ba9bad45100b6",
+    "movie_id": "tt34384900",
+    "event_type": "UHD_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-17T14:39:07+00:00",
+    "detected_at": "2026-10-17T15:42:20.500211+00:00",
+    "quality": "WEB-DL",
+    "resolution": "2160p",
+    "hdr": "Dolby Vision / HDR10",
+    "audio": null,
+    "language": null,
+    "release_group": "TVShows",
+    "raw_title": "Любовь твоей жизни / Love of Your Life (2026) UHD WEB-DL 2160p | 4K | HDR10+ | Dolby Vision P8 | P | TVShows",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "2160p",
+     "hdr": "Dolby Vision / HDR10",
+     "audio": null,
+     "language": null,
+     "release_group": "TVShows",
+     "is_secondary_signal": true
     }
    }
   ]
@@ -1307,8 +1427,8 @@
   "tmdb_id": 1148365,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.918,
-  "tmdb_vote_count": 358,
+  "tmdb_rating": 7.85,
+  "tmdb_vote_count": 363,
   "popularity": 369.9739,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1596,8 +1716,8 @@
   "tmdb_id": 1236045,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.162,
-  "tmdb_vote_count": 405,
+  "tmdb_rating": 7.117,
+  "tmdb_vote_count": 413,
   "popularity": 244.8255,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -2712,8 +2832,8 @@
   "tmdb_id": 1476746,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.7,
-  "tmdb_vote_count": 19,
+  "tmdb_rating": 6.318,
+  "tmdb_vote_count": 22,
   "popularity": 82.3468,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -6020,8 +6140,8 @@
   "tmdb_id": 1228834,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.742,
-  "tmdb_vote_count": 66,
+  "tmdb_rating": 6.715,
+  "tmdb_vote_count": 65,
   "popularity": 192.6092,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-10",
@@ -6380,80 +6500,6 @@
      "tmdb_vote_count": 12,
      "theatrical_release_date": "2026-09-15",
      "digital_release_date": "2026-09-16"
-    }
-   }
-  ]
- },
- {
-  "id": "tt37603783",
-  "title": "Во власти страха",
-  "original_title": "Above & Below",
-  "year": 2026,
-  "overview": "5 друзей отправляются в отпуск, чтобы заняться дайвингом и погружаться в клетке на морское дно, наблюдая за белыми акулами. Но опасная забава перерастает в схватку со смертью, когда на лодку проникает расчётливый и безжалостный контрабандист, который требует поднять на борт затонувший неподалёку груз.",
-  "poster": "https://image.tmdb.org/t/p/w500/6AHnijQqg3f5KYDkhuSzBdyuExG.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
-  "genres": [
-   "триллер",
-   "криминал"
-  ],
-  "countries": [
-   "United States of America",
-   "Spain"
-  ],
-  "runtime": 96,
-  "imdb_id": "tt37603783",
-  "tmdb_id": 1514682,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 5.976,
-  "tmdb_vote_count": 41,
-  "popularity": 39.657,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-07-29",
-  "digital_release_date": "2026-09-15",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:31.105941+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "71a6d9f2abe15fbb",
-    "movie_id": "tt37603783",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-15",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Во власти страха",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "5 друзей отправляются в отпуск, чтобы заняться дайвингом и погружаться в клетке на морское дно, наблюдая за белыми акулами. Но опасная забава перерастает в схватку со смертью, когда на лодку проникает расчётливый и безжалостный контрабандист, который требует поднять на борт затонувший неподалёку груз.",
-     "poster": "https://image.tmdb.org/t/p/w500/6AHnijQqg3f5KYDkhuSzBdyuExG.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/lSd6nEnlaeQkswLLUgHC5gyuXyU.jpg",
-     "genres": [
-      "триллер",
-      "криминал"
-     ],
-     "countries": [
-      "United States of America",
-      "Spain"
-     ],
-     "runtime": 96,
-     "popularity": 39.657,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 5.976,
-     "tmdb_vote_count": 41,
-     "theatrical_release_date": "2026-07-29",
-     "digital_release_date": "2026-09-15"
     }
    }
   ]

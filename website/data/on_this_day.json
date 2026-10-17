@@ -40,6 +40,21 @@
  "10-16": {
   "2026": [
    {
+    "id": "tt37027309",
+    "title": "Lo dejamos acá",
+    "original_title": "Lo dejamos acá",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
+    "digital_release_date": "2026-10-16",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt38672588",
     "title": "Masterplan",
     "original_title": "Masterplan",
@@ -192,9 +207,9 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
     "has_ru_audio": false
    },
    {
@@ -2418,8 +2433,8 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
     "has_hdr": false,
     "has_ru_audio": true
    },
@@ -2707,11 +2722,11 @@
     "digital_release_date": "2026-09-01",
     "imdb_rating": null,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "best_quality": "BluRay",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
    },
    {
     "id": "tt33070884",
@@ -5257,6 +5272,66 @@
  "10-17": {
   "2026": [
    {
+    "id": "m_ccdc19cea746",
+    "title": "Пушистые каникулы",
+    "original_title": "Campamento Garra de Oso",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDQxMWY4NmUtMDQ2OS00ZDEwLWJiYzQtM2JkNGRjYzMwMGZjXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 4.5,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_8e7d6c8d9cf8",
+    "title": "Иллюзия убийства",
+    "original_title": "Reversión / Reversion",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTY5N2YyOGEtNjhhNC00MDBjLTlmNTQtYjM4MDkxNDkxNDA0XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_71ca7968fe98",
+    "title": "Опасные отношения",
+    "original_title": "Over Your Dead Body",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU2M2YyNTMtZGM4ZC00MDcwLWI3NmItZWM0YjIyOTEyNDZhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.3,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_0dd49cffe47f",
+    "title": "Компаньон",
+    "original_title": "Companion",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjkyZTA5NzAtYWU3Zi00MWM4LTgxNzAtNDQxY2JmNjMwYjk4XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.9,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_247157b5a852",
     "title": "Не шевелись",
     "original_title": "Don’t Move",
@@ -5296,7 +5371,7 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "BluRay",
-    "best_resolution": "unknown",
+    "best_resolution": "720p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
