@@ -215,7 +215,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-17T15:42:20.500211+00:00",
-      "last_updated_at": "2026-10-18T15:58:17.151493+00:00",
+      "last_updated_at": "2026-10-18T20:52:56.041491+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "REMUX",
       "best_resolution": "1080p",
@@ -288,6 +288,30 @@
           "details": {
             "quality": "REMUX",
             "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "e684135823e6e239",
+          "movie_id": "m_ccdc19cea746",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-18T18:15:57+00:00",
+          "detected_at": "2026-10-18T20:52:43.095228+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Пушистые каникулы / Campamento Garra de Oso (2025) BDRip 720p от DoMiNo & селезень | D | Невафильм",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
             "hdr": null,
             "audio": null,
             "language": "RU",
@@ -434,7 +458,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-17T15:42:20.500211+00:00",
-      "last_updated_at": "2026-10-17T20:43:34.736066+00:00",
+      "last_updated_at": "2026-10-18T20:52:56.049386+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "1080p",
@@ -535,6 +559,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "355034651bb35f73",
+          "movie_id": "m_71ca7968fe98",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-18T17:59:40+00:00",
+          "detected_at": "2026-10-18T20:52:43.095228+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Опасные отношения / Over Your Dead Body (2026) BDRip-AVC | D",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
             "is_secondary_signal": true
           }
         }
