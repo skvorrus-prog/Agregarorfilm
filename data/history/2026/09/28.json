@@ -392,13 +392,13 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.467340+00:00",
-      "status": "ANNOUNCED",
+      "last_updated_at": "2026-10-18T15:59:04.758208+00:00",
+      "status": "UHD_RELEASE",
       "best_quality": "unknown",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "36efac7bab8e7d7c",
@@ -429,6 +429,30 @@
             ],
             "imdb_rating": 7.0,
             "runtime": null
+          }
+        },
+        {
+          "id": "cefab86d40cc69f0",
+          "movie_id": "tt5950044",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-18T11:52:54+00:00",
+          "detected_at": "2026-10-18T15:57:57.546606+00:00",
+          "quality": "unknown",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Супермен / Superman (2025) UHD BDRemux 2160p | 4K | HDR | HDR10+ | Dolby Vision Profile 7 | Hybrid | D, P, L, L2",
+          "details": {
+            "quality": "unknown",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]
