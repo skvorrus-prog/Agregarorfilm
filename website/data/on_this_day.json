@@ -2465,7 +2465,7 @@
     "best_quality": "WEB-DL",
     "best_resolution": "2160p",
     "has_4k": true,
-    "has_hdr": false,
+    "has_hdr": true,
     "has_ru_audio": true
    },
    {
@@ -5301,6 +5301,51 @@
  },
  "10-18": {
   "2026": [
+   {
+    "id": "m_e96aca6ad983",
+    "title": "Ритуал",
+    "original_title": "The Observance",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGFjNjU1YTMtMjI0Ni00ZTliLWJmNTctN2IyMDkwMGQxYzhhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 4.8,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_0256cbe4f531",
+    "title": "Гладиатор 2",
+    "original_title": "Gladiator II",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.4,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_65b71798aa92",
+    "title": "Балерина",
+    "original_title": "Ballerina",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzdhZmY2OTQtYWI4OC00ZThkLTlhZjAtNzE2YzRjM2Q5YjJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.8,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
    {
     "id": "m_1e2576b84c55",
     "title": "Я иду искать 2",
