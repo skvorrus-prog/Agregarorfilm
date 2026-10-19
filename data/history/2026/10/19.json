@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "count": 4,
+  "count": 7,
   "movies": [
     {
       "id": "tt21452628",
@@ -70,6 +70,198 @@
             "tmdb_vote_count": 12,
             "theatrical_release_date": "2026-09-04",
             "digital_release_date": "2026-10-19"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_bfa504c4cf0b",
+      "title": "Фуриоса: Хроники Безумного Макса",
+      "original_title": "Furiosa: A Mad Max Saga",
+      "year": 2024,
+      "overview": "«Фуриоса: Хроники Безумного Макса» — постапокалиптический приключенческий боевик австралийского режиссёра Джорджа Миллера, приквел фильма «Безумный Макс: Дорога ярости», рассказывающий о юношеских годах Фуриосы. Эту героиню сыграла Аня Тейлор-Джой, в других ролях снялись Крис Хемсворт, Том Бёрк, Лейчи Хьюм. Премьера фильма состоялась 15 мая 2024 года на Каннском кинофестивале, 24 мая того же года фильм вышел в театральный прокат. Сборы ненамного превысили бюджет, что означало финансовую неудачу. Мнения критиков о картине разошлись.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "countries": [
+        "Australia, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt12037194",
+      "tmdb_id": null,
+      "imdb_rating": 7.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-19T20:37:53.081961+00:00",
+      "last_updated_at": "2026-10-19T20:38:17.341153+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "d414a41d8c2fa47d",
+          "movie_id": "m_bfa504c4cf0b",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T14:11:09+00:00",
+          "detected_at": "2026-10-19T20:37:53.081961+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Фуриоса: Хроники Безумного Макса / Furiosa: A Mad Max Saga (2024) BDRip 720p от DoMiNo & селезень | D | Movie Dubbing, Red Head Sound",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_f0a63d7aaba0",
+      "title": "История служанки",
+      "original_title": "La condition / The Arrangement",
+      "year": 2025,
+      "overview": "Рекламодатель пытается восстановить свою разрушенную жизнь после нервного срыва.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGMxYzM1MGYtZTVjZS00ZmFiLThkMmUtNGZmNDFhZTllOGI1XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt0064041",
+      "tmdb_id": null,
+      "imdb_rating": 6.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-19T20:37:53.081961+00:00",
+      "last_updated_at": "2026-10-19T20:38:16.802085+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "c32f50104ff20abf",
+          "movie_id": "m_f0a63d7aaba0",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T16:05:31+00:00",
+          "detected_at": "2026-10-19T20:37:53.081961+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Official",
+          "raw_title": "История служанки / La condition / The Arrangement (2025) WEB-DL 1080p от ELEKTRI4KA | D | Official",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Official",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt31434030",
+      "title": "Dracula",
+      "original_title": "Dracula",
+      "year": 2026,
+      "overview": "Дракула — род эпифитных растений из семейства Орхидные (Orchidaceae), распространённых во влажных лесах Центральной и Южной Америки. Род насчитывает 123 вида.",
+      "poster": "https://images.metahub.space/poster/small/tt31434030/img",
+      "backdrop": null,
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Romance"
+      ],
+      "countries": [
+        "France"
+      ],
+      "runtime": null,
+      "imdb_id": "tt31434030",
+      "tmdb_id": null,
+      "imdb_rating": 6.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-19T20:37:53.081961+00:00",
+      "last_updated_at": "2026-10-19T20:38:02.120949+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "fda0c95b19655ff5",
+          "movie_id": "tt31434030",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-19T20:37:53.081961+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Dracula (2026)",
+          "details": {
+            "title": "Dracula",
+            "year": 2026,
+            "overview": "When a 15th-century prince denounces God after the loss of his wife he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death, guided by a single hope - to be reunited with his l...",
+            "poster": "https://images.metahub.space/poster/small/tt31434030/img",
+            "genres": [
+              "Fantasy",
+              "Horror",
+              "Romance"
+            ],
+            "countries": [
+              "France"
+            ],
+            "imdb_rating": 6.2,
+            "runtime": null
           }
         }
       ]

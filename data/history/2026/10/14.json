@@ -22,14 +22,14 @@
       "tmdb_id": 1381078,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.853,
-      "tmdb_vote_count": 92,
+      "tmdb_rating": 6.8,
+      "tmdb_vote_count": 98,
       "popularity": 115.6703,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-07",
       "digital_release_date": "2026-10-14",
       "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
-      "last_updated_at": "2026-10-18T11:21:06.577242+00:00",
+      "last_updated_at": "2026-10-19T20:37:59.977641+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -190,6 +190,36 @@
             "language": null,
             "release_group": null,
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "647e193d6d7d583f",
+          "movie_id": "tt34384900",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-19T20:37:53.081961+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Love of Your Life (2026)",
+          "details": {
+            "title": "Love of Your Life",
+            "year": 2026,
+            "overview": "Maya, a smart, wry nurse, is swept up in an immersive love, that sets her life on a trajectory she never would have imagined.",
+            "poster": "https://images.metahub.space/poster/small/tt34384900/img",
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": null,
+            "runtime": null
           }
         }
       ]
@@ -499,7 +529,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-14T17:19:45.012163+00:00",
-      "last_updated_at": "2026-10-16T11:35:04.406726+00:00",
+      "last_updated_at": "2026-10-19T20:38:16.811747+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -692,6 +722,30 @@
           "details": {
             "quality": "WEB-DL",
             "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "35d0025e5ca97f22",
+          "movie_id": "m_49646bb857dc",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T15:41:12+00:00",
+          "detected_at": "2026-10-19T20:37:53.081961+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Надежда / Hope (2026) WEB-DL 1080p | D, Р | LostFilm, HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
             "hdr": null,
             "audio": null,
             "language": "RU",

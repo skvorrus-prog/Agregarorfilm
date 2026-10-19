@@ -36,6 +36,51 @@
     "has_ru_audio": false
    },
    {
+    "id": "m_bfa504c4cf0b",
+    "title": "Фуриоса: Хроники Безумного Макса",
+    "original_title": "Furiosa: A Mad Max Saga",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.5,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_f0a63d7aaba0",
+    "title": "История служанки",
+    "original_title": "La condition / The Arrangement",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGMxYzM1MGYtZTVjZS00ZmFiLThkMmUtNGZmNDFhZTllOGI1XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.3,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "tt31434030",
+    "title": "Dracula",
+    "original_title": "Dracula",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt31434030/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_2a5d0e5edc30",
     "title": "Франкенштейн",
     "original_title": "Frankenstein",
@@ -85,6 +130,21 @@
  "10-16": {
   "2026": [
    {
+    "id": "tt44822485",
+    "title": "Norm: The Tale of Norm Macdonald",
+    "original_title": "Norm: The Tale of Norm Macdonald",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+    "digital_release_date": "2026-10-16",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_d198fbff341a",
     "title": "Чистые руки",
     "original_title": "Clean Hands",
@@ -127,7 +187,7 @@
     "best_resolution": "unknown",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt6262770",
@@ -136,7 +196,7 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/ieS40Zp9hmDwoZdRUVB3v8HgJaK.jpg",
     "digital_release_date": "2026-10-16",
-    "imdb_rating": null,
+    "imdb_rating": 7.5,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "2160p",
@@ -5645,7 +5705,7 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "BluRay",
-    "best_resolution": "720p",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false

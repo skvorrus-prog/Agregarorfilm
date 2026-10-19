@@ -20,8 +20,8 @@
   "tmdb_id": 1302904,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.981,
-  "tmdb_vote_count": 240,
+  "tmdb_rating": 6.965,
+  "tmdb_vote_count": 242,
   "popularity": 186.5087,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -441,6 +441,76 @@
   ]
  },
  {
+  "id": "tt44822485",
+  "title": "Norm: The Tale of Norm Macdonald",
+  "original_title": "Norm: The Tale of Norm Macdonald",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/d3Uscbjxikw0Vgk9ACFUpqFXplA.jpg",
+  "genres": [
+   "документальный"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 127,
+  "imdb_id": "tt44822485",
+  "tmdb_id": 1620918,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.857,
+  "tmdb_vote_count": 7,
+  "popularity": 9.2542,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-16",
+  "digital_release_date": "2026-10-16",
+  "first_detected_at": "2026-10-19T20:37:53.081961+00:00",
+  "last_updated_at": "2026-10-19T20:37:59.881206+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "1a3afbf879b9a314",
+    "movie_id": "tt44822485",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-16",
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Norm: The Tale of Norm Macdonald",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/d3Uscbjxikw0Vgk9ACFUpqFXplA.jpg",
+     "genres": [
+      "документальный"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 127,
+     "popularity": 9.2542,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.857,
+     "tmdb_vote_count": 7,
+     "theatrical_release_date": "2026-10-16",
+     "digital_release_date": "2026-10-16"
+    }
+   }
+  ]
+ },
+ {
   "id": "m_d198fbff341a",
   "title": "Чистые руки",
   "original_title": "Clean Hands",
@@ -461,14 +531,14 @@
   "tmdb_id": 1452110,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.9,
-  "tmdb_vote_count": 5,
+  "tmdb_rating": 6.8,
+  "tmdb_vote_count": 6,
   "popularity": 10.0748,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
   "digital_release_date": "2026-10-16",
   "first_detected_at": "2026-10-17T20:43:13.692658+00:00",
-  "last_updated_at": "2026-10-19T13:34:35.195290+00:00",
+  "last_updated_at": "2026-10-19T20:38:02.151626+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -558,6 +628,30 @@
      "release_group": "L",
      "is_secondary_signal": true
     }
+   },
+   {
+    "id": "c88dc0312fca3e3a",
+    "movie_id": "m_d198fbff341a",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-19T18:36:53+00:00",
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "L",
+    "raw_title": "Чистые руки / Clean Hands (2026) WEB-DLRip-AVC | L",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "L",
+     "is_secondary_signal": true
+    }
    }
   ]
  },
@@ -581,8 +675,8 @@
   "tmdb_id": 1487317,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.661,
-  "tmdb_vote_count": 28,
+  "tmdb_rating": 7.694,
+  "tmdb_vote_count": 31,
   "popularity": 41.8207,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-08",
@@ -654,20 +748,20 @@
   "tmdb_id": 1561726,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.125,
-  "tmdb_vote_count": 88,
+  "tmdb_rating": 7.101,
+  "tmdb_vote_count": 94,
   "popularity": 222.2575,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-16",
   "digital_release_date": "2026-10-16",
   "first_detected_at": "2026-10-16T16:45:57.762404+00:00",
-  "last_updated_at": "2026-10-16T16:46:11.220719+00:00",
+  "last_updated_at": "2026-10-19T20:38:16.821331+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "unknown",
   "has_4k": false,
   "has_hdr": false,
-  "has_ru_audio": false,
+  "has_ru_audio": true,
   "events": [
    {
     "id": "0d11fc49441c13b2",
@@ -704,6 +798,30 @@
      "theatrical_release_date": "2026-10-16",
      "digital_release_date": "2026-10-16"
     }
+   },
+   {
+    "id": "4a843d607eaae914",
+    "movie_id": "tt38672588",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-19T14:53:50+00:00",
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Гениальный план / Masterplan (2026) WEB-DLRip | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
    }
   ]
  },
@@ -727,16 +845,16 @@
   "runtime": 126,
   "imdb_id": "tt6262770",
   "tmdb_id": 1288069,
-  "imdb_rating": null,
+  "imdb_rating": 7.5,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.31,
-  "tmdb_vote_count": 84,
+  "tmdb_rating": 8.278,
+  "tmdb_vote_count": 90,
   "popularity": 108.4074,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
   "digital_release_date": "2026-10-16",
   "first_detected_at": "2026-10-16T11:34:55.535444+00:00",
-  "last_updated_at": "2026-10-18T11:21:06.578763+00:00",
+  "last_updated_at": "2026-10-19T20:37:59.979386+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -948,6 +1066,37 @@
      "release_group": "HDRezka Studio",
      "is_secondary_signal": true
     }
+   },
+   {
+    "id": "b41ba4f213cf88d4",
+    "movie_id": "tt6262770",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Tenzing (2026)",
+    "details": {
+     "title": "Tenzing",
+     "year": 2026,
+     "overview": "The untold and inspiring tale of one of the most important mountain climbers in history who, with Edmund Hillary, became the first person to reach the summit of Mount Everest.",
+     "poster": "https://images.metahub.space/poster/small/tt6262770/img",
+     "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+     ],
+     "countries": [
+      "United Kingdom, Australia, United States"
+     ],
+     "imdb_rating": 7.5,
+     "runtime": null
+    }
    }
   ]
  },
@@ -971,8 +1120,8 @@
   "tmdb_id": 1623256,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.514,
-  "tmdb_vote_count": 36,
+  "tmdb_rating": 6.462,
+  "tmdb_vote_count": 39,
   "popularity": 54.0656,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-15",
@@ -1043,14 +1192,14 @@
   "tmdb_id": 1381078,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.853,
-  "tmdb_vote_count": 92,
+  "tmdb_rating": 6.8,
+  "tmdb_vote_count": 98,
   "popularity": 115.6703,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-07",
   "digital_release_date": "2026-10-14",
   "first_detected_at": "2026-10-14T21:47:36.181609+00:00",
-  "last_updated_at": "2026-10-18T11:21:06.577242+00:00",
+  "last_updated_at": "2026-10-19T20:37:59.977641+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -1211,6 +1360,36 @@
      "language": null,
      "release_group": null,
      "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "647e193d6d7d583f",
+    "movie_id": "tt34384900",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Love of Your Life (2026)",
+    "details": {
+     "title": "Love of Your Life",
+     "year": 2026,
+     "overview": "Maya, a smart, wry nurse, is swept up in an immersive love, that sets her life on a trajectory she never would have imagined.",
+     "poster": "https://images.metahub.space/poster/small/tt34384900/img",
+     "genres": [
+      "Drama",
+      "Romance"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": null,
+     "runtime": null
     }
    }
   ]
@@ -1831,8 +2010,8 @@
   "tmdb_id": 1389172,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.9,
-  "tmdb_vote_count": 5,
+  "tmdb_rating": 7.417,
+  "tmdb_vote_count": 6,
   "popularity": 129.6423,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -1978,8 +2157,8 @@
   "tmdb_id": 1148365,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.8,
-  "tmdb_vote_count": 417,
+  "tmdb_rating": 7.789,
+  "tmdb_vote_count": 426,
   "popularity": 363.6573,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -2268,7 +2447,7 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 6.999,
-  "tmdb_vote_count": 486,
+  "tmdb_vote_count": 487,
   "popularity": 236.8356,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -3383,8 +3562,8 @@
   "tmdb_id": 1476746,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.9,
-  "tmdb_vote_count": 25,
+  "tmdb_rating": 5.911,
+  "tmdb_vote_count": 28,
   "popularity": 99.5549,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -22315,6 +22494,198 @@
   ]
  },
  {
+  "id": "m_bfa504c4cf0b",
+  "title": "Фуриоса: Хроники Безумного Макса",
+  "original_title": "Furiosa: A Mad Max Saga",
+  "year": 2024,
+  "overview": "«Фуриоса: Хроники Безумного Макса» — постапокалиптический приключенческий боевик австралийского режиссёра Джорджа Миллера, приквел фильма «Безумный Макс: Дорога ярости», рассказывающий о юношеских годах Фуриосы. Эту героиню сыграла Аня Тейлор-Джой, в других ролях снялись Крис Хемсворт, Том Бёрк, Лейчи Хьюм. Премьера фильма состоялась 15 мая 2024 года на Каннском кинофестивале, 24 мая того же года фильм вышел в театральный прокат. Сборы ненамного превысили бюджет, что означало финансовую неудачу. Мнения критиков о картине разошлись.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ],
+  "countries": [
+   "Australia, United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt12037194",
+  "tmdb_id": null,
+  "imdb_rating": 7.5,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-19T20:37:53.081961+00:00",
+  "last_updated_at": "2026-10-19T20:38:17.341153+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "720p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "d414a41d8c2fa47d",
+    "movie_id": "m_bfa504c4cf0b",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-19T14:11:09+00:00",
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "BluRay",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Фуриоса: Хроники Безумного Макса / Furiosa: A Mad Max Saga (2024) BDRip 720p от DoMiNo & селезень | D | Movie Dubbing, Red Head Sound",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_f0a63d7aaba0",
+  "title": "История служанки",
+  "original_title": "La condition / The Arrangement",
+  "year": 2025,
+  "overview": "Рекламодатель пытается восстановить свою разрушенную жизнь после нервного срыва.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGMxYzM1MGYtZTVjZS00ZmFiLThkMmUtNGZmNDFhZTllOGI1XkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": null,
+  "imdb_id": "tt0064041",
+  "tmdb_id": null,
+  "imdb_rating": 6.3,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-19T20:37:53.081961+00:00",
+  "last_updated_at": "2026-10-19T20:38:16.802085+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "c32f50104ff20abf",
+    "movie_id": "m_f0a63d7aaba0",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-19T16:05:31+00:00",
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Official",
+    "raw_title": "История служанки / La condition / The Arrangement (2025) WEB-DL 1080p от ELEKTRI4KA | D | Official",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Official",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt31434030",
+  "title": "Dracula",
+  "original_title": "Dracula",
+  "year": 2026,
+  "overview": "Дракула — род эпифитных растений из семейства Орхидные (Orchidaceae), распространённых во влажных лесах Центральной и Южной Америки. Род насчитывает 123 вида.",
+  "poster": "https://images.metahub.space/poster/small/tt31434030/img",
+  "backdrop": null,
+  "genres": [
+   "Fantasy",
+   "Horror",
+   "Romance"
+  ],
+  "countries": [
+   "France"
+  ],
+  "runtime": null,
+  "imdb_id": "tt31434030",
+  "tmdb_id": null,
+  "imdb_rating": 6.2,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-10-19T20:37:53.081961+00:00",
+  "last_updated_at": "2026-10-19T20:38:02.120949+00:00",
+  "status": "ANNOUNCED",
+  "best_quality": "unknown",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "fda0c95b19655ff5",
+    "movie_id": "tt31434030",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Dracula (2026)",
+    "details": {
+     "title": "Dracula",
+     "year": 2026,
+     "overview": "When a 15th-century prince denounces God after the loss of his wife he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death, guided by a single hope - to be reunited with his l...",
+     "poster": "https://images.metahub.space/poster/small/tt31434030/img",
+     "genres": [
+      "Fantasy",
+      "Horror",
+      "Romance"
+     ],
+     "countries": [
+      "France"
+     ],
+     "imdb_rating": 6.2,
+     "runtime": null
+    }
+   }
+  ]
+ },
+ {
   "id": "m_2a5d0e5edc30",
   "title": "Франкенштейн",
   "original_title": "Frankenstein",
@@ -22800,7 +23171,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-18T15:57:57.546606+00:00",
-  "last_updated_at": "2026-10-18T15:59:01.953126+00:00",
+  "last_updated_at": "2026-10-19T20:38:16.819471+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -22825,6 +23196,30 @@
     "details": {
      "quality": "WEB-DL",
      "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "536f5281a30c442a",
+    "movie_id": "m_b8dbab57e86f",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-19T15:24:34+00:00",
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Дом мёртвых / Khang baan / Our House (2025) WEB-DLRip | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
      "hdr": null,
      "audio": null,
      "language": "RU",
@@ -23488,7 +23883,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-17T15:42:20.500211+00:00",
-  "last_updated_at": "2026-10-17T15:42:36.736240+00:00",
+  "last_updated_at": "2026-10-19T20:38:02.142385+00:00",
   "status": "BLURAY_RELEASE",
   "best_quality": "BluRay",
   "best_resolution": "1080p",
@@ -23560,6 +23955,30 @@
     "raw_title": "Иллюзия убийства / Reversión / Reversion (2025) BDRip 1080p от MegaPeer | D | CPI Films",
     "details": {
      "quality": "BluRay",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "CPI Films",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "2f428ebe0471cc37",
+    "movie_id": "m_8e7d6c8d9cf8",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-19T20:02:50+00:00",
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "unknown",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "CPI Films",
+    "raw_title": "Иллюзия убийства / Reversión / Reversion (2025) BDRemux 1080p от NiTrID | D | CPI Films",
+    "details": {
+     "quality": "unknown",
      "resolution": "1080p",
      "hdr": null,
      "audio": null,
@@ -23986,10 +24405,10 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-17T10:54:20.363466+00:00",
-  "last_updated_at": "2026-10-17T15:42:40.851097+00:00",
+  "last_updated_at": "2026-10-19T20:38:02.150379+00:00",
   "status": "BLURAY_RELEASE",
   "best_quality": "BluRay",
-  "best_resolution": "720p",
+  "best_resolution": "1080p",
   "has_4k": false,
   "has_hdr": false,
   "has_ru_audio": false,
@@ -24035,6 +24454,30 @@
     "details": {
      "quality": "BluRay",
      "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "P",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "7d51d55017124f85",
+    "movie_id": "m_3193497f63f4",
+    "event_type": "BLURAY_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-19T19:05:23+00:00",
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "BluRay",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "P",
+    "raw_title": "Без лица / Eolgul / The Ugly (2025) BDRip 1080p | P",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "1080p",
      "hdr": null,
      "audio": null,
      "language": null,
@@ -24816,7 +25259,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-14T17:19:45.012163+00:00",
-  "last_updated_at": "2026-10-16T11:35:04.406726+00:00",
+  "last_updated_at": "2026-10-19T20:38:16.811747+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -25009,6 +25452,30 @@
     "details": {
      "quality": "WEB-DL",
      "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "35d0025e5ca97f22",
+    "movie_id": "m_49646bb857dc",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-19T15:41:12+00:00",
+    "detected_at": "2026-10-19T20:37:53.081961+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Надежда / Hope (2026) WEB-DL 1080p | D, Р | LostFilm, HDrezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
      "hdr": null,
      "audio": null,
      "language": "RU",
