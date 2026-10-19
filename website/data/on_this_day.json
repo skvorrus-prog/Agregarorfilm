@@ -34,11 +34,71 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   },
+   {
+    "id": "m_2a5d0e5edc30",
+    "title": "Франкенштейн",
+    "original_title": "Frankenstein",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.4,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_dd23e1a874c9",
+    "title": "Семейный переполох: Очень средние века",
+    "original_title": "Sin cobertura / A Family Knight-Mare",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmMGU5MDYtZjk1OS00M2I1LWIzNmItMTQyMjc5NmM1MjVlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_4a4c72a6b993",
+    "title": "Невеста!",
+    "original_title": "The Bride!",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2VmMDVlNzgtNThhZC00ZGMwLTg4MmEtZTUzNmRiYTkxYzUyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
    }
   ]
  },
  "10-16": {
   "2026": [
+   {
+    "id": "m_d198fbff341a",
+    "title": "Чистые руки",
+    "original_title": "Clean Hands",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODgwMmI3NDMtMzllNC00ZGVkLTgzODItZTYzMDRkZTIwN2YwXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-10-16",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "tt37027309",
     "title": "Lo dejamos acá",
@@ -5468,21 +5528,6 @@
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_d198fbff341a",
-    "title": "Чистые руки",
-    "original_title": "Clean Hands",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODgwMmI3NDMtMzllNC00ZGVkLTgzODItZTYzMDRkZTIwN2YwXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
     "has_ru_audio": true
    },
    {

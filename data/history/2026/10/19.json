@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "count": 1,
+  "count": 4,
   "movies": [
     {
       "id": "tt21452628",
@@ -70,6 +70,286 @@
             "tmdb_vote_count": 12,
             "theatrical_release_date": "2026-09-04",
             "digital_release_date": "2026-10-19"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_2a5d0e5edc30",
+      "title": "Франкенштейн",
+      "original_title": "Frankenstein",
+      "year": 2025,
+      "overview": "«Франкенштейн, или Современный Прометей» — эпистолярный готический роман английской писательницы Мэри Шелли, впервые опубликованный анонимно в 1818 году. Один из основополагающих текстов научной фантастики.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "countries": [
+        "Mexico, United States, Canada"
+      ],
+      "runtime": null,
+      "imdb_id": "tt1312221",
+      "tmdb_id": null,
+      "imdb_rating": 7.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-19T13:34:28.361042+00:00",
+      "last_updated_at": "2026-10-19T13:34:46.248107+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "5a631550ccfb3905",
+          "movie_id": "m_2a5d0e5edc30",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T05:22:00+00:00",
+          "detected_at": "2026-10-19T13:34:28.361042+00:00",
+          "quality": "unknown",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Франкенштейн / Frankenstein (2025) UHD BDRemux 2160p от селезень | 4K | HDR | Dolby Vision Profile 7 | D | Videofilm Int.",
+          "details": {
+            "quality": "unknown",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "b14ae6c9777f26b3",
+          "movie_id": "m_2a5d0e5edc30",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T05:24:42+00:00",
+          "detected_at": "2026-10-19T13:34:28.361042+00:00",
+          "quality": "unknown",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Франкенштейн / Frankenstein (2025) BDRemux 1080p от селезень | D | Videofilm Int.",
+          "details": {
+            "quality": "unknown",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "9f49521365d92c8a",
+          "movie_id": "m_2a5d0e5edc30",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T06:58:21+00:00",
+          "detected_at": "2026-10-19T13:34:28.361042+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Франкенштейн / Frankenstein (2025) BDRip 1080p от селезень | D | Videofilm Int.",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "cc5e524e54b2385b",
+          "movie_id": "m_2a5d0e5edc30",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T08:38:21+00:00",
+          "detected_at": "2026-10-19T13:34:28.361042+00:00",
+          "quality": "unknown",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Франкенштейн / Frankenstein (2025) UHD BDRemux 2160p | 4K | HDR10 | Dolby Vision P7 | D | Videofilm Int, Red Head Sound",
+          "details": {
+            "quality": "unknown",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "61e9127fb59590ca",
+          "movie_id": "m_2a5d0e5edc30",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T09:20:36+00:00",
+          "detected_at": "2026-10-19T13:34:28.361042+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Франкенштейн / Frankenstein (2025) BDRip 720p от DoMiNo & селезень | D | Videofilm Int.",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_dd23e1a874c9",
+      "title": "Семейный переполох: Очень средние века",
+      "original_title": "Sin cobertura / A Family Knight-Mare",
+      "year": 2025,
+      "overview": "Надоело, что их телефоны игнорируют, желание Риты об их исчезновении сбывается, но оно переносит ее семью в средневековье. Без технологий они должны использовать свой ум, чтобы выжить и найти способ вернуться к пре...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDdmMGU5MDYtZjk1OS00M2I1LWIzNmItMTQyMjc5NmM1MjVlXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Comedy"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "runtime": null,
+      "imdb_id": "tt33586306",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-19T13:34:28.361042+00:00",
+      "last_updated_at": "2026-10-19T13:34:43.941686+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "1b3a95e9dd1e0e2a",
+          "movie_id": "m_dd23e1a874c9",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T09:23:54+00:00",
+          "detected_at": "2026-10-19T13:34:28.361042+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Семейный переполох: Очень средние века / Sin cobertura / A Family Knight-Mare (2025) WEB-DL 1080p от ELEKTRI4KA | D | Невафильм",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_4a4c72a6b993",
+      "title": "Невеста!",
+      "original_title": "The Bride!",
+      "year": 2026,
+      "overview": "В 1930-х годах в Чикаго Франкенштейн просит доктора Евфрония помочь создать компаньона. Они дают жизнь убитой женщине как Невесте, вызывая романтику, полицейский интерес и радикальные социальные изменения.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2VmMDVlNzgtNThhZC00ZGMwLTg4MmEtZTUzNmRiYTkxYzUyXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Romance"
+      ],
+      "countries": [
+        "France, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt30851137",
+      "tmdb_id": null,
+      "imdb_rating": 5.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-19T13:34:28.361042+00:00",
+      "last_updated_at": "2026-10-19T13:34:39.008000+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "324127e7f51d815e",
+          "movie_id": "m_4a4c72a6b993",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T11:32:45+00:00",
+          "detected_at": "2026-10-19T13:34:28.361042+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "Невеста! / The Bride! (2026) BDRip 720p от DoMiNo & селезень | D | Movie Dubbing",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Movie Dubbing",
+            "is_secondary_signal": true
           }
         }
       ]

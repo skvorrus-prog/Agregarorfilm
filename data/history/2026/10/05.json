@@ -433,7 +433,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
-      "last_updated_at": "2026-10-14T12:04:20.596830+00:00",
+      "last_updated_at": "2026-10-19T13:34:46.209481+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -949,6 +949,54 @@
             "audio": null,
             "language": "RU",
             "release_group": "IMAX",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "4342d710d57ece17",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T07:35:18+00:00",
+          "detected_at": "2026-10-19T13:34:28.361042+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "IMAX",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) WEB-DL 1080p от Scarabey | D | Red Head Sound | IMAX",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "IMAX",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "e007122a9a57eac8",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T07:35:25+00:00",
+          "detected_at": "2026-10-19T13:34:28.361042+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": "Red Head Sound",
+          "raw_title": "Человек-паук: Новый день / Spider-Man: Brand New Day (2026) UHD WEB-DL-HEVC 2160p от Scarabey | 4K | HDR | Dolby Vision | D | Red Head Sound",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": "Red Head Sound",
             "is_secondary_signal": true
           }
         }

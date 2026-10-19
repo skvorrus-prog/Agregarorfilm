@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "count": 10,
+  "count": 9,
   "movies": [
     {
       "id": "m_4917535d350d",
@@ -59,92 +59,6 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "m_d198fbff341a",
-      "title": "Чистые руки",
-      "original_title": "Clean Hands",
-      "year": 2026,
-      "overview": "Вдохновляющая правдивая история о героине-полицейском, ставшем адвокатом выздоровления, Кевине Симмерсе и его дочери Брук. Фильм исследует американский наркокризис с противоположных глаз полицейского и наркомана, которые также были отцом и дочерью.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BODgwMmI3NDMtMzllNC00ZGVkLTgzODItZTYzMDRkZTIwN2YwXkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Biography",
-        "Crime",
-        "Drama"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "runtime": null,
-      "imdb_id": "tt36271247",
-      "tmdb_id": null,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-10-17T20:43:13.692658+00:00",
-      "last_updated_at": "2026-10-19T04:52:31.234853+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "1080p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": true,
-      "events": [
-        {
-          "id": "ddbe6fc7f2f2e6f6",
-          "movie_id": "m_d198fbff341a",
-          "event_type": "WEB_DL_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-17T18:13:03+00:00",
-          "detected_at": "2026-10-17T20:43:13.692658+00:00",
-          "quality": "WEBRip",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": "Sub",
-          "raw_title": "Чистые руки / Clean Hands (2026) WEBRip 1080p | Sub",
-          "details": {
-            "quality": "WEBRip",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": null,
-            "release_group": "Sub",
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "c9383f37cee57c74",
-          "movie_id": "m_d198fbff341a",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-19T01:58:09+00:00",
-          "detected_at": "2026-10-19T04:52:22.357637+00:00",
-          "quality": "WEB-DL",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": "L",
-          "raw_title": "Чистые руки / Clean Hands (2026) WEB-DL 1080p | L",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": "L",
             "is_secondary_signal": true
           }
         }
@@ -482,7 +396,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-17T15:42:20.500211+00:00",
-      "last_updated_at": "2026-10-18T20:52:56.049386+00:00",
+      "last_updated_at": "2026-10-19T13:34:46.227651+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "1080p",
@@ -607,6 +521,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "88f73435a483e9aa",
+          "movie_id": "m_71ca7968fe98",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-19T06:36:48+00:00",
+          "detected_at": "2026-10-19T13:34:28.361042+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Paragraph Media",
+          "raw_title": "Опасные отношения / Over Your Dead Body (2026) HDRip | D | Paragraph Media",
+          "details": {
+            "quality": "unknown",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Paragraph Media",
             "is_secondary_signal": true
           }
         }
