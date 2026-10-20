@@ -30,10 +30,25 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_c188a428a9f1",
+    "title": "Очень страшное кино",
+    "original_title": "Scary Movie",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTJjMDk1NzAtMGVmNS00NTFmLWFlOTQtZDk5M2I2NjZiZDdlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 4.8,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    }
   ]
  },

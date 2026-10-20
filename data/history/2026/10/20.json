@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "count": 1,
+  "count": 2,
   "movies": [
     {
       "id": "tt10794054",
@@ -32,13 +32,13 @@
       "theatrical_release_date": "2026-09-16",
       "digital_release_date": "2026-10-20",
       "first_detected_at": "2026-10-20T00:25:53.659871+00:00",
-      "last_updated_at": "2026-10-20T00:26:01.670602+00:00",
+      "last_updated_at": "2026-10-20T14:22:30.895842+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
+      "best_resolution": "1080p",
       "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "eb042099b326cc42",
@@ -76,6 +76,139 @@
             "tmdb_vote_count": 43,
             "theatrical_release_date": "2026-09-16",
             "digital_release_date": "2026-10-20"
+          }
+        },
+        {
+          "id": "178336f432c15d1f",
+          "movie_id": "tt10794054",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-20T11:26:44+00:00",
+          "detected_at": "2026-10-20T14:22:16.251338+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "До последнего грамма / The Weight (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "b616a804cced1891",
+          "movie_id": "tt10794054",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-20T12:27:56+00:00",
+          "detected_at": "2026-10-20T14:22:16.251338+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "До последнего грамма / The Weight (2026) WEB-DL 1080p от New-Team | D, P | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "7d4247829ef121a7",
+          "movie_id": "tt10794054",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-20T14:14:37+00:00",
+          "detected_at": "2026-10-20T14:22:16.251338+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "До последнего грамма / The Weight (2026) WEB-DL 720p от New-Team | D, P | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_c188a428a9f1",
+      "title": "Очень страшное кино",
+      "original_title": "Scary Movie",
+      "year": 2026,
+      "overview": "«О́чень стра́шное кино́» — американский комедийный слэшер 2000 года от режиссёра Кинена Айвори Уэйанса, пародирующий известные фильмы ужасов. Данный фильм является самым коммерчески успешным фильмом из серии. Наименование фильма «Scary Movie» было одним из рабочих названий для «Крика», который также был выпущен компанией Dimension Films.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTJjMDk1NzAtMGVmNS00NTFmLWFlOTQtZDk5M2I2NjZiZDdlXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32093575",
+      "tmdb_id": null,
+      "imdb_rating": 4.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-20T14:22:16.251338+00:00",
+      "last_updated_at": "2026-10-20T14:22:30.892061+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "886f457d0942eca5",
+          "movie_id": "m_c188a428a9f1",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-20T13:54:29+00:00",
+          "detected_at": "2026-10-20T14:22:16.251338+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Theatrical Cut",
+          "raw_title": "Очень страшное кино / Scary Movie (2026) BDRip-HEVC 1080p от RIPS CLUB | D, P, A | Theatrical Cut",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Theatrical Cut",
+            "is_secondary_signal": true
           }
         }
       ]
