@@ -36,6 +36,21 @@
     "has_ru_audio": true
    },
    {
+    "id": "m_e9eb042f1e22",
+    "title": "Крушение мира",
+    "original_title": "Rich Flu",
+    "year": 2024,
+    "poster": null,
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_c188a428a9f1",
     "title": "Очень страшное кино",
     "original_title": "Scary Movie",
@@ -727,6 +742,21 @@
  },
  "10-09": {
   "2026": [
+   {
+    "id": "tt40902212",
+    "title": "R.L. Stine's Pumpkinhead 2",
+    "original_title": "R.L. Stine's Pumpkinhead 2",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/4liM7YBglVRk2UVuKsN7YQDmMpr.jpg",
+    "digital_release_date": "2026-10-09",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "tt47657999",
     "title": "रिपोर्टिंग लाइव",
