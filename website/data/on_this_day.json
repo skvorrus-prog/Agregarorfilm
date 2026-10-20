@@ -18,6 +18,25 @@
    }
   ]
  },
+ "10-20": {
+  "2026": [
+   {
+    "id": "tt10794054",
+    "title": "До последнего грамма",
+    "original_title": "The Weight",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/e2wSpe5SwtsCeyuUSgwXivt84MS.jpg",
+    "digital_release_date": "2026-10-20",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-19": {
   "2026": [
    {

@@ -369,6 +369,84 @@
   ]
  },
  {
+  "id": "tt10794054",
+  "title": "До последнего грамма",
+  "original_title": "The Weight",
+  "year": 2026,
+  "overview": "Мерфи разлучают с дочерью, чтобы он отбыл тюремный срок. Начальник тюрьмы предлагает ему и нескольким другим заключенным возможность обрести свободу в обмен на участие в опасной операции по контрабанде золота. Мерфи отправляется в путь вместе с людьми, которым нельзя доверять. И чем глубже они увязают в деле, тем очевиднее становится: человеческая жадность тяжелее золота.",
+  "poster": "https://image.tmdb.org/t/p/w500/e2wSpe5SwtsCeyuUSgwXivt84MS.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/zLeq2fbHU6UdA7mhsYnIULORTgq.jpg",
+  "genres": [
+   "драма",
+   "триллер",
+   "криминал"
+  ],
+  "countries": [
+   "United States of America",
+   "Germany",
+   "France"
+  ],
+  "runtime": 115,
+  "imdb_id": "tt10794054",
+  "tmdb_id": 1433583,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.9,
+  "tmdb_vote_count": 43,
+  "popularity": 36.154,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-16",
+  "digital_release_date": "2026-10-20",
+  "first_detected_at": "2026-10-20T00:25:53.659871+00:00",
+  "last_updated_at": "2026-10-20T00:26:01.670602+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "eb042099b326cc42",
+    "movie_id": "tt10794054",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-20",
+    "detected_at": "2026-10-20T00:25:53.659871+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "До последнего грамма",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Мерфи разлучают с дочерью, чтобы он отбыл тюремный срок. Начальник тюрьмы предлагает ему и нескольким другим заключенным возможность обрести свободу в обмен на участие в опасной операции по контрабанде золота. Мерфи отправляется в путь вместе с людьми, которым нельзя доверять. И чем глубже они увязают в деле, тем очевиднее становится: человеческая жадность тяжелее золота.",
+     "poster": "https://image.tmdb.org/t/p/w500/e2wSpe5SwtsCeyuUSgwXivt84MS.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/zLeq2fbHU6UdA7mhsYnIULORTgq.jpg",
+     "genres": [
+      "драма",
+      "триллер",
+      "криминал"
+     ],
+     "countries": [
+      "United States of America",
+      "Germany",
+      "France"
+     ],
+     "runtime": 115,
+     "popularity": 36.154,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.9,
+     "tmdb_vote_count": 43,
+     "theatrical_release_date": "2026-09-16",
+     "digital_release_date": "2026-10-20"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt21452628",
   "title": "The Girl in the River",
   "original_title": "The Girl in the River",
@@ -445,7 +523,7 @@
   "title": "Norm: The Tale of Norm Macdonald",
   "original_title": "Norm: The Tale of Norm Macdonald",
   "year": 2026,
-  "overview": "",
+  "overview": "О мире мастера невозмутимого юмора Норма Макдональда, чьи жизнь и карьера были бескомпромиссными, но при этом полными противоречий.",
   "poster": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
   "backdrop": "https://image.tmdb.org/t/p/w1280/d3Uscbjxikw0Vgk9ACFUpqFXplA.jpg",
   "genres": [
@@ -459,7 +537,7 @@
   "tmdb_id": 1620918,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.857,
+  "tmdb_rating": 7.9,
   "tmdb_vote_count": 7,
   "popularity": 9.2542,
   "popularity_source": "TMDB",
@@ -675,8 +753,8 @@
   "tmdb_id": 1487317,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.694,
-  "tmdb_vote_count": 31,
+  "tmdb_rating": 7.703,
+  "tmdb_vote_count": 32,
   "popularity": 41.8207,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-08",
@@ -847,8 +925,8 @@
   "tmdb_id": 1288069,
   "imdb_rating": 7.5,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.278,
-  "tmdb_vote_count": 90,
+  "tmdb_rating": 8.281,
+  "tmdb_vote_count": 96,
   "popularity": 108.4074,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -1192,8 +1270,8 @@
   "tmdb_id": 1381078,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.8,
-  "tmdb_vote_count": 98,
+  "tmdb_rating": 6.869,
+  "tmdb_vote_count": 103,
   "popularity": 115.6703,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-07",
@@ -2084,8 +2162,8 @@
   "tmdb_id": 1742441,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 4.717,
-  "tmdb_vote_count": 30,
+  "tmdb_rating": 4.726,
+  "tmdb_vote_count": 31,
   "popularity": 93.108,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -2446,8 +2524,8 @@
   "tmdb_id": 1236045,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.999,
-  "tmdb_vote_count": 487,
+  "tmdb_rating": 6.989,
+  "tmdb_vote_count": 491,
   "popularity": 236.8356,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -6846,102 +6924,6 @@
      "tmdb_vote_count": 10,
      "theatrical_release_date": "2026-08-21",
      "digital_release_date": "2026-09-18"
-    }
-   }
-  ]
- },
- {
-  "id": "tt9601292",
-  "title": "Операция «Возмездие»",
-  "original_title": "The Fix",
-  "year": 2026,
-  "overview": "Разочарованные окончанием войны в Афганистане, группа опальных, потрёпанных войной бывших оперативников ЦРУ направляется в Тегеран, чтобы сорвать большой куш, который навсегда изменит их жизнь.",
-  "poster": "https://image.tmdb.org/t/p/w500/1LPzBhF0J0ObYxvMRxyo223UMXO.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-  "genres": [
-   "боевик",
-   "триллер"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 144,
-  "imdb_id": "tt9601292",
-  "tmdb_id": 1228834,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.75,
-  "tmdb_vote_count": 66,
-  "popularity": 237.1306,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-10",
-  "digital_release_date": "2026-09-18",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-08T18:56:03.702873+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "1080p",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "8a50602836b50041",
-    "movie_id": "tt9601292",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-18",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Операция «Возмездие»",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Разочарованные окончанием войны в Афганистане, группа опальных, потрёпанных войной бывших оперативников ЦРУ направляется в Тегеран, чтобы сорвать большой куш, который навсегда изменит их жизнь.",
-     "poster": "https://image.tmdb.org/t/p/w500/1LPzBhF0J0ObYxvMRxyo223UMXO.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-     "genres": [
-      "боевик",
-      "триллер"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 144,
-     "popularity": 260.4762,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.179,
-     "tmdb_vote_count": 42,
-     "theatrical_release_date": "2026-09-10",
-     "digital_release_date": "2026-09-18"
-    }
-   },
-   {
-    "id": "6ebf99a999877211",
-    "movie_id": "tt9601292",
-    "event_type": "WEB_DL_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-08T11:24:16+00:00",
-    "detected_at": "2026-10-08T18:54:00.961808+00:00",
-    "quality": "WEBRip",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": "Sub",
-    "raw_title": "Операция «Возмездие» / The Fix (2026) WEBRip 1080p | Sub",
-    "details": {
-     "quality": "WEBRip",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": null,
-     "release_group": "Sub",
-     "is_secondary_signal": true
     }
    }
   ]
