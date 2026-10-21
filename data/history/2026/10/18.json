@@ -1,7 +1,77 @@
 {
   "date": "2026-10-18",
-  "count": 10,
+  "count": 11,
   "movies": [
+    {
+      "id": "tt46027225",
+      "title": "Super Scam Me",
+      "original_title": "Super Scam Me",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/y07DF84TR67NVAevJR6JMydIL5H.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cLA7LxfHF75U2m6zx9sEd7yhQBL.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 64,
+      "imdb_id": "tt46027225",
+      "tmdb_id": 1771323,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.1,
+      "tmdb_vote_count": 5,
+      "popularity": 6.3895,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-17",
+      "digital_release_date": "2026-10-18",
+      "first_detected_at": "2026-10-21T17:20:52.497724+00:00",
+      "last_updated_at": "2026-10-21T17:20:59.431255+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "bf769cb26dfbe30a",
+          "movie_id": "tt46027225",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-18",
+          "detected_at": "2026-10-21T17:20:52.497724+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Super Scam Me",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/y07DF84TR67NVAevJR6JMydIL5H.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/cLA7LxfHF75U2m6zx9sEd7yhQBL.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 64,
+            "popularity": 6.3895,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.1,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-17",
+            "digital_release_date": "2026-10-18"
+          }
+        }
+      ]
+    },
     {
       "id": "m_e8b851bb9f53",
       "title": "Секс и группа друзей",
