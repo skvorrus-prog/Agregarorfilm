@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-22",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt31969655",
+      "title": "ది ప్యారడైజ్",
+      "original_title": "ది ప్యారడైజ్",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 174,
+      "imdb_id": "tt31969655",
+      "tmdb_id": 1376856,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 4.4,
+      "tmdb_vote_count": 8,
+      "popularity": 10.3961,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-23",
+      "digital_release_date": "2026-10-22",
+      "first_detected_at": "2026-10-22T05:00:21.886132+00:00",
+      "last_updated_at": "2026-10-22T05:00:30.481961+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f06e9f131b84782d",
+          "movie_id": "tt31969655",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-22",
+          "detected_at": "2026-10-22T05:00:21.886132+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "ది ప్యారడైజ్",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+            "genres": [
+              "боевик",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 174,
+            "popularity": 10.3961,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 4.4,
+            "tmdb_vote_count": 8,
+            "theatrical_release_date": "2026-09-23",
+            "digital_release_date": "2026-10-22"
+          }
+        }
+      ]
+    }
+  ]
+}

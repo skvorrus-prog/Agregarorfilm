@@ -210,12 +210,12 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-21T17:20:52.497724+00:00",
-      "last_updated_at": "2026-10-21T17:21:02.875156+00:00",
+      "last_updated_at": "2026-10-22T05:00:30.522773+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
       "has_4k": false,
-      "has_hdr": false,
+      "has_hdr": true,
       "has_ru_audio": true,
       "events": [
         {
@@ -239,6 +239,54 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a6e34cd1ca0f6516",
+          "movie_id": "m_61a18c264aca",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-21T22:26:03+00:00",
+          "detected_at": "2026-10-22T05:00:21.886132+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Любой ценой / Любыми средствами / By Any Means (2026) WEB-DL 720p от New-Team | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "823c1c078ea7d1b0",
+          "movie_id": "m_61a18c264aca",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-22T02:42:22+00:00",
+          "detected_at": "2026-10-22T05:00:21.886132+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDRezka Studio",
+          "raw_title": "Любой ценой / By Any Means (2026) WEB-DLRip | Р | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "HDRezka Studio",
             "is_secondary_signal": true
           }
         }

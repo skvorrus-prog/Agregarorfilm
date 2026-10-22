@@ -18,6 +18,25 @@
    }
   ]
  },
+ "10-22": {
+  "2026": [
+   {
+    "id": "tt31969655",
+    "title": "ది ప్యారడైజ్",
+    "original_title": "ది ప్యారడైజ్",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+    "digital_release_date": "2026-10-22",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-20": {
   "2026": [
    {
@@ -5711,7 +5730,7 @@
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": false,
+    "has_hdr": true,
     "has_ru_audio": true
    },
    {
