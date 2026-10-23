@@ -433,7 +433,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
-      "last_updated_at": "2026-10-19T13:34:46.209481+00:00",
+      "last_updated_at": "2026-10-23T05:01:44.228166+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -997,6 +997,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "Red Head Sound",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "037867fb1dfd5d0f",
+          "movie_id": "m_7b3eb670ac41",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-23T00:26:46+00:00",
+          "detected_at": "2026-10-23T05:01:33.723008+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "MovieDalen",
+          "raw_title": "Человек-паук: Новый день 3D / Spider-Man: Brand New Day 3D (2026) WEBRip 1080p | 3D-Video | HSBS | D | MovieDalen",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "MovieDalen",
             "is_secondary_signal": true
           }
         }
