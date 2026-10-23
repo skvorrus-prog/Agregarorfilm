@@ -36,6 +36,21 @@
     "has_ru_audio": false
    },
    {
+    "id": "m_ea50cd18e9ff",
+    "title": "Попай 4: Воскрешение",
+    "original_title": "Popeye 4: Resurrection",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmY4ZjQzYTYtNTg0MC00ZWY4LTgyY2MtM2RlNzAxNDIyYjhlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 3.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_86a48ab7a0be",
     "title": "Маленькие беглецы",
     "original_title": "Tiny Fugitives",
@@ -5907,15 +5922,15 @@
     "title": "Хаген. В долине Нибелунгов",
     "original_title": "Hagen - Im Tal der Nibelungen",
     "year": 2024,
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2JkYjliNTYtMDM2YS00MzE0LWI3OWUtOGRhZmUwODc0MmJlXkEyXkFqcGc@._V1_SX250.jpg",
     "digital_release_date": null,
-    "imdb_rating": null,
+    "imdb_rating": 6.0,
     "imdb_vote_count": null,
-    "best_quality": "unknown",
+    "best_quality": "BluRay",
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "m_61a18c264aca",
