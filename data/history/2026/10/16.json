@@ -1,7 +1,79 @@
 {
   "date": "2026-10-16",
-  "count": 7,
+  "count": 8,
   "movies": [
+    {
+      "id": "tt39602636",
+      "title": "杯雪·一战成名",
+      "original_title": "杯雪·一战成名",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/bZiLsUBgffuVHeKKQ2I9ydQUkFC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xH7Fpxdi6zfOetciX8Rkx48cfrv.jpg",
+      "genres": [
+        "криминал",
+        "боевик"
+      ],
+      "countries": [
+        "China"
+      ],
+      "runtime": 0,
+      "imdb_id": "tt39602636",
+      "tmdb_id": 1563627,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.2,
+      "tmdb_vote_count": 5,
+      "popularity": 11.2576,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-27",
+      "digital_release_date": "2026-10-16",
+      "first_detected_at": "2026-10-23T11:49:04.009840+00:00",
+      "last_updated_at": "2026-10-23T11:49:11.253754+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e64c400b84ea8238",
+          "movie_id": "tt39602636",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-16",
+          "detected_at": "2026-10-23T11:49:04.009840+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "杯雪·一战成名",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/bZiLsUBgffuVHeKKQ2I9ydQUkFC.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/xH7Fpxdi6zfOetciX8Rkx48cfrv.jpg",
+            "genres": [
+              "криминал",
+              "боевик"
+            ],
+            "countries": [
+              "China"
+            ],
+            "runtime": 0,
+            "popularity": 11.2576,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.2,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-27",
+            "digital_release_date": "2026-10-16"
+          }
+        }
+      ]
+    },
     {
       "id": "tt44822485",
       "title": "Norm: The Tale of Norm Macdonald",
@@ -23,7 +95,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 7.5,
       "tmdb_vote_count": 10,
-      "popularity": 11.4922,
+      "popularity": 9.8261,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-16",
       "digital_release_date": "2026-10-16",
@@ -237,8 +309,8 @@
       "tmdb_id": 1487317,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.708,
-      "tmdb_vote_count": 53,
+      "tmdb_rating": 7.713,
+      "tmdb_vote_count": 54,
       "popularity": 36.7272,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-08",
@@ -340,7 +412,7 @@
       "imdb_rating": null,
       "imdb_vote_count": null,
       "tmdb_rating": 6.979,
-      "tmdb_vote_count": 143,
+      "tmdb_vote_count": 146,
       "popularity": 225.5783,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-16",
@@ -606,8 +678,8 @@
       "tmdb_id": 1288069,
       "imdb_rating": 7.5,
       "imdb_vote_count": null,
-      "tmdb_rating": 8.275,
-      "tmdb_vote_count": 142,
+      "tmdb_rating": 8.31,
+      "tmdb_vote_count": 145,
       "popularity": 103.1168,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-09",

@@ -30,7 +30,7 @@
       "theatrical_release_date": "2026-09-25",
       "digital_release_date": "2026-10-23",
       "first_detected_at": "2026-10-23T05:01:33.723008+00:00",
-      "last_updated_at": "2026-10-23T05:01:40.512836+00:00",
+      "last_updated_at": "2026-10-23T11:49:11.255371+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -38,6 +38,42 @@
       "has_hdr": false,
       "has_ru_audio": false,
       "events": [
+        {
+          "id": "da3b468ec71972d4",
+          "movie_id": "tt38915678",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-22",
+          "detected_at": "2026-10-23T11:49:04.009840+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "டோரதி",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
+            "genres": [
+              "драма",
+              "мелодрама",
+              "криминал"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 146,
+            "popularity": 6.95,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-25",
+            "digital_release_date": "2026-10-22"
+          }
+        },
         {
           "id": "1cc65a21775cb658",
           "movie_id": "tt38915678",
