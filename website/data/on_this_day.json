@@ -40,6 +40,21 @@
  "10-23": {
   "2026": [
    {
+    "id": "tt37961714",
+    "title": "Contra el huracán",
+    "original_title": "Contra el huracán",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+    "digital_release_date": "2026-10-23",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt36841161",
     "title": "Барашек Шон и Чудище Лохматое",
     "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
@@ -5931,7 +5946,7 @@
     "imdb_rating": 7.2,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true

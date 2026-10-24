@@ -22,7 +22,7 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 7.8,
-  "tmdb_vote_count": 5,
+  "tmdb_vote_count": 6,
   "popularity": 13.064,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-24",
@@ -649,6 +649,76 @@
   ]
  },
  {
+  "id": "tt37961714",
+  "title": "Contra el huracán",
+  "original_title": "Contra el huracán",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+  "genres": [
+   "драма"
+  ],
+  "countries": [
+   "Mexico"
+  ],
+  "runtime": 96,
+  "imdb_id": "tt37961714",
+  "tmdb_id": 1780005,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 4.9,
+  "tmdb_vote_count": 5,
+  "popularity": 38.7524,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-23",
+  "digital_release_date": "2026-10-23",
+  "first_detected_at": "2026-10-24T16:03:42.813195+00:00",
+  "last_updated_at": "2026-10-24T16:03:49.904499+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "753225bfe0565c92",
+    "movie_id": "tt37961714",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-23",
+    "detected_at": "2026-10-24T16:03:42.813195+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Contra el huracán",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+     "genres": [
+      "драма"
+     ],
+     "countries": [
+      "Mexico"
+     ],
+     "runtime": 96,
+     "popularity": 38.7524,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 4.9,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-23",
+     "digital_release_date": "2026-10-23"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt36841161",
   "title": "Барашек Шон и Чудище Лохматое",
   "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
@@ -672,8 +742,8 @@
   "tmdb_id": 1477104,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.5,
-  "tmdb_vote_count": 30,
+  "tmdb_rating": 7.403,
+  "tmdb_vote_count": 31,
   "popularity": 27.8759,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-17",
@@ -1389,8 +1459,8 @@
   "tmdb_id": 1452110,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.438,
-  "tmdb_vote_count": 8,
+  "tmdb_rating": 6.444,
+  "tmdb_vote_count": 9,
   "popularity": 8.8841,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1636,7 +1706,7 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 6.997,
-  "tmdb_vote_count": 149,
+  "tmdb_vote_count": 150,
   "popularity": 209.1518,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-16",
@@ -1902,8 +1972,8 @@
   "tmdb_id": 1288069,
   "imdb_rating": 7.7,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.26,
-  "tmdb_vote_count": 154,
+  "tmdb_rating": 8.271,
+  "tmdb_vote_count": 157,
   "popularity": 90.0216,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -7706,76 +7776,6 @@
      "tmdb_rating": 6.639,
      "tmdb_vote_count": 36,
      "theatrical_release_date": "2026-08-06",
-     "digital_release_date": "2026-09-22"
-    }
-   }
-  ]
- },
- {
-  "id": "tt33305867",
-  "title": "Спа-уикенд",
-  "original_title": "Spa Weekend",
-  "year": 2026,
-  "overview": "3 подруги решают провести выходные на спа-курорте, но отдых превращается в хаос, когда к ним внезапно присоединяется их приятельница-катастрофа.",
-  "poster": "https://image.tmdb.org/t/p/w500/pGyuM0qntTdW5g9bRwqH4h7gkms.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
-  "genres": [
-   "комедия"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 97,
-  "imdb_id": "tt33305867",
-  "tmdb_id": 1341138,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.4,
-  "tmdb_vote_count": 60,
-  "popularity": 33.2967,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-08-20",
-  "digital_release_date": "2026-09-22",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:24.734756+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "414887d0021972e1",
-    "movie_id": "tt33305867",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-22",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Спа-уикенд",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "3 подруги решают провести выходные на спа-курорте, но отдых превращается в хаос, когда к ним внезапно присоединяется их приятельница-катастрофа.",
-     "poster": "https://image.tmdb.org/t/p/w500/pGyuM0qntTdW5g9bRwqH4h7gkms.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
-     "genres": [
-      "комедия"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 97,
-     "popularity": 41.2944,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.411,
-     "tmdb_vote_count": 56,
-     "theatrical_release_date": "2026-08-20",
      "digital_release_date": "2026-09-22"
     }
    }
