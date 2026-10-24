@@ -1,4 +1,23 @@
 {
+ "11-05": {
+  "2026": [
+   {
+    "id": "tt32358390",
+    "title": "Цикл зверя",
+    "original_title": "The Cycle",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ik9hlrX7FZbUUoJBtXzxki3nicB.jpg",
+    "digital_release_date": "2026-11-05",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-25": {
   "2026": [
    {
@@ -20,6 +39,21 @@
  },
  "10-23": {
   "2026": [
+   {
+    "id": "tt36841161",
+    "title": "Барашек Шон и Чудище Лохматое",
+    "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lND7rSounD24SQcBFCCd0VOGgXN.jpg",
+    "digital_release_date": "2026-10-23",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt38915678",
     "title": "டோரதி",
@@ -215,21 +249,6 @@
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_65d4c2694b34",
-    "title": "Трансформация",
-    "original_title": "The Fix",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjhiYzQ5YjQtZTlhZS00YTQ0LTk5YzMtNmRjY2EwYmFhYmIzXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "720p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
@@ -647,7 +666,7 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/ieS40Zp9hmDwoZdRUVB3v8HgJaK.jpg",
     "digital_release_date": "2026-10-16",
-    "imdb_rating": 7.5,
+    "imdb_rating": 7.7,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "2160p",
@@ -2610,6 +2629,21 @@
  },
  "09-18": {
   "2026": [
+   {
+    "id": "m_65d4c2694b34",
+    "title": "Трансформация",
+    "original_title": "The Fix",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhiYzQ5YjQtZTlhZS00YTQ0LTk5YzMtNmRjY2EwYmFhYmIzXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-09-18",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "tt38035813",
     "title": "年会不能停！2",

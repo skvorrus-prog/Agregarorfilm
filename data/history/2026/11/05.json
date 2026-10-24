@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-05",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt32358390",
+      "title": "Цикл зверя",
+      "original_title": "The Cycle",
+      "year": 2026,
+      "overview": "В тихом доме на побережье полиция обнаруживает тела двух жителей, а во дворе — останки пожилого мужчины. Вскоре выясняется, что погибший — бесследно исчезнувший много лет назад отец специалистки в области судебной антропологии Мэг Гарланд. Поначалу Мэг отказывается участвовать в расследовании, но научный интерес и тревожные воспоминания заставляют ее изменить решение. Вместе с начальником полиции Иэном Марксом и его отцом, лейтенантом Марксом, Мэг пытается разобраться в обстоятельствах смерти отца. Однако результаты вскрытия ставят под сомнение привычные представления о возможном и невозможном. Расследование постепенно приводит девушку к тайне зловещей силы, которая долгие годы скрывалась в тихом приморском городке.",
+      "poster": "https://image.tmdb.org/t/p/w500/ik9hlrX7FZbUUoJBtXzxki3nicB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+      "genres": [
+        "криминал",
+        "ужасы",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "runtime": 111,
+      "imdb_id": "tt32358390",
+      "tmdb_id": 1290418,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.9,
+      "tmdb_vote_count": 5,
+      "popularity": 5.7576,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-24",
+      "digital_release_date": "2026-11-05",
+      "first_detected_at": "2026-10-24T04:46:28.026604+00:00",
+      "last_updated_at": "2026-10-24T04:46:35.246349+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "eaa258acdb5266da",
+          "movie_id": "tt32358390",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-05",
+          "detected_at": "2026-10-24T04:46:28.026604+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Цикл зверя",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "В тихом доме на побережье полиция обнаруживает тела двух жителей, а во дворе — останки пожилого мужчины. Вскоре выясняется, что погибший — бесследно исчезнувший много лет назад отец специалистки в области судебной антропологии Мэг Гарланд. Поначалу Мэг отказывается участвовать в расследовании, но научный интерес и тревожные воспоминания заставляют ее изменить решение. Вместе с начальником полиции Иэном Марксом и его отцом, лейтенантом Марксом, Мэг пытается разобраться в обстоятельствах смерти отца. Однако результаты вскрытия ставят под сомнение привычные представления о возможном и невозможном. Расследование постепенно приводит девушку к тайне зловещей силы, которая долгие годы скрывалась в тихом приморском городке.",
+            "poster": "https://image.tmdb.org/t/p/w500/ik9hlrX7FZbUUoJBtXzxki3nicB.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+            "genres": [
+              "криминал",
+              "ужасы",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America",
+              "United Kingdom"
+            ],
+            "runtime": 111,
+            "popularity": 5.7576,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.9,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-24",
+            "digital_release_date": "2026-11-05"
+          }
+        }
+      ]
+    }
+  ]
+}

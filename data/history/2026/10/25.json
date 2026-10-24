@@ -23,14 +23,14 @@
       "tmdb_id": 1302904,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.965,
-      "tmdb_vote_count": 242,
-      "popularity": 186.5087,
+      "tmdb_rating": 7.055,
+      "tmdb_vote_count": 284,
+      "popularity": 138.1665,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-10-25",
       "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
-      "last_updated_at": "2026-10-23T17:16:45.031303+00:00",
+      "last_updated_at": "2026-10-24T04:46:35.363961+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -60,6 +60,42 @@
             "language": null,
             "release_group": "Sub",
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "1d9a0f1b668ff8ce",
+          "movie_id": "m_10b6bb853ed1",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-13",
+          "detected_at": "2026-10-24T04:46:28.026604+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Практическая магия 2",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Кайли, старшая дочь Салли Оуэнс, начинает раскрывать семейные тайны и развивает свои собственные тёмные способности. Семья оказывается втянута в многовековую борьбу за то, чтобы наконец снять проклятие, которое преследует их род на протяжении поколений. Женщины из семьи Оуэнс — Салли, Джиллиан, тёти Фрэнсис и Бриджит — должны вновь объединиться и отправиться в Великобританию, чтобы противостоять источнику своей магии и спасти следующее поколение своей семьи.",
+            "poster": "https://image.tmdb.org/t/p/w500/sxusbJzNx21lHnwQ1ssBTs2EGwg.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+            "genres": [
+              "мелодрама",
+              "фэнтези",
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 130,
+            "popularity": 138.1665,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.055,
+            "tmdb_vote_count": 284,
+            "theatrical_release_date": "2026-09-09",
+            "digital_release_date": "2026-10-13"
           }
         },
         {

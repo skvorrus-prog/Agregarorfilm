@@ -1,7 +1,87 @@
 {
   "date": "2026-10-23",
-  "count": 7,
+  "count": 8,
   "movies": [
+    {
+      "id": "tt36841161",
+      "title": "Барашек Шон и Чудище Лохматое",
+      "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/lND7rSounD24SQcBFCCd0VOGgXN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "семейный",
+        "приключения",
+        "фантастика"
+      ],
+      "countries": [
+        "United Kingdom",
+        "France"
+      ],
+      "runtime": 81,
+      "imdb_id": "tt36841161",
+      "tmdb_id": 1477104,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.431,
+      "tmdb_vote_count": 29,
+      "popularity": 27.8759,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-17",
+      "digital_release_date": "2026-10-23",
+      "first_detected_at": "2026-10-24T04:46:28.026604+00:00",
+      "last_updated_at": "2026-10-24T04:46:35.358803+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "5d22e84be2047a71",
+          "movie_id": "tt36841161",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-23",
+          "detected_at": "2026-10-24T04:46:28.026604+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Барашек Шон и Чудище Лохматое",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/lND7rSounD24SQcBFCCd0VOGgXN.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+            "genres": [
+              "мультфильм",
+              "комедия",
+              "семейный",
+              "приключения",
+              "фантастика"
+            ],
+            "countries": [
+              "United Kingdom",
+              "France"
+            ],
+            "runtime": 81,
+            "popularity": 27.8759,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.431,
+            "tmdb_vote_count": 29,
+            "theatrical_release_date": "2026-09-17",
+            "digital_release_date": "2026-10-23"
+          }
+        }
+      ]
+    },
     {
       "id": "tt38915678",
       "title": "டோரதி",
@@ -25,7 +105,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 8.333,
       "tmdb_vote_count": 6,
-      "popularity": 6.95,
+      "popularity": 12.3717,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-25",
       "digital_release_date": "2026-10-23",

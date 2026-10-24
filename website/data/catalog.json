@@ -1,5 +1,81 @@
 [
  {
+  "id": "tt32358390",
+  "title": "Цикл зверя",
+  "original_title": "The Cycle",
+  "year": 2026,
+  "overview": "В тихом доме на побережье полиция обнаруживает тела двух жителей, а во дворе — останки пожилого мужчины. Вскоре выясняется, что погибший — бесследно исчезнувший много лет назад отец специалистки в области судебной антропологии Мэг Гарланд. Поначалу Мэг отказывается участвовать в расследовании, но научный интерес и тревожные воспоминания заставляют ее изменить решение. Вместе с начальником полиции Иэном Марксом и его отцом, лейтенантом Марксом, Мэг пытается разобраться в обстоятельствах смерти отца. Однако результаты вскрытия ставят под сомнение привычные представления о возможном и невозможном. Расследование постепенно приводит девушку к тайне зловещей силы, которая долгие годы скрывалась в тихом приморском городке.",
+  "poster": "https://image.tmdb.org/t/p/w500/ik9hlrX7FZbUUoJBtXzxki3nicB.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+  "genres": [
+   "криминал",
+   "ужасы",
+   "триллер"
+  ],
+  "countries": [
+   "United States of America",
+   "United Kingdom"
+  ],
+  "runtime": 111,
+  "imdb_id": "tt32358390",
+  "tmdb_id": 1290418,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 5.9,
+  "tmdb_vote_count": 5,
+  "popularity": 5.7576,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-24",
+  "digital_release_date": "2026-11-05",
+  "first_detected_at": "2026-10-24T04:46:28.026604+00:00",
+  "last_updated_at": "2026-10-24T04:46:35.246349+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "eaa258acdb5266da",
+    "movie_id": "tt32358390",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-05",
+    "detected_at": "2026-10-24T04:46:28.026604+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Цикл зверя",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "В тихом доме на побережье полиция обнаруживает тела двух жителей, а во дворе — останки пожилого мужчины. Вскоре выясняется, что погибший — бесследно исчезнувший много лет назад отец специалистки в области судебной антропологии Мэг Гарланд. Поначалу Мэг отказывается участвовать в расследовании, но научный интерес и тревожные воспоминания заставляют ее изменить решение. Вместе с начальником полиции Иэном Марксом и его отцом, лейтенантом Марксом, Мэг пытается разобраться в обстоятельствах смерти отца. Однако результаты вскрытия ставят под сомнение привычные представления о возможном и невозможном. Расследование постепенно приводит девушку к тайне зловещей силы, которая долгие годы скрывалась в тихом приморском городке.",
+     "poster": "https://image.tmdb.org/t/p/w500/ik9hlrX7FZbUUoJBtXzxki3nicB.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/uRIItK2ahR1ewVSBICiBFQrAVB2.jpg",
+     "genres": [
+      "криминал",
+      "ужасы",
+      "триллер"
+     ],
+     "countries": [
+      "United States of America",
+      "United Kingdom"
+     ],
+     "runtime": 111,
+     "popularity": 5.7576,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 5.9,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-09-24",
+     "digital_release_date": "2026-11-05"
+    }
+   }
+  ]
+ },
+ {
   "id": "m_10b6bb853ed1",
   "title": "Практическая магия 2",
   "original_title": "Practical Magic 2",
@@ -20,14 +96,14 @@
   "tmdb_id": 1302904,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.965,
-  "tmdb_vote_count": 242,
-  "popularity": 186.5087,
+  "tmdb_rating": 7.055,
+  "tmdb_vote_count": 284,
+  "popularity": 138.1665,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
   "digital_release_date": "2026-10-25",
   "first_detected_at": "2026-10-12T21:18:52.358190+00:00",
-  "last_updated_at": "2026-10-23T17:16:45.031303+00:00",
+  "last_updated_at": "2026-10-24T04:46:35.363961+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -57,6 +133,42 @@
      "language": null,
      "release_group": "Sub",
      "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "1d9a0f1b668ff8ce",
+    "movie_id": "m_10b6bb853ed1",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-13",
+    "detected_at": "2026-10-24T04:46:28.026604+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Практическая магия 2",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Кайли, старшая дочь Салли Оуэнс, начинает раскрывать семейные тайны и развивает свои собственные тёмные способности. Семья оказывается втянута в многовековую борьбу за то, чтобы наконец снять проклятие, которое преследует их род на протяжении поколений. Женщины из семьи Оуэнс — Салли, Джиллиан, тёти Фрэнсис и Бриджит — должны вновь объединиться и отправиться в Великобританию, чтобы противостоять источнику своей магии и спасти следующее поколение своей семьи.",
+     "poster": "https://image.tmdb.org/t/p/w500/sxusbJzNx21lHnwQ1ssBTs2EGwg.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+     "genres": [
+      "мелодрама",
+      "фэнтези",
+      "комедия"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 130,
+     "popularity": 138.1665,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.055,
+     "tmdb_vote_count": 284,
+     "theatrical_release_date": "2026-09-09",
+     "digital_release_date": "2026-10-13"
     }
    },
    {
@@ -513,6 +625,86 @@
   ]
  },
  {
+  "id": "tt36841161",
+  "title": "Барашек Шон и Чудище Лохматое",
+  "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/lND7rSounD24SQcBFCCd0VOGgXN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+  "genres": [
+   "мультфильм",
+   "комедия",
+   "семейный",
+   "приключения",
+   "фантастика"
+  ],
+  "countries": [
+   "United Kingdom",
+   "France"
+  ],
+  "runtime": 81,
+  "imdb_id": "tt36841161",
+  "tmdb_id": 1477104,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.431,
+  "tmdb_vote_count": 29,
+  "popularity": 27.8759,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-17",
+  "digital_release_date": "2026-10-23",
+  "first_detected_at": "2026-10-24T04:46:28.026604+00:00",
+  "last_updated_at": "2026-10-24T04:46:35.358803+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "5d22e84be2047a71",
+    "movie_id": "tt36841161",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-23",
+    "detected_at": "2026-10-24T04:46:28.026604+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Барашек Шон и Чудище Лохматое",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/lND7rSounD24SQcBFCCd0VOGgXN.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+     "genres": [
+      "мультфильм",
+      "комедия",
+      "семейный",
+      "приключения",
+      "фантастика"
+     ],
+     "countries": [
+      "United Kingdom",
+      "France"
+     ],
+     "runtime": 81,
+     "popularity": 27.8759,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.431,
+     "tmdb_vote_count": 29,
+     "theatrical_release_date": "2026-09-17",
+     "digital_release_date": "2026-10-23"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt38915678",
   "title": "டோரதி",
   "original_title": "டோரதி",
@@ -535,7 +727,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 8.333,
   "tmdb_vote_count": 6,
-  "popularity": 6.95,
+  "popularity": 12.3717,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-25",
   "digital_release_date": "2026-10-23",
@@ -644,7 +836,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 4.4,
   "tmdb_vote_count": 8,
-  "popularity": 10.3961,
+  "popularity": 24.5914,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-23",
   "digital_release_date": "2026-10-22",
@@ -717,9 +909,9 @@
   "tmdb_id": 1433583,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.778,
-  "tmdb_vote_count": 54,
-  "popularity": 78.7788,
+  "tmdb_rating": 6.746,
+  "tmdb_vote_count": 63,
+  "popularity": 81.0926,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-16",
   "digital_release_date": "2026-10-20",
@@ -1032,7 +1224,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 7.2,
   "tmdb_vote_count": 5,
-  "popularity": 11.2576,
+  "popularity": 13.6127,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-27",
   "digital_release_date": "2026-10-16",
@@ -1103,7 +1295,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 7.5,
   "tmdb_vote_count": 10,
-  "popularity": 9.8261,
+  "popularity": 8.7317,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-16",
   "digital_release_date": "2026-10-16",
@@ -1175,7 +1367,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 6.438,
   "tmdb_vote_count": 8,
-  "popularity": 9.678,
+  "popularity": 8.8841,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
   "digital_release_date": "2026-10-16",
@@ -1419,8 +1611,8 @@
   "tmdb_id": 1561726,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.0,
-  "tmdb_vote_count": 147,
+  "tmdb_rating": 6.997,
+  "tmdb_vote_count": 149,
   "popularity": 225.5783,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-16",
@@ -1684,16 +1876,16 @@
   "runtime": 126,
   "imdb_id": "tt6262770",
   "tmdb_id": 1288069,
-  "imdb_rating": 7.5,
+  "imdb_rating": 7.7,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.3,
-  "tmdb_vote_count": 144,
-  "popularity": 103.1168,
+  "tmdb_rating": 8.26,
+  "tmdb_vote_count": 154,
+  "popularity": 90.0216,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
   "digital_release_date": "2026-10-16",
   "first_detected_at": "2026-10-16T11:34:55.535444+00:00",
-  "last_updated_at": "2026-10-22T05:00:30.523758+00:00",
+  "last_updated_at": "2026-10-24T04:46:35.408387+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -1960,6 +2152,30 @@
      "release_group": null,
      "is_secondary_signal": true
     }
+   },
+   {
+    "id": "2dcd14056b8cdaa4",
+    "movie_id": "tt6262770",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-23T22:01:05+00:00",
+    "detected_at": "2026-10-24T04:46:28.026604+00:00",
+    "quality": "WEB-DL",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Тенцинг / Tenzing (2026) WEB-DL 720p | D, Р",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
    }
   ]
  },
@@ -1983,8 +2199,8 @@
   "tmdb_id": 1623256,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.333,
-  "tmdb_vote_count": 48,
+  "tmdb_rating": 6.367,
+  "tmdb_vote_count": 49,
   "popularity": 37.4458,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-15",
@@ -2055,8 +2271,8 @@
   "tmdb_id": 1381078,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.772,
-  "tmdb_vote_count": 127,
+  "tmdb_rating": 6.798,
+  "tmdb_vote_count": 129,
   "popularity": 82.3971,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-07",
@@ -7755,6 +7971,102 @@
      "tmdb_vote_count": 8,
      "theatrical_release_date": "2026-09-11",
      "digital_release_date": "2026-09-21"
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_65d4c2694b34",
+  "title": "Трансформация",
+  "original_title": "The Fix",
+  "year": 2024,
+  "overview": "Трансформа́ция.Трансформация в генетике — процесс поглощения клеткой организма свободной молекулы ДНК из среды и встраивания её в геном, что приводит к появлению у неё новых наследуемых признаков, характерных для организма-донора ДНК.\nТрансформация в лингвистике — правило, по которому из так называемых ядерных предложений языка получаются производные.\nТрансформация в праве — один из способов правовой имплементации.\n«Трансформация» — американский научно-фантастический триллер 2016 года, снятый Стивеном Шейнбергом; главную роль исполнила Нуми Рапас.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjhiYzQ5YjQtZTlhZS00YTQ0LTk5YzMtNmRjY2EwYmFhYmIzXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+  "genres": [
+   "Action",
+   "Thriller"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": 144,
+  "imdb_id": "tt9601292",
+  "tmdb_id": 1228834,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.5,
+  "tmdb_vote_count": 73,
+  "popularity": 170.3138,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": null,
+  "digital_release_date": "2026-09-18",
+  "first_detected_at": "2026-10-22T12:03:47.100506+00:00",
+  "last_updated_at": "2026-10-24T04:46:35.362309+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "720p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "8f8a0da0705d7385",
+    "movie_id": "m_65d4c2694b34",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-09-18",
+    "detected_at": "2026-10-24T04:46:28.026604+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Операция «Возмездие»",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Разочарованные окончанием войны в Афганистане, группа опальных, потрёпанных войной бывших оперативников ЦРУ направляется в Тегеран, чтобы сорвать большой куш, который навсегда изменит их жизнь.",
+     "poster": "https://image.tmdb.org/t/p/w500/1LPzBhF0J0ObYxvMRxyo223UMXO.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+     "genres": [
+      "боевик",
+      "триллер"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 144,
+     "popularity": 170.3138,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.5,
+     "tmdb_vote_count": 73,
+     "theatrical_release_date": "2026-09-10",
+     "digital_release_date": "2026-09-18"
+    }
+   },
+   {
+    "id": "e5f51797c00f25ff",
+    "movie_id": "m_65d4c2694b34",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-22T11:54:29+00:00",
+    "detected_at": "2026-10-22T12:03:47.100506+00:00",
+    "quality": "BluRay",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Zone Vision",
+    "raw_title": "Трансформация / The Fix (2024) BDRip 720p от DoMiNo & селезень | D | Zone Vision",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Zone Vision",
+     "is_secondary_signal": true
     }
    }
   ]
@@ -24687,67 +24999,6 @@
      "audio": null,
      "language": "RU",
      "release_group": null,
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "m_65d4c2694b34",
-  "title": "Трансформация",
-  "original_title": "The Fix",
-  "year": 2024,
-  "overview": "Трансформа́ция.Трансформация в генетике — процесс поглощения клеткой организма свободной молекулы ДНК из среды и встраивания её в геном, что приводит к появлению у неё новых наследуемых признаков, характерных для организма-донора ДНК.\nТрансформация в лингвистике — правило, по которому из так называемых ядерных предложений языка получаются производные.\nТрансформация в праве — один из способов правовой имплементации.\n«Трансформация» — американский научно-фантастический триллер 2016 года, снятый Стивеном Шейнбергом; главную роль исполнила Нуми Рапас.",
-  "poster": "https://m.media-amazon.com/images/M/MV5BYjhiYzQ5YjQtZTlhZS00YTQ0LTk5YzMtNmRjY2EwYmFhYmIzXkEyXkFqcGc@._V1_SX250.jpg",
-  "backdrop": null,
-  "genres": [
-   "Action",
-   "Thriller"
-  ],
-  "countries": [
-   "United States"
-  ],
-  "runtime": null,
-  "imdb_id": "tt9601292",
-  "tmdb_id": null,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-10-22T12:03:47.100506+00:00",
-  "last_updated_at": "2026-10-22T12:03:56.622774+00:00",
-  "status": "BLURAY_RELEASE",
-  "best_quality": "BluRay",
-  "best_resolution": "720p",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "e5f51797c00f25ff",
-    "movie_id": "m_65d4c2694b34",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-22T11:54:29+00:00",
-    "detected_at": "2026-10-22T12:03:47.100506+00:00",
-    "quality": "BluRay",
-    "resolution": "720p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "Zone Vision",
-    "raw_title": "Трансформация / The Fix (2024) BDRip 720p от DoMiNo & селезень | D | Zone Vision",
-    "details": {
-     "quality": "BluRay",
-     "resolution": "720p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "Zone Vision",
      "is_secondary_signal": true
     }
    }
