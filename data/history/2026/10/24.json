@@ -1,7 +1,68 @@
 {
   "date": "2026-10-24",
-  "count": 2,
+  "count": 3,
   "movies": [
+    {
+      "id": "m_6ad053895f42",
+      "title": "Арахнид",
+      "original_title": "Crawlers",
+      "year": 2026,
+      "overview": "Паукообра́зные, или арахниды (лат. Arachnida), — класс членистоногих из подтипа хелицеровых (Chelicerata). Наиболее известные представители: пауки, скорпионы, клещи́. В настоящее время учёными описано более 114 тыс. видов паукообразных, большинство которых составляют пауки и клещи.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjQzNTk0OTUtNGIxMy00YzNmLTk4MTMtOWNhNGIxMDgyZTA1XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32329539",
+      "tmdb_id": null,
+      "imdb_rating": 4.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-24T20:57:27.163829+00:00",
+      "last_updated_at": "2026-10-24T20:57:35.332569+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f82c621d0321f263",
+          "movie_id": "m_6ad053895f42",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-24T16:27:20+00:00",
+          "detected_at": "2026-10-24T20:57:27.163829+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Арахнид / Crawlers (2026) BDRip 1080p | Sub",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_33b1a3b678e7",
       "title": "На деревню к дедушке. Супермиссия",
@@ -28,7 +89,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-24T11:14:16.237087+00:00",
-      "last_updated_at": "2026-10-24T16:03:49.980620+00:00",
+      "last_updated_at": "2026-10-24T20:57:34.636404+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -77,6 +138,30 @@
           "details": {
             "quality": "WEB-DL",
             "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "OKKO",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "aec92fd28fb4f828",
+          "movie_id": "m_33b1a3b678e7",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-24T16:27:46+00:00",
+          "detected_at": "2026-10-24T20:57:27.163829+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "OKKO",
+          "raw_title": "На деревню к дедушке. Супермиссия / Duivinder (2026) WEB-DLRip-AVC от NiTrID | D | OKKO",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
             "hdr": null,
             "audio": null,
             "language": "RU",

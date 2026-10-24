@@ -5937,6 +5937,21 @@
  "10-24": {
   "2026": [
    {
+    "id": "m_6ad053895f42",
+    "title": "Арахнид",
+    "original_title": "Crawlers",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQzNTk0OTUtNGIxMy00YzNmLTk4MTMtOWNhNGIxMDgyZTA1XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 4.8,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_33b1a3b678e7",
     "title": "На деревню к дедушке. Супермиссия",
     "original_title": "Duivinder",
