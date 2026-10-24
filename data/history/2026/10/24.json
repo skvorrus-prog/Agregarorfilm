@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-24",
+  "count": 2,
+  "movies": [
+    {
+      "id": "m_33b1a3b678e7",
+      "title": "На деревню к дедушке. Супермиссия",
+      "original_title": "Duivinder",
+      "year": 2026,
+      "overview": "Решительная 14-летняя девочка объединяется со своим озорным братом и голубем-чемпионом, чтобы воссоединить своего отчужденного деда с его прошлым, раскрывая сердечную историю любви, потери и силы семейных уз.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWQ2ZTUwZWUtMzgwNS00NDcxLWJjNzMtMzBlMTcxMzRkZThmXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Family"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "runtime": null,
+      "imdb_id": "tt35498420",
+      "tmdb_id": null,
+      "imdb_rating": 7.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-24T11:14:16.237087+00:00",
+      "last_updated_at": "2026-10-24T11:14:34.224131+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "01b73518fe45508f",
+          "movie_id": "m_33b1a3b678e7",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-24T07:46:23+00:00",
+          "detected_at": "2026-10-24T11:14:16.237087+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "OKKO",
+          "raw_title": "На деревню к дедушке. Супермиссия / Duivinder (2026) WEB-DLRip | D | OKKO",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "OKKO",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_de34793498af",
+      "title": "Простая случайность",
+      "original_title": "Yek tasadof-e sadeh",
+      "year": 2025,
+      "overview": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGY2YjRiNDYtOWNlMS00MTg0LWFkMTAtZjUyNTdiMWU0ZDVlXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [],
+      "countries": [
+        "Iran"
+      ],
+      "runtime": null,
+      "imdb_id": "tt27588652",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-24T11:14:16.237087+00:00",
+      "last_updated_at": "2026-10-24T11:14:25.518031+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e9cd048d8de1ebe7",
+          "movie_id": "m_de34793498af",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-24T09:13:58+00:00",
+          "detected_at": "2026-10-24T11:14:16.237087+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Простая случайность / Yek tasadof-e sadeh (2025) BDRip 1080p от Scarabey | P | ВПОДПОЛЬЕ",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}

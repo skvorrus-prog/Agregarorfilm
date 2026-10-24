@@ -11,7 +11,7 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
@@ -5036,7 +5036,7 @@
     "digital_release_date": "2026-07-08",
     "imdb_rating": 6.5,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
+    "best_quality": "BluRay",
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
@@ -5913,6 +5913,40 @@
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
+ "10-24": {
+  "2026": [
+   {
+    "id": "m_33b1a3b678e7",
+    "title": "На деревню к дедушке. Супермиссия",
+    "original_title": "Duivinder",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQ2ZTUwZWUtMzgwNS00NDcxLWJjNzMtMzBlMTcxMzRkZThmXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_de34793498af",
+    "title": "Простая случайность",
+    "original_title": "Yek tasadof-e sadeh",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGY2YjRiNDYtOWNlMS00MTg0LWFkMTAtZjUyNTdiMWU0ZDVlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
