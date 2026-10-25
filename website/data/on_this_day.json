@@ -34,6 +34,21 @@
     "has_4k": true,
     "has_hdr": true,
     "has_ru_audio": true
+   },
+   {
+    "id": "m_424cce2a777f",
+    "title": "Вторая мировая: Бигфут",
+    "original_title": "World War Bigfoot",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGIzOGQ1YzctMTEzOC00Nzg0LWFkYWUtYzUwZDIzZmYyMjM0XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
    }
   ]
  },
@@ -6040,8 +6055,8 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
     "has_hdr": true,
     "has_ru_audio": true
    },

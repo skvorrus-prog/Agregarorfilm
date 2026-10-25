@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "count": 1,
+  "count": 2,
   "movies": [
     {
       "id": "m_10b6bb853ed1",
@@ -23,8 +23,8 @@
       "tmdb_id": 1302904,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.036,
-      "tmdb_vote_count": 292,
+      "tmdb_rating": 7.079,
+      "tmdb_vote_count": 297,
       "popularity": 138.6589,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
@@ -547,6 +547,68 @@
             "tmdb_vote_count": 174,
             "theatrical_release_date": "2026-09-09",
             "digital_release_date": "2026-10-25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_424cce2a777f",
+      "title": "Вторая мировая: Бигфут",
+      "original_title": "World War Bigfoot",
+      "year": 2026,
+      "overview": "Когда его взвод попадает в засаду во время Второй мировой войны, американский медик убегает в соседний лес, неустанно преследуемый врагом. Уклоняясь от захвата, он сталкивается с невероятным существом, не зная, друг это или враг. Это займет все, что у него есть, чтобы выжить, поскольку будут сформированы новые альянсы, и лояльность будет проверена.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGIzOGQ1YzctMTEzOC00Nzg0LWFkYWUtYzUwZDIzZmYyMjM0XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "War",
+        "Fantasy",
+        "Action"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "runtime": null,
+      "imdb_id": "tt39496686",
+      "tmdb_id": null,
+      "imdb_rating": 6.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-25T11:44:31.802290+00:00",
+      "last_updated_at": "2026-10-25T11:44:41.821453+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ed7f4356a3d73f02",
+          "movie_id": "m_424cce2a777f",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-25T05:15:18+00:00",
+          "detected_at": "2026-10-25T11:44:31.802290+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Вторая мировая: Бигфут / World War Bigfoot (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
           }
         }
       ]
