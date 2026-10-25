@@ -21,8 +21,8 @@
   "tmdb_id": 1290418,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.688,
-  "tmdb_vote_count": 16,
+  "tmdb_rating": 7.714,
+  "tmdb_vote_count": 21,
   "popularity": 30.8598,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-24",
@@ -649,6 +649,78 @@
   ]
  },
  {
+  "id": "tt39631280",
+  "title": "ग़ज़ब रात",
+  "original_title": "ग़ज़ब रात",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+  "genres": [
+   "триллер",
+   "криминал"
+  ],
+  "countries": [
+   "India"
+  ],
+  "runtime": 124,
+  "imdb_id": "tt39631280",
+  "tmdb_id": 1453407,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 5.9,
+  "tmdb_vote_count": 5,
+  "popularity": 67.8099,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-23",
+  "digital_release_date": "2026-10-23",
+  "first_detected_at": "2026-10-25T20:57:29.864910+00:00",
+  "last_updated_at": "2026-10-25T20:57:36.902419+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "e181e04f1129b246",
+    "movie_id": "tt39631280",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-23",
+    "detected_at": "2026-10-25T20:57:29.864910+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "ग़ज़ब रात",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+     "genres": [
+      "триллер",
+      "криминал"
+     ],
+     "countries": [
+      "India"
+     ],
+     "runtime": 124,
+     "popularity": 67.8099,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 5.9,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-23",
+     "digital_release_date": "2026-10-23"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt37961714",
   "title": "Contra el huracán",
   "original_title": "Contra el huracán",
@@ -667,8 +739,8 @@
   "tmdb_id": 1780005,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.353,
-  "tmdb_vote_count": 17,
+  "tmdb_rating": 5.474,
+  "tmdb_vote_count": 19,
   "popularity": 87.9516,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-23",
@@ -1297,6 +1369,78 @@
   ]
  },
  {
+  "id": "tt45898803",
+  "title": "Impossible",
+  "original_title": "Impossible",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/qXuJHyhTCAG3pmoDs2Zv3r2PvO7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mHZEvxgPPAZzIA0KytHdmWGyczo.jpg",
+  "genres": [
+   "драма",
+   "телевизионный фильм"
+  ],
+  "countries": [
+   "France"
+  ],
+  "runtime": 0,
+  "imdb_id": "tt45898803",
+  "tmdb_id": 1536343,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.167,
+  "tmdb_vote_count": 6,
+  "popularity": 4.66,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-16",
+  "digital_release_date": "2026-10-16",
+  "first_detected_at": "2026-10-25T20:57:29.864910+00:00",
+  "last_updated_at": "2026-10-25T20:57:36.951429+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "9f37867d7243797a",
+    "movie_id": "tt45898803",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-16",
+    "detected_at": "2026-10-25T20:57:29.864910+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Impossible",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/qXuJHyhTCAG3pmoDs2Zv3r2PvO7.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/mHZEvxgPPAZzIA0KytHdmWGyczo.jpg",
+     "genres": [
+      "драма",
+      "телевизионный фильм"
+     ],
+     "countries": [
+      "France"
+     ],
+     "runtime": 0,
+     "popularity": 4.66,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.167,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-10-16",
+     "digital_release_date": "2026-10-16"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt39602636",
   "title": "杯雪·一战成名",
   "original_title": "杯雪·一战成名",
@@ -1603,8 +1747,8 @@
   "tmdb_id": 1487317,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.702,
-  "tmdb_vote_count": 62,
+  "tmdb_rating": 7.634,
+  "tmdb_vote_count": 67,
   "popularity": 27.4501,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-08",
@@ -1972,8 +2116,8 @@
   "tmdb_id": 1288069,
   "imdb_rating": 7.7,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.273,
-  "tmdb_vote_count": 181,
+  "tmdb_rating": 8.274,
+  "tmdb_vote_count": 184,
   "popularity": 82.5328,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -2365,8 +2509,8 @@
   "tmdb_id": 1381078,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.888,
-  "tmdb_vote_count": 147,
+  "tmdb_rating": 6.826,
+  "tmdb_vote_count": 158,
   "popularity": 76.0978,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-07",
@@ -2563,6 +2707,154 @@
      ],
      "imdb_rating": null,
      "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt32606305",
+  "title": "Deathgasm II: Goremageddon",
+  "original_title": "Deathgasm II: Goremageddon",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/e4iLDxqe8fcIG42YORNlh3t1ZJb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mbVx1IL2wx66171Kpr7vTmLssx.jpg",
+  "genres": [
+   "ужасы",
+   "комедия"
+  ],
+  "countries": [
+   "New Zealand",
+   "Canada"
+  ],
+  "runtime": 102,
+  "imdb_id": "tt32606305",
+  "tmdb_id": 1177529,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.0,
+  "tmdb_vote_count": 6,
+  "popularity": 5.626,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-29",
+  "digital_release_date": "2026-10-13",
+  "first_detected_at": "2026-10-25T20:57:29.864910+00:00",
+  "last_updated_at": "2026-10-25T20:57:37.077692+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "7a0fe8836727e6ba",
+    "movie_id": "tt32606305",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-13",
+    "detected_at": "2026-10-25T20:57:29.864910+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Deathgasm II: Goremageddon",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/e4iLDxqe8fcIG42YORNlh3t1ZJb.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/mbVx1IL2wx66171Kpr7vTmLssx.jpg",
+     "genres": [
+      "ужасы",
+      "комедия"
+     ],
+     "countries": [
+      "New Zealand",
+      "Canada"
+     ],
+     "runtime": 102,
+     "popularity": 5.626,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.0,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-09-29",
+     "digital_release_date": "2026-10-13"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt14541160",
+  "title": "Devour",
+  "original_title": "Devour",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kqzTOVIF5ITH7OfSUx0ybEZXd0W.jpg",
+  "genres": [
+   "ужасы",
+   "триллер",
+   "боевик"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 113,
+  "imdb_id": "tt14541160",
+  "tmdb_id": 1406253,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 5.8,
+  "tmdb_vote_count": 6,
+  "popularity": 5.8943,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-09",
+  "digital_release_date": "2026-10-13",
+  "first_detected_at": "2026-10-25T20:57:29.864910+00:00",
+  "last_updated_at": "2026-10-25T20:57:36.998428+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "232f7748e85db283",
+    "movie_id": "tt14541160",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-13",
+    "detected_at": "2026-10-25T20:57:29.864910+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Devour",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/kqzTOVIF5ITH7OfSUx0ybEZXd0W.jpg",
+     "genres": [
+      "ужасы",
+      "триллер",
+      "боевик"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 113,
+     "popularity": 5.8943,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 5.8,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-10-09",
+     "digital_release_date": "2026-10-13"
     }
    }
   ]
@@ -3045,7 +3337,7 @@
   "tmdb_id": 1545690,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.1,
+  "tmdb_rating": 5.9,
   "tmdb_vote_count": 7,
   "popularity": 3.5132,
   "popularity_source": "TMDB",
@@ -10394,7 +10686,7 @@
   "theatrical_release_date": "2026-08-19",
   "digital_release_date": "2026-09-08",
   "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-25T16:32:39.918483+00:00",
+  "last_updated_at": "2026-10-25T20:57:37.114690+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "BluRay",
   "best_resolution": "2160p",
@@ -10720,6 +11012,30 @@
      "quality": "unknown",
      "resolution": "2160p",
      "hdr": "HDR10+",
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "7304e06b131cb4e8",
+    "movie_id": "tt32338669",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-25T20:49:59+00:00",
+    "detected_at": "2026-10-25T20:57:29.864910+00:00",
+    "quality": "BluRay",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Мятеж / Mutiny (2026) BDRip 1080p от селезень | D | Пифагор",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "1080p",
+     "hdr": null,
      "audio": null,
      "language": "RU",
      "release_group": null,
@@ -19896,7 +20212,7 @@
   "theatrical_release_date": null,
   "digital_release_date": "2026-07-08",
   "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-10-25T16:32:39.925352+00:00",
+  "last_updated_at": "2026-10-25T20:57:37.119697+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "BluRay",
   "best_resolution": "2160p",
@@ -20136,6 +20452,30 @@
      "audio": null,
      "language": "RU",
      "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "5a43651d01f791d8",
+    "movie_id": "tt27165187",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-25T20:40:23+00:00",
+    "detected_at": "2026-10-25T20:57:29.864910+00:00",
+    "quality": "BluRay",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Movie Dubbing",
+    "raw_title": "На краю Оук-стрит / The End of Oak Street (2026) BDRip 1080p от селезень | D | Movie Dubbing",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Movie Dubbing",
      "is_secondary_signal": true
     }
    }
@@ -24939,7 +25279,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-23T17:16:04.676208+00:00",
-  "last_updated_at": "2026-10-23T17:16:45.017981+00:00",
+  "last_updated_at": "2026-10-25T20:57:37.125915+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -24964,6 +25304,30 @@
     "details": {
      "quality": "WEB-DL",
      "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "8aa8fbb6b677edb8",
+    "movie_id": "m_86a48ab7a0be",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-25T17:31:58+00:00",
+    "detected_at": "2026-10-25T20:57:29.864910+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Маленькие беглецы / Tiny Fugitives (2026) WEB-DLRip-AVC | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
      "hdr": null,
      "audio": null,
      "language": "RU",

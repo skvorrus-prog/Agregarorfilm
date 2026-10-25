@@ -1,7 +1,155 @@
 {
   "date": "2026-10-13",
-  "count": 6,
+  "count": 8,
   "movies": [
+    {
+      "id": "tt32606305",
+      "title": "Deathgasm II: Goremageddon",
+      "original_title": "Deathgasm II: Goremageddon",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/e4iLDxqe8fcIG42YORNlh3t1ZJb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mbVx1IL2wx66171Kpr7vTmLssx.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ],
+      "countries": [
+        "New Zealand",
+        "Canada"
+      ],
+      "runtime": 102,
+      "imdb_id": "tt32606305",
+      "tmdb_id": 1177529,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 6,
+      "popularity": 5.626,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-29",
+      "digital_release_date": "2026-10-13",
+      "first_detected_at": "2026-10-25T20:57:29.864910+00:00",
+      "last_updated_at": "2026-10-25T20:57:37.077692+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "7a0fe8836727e6ba",
+          "movie_id": "tt32606305",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-13",
+          "detected_at": "2026-10-25T20:57:29.864910+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Deathgasm II: Goremageddon",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/e4iLDxqe8fcIG42YORNlh3t1ZJb.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/mbVx1IL2wx66171Kpr7vTmLssx.jpg",
+            "genres": [
+              "ужасы",
+              "комедия"
+            ],
+            "countries": [
+              "New Zealand",
+              "Canada"
+            ],
+            "runtime": 102,
+            "popularity": 5.626,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-09-29",
+            "digital_release_date": "2026-10-13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt14541160",
+      "title": "Devour",
+      "original_title": "Devour",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kqzTOVIF5ITH7OfSUx0ybEZXd0W.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "боевик"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 113,
+      "imdb_id": "tt14541160",
+      "tmdb_id": 1406253,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.8,
+      "tmdb_vote_count": 6,
+      "popularity": 5.8943,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-09",
+      "digital_release_date": "2026-10-13",
+      "first_detected_at": "2026-10-25T20:57:29.864910+00:00",
+      "last_updated_at": "2026-10-25T20:57:36.998428+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "232f7748e85db283",
+          "movie_id": "tt14541160",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-13",
+          "detected_at": "2026-10-25T20:57:29.864910+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Devour",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/kqzTOVIF5ITH7OfSUx0ybEZXd0W.jpg",
+            "genres": [
+              "ужасы",
+              "триллер",
+              "боевик"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 113,
+            "popularity": 5.8943,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.8,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-10-09",
+            "digital_release_date": "2026-10-13"
+          }
+        }
+      ]
+    },
     {
       "id": "tt47658621",
       "title": "Майкл Че: Снято в Миннесоте",

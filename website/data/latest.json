@@ -21,8 +21,8 @@
   "tmdb_id": 1290418,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.688,
-  "tmdb_vote_count": 16,
+  "tmdb_rating": 7.714,
+  "tmdb_vote_count": 21,
   "popularity": 30.8598,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-24",
@@ -649,6 +649,78 @@
   ]
  },
  {
+  "id": "tt39631280",
+  "title": "ग़ज़ब रात",
+  "original_title": "ग़ज़ब रात",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+  "genres": [
+   "триллер",
+   "криминал"
+  ],
+  "countries": [
+   "India"
+  ],
+  "runtime": 124,
+  "imdb_id": "tt39631280",
+  "tmdb_id": 1453407,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 5.9,
+  "tmdb_vote_count": 5,
+  "popularity": 67.8099,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-23",
+  "digital_release_date": "2026-10-23",
+  "first_detected_at": "2026-10-25T20:57:29.864910+00:00",
+  "last_updated_at": "2026-10-25T20:57:36.902419+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "e181e04f1129b246",
+    "movie_id": "tt39631280",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-23",
+    "detected_at": "2026-10-25T20:57:29.864910+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "ग़ज़ब रात",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+     "genres": [
+      "триллер",
+      "криминал"
+     ],
+     "countries": [
+      "India"
+     ],
+     "runtime": 124,
+     "popularity": 67.8099,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 5.9,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-23",
+     "digital_release_date": "2026-10-23"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt37961714",
   "title": "Contra el huracán",
   "original_title": "Contra el huracán",
@@ -667,8 +739,8 @@
   "tmdb_id": 1780005,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.353,
-  "tmdb_vote_count": 17,
+  "tmdb_rating": 5.474,
+  "tmdb_vote_count": 19,
   "popularity": 87.9516,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-23",
@@ -1297,6 +1369,78 @@
   ]
  },
  {
+  "id": "tt45898803",
+  "title": "Impossible",
+  "original_title": "Impossible",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/qXuJHyhTCAG3pmoDs2Zv3r2PvO7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mHZEvxgPPAZzIA0KytHdmWGyczo.jpg",
+  "genres": [
+   "драма",
+   "телевизионный фильм"
+  ],
+  "countries": [
+   "France"
+  ],
+  "runtime": 0,
+  "imdb_id": "tt45898803",
+  "tmdb_id": 1536343,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.167,
+  "tmdb_vote_count": 6,
+  "popularity": 4.66,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-16",
+  "digital_release_date": "2026-10-16",
+  "first_detected_at": "2026-10-25T20:57:29.864910+00:00",
+  "last_updated_at": "2026-10-25T20:57:36.951429+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "9f37867d7243797a",
+    "movie_id": "tt45898803",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-16",
+    "detected_at": "2026-10-25T20:57:29.864910+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Impossible",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/qXuJHyhTCAG3pmoDs2Zv3r2PvO7.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/mHZEvxgPPAZzIA0KytHdmWGyczo.jpg",
+     "genres": [
+      "драма",
+      "телевизионный фильм"
+     ],
+     "countries": [
+      "France"
+     ],
+     "runtime": 0,
+     "popularity": 4.66,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.167,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-10-16",
+     "digital_release_date": "2026-10-16"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt39602636",
   "title": "杯雪·一战成名",
   "original_title": "杯雪·一战成名",
@@ -1603,8 +1747,8 @@
   "tmdb_id": 1487317,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.702,
-  "tmdb_vote_count": 62,
+  "tmdb_rating": 7.634,
+  "tmdb_vote_count": 67,
   "popularity": 27.4501,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-08",
@@ -1972,8 +2116,8 @@
   "tmdb_id": 1288069,
   "imdb_rating": 7.7,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.273,
-  "tmdb_vote_count": 181,
+  "tmdb_rating": 8.274,
+  "tmdb_vote_count": 184,
   "popularity": 82.5328,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -2365,8 +2509,8 @@
   "tmdb_id": 1381078,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.888,
-  "tmdb_vote_count": 147,
+  "tmdb_rating": 6.826,
+  "tmdb_vote_count": 158,
   "popularity": 76.0978,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-07",
@@ -2563,6 +2707,154 @@
      ],
      "imdb_rating": null,
      "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt32606305",
+  "title": "Deathgasm II: Goremageddon",
+  "original_title": "Deathgasm II: Goremageddon",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/e4iLDxqe8fcIG42YORNlh3t1ZJb.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/mbVx1IL2wx66171Kpr7vTmLssx.jpg",
+  "genres": [
+   "ужасы",
+   "комедия"
+  ],
+  "countries": [
+   "New Zealand",
+   "Canada"
+  ],
+  "runtime": 102,
+  "imdb_id": "tt32606305",
+  "tmdb_id": 1177529,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.0,
+  "tmdb_vote_count": 6,
+  "popularity": 5.626,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-29",
+  "digital_release_date": "2026-10-13",
+  "first_detected_at": "2026-10-25T20:57:29.864910+00:00",
+  "last_updated_at": "2026-10-25T20:57:37.077692+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "7a0fe8836727e6ba",
+    "movie_id": "tt32606305",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-13",
+    "detected_at": "2026-10-25T20:57:29.864910+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Deathgasm II: Goremageddon",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/e4iLDxqe8fcIG42YORNlh3t1ZJb.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/mbVx1IL2wx66171Kpr7vTmLssx.jpg",
+     "genres": [
+      "ужасы",
+      "комедия"
+     ],
+     "countries": [
+      "New Zealand",
+      "Canada"
+     ],
+     "runtime": 102,
+     "popularity": 5.626,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.0,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-09-29",
+     "digital_release_date": "2026-10-13"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt14541160",
+  "title": "Devour",
+  "original_title": "Devour",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kqzTOVIF5ITH7OfSUx0ybEZXd0W.jpg",
+  "genres": [
+   "ужасы",
+   "триллер",
+   "боевик"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 113,
+  "imdb_id": "tt14541160",
+  "tmdb_id": 1406253,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 5.8,
+  "tmdb_vote_count": 6,
+  "popularity": 5.8943,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-09",
+  "digital_release_date": "2026-10-13",
+  "first_detected_at": "2026-10-25T20:57:29.864910+00:00",
+  "last_updated_at": "2026-10-25T20:57:36.998428+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "232f7748e85db283",
+    "movie_id": "tt14541160",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-13",
+    "detected_at": "2026-10-25T20:57:29.864910+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Devour",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/kqzTOVIF5ITH7OfSUx0ybEZXd0W.jpg",
+     "genres": [
+      "ужасы",
+      "триллер",
+      "боевик"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 113,
+     "popularity": 5.8943,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 5.8,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-10-09",
+     "digital_release_date": "2026-10-13"
     }
    }
   ]
@@ -3045,7 +3337,7 @@
   "tmdb_id": 1545690,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.1,
+  "tmdb_rating": 5.9,
   "tmdb_vote_count": 7,
   "popularity": 3.5132,
   "popularity_source": "TMDB",
@@ -7403,428 +7695,6 @@
      "tmdb_vote_count": 6,
      "theatrical_release_date": "2026-09-25",
      "digital_release_date": "2026-09-25"
-    }
-   }
-  ]
- },
- {
-  "id": "tt39319437",
-  "title": "Buzzkill",
-  "original_title": "Buzzkill",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/uLftvCgy9WFGRnrGbMer7i61Zkn.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/1tQCDBAvlC8iSt3wRmRgqwbYgNF.jpg",
-  "genres": [
-   "ужасы",
-   "комедия",
-   "триллер"
-  ],
-  "countries": [
-   "Canada"
-  ],
-  "runtime": 95,
-  "imdb_id": "tt39319437",
-  "tmdb_id": 1613037,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 5.643,
-  "tmdb_vote_count": 7,
-  "popularity": 4.8031,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-25",
-  "digital_release_date": "2026-09-25",
-  "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
-  "last_updated_at": "2026-10-05T14:54:57.604722+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "c7eea6a0291edcb6",
-    "movie_id": "tt39319437",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-25",
-    "detected_at": "2026-10-05T14:54:50.506269+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Buzzkill",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/uLftvCgy9WFGRnrGbMer7i61Zkn.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/1tQCDBAvlC8iSt3wRmRgqwbYgNF.jpg",
-     "genres": [
-      "ужасы",
-      "комедия",
-      "триллер"
-     ],
-     "countries": [
-      "Canada"
-     ],
-     "runtime": 95,
-     "popularity": 5.8677,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 5.3,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-09-25",
-     "digital_release_date": "2026-09-25"
-    }
-   }
-  ]
- },
- {
-  "id": "tt29494959",
-  "title": "Заместитель",
-  "original_title": "The Deputy",
-  "year": 2026,
-  "overview": "Молодому помощнику шерифа Тоби Сойеру поручают охранять тело погибшего до приезда коронера. Но спустя час труп загадочно исчезает, а Тоби оказывается под подозрением и становится мишенью опасных преступников. Пытаясь найти пропавшее тело и очистить своё имя, он постепенно раскрывает сеть коррупции, старых преступлений и тёмных секретов небольшого городка.",
-  "poster": "https://image.tmdb.org/t/p/w500/tgPVH0NIfQGVSUECHOCfZN3LlcQ.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/9yWto4XFFzSZ7yHlh6fYmwbDw8u.jpg",
-  "genres": [
-   "боевик",
-   "криминал",
-   "триллер"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 100,
-  "imdb_id": "tt29494959",
-  "tmdb_id": 1291366,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.357,
-  "tmdb_vote_count": 14,
-  "popularity": 6.9004,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-25",
-  "digital_release_date": "2026-09-25",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-07T13:35:24.250350+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "1080p",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "88054c4a13eb97c3",
-    "movie_id": "tt29494959",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-25",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Заместитель",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Молодому помощнику шерифа Тоби Сойеру поручают охранять тело погибшего до приезда коронера. Но спустя час труп загадочно исчезает, а Тоби оказывается под подозрением и становится мишенью опасных преступников. Пытаясь найти пропавшее тело и очистить своё имя, он постепенно раскрывает сеть коррупции, старых преступлений и тёмных секретов небольшого городка.",
-     "poster": "https://image.tmdb.org/t/p/w500/tgPVH0NIfQGVSUECHOCfZN3LlcQ.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/9yWto4XFFzSZ7yHlh6fYmwbDw8u.jpg",
-     "genres": [
-      "боевик",
-      "криминал",
-      "триллер"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 100,
-     "popularity": 18.1849,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.2,
-     "tmdb_vote_count": 8,
-     "theatrical_release_date": "2026-09-25",
-     "digital_release_date": "2026-09-25"
-    }
-   },
-   {
-    "id": "c1e8e97c68d01cfd",
-    "movie_id": "tt29494959",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-06T09:48:53+00:00",
-    "detected_at": "2026-10-06T16:01:08.191043+00:00",
-    "quality": "WEB-DL",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "Official",
-    "raw_title": "Шериф поневоле / The Deputy (2026) WEB-DL 1080p от ELEKTRI4KA | D | Official",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "Official",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "83372f2ceff2aeb8",
-    "movie_id": "tt29494959",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-06T09:52:39+00:00",
-    "detected_at": "2026-10-06T16:01:08.191043+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "Official",
-    "raw_title": "Шериф поневоле / The Deputy (2026) WEB-DLRip от ELEKTRI4KA | D | Official",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "unknown",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "Official",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "4c8e1309dc7f7be9",
-    "movie_id": "tt29494959",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-06T12:31:55+00:00",
-    "detected_at": "2026-10-06T16:01:08.191043+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "Official",
-    "raw_title": "Шериф поневоле / The Deputy (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Official",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "unknown",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "Official",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "c135daffe20e9d21",
-    "movie_id": "tt29494959",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-06T19:24:38+00:00",
-    "detected_at": "2026-10-06T22:41:40.348916+00:00",
-    "quality": "WEB-DL",
-    "resolution": "720p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "Official",
-    "raw_title": "Шериф поневоле / The Deputy (2026) WEB-DLRip 720p от ELEKTRI4KA | D | Official",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "720p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "Official",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "67a97c19ef7584af",
-    "movie_id": "tt29494959",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-07T12:35:45+00:00",
-    "detected_at": "2026-10-07T13:35:17.150465+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "Official",
-    "raw_title": "Шериф поневоле / The Deputy (2026) WEB-DLRip | D | Official",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "unknown",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "Official",
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "tt36893729",
-  "title": "Мороженщик",
-  "original_title": "Ice Cream Man",
-  "year": 2026,
-  "overview": "Обычный летний городок погружается в безумие, когда продавец мороженого угощает детей сладкими лакомствами, что приводит к ужасающим последствиям.",
-  "poster": "https://image.tmdb.org/t/p/w500/43DuDvgZO1e34sylK8SRtMJ3tWw.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
-  "genres": [
-   "комедия",
-   "ужасы",
-   "триллер"
-  ],
-  "countries": [
-   "United States of America",
-   "United Kingdom",
-   "France",
-   "Japan"
-  ],
-  "runtime": 86,
-  "imdb_id": "tt36893729",
-  "tmdb_id": 1477712,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 4.856,
-  "tmdb_vote_count": 104,
-  "popularity": 123.5874,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-08-03",
-  "digital_release_date": "2026-09-22",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:27.380617+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "b901c751480b198d",
-    "movie_id": "tt36893729",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-22",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Мороженщик",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Обычный летний городок погружается в безумие, когда продавец мороженого угощает детей сладкими лакомствами, что приводит к ужасающим последствиям.",
-     "poster": "https://image.tmdb.org/t/p/w500/43DuDvgZO1e34sylK8SRtMJ3tWw.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
-     "genres": [
-      "комедия",
-      "ужасы",
-      "триллер"
-     ],
-     "countries": [
-      "United States of America",
-      "United Kingdom",
-      "France",
-      "Japan"
-     ],
-     "runtime": 86,
-     "popularity": 123.5874,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 4.856,
-     "tmdb_vote_count": 104,
-     "theatrical_release_date": "2026-08-03",
-     "digital_release_date": "2026-09-22"
-    }
-   }
-  ]
- },
- {
-  "id": "tt8820258",
-  "title": "Суперполицейские 3",
-  "original_title": "Super Troopers 3",
-  "year": 2026,
-  "overview": "Когда чрезмерно экстравагантная индийская помолвка Фарвы с сестрой Торни перерастает в хаос, Суперполицейским приходится противостоять планам Торни по разрушению отношений, одновременно пытаясь разоблачить новый опасный наркокартель.",
-  "poster": "https://image.tmdb.org/t/p/w500/a5Rt5BMtGTFStdhxWutdjrHEgnU.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
-  "genres": [
-   "комедия",
-   "криминал",
-   "детектив"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 104,
-  "imdb_id": "tt8820258",
-  "tmdb_id": 675871,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.639,
-  "tmdb_vote_count": 36,
-  "popularity": 31.2182,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-08-06",
-  "digital_release_date": "2026-09-22",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:27.242263+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "3b86f4db3db6c564",
-    "movie_id": "tt8820258",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-22",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Суперполицейские 3",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Когда чрезмерно экстравагантная индийская помолвка Фарвы с сестрой Торни перерастает в хаос, Суперполицейским приходится противостоять планам Торни по разрушению отношений, одновременно пытаясь разоблачить новый опасный наркокартель.",
-     "poster": "https://image.tmdb.org/t/p/w500/a5Rt5BMtGTFStdhxWutdjrHEgnU.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
-     "genres": [
-      "комедия",
-      "криминал",
-      "детектив"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 104,
-     "popularity": 31.2182,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.639,
-     "tmdb_vote_count": 36,
-     "theatrical_release_date": "2026-08-06",
-     "digital_release_date": "2026-09-22"
     }
    }
   ]

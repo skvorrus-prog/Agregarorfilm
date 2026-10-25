@@ -70,6 +70,21 @@
  "10-23": {
   "2026": [
    {
+    "id": "tt39631280",
+    "title": "ग़ज़ब रात",
+    "original_title": "ग़ज़ब रात",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+    "digital_release_date": "2026-10-23",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt37961714",
     "title": "Contra el huracán",
     "original_title": "Contra el huracán",
@@ -630,6 +645,21 @@
  "10-16": {
   "2026": [
    {
+    "id": "tt45898803",
+    "title": "Impossible",
+    "original_title": "Impossible",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/qXuJHyhTCAG3pmoDs2Zv3r2PvO7.jpg",
+    "digital_release_date": "2026-10-16",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt39602636",
     "title": "杯雪·一战成名",
     "original_title": "杯雪·一战成名",
@@ -911,6 +941,36 @@
  },
  "10-13": {
   "2026": [
+   {
+    "id": "tt32606305",
+    "title": "Deathgasm II: Goremageddon",
+    "original_title": "Deathgasm II: Goremageddon",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/e4iLDxqe8fcIG42YORNlh3t1ZJb.jpg",
+    "digital_release_date": "2026-10-13",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "tt14541160",
+    "title": "Devour",
+    "original_title": "Devour",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/duzeXiCKKU9bJUcObIf9zNMZIrC.jpg",
+    "digital_release_date": "2026-10-13",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt47658621",
     "title": "Майкл Че: Снято в Миннесоте",

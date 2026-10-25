@@ -1,7 +1,79 @@
 {
   "date": "2026-10-23",
-  "count": 9,
+  "count": 10,
   "movies": [
+    {
+      "id": "tt39631280",
+      "title": "ग़ज़ब रात",
+      "original_title": "ग़ज़ब रात",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+      "genres": [
+        "триллер",
+        "криминал"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 124,
+      "imdb_id": "tt39631280",
+      "tmdb_id": 1453407,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.9,
+      "tmdb_vote_count": 5,
+      "popularity": 67.8099,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-23",
+      "digital_release_date": "2026-10-23",
+      "first_detected_at": "2026-10-25T20:57:29.864910+00:00",
+      "last_updated_at": "2026-10-25T20:57:36.902419+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e181e04f1129b246",
+          "movie_id": "tt39631280",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-23",
+          "detected_at": "2026-10-25T20:57:29.864910+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "ग़ज़ब रात",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+            "genres": [
+              "триллер",
+              "криминал"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 124,
+            "popularity": 67.8099,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.9,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-23",
+            "digital_release_date": "2026-10-23"
+          }
+        }
+      ]
+    },
     {
       "id": "tt37961714",
       "title": "Contra el huracán",
@@ -21,8 +93,8 @@
       "tmdb_id": 1780005,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 5.353,
-      "tmdb_vote_count": 17,
+      "tmdb_rating": 5.474,
+      "tmdb_vote_count": 19,
       "popularity": 87.9516,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-23",
@@ -346,7 +418,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-23T17:16:04.676208+00:00",
-      "last_updated_at": "2026-10-23T17:16:45.017981+00:00",
+      "last_updated_at": "2026-10-25T20:57:37.125915+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -371,6 +443,30 @@
           "details": {
             "quality": "WEB-DL",
             "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "8aa8fbb6b677edb8",
+          "movie_id": "m_86a48ab7a0be",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-25T17:31:58+00:00",
+          "detected_at": "2026-10-25T20:57:29.864910+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Маленькие беглецы / Tiny Fugitives (2026) WEB-DLRip-AVC | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
             "hdr": null,
             "audio": null,
             "language": "RU",
