@@ -36,6 +36,21 @@
     "has_ru_audio": true
    },
    {
+    "id": "m_d54eacd4694b",
+    "title": "Ковбой-убийца",
+    "original_title": "The Cowboy Killer",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2I0NmI3MWEtZWQzYy00MTZlLWI0YmItODVhYTgxZTI0OTdkXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_424cce2a777f",
     "title": "Вторая мировая: Бигфут",
     "original_title": "World War Bigfoot",
@@ -232,7 +247,7 @@
     "digital_release_date": null,
     "imdb_rating": 5.9,
     "imdb_vote_count": null,
-    "best_quality": "unknown",
+    "best_quality": "BluRay",
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
