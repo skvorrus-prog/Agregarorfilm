@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-26",
+  "count": 6,
+  "movies": [
+    {
+      "id": "m_591bf6c4a7aa",
+      "title": "Воскрешение",
+      "original_title": "Kuang ye shi dai / Resurrection",
+      "year": 2025,
+      "overview": "Воскрешение мёртвых — распространённый в мифологиях различных народов и религиях сюжет воскрешения (оживления) умершего существа, зачастую совершаемого божеством или святым. Является частью представлений о жизни после смерти.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGQ2ODE0M2QtODUzMS00OGIyLTlmZWItZGMwM2E2MDg5YWUxXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "countries": [
+        "China, France, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt29002950",
+      "tmdb_id": null,
+      "imdb_rating": 7.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-26T20:35:23.467493+00:00",
+      "last_updated_at": "2026-10-26T20:35:48.863835+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "c5110d519aa4d652",
+          "movie_id": "m_591bf6c4a7aa",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-26T13:50:31+00:00",
+          "detected_at": "2026-10-26T20:35:23.467493+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "WinMedia",
+          "raw_title": "Воскрешение / Kuang ye shi dai / Resurrection (2025) BDRip от MegaPeer | P | WinMedia",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "WinMedia",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "8edbb34816162c5e",
+          "movie_id": "m_591bf6c4a7aa",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-26T13:50:33+00:00",
+          "detected_at": "2026-10-26T20:35:23.467493+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "WinMedia",
+          "raw_title": "Воскрешение / Kuang ye shi dai / Resurrection (2025) BDRip 1080p от MegaPeer | P | WinMedia",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "WinMedia",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_c3db135f199f",
+      "title": "Охотники из рая",
+      "original_title": "The Hunted",
+      "year": 2024,
+      "overview": "Следопыт ФБР пытается поймать обученного убийцу, который занялся охотой на людей.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGYyZGExZTMtNjBmNC00Y2E2LThlYmUtZTkyNDVjZjFmODljXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt0269347",
+      "tmdb_id": null,
+      "imdb_rating": 6.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-26T20:35:23.467493+00:00",
+      "last_updated_at": "2026-10-26T20:35:48.159186+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "16d80e156e04ab81",
+          "movie_id": "m_c3db135f199f",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-26T14:14:39+00:00",
+          "detected_at": "2026-10-26T20:35:23.467493+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Охотники из рая / The Hunted (2024) BDRip от MegaPeer | D | Кириллица",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "08228aff7982706d",
+          "movie_id": "m_c3db135f199f",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-26T14:14:42+00:00",
+          "detected_at": "2026-10-26T20:35:23.467493+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Охотники из рая / The Hunted (2024) BDRip 1080p от MegaPeer | D | Кириллица",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_38f3cc958f16",
+      "title": "Собачьи звёзды",
+      "original_title": "The Dog Stars",
+      "year": 2026,
+      "overview": "«Собачьи звёзды» — постапокалиптический научно-фантастический драматический фильм режиссёра Ридли Скотта, основанный на романе «По звёздам Пса» Питера Хеллера. Премьера состоялась 28 августа 2026 года.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "countries": [
+        "United Kingdom, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt21285562",
+      "tmdb_id": null,
+      "imdb_rating": 6.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-26T20:35:23.467493+00:00",
+      "last_updated_at": "2026-10-26T20:35:45.574860+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9c9f421144fab265",
+          "movie_id": "m_38f3cc958f16",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-26T14:32:26+00:00",
+          "detected_at": "2026-10-26T20:35:23.467493+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Собачьи звёзды / The Dog Stars (2026) WEB-DL 1080p | Sub",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_391a7d857dd0",
+      "title": "Полутон",
+      "original_title": "The Undertone",
+      "year": 2025,
+      "overview": "Полуто́н — музыкальный интервал, равный половине целого тона. Полутон — наименьший интервал в традиционной и академической музыке Европы. «Музыкально-теоретический» полутон, понимаемый как структурный элемент диатонических и хроматических звукорядов, не может быть приведён к единому математико-акустическому значению. То, что музыканты в разные эпохи называли словом «полутон», представляет собой не одну величину, а группу разных величин.",
+      "poster": "https://images.metahub.space/poster/small/tt35892608/img",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "runtime": null,
+      "imdb_id": "tt35892608",
+      "tmdb_id": null,
+      "imdb_rating": 5.9,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-26T20:35:23.467493+00:00",
+      "last_updated_at": "2026-10-26T20:35:44.889922+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "3632b3c9409fcd69",
+          "movie_id": "m_391a7d857dd0",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-26T14:41:53+00:00",
+          "detected_at": "2026-10-26T20:35:23.467493+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "NDA Studio",
+          "raw_title": "Полутон / The Undertone (2025) BDRip от MegaPeer | D | NDA Studio",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "NDA Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "f4292e90878a27ab",
+          "movie_id": "m_391a7d857dd0",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-26T14:41:56+00:00",
+          "detected_at": "2026-10-26T20:35:23.467493+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "NDA Studio",
+          "raw_title": "Полутон / The Undertone (2025) BDRip 1080p от MegaPeer | D | NDA Studio",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "NDA Studio",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_e79e9ad1d06a",
+      "title": "Двойное убийство",
+      "original_title": "Double Kill",
+      "year": 2026,
+      "overview": "Убийцы-близнецы берут на себя ночь жестоких контрактов, пока предательство не превращает их миссию в борьбу за выживание, заставляя сестру против сестры в неустанном столкновении крови, верности и мести.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzZhYjA3M2MtZWJiMC00NDJlLWIxN2YtMmMwZDc3Y2ZiYjQxXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": null,
+      "imdb_id": "tt37527070",
+      "tmdb_id": null,
+      "imdb_rating": 6.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-26T20:35:23.467493+00:00",
+      "last_updated_at": "2026-10-26T20:35:43.010689+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "15ad866c24787ff3",
+          "movie_id": "m_e79e9ad1d06a",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-26T14:59:29+00:00",
+          "detected_at": "2026-10-26T20:35:23.467493+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Двойное убийство / Double Kill (2026) WEBRip 1080p | L | Синема УС",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt49058294",
+      "title": "Remain Calm",
+      "original_title": "Remain Calm",
+      "year": null,
+      "overview": "История следует за двумя клерками заправочной станции, чья рутинная ночная смена превращается в борьбу за выживание. Правительственный агент предупреждает их о мистере Фретте, ужасающем существе, которое отслеживает и охотится на людей, которые проявляют какие-либо признаки тревоги, стресса или паники. Чтобы остаться в живых, персонажи должны заставить себя перейти в состояние агрессивного позитива и спокойствия.",
+      "poster": "https://live.metahub.space/poster/small/tt49058294/img",
+      "backdrop": null,
+      "genres": [
+        "Horror"
+      ],
+      "countries": [],
+      "runtime": null,
+      "imdb_id": "tt49058294",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-26T20:35:23.467493+00:00",
+      "last_updated_at": "2026-10-26T20:35:33.526564+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "bfb9cb50fbb434f9",
+          "movie_id": "tt49058294",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-26T20:35:23.467493+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Remain Calm ()",
+          "details": {
+            "title": "Remain Calm",
+            "year": null,
+            "overview": "The story follows the two gas station clerks whose routine night shift turns into a fight for survival. A government agent warns them about Mr. Frett, a terrifying creature that tracks and hunts people who show any signs of anxiety, stress, or panic. To stay alive, the characters must force themselves into a state of aggressive positivity and calm.",
+            "poster": "https://live.metahub.space/poster/small/tt49058294/img",
+            "genres": [
+              "Horror"
+            ],
+            "countries": [],
+            "imdb_rating": null,
+            "runtime": null
+          }
+        }
+      ]
+    }
+  ]
+}

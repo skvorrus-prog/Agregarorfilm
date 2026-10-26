@@ -1078,6 +1078,85 @@
    }
   ]
  },
+ "10-12": {
+  "2026": [
+   {
+    "id": "tt46659729",
+    "title": "Clown Panic",
+    "original_title": "Clown Panic",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
+    "digital_release_date": "2026-10-12",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_bbe48dfd70de",
+    "title": "Проклятие Малены",
+    "original_title": "Nanay, Tatay",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc4Y2VmZGItOGE5Yi00MTY4LTkzZmYtNWVlMzFlMmQzYmM3XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.9,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_db7cafe1f5fc",
+    "title": "Уроки соблазна или О чём мечтает каждая женщина",
+    "original_title": "De mannenmaker",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDNmODFjNzUtZGQ5Ny00YzM2LWJkYTAtNWE1NTgxNTI1MDU0XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_87719b6f5c4e",
+    "title": "Заманчивое предложение",
+    "original_title": "Дверь в подвал / Cellar Door",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmIyNDdkMWUtNmU3MC00MzAyLWIxZTMtNDk5MjgwMTRjNzcyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_9f4b2ee9863d",
+    "title": "Тараканы",
+    "original_title": "Cockroaches",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODgyOTQ4ZGUtZWZlNC00MmZiLTk4NGQtMmI1NjVjMTU0ZGJiXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.8,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "10-11": {
   "2026": [
    {
@@ -6039,6 +6118,100 @@
    }
   ]
  },
+ "10-26": {
+  "2026": [
+   {
+    "id": "m_591bf6c4a7aa",
+    "title": "Воскрешение",
+    "original_title": "Kuang ye shi dai / Resurrection",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGQ2ODE0M2QtODUzMS00OGIyLTlmZWItZGMwM2E2MDg5YWUxXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.2,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_c3db135f199f",
+    "title": "Охотники из рая",
+    "original_title": "The Hunted",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGYyZGExZTMtNjBmNC00Y2E2LThlYmUtZTkyNDVjZjFmODljXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.1,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_38f3cc958f16",
+    "title": "Собачьи звёзды",
+    "original_title": "The Dog Stars",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_391a7d857dd0",
+    "title": "Полутон",
+    "original_title": "The Undertone",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt35892608/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.9,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_e79e9ad1d06a",
+    "title": "Двойное убийство",
+    "original_title": "Double Kill",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzZhYjA3M2MtZWJiMC00NDJlLWIxN2YtMmMwZDc3Y2ZiYjQxXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "tt49058294",
+    "title": "Remain Calm",
+    "original_title": "Remain Calm",
+    "year": null,
+    "poster": "https://live.metahub.space/poster/small/tt49058294/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-24": {
   "2026": [
    {
@@ -6333,70 +6506,6 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
-   }
-  ]
- },
- "10-12": {
-  "2026": [
-   {
-    "id": "m_bbe48dfd70de",
-    "title": "Проклятие Малены",
-    "original_title": "Nanay, Tatay",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDc4Y2VmZGItOGE5Yi00MTY4LTkzZmYtNWVlMzFlMmQzYmM3XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.9,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_db7cafe1f5fc",
-    "title": "Уроки соблазна или О чём мечтает каждая женщина",
-    "original_title": "De mannenmaker",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDNmODFjNzUtZGQ5Ny00YzM2LWJkYTAtNWE1NTgxNTI1MDU0XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 5.5,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_87719b6f5c4e",
-    "title": "Заманчивое предложение",
-    "original_title": "Дверь в подвал / Cellar Door",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmIyNDdkMWUtNmU3MC00MzAyLWIxZTMtNDk5MjgwMTRjNzcyXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 5.2,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_9f4b2ee9863d",
-    "title": "Тараканы",
-    "original_title": "Cockroaches",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODgyOTQ4ZGUtZWZlNC00MmZiLTk4NGQtMmI1NjVjMTU0ZGJiXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 5.8,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
    }
   ]
  },

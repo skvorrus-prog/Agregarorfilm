@@ -21,14 +21,14 @@
   "tmdb_id": 1290418,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.5,
+  "tmdb_rating": 7.52,
   "tmdb_vote_count": 25,
   "popularity": 57.1038,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-24",
   "digital_release_date": "2026-11-05",
   "first_detected_at": "2026-10-24T04:46:28.026604+00:00",
-  "last_updated_at": "2026-10-24T11:14:34.249112+00:00",
+  "last_updated_at": "2026-10-26T20:35:31.290469+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -58,6 +58,37 @@
      "language": null,
      "release_group": "Sub",
      "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "4854a642f674e4a7",
+    "movie_id": "tt32358390",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-10-26T20:35:23.467493+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The Cycle (2026)",
+    "details": {
+     "title": "The Cycle",
+     "year": 2026,
+     "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+     "poster": "https://images.metahub.space/poster/small/tt32358390/img",
+     "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+     ],
+     "countries": [
+      "United Kingdom"
+     ],
+     "imdb_rating": null,
+     "runtime": null
     }
    },
    {
@@ -739,7 +770,7 @@
   "tmdb_id": 1780005,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.696,
+  "tmdb_rating": 5.7,
   "tmdb_vote_count": 28,
   "popularity": 100.0999,
   "popularity_source": "TMDB",
@@ -1458,7 +1489,7 @@
   "tmdb_id": 1536343,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.167,
+  "tmdb_rating": 7.2,
   "tmdb_vote_count": 6,
   "popularity": 4.8498,
   "popularity_source": "TMDB",
@@ -1530,7 +1561,7 @@
   "tmdb_id": 1563627,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.167,
+  "tmdb_rating": 7.2,
   "tmdb_vote_count": 6,
   "popularity": 12.5251,
   "popularity_source": "TMDB",
@@ -1601,7 +1632,7 @@
   "tmdb_id": 1620918,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.731,
+  "tmdb_rating": 7.7,
   "tmdb_vote_count": 13,
   "popularity": 7.0381,
   "popularity_source": "TMDB",
@@ -1817,7 +1848,7 @@
   "tmdb_id": 1487317,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.683,
+  "tmdb_rating": 7.7,
   "tmdb_vote_count": 71,
   "popularity": 24.6599,
   "popularity_source": "TMDB",
@@ -1919,8 +1950,8 @@
   "tmdb_id": 1561726,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.029,
-  "tmdb_vote_count": 172,
+  "tmdb_rating": 7.0,
+  "tmdb_vote_count": 173,
   "popularity": 189.5685,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-16",
@@ -2186,8 +2217,8 @@
   "tmdb_id": 1288069,
   "imdb_rating": 7.5,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.327,
-  "tmdb_vote_count": 197,
+  "tmdb_rating": 8.336,
+  "tmdb_vote_count": 198,
   "popularity": 76.4355,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -2507,7 +2538,7 @@
   "tmdb_id": 1623256,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.385,
+  "tmdb_rating": 6.4,
   "tmdb_vote_count": 52,
   "popularity": 23.404,
   "popularity_source": "TMDB",
@@ -2579,8 +2610,8 @@
   "tmdb_id": 1381078,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.811,
-  "tmdb_vote_count": 159,
+  "tmdb_rating": 6.799,
+  "tmdb_vote_count": 162,
   "popularity": 77.1959,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-07",
@@ -3016,7 +3047,7 @@
   "tmdb_id": 1282159,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.056,
+  "tmdb_rating": 8.1,
   "tmdb_vote_count": 9,
   "popularity": 4.5693,
   "popularity_source": "TMDB",
@@ -3383,6 +3414,76 @@
      ],
      "imdb_rating": 6.6,
      "runtime": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt46659729",
+  "title": "Clown Panic",
+  "original_title": "Clown Panic",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/51M331d6lEMidnZlAEbTKox5ih4.jpg",
+  "genres": [
+   "документальный"
+  ],
+  "countries": [
+   "United Kingdom"
+  ],
+  "runtime": 84,
+  "imdb_id": "tt46659729",
+  "tmdb_id": 1776531,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 3.6,
+  "tmdb_vote_count": 5,
+  "popularity": 13.6054,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-12",
+  "digital_release_date": "2026-10-12",
+  "first_detected_at": "2026-10-26T20:35:23.467493+00:00",
+  "last_updated_at": "2026-10-26T20:35:31.273674+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "c9ed10cb313f3cf1",
+    "movie_id": "tt46659729",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-12",
+    "detected_at": "2026-10-26T20:35:23.467493+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Clown Panic",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/51M331d6lEMidnZlAEbTKox5ih4.jpg",
+     "genres": [
+      "документальный"
+     ],
+     "countries": [
+      "United Kingdom"
+     ],
+     "runtime": 84,
+     "popularity": 13.6054,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 3.6,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-12",
+     "digital_release_date": "2026-10-12"
     }
    }
   ]
@@ -7596,103 +7697,6 @@
      "tmdb_vote_count": 2,
      "theatrical_release_date": "2026-09-27",
      "digital_release_date": "2026-09-27"
-    }
-   }
-  ]
- },
- {
-  "id": "tt43651150",
-  "title": "AEW All Out 2026",
-  "original_title": "AEW All Out 2026",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/3Id93rTWF7zWT55Y16NtJ1lS1Am.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/7ma5hEJiQ64to41kGoOGwfxXv9O.jpg",
-  "genres": [],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 260,
-  "imdb_id": "tt43651150",
-  "tmdb_id": 1728084,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 7.8,
-  "tmdb_vote_count": 6,
-  "popularity": 3.4511,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-26",
-  "digital_release_date": "2026-09-26",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.498135+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "12b41e228bd7f5be",
-    "movie_id": "tt43651150",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-26",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "AEW All Out 2026",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/3Id93rTWF7zWT55Y16NtJ1lS1Am.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/7ma5hEJiQ64to41kGoOGwfxXv9O.jpg",
-     "genres": [],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 260,
-     "popularity": 5.8486,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.4,
-     "tmdb_vote_count": 4,
-     "theatrical_release_date": "2026-09-26",
-     "digital_release_date": "2026-09-26"
-    }
-   },
-   {
-    "id": "26a4939cf9261a0b",
-    "movie_id": "tt43651150",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-26",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "AEW All Out 2026",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/3Id93rTWF7zWT55Y16NtJ1lS1Am.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/7ma5hEJiQ64to41kGoOGwfxXv9O.jpg",
-     "genres": [],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 260,
-     "popularity": 5.8486,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.4,
-     "tmdb_vote_count": 4,
-     "theatrical_release_date": "2026-09-26",
-     "digital_release_date": "2026-09-26"
     }
    }
   ]

@@ -240,7 +240,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-21T17:20:52.497724+00:00",
-      "last_updated_at": "2026-10-25T16:32:46.800777+00:00",
+      "last_updated_at": "2026-10-26T20:35:31.296786+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -462,6 +462,37 @@
             "language": "RU",
             "release_group": null,
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "d16f1cdd3d1f1690",
+          "movie_id": "m_61a18c264aca",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-26T20:35:23.467493+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "By Any Means (2026)",
+          "details": {
+            "title": "By Any Means",
+            "year": 2026,
+            "overview": "A notorious mafia hitman and a young Black FBI agent team up to investigate the murders of civil rights leaders in 1966 Mississippi.",
+            "poster": "https://images.metahub.space/poster/small/tt34379051/img",
+            "genres": [
+              "Action",
+              "Crime",
+              "Thriller"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": null,
+            "runtime": null
           }
         }
       ]

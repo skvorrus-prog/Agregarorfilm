@@ -24,14 +24,14 @@
       "tmdb_id": 1290418,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.5,
+      "tmdb_rating": 7.52,
       "tmdb_vote_count": 25,
       "popularity": 57.1038,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-24",
       "digital_release_date": "2026-11-05",
       "first_detected_at": "2026-10-24T04:46:28.026604+00:00",
-      "last_updated_at": "2026-10-24T11:14:34.249112+00:00",
+      "last_updated_at": "2026-10-26T20:35:31.290469+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -61,6 +61,37 @@
             "language": null,
             "release_group": "Sub",
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "4854a642f674e4a7",
+          "movie_id": "tt32358390",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-26T20:35:23.467493+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Cycle (2026)",
+          "details": {
+            "title": "The Cycle",
+            "year": 2026,
+            "overview": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene.",
+            "poster": "https://images.metahub.space/poster/small/tt32358390/img",
+            "genres": [
+              "Crime",
+              "Horror",
+              "Thriller"
+            ],
+            "countries": [
+              "United Kingdom"
+            ],
+            "imdb_rating": null,
+            "runtime": null
           }
         },
         {
