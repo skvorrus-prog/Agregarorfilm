@@ -1,7 +1,77 @@
 {
   "date": "2026-10-20",
-  "count": 3,
+  "count": 4,
   "movies": [
+    {
+      "id": "tt37775809",
+      "title": "Мюзикл",
+      "original_title": "The Musical",
+      "year": 2026,
+      "overview": "Узнав, что его бывшая девушка начала встречаться с его заклятым врагом – директором школы, неудачливый драматург и учитель театрального искусства в средней школе решает лишить директора шансов выиграть престижную награду «Синяя лента» за выдающиеся академические достижения.",
+      "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/475EwwQP3Lg0kqhSC0xnZC4XBBd.jpg",
+      "genres": [
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 84,
+      "imdb_id": "tt37775809",
+      "tmdb_id": 1579941,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.25,
+      "tmdb_vote_count": 6,
+      "popularity": 21.6951,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-18",
+      "digital_release_date": "2026-10-20",
+      "first_detected_at": "2026-10-26T04:57:40.120598+00:00",
+      "last_updated_at": "2026-10-26T04:57:47.223790+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e4cc0990e364fa05",
+          "movie_id": "tt37775809",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-20",
+          "detected_at": "2026-10-26T04:57:40.120598+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Мюзикл",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Узнав, что его бывшая девушка начала встречаться с его заклятым врагом – директором школы, неудачливый драматург и учитель театрального искусства в средней школе решает лишить директора шансов выиграть престижную награду «Синяя лента» за выдающиеся академические достижения.",
+            "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/475EwwQP3Lg0kqhSC0xnZC4XBBd.jpg",
+            "genres": [
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 84,
+            "popularity": 21.6951,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.25,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-09-18",
+            "digital_release_date": "2026-10-20"
+          }
+        }
+      ]
+    },
     {
       "id": "tt10794054",
       "title": "До последнего грамма",

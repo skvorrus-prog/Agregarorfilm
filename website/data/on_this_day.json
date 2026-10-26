@@ -318,6 +318,21 @@
  "10-20": {
   "2026": [
    {
+    "id": "tt37775809",
+    "title": "Мюзикл",
+    "original_title": "The Musical",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
+    "digital_release_date": "2026-10-20",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt10794054",
     "title": "До последнего грамма",
     "original_title": "The Weight",
