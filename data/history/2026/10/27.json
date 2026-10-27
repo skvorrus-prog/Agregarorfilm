@@ -23,13 +23,13 @@
       "imdb_rating": null,
       "imdb_vote_count": null,
       "tmdb_rating": 6.4,
-      "tmdb_vote_count": 249,
-      "popularity": 69.5187,
+      "tmdb_vote_count": 251,
+      "popularity": 67.0629,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-30",
       "digital_release_date": "2026-10-27",
       "first_detected_at": "2026-10-27T00:33:29.779717+00:00",
-      "last_updated_at": "2026-10-27T00:33:36.736297+00:00",
+      "last_updated_at": "2026-10-27T09:08:53.451418+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -70,6 +70,37 @@
             "tmdb_vote_count": 249,
             "theatrical_release_date": "2026-09-30",
             "digital_release_date": "2026-10-27"
+          }
+        },
+        {
+          "id": "0712eb5f498638e9",
+          "movie_id": "tt32261958",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-27T09:08:46.258481+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Verity (2026)",
+          "details": {
+            "title": "Verity",
+            "year": 2026,
+            "overview": "Lowen Ashleigh gets hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who's unable to finish after an accident. Lowen uncovers Verity's disturbing truths while residing at the Crawfords' home to...",
+            "poster": "https://images.metahub.space/poster/small/tt32261958/img",
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": null,
+            "runtime": null
           }
         }
       ]
