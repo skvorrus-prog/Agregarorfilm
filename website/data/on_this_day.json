@@ -34,6 +34,21 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   },
+   {
+    "id": "m_63958dfa3d22",
+    "title": "Актёр",
+    "original_title": "The Actor",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM1OTQ3MjAtNDQzZC00ZDE3LWJkYWEtOTQxZTM0ZGM3YWNmXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.4,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
    }
   ]
  },
@@ -2744,6 +2759,25 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
+   }
+  ]
+ },
+ "09-23": {
+  "2026": [
+   {
+    "id": "tt13609648",
+    "title": "Разум и чувства",
+    "original_title": "Sense and Sensibility",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+    "digital_release_date": "2026-09-23",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
    }
   ]
  },
