@@ -23,14 +23,14 @@
       "tmdb_id": 1503762,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.2,
-      "tmdb_vote_count": 73,
+      "tmdb_rating": 7.3,
+      "tmdb_vote_count": 75,
       "popularity": 70.8132,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-23",
       "digital_release_date": "2026-09-23",
       "first_detected_at": "2026-10-27T15:25:30.671091+00:00",
-      "last_updated_at": "2026-10-27T15:25:38.525600+00:00",
+      "last_updated_at": "2026-10-27T22:23:15.276806+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -72,6 +72,42 @@
             "tmdb_vote_count": 73,
             "theatrical_release_date": "2026-09-23",
             "digital_release_date": "2026-09-23"
+          }
+        },
+        {
+          "id": "070f6698a1a7aae0",
+          "movie_id": "tt13609648",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-26",
+          "detected_at": "2026-10-27T22:23:08.225776+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Разум и чувства",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
+            "genres": [
+              "драма",
+              "мелодрама"
+            ],
+            "countries": [
+              "United Kingdom",
+              "United States of America"
+            ],
+            "runtime": 132,
+            "popularity": 70.8132,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.3,
+            "tmdb_vote_count": 75,
+            "theatrical_release_date": "2026-09-23",
+            "digital_release_date": "2026-10-26"
           }
         }
       ]
