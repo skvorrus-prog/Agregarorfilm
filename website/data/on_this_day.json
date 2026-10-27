@@ -13,6 +13,25 @@
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",
     "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
+   }
+  ]
+ },
+ "10-27": {
+  "2026": [
+   {
+    "id": "tt32261958",
+    "title": "Тайный дневник Верити",
+    "original_title": "Verity",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lkcSRoS5FXzzNi13ug6kenL2vi2.jpg",
+    "digital_release_date": "2026-10-27",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
    }

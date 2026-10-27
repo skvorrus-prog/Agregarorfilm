@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-27",
+  "count": 1,
+  "movies": [
+    {
+      "id": "tt32261958",
+      "title": "Тайный дневник Верити",
+      "original_title": "Verity",
+      "year": 2026,
+      "overview": "Нуждающаяся в работе писательница Лоуэн Эшли получает предложение от Джереми Кроуфорда — ей нужно дописать романы его жены. Жена Джереми — автор популярной серии романов Верити Кроуфорд, и из-за загадочного несчастного случая она не может закончить произведения. Работа принимает неожиданный оборот, когда Лоуэн находит тревожные личные записки Верити. Сталкиваясь с семейными тайнами, Лоуэн пытается отделить вымысел от реальности, в то время как границы в её отношениях с Джереми размываются.",
+      "poster": "https://image.tmdb.org/t/p/w500/lkcSRoS5FXzzNi13ug6kenL2vi2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "genres": [
+        "детектив",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 117,
+      "imdb_id": "tt32261958",
+      "tmdb_id": 1283515,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.4,
+      "tmdb_vote_count": 249,
+      "popularity": 69.5187,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-30",
+      "digital_release_date": "2026-10-27",
+      "first_detected_at": "2026-10-27T00:33:29.779717+00:00",
+      "last_updated_at": "2026-10-27T00:33:36.736297+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b6c38729c0853a9c",
+          "movie_id": "tt32261958",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-27",
+          "detected_at": "2026-10-27T00:33:29.779717+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Тайный дневник Верити",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Нуждающаяся в работе писательница Лоуэн Эшли получает предложение от Джереми Кроуфорда — ей нужно дописать романы его жены. Жена Джереми — автор популярной серии романов Верити Кроуфорд, и из-за загадочного несчастного случая она не может закончить произведения. Работа принимает неожиданный оборот, когда Лоуэн находит тревожные личные записки Верити. Сталкиваясь с семейными тайнами, Лоуэн пытается отделить вымысел от реальности, в то время как границы в её отношениях с Джереми размываются.",
+            "poster": "https://image.tmdb.org/t/p/w500/lkcSRoS5FXzzNi13ug6kenL2vi2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+            "genres": [
+              "детектив",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 117,
+            "popularity": 69.5187,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.4,
+            "tmdb_vote_count": 249,
+            "theatrical_release_date": "2026-09-30",
+            "digital_release_date": "2026-10-27"
+          }
+        }
+      ]
+    }
+  ]
+}
