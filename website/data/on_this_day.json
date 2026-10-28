@@ -18,6 +18,25 @@
    }
   ]
  },
+ "10-28": {
+  "2026": [
+   {
+    "id": "tt43655467",
+    "title": "Али Джи: Кто я?",
+    "original_title": "Ali G: Who Iz I?",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+    "digital_release_date": "2026-10-28",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-27": {
   "2026": [
    {
@@ -832,6 +851,21 @@
  },
  "10-15": {
   "2026": [
+   {
+    "id": "tt35963439",
+    "title": "It's a മെഡിക്കൽ മിറാക്കിള്‍",
+    "original_title": "It's a മെഡിക്കൽ മിറാക്കിള്‍",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/tT9VKxtyyb5uFsxZhdnvE1GVZJd.jpg",
+    "digital_release_date": "2026-10-15",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt37070354",
     "title": "Stormen",

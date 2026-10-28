@@ -1,7 +1,79 @@
 {
   "date": "2026-10-15",
-  "count": 5,
+  "count": 6,
   "movies": [
+    {
+      "id": "tt35963439",
+      "title": "It's a മെഡിക്കൽ മിറാക്കിള്‍",
+      "original_title": "It's a മെഡിക്കൽ മിറാക്കിള്‍",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/tT9VKxtyyb5uFsxZhdnvE1GVZJd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vhmUAwPtqZI4wVsQHmTJNR8bRK6.jpg",
+      "genres": [
+        "фэнтези",
+        "триллер"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 137,
+      "imdb_id": "tt35963439",
+      "tmdb_id": 1422822,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.0,
+      "tmdb_vote_count": 5,
+      "popularity": 4.6269,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-18",
+      "digital_release_date": "2026-10-15",
+      "first_detected_at": "2026-10-28T05:53:59.974745+00:00",
+      "last_updated_at": "2026-10-28T05:54:06.738400+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6106538e1d6a18ae",
+          "movie_id": "tt35963439",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-15",
+          "detected_at": "2026-10-28T05:53:59.974745+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "It's a മെഡിക്കൽ മിറാക്കിള്‍",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/tT9VKxtyyb5uFsxZhdnvE1GVZJd.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/vhmUAwPtqZI4wVsQHmTJNR8bRK6.jpg",
+            "genres": [
+              "фэнтези",
+              "триллер"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 137,
+            "popularity": 4.6269,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-18",
+            "digital_release_date": "2026-10-15"
+          }
+        }
+      ]
+    },
     {
       "id": "tt37070354",
       "title": "Stormen",
@@ -24,7 +96,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 6.291,
       "tmdb_vote_count": 55,
-      "popularity": 19.7304,
+      "popularity": 18.3753,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-15",
       "digital_release_date": "2026-10-15",
