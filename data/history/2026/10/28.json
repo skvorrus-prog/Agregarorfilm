@@ -1,13 +1,13 @@
 {
   "date": "2026-10-28",
-  "count": 2,
+  "count": 6,
   "movies": [
     {
       "id": "tt43655467",
       "title": "Али Джи: Кто я?",
       "original_title": "Ali G: Who Iz I?",
       "year": 2026,
-      "overview": "",
+      "overview": "После двадцати лет, проведенных в «расслаблении», Али Джи шокирован, узнав, что его давняя подруга Джули на 8 месяце беременности. Столкнувшись с лишним ртом, он слезает с катушек и отправляется в Америку, чтобы вернуть себе былую славу... но вскоре сталкивается с противниками, которые в конечном итоге угрожают самому его существованию и существованию его ребенка.",
       "poster": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
       "genres": [
@@ -19,16 +19,16 @@
       "runtime": 89,
       "imdb_id": "tt43655467",
       "tmdb_id": 1727734,
-      "imdb_rating": null,
+      "imdb_rating": 6.2,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.0,
-      "tmdb_vote_count": 6,
+      "tmdb_rating": 6.538,
+      "tmdb_vote_count": 13,
       "popularity": 14.1893,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-22",
       "digital_release_date": "2026-10-28",
       "first_detected_at": "2026-10-28T05:53:59.974745+00:00",
-      "last_updated_at": "2026-10-28T05:54:06.609385+00:00",
+      "last_updated_at": "2026-10-28T20:21:32.422261+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -68,6 +68,276 @@
             "tmdb_vote_count": 5,
             "theatrical_release_date": "2026-10-22",
             "digital_release_date": "2026-10-28"
+          }
+        },
+        {
+          "id": "cb81447f45524a24",
+          "movie_id": "tt43655467",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-28T20:21:21.760563+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Ali G: Who Iz I? ()",
+          "details": {
+            "title": "Ali G: Who Iz I?",
+            "year": null,
+            "overview": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory… but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+            "poster": "https://live.metahub.space/poster/small/tt43655467/img",
+            "genres": [
+              "Comedy"
+            ],
+            "countries": [
+              "United Kingdom, United States"
+            ],
+            "imdb_rating": 6.2,
+            "runtime": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_18ebb58a7cac",
+      "title": "Демонолог",
+      "original_title": "Never After Dark",
+      "year": 2026,
+      "overview": "Демоноло́гия — теория о существах, промежуточных\nмежду божественными и человеческими, наука, изучающая природу демонов. Близкое понятие — низшая мифология — сфера мифологических представлений, относящихся к персонажам, которые не имеют божественного статуса, демонам и духам, и противопоставляются высшим богам и официальному культу. Эта оппозиция особенно выражена в мировых религиях.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzhkYjNjNjQtZmRmYy00MWM5LWIwMDMtYWE2NzFkYjI3MDJiXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "runtime": null,
+      "imdb_id": "tt38589433",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-28T20:21:21.760563+00:00",
+      "last_updated_at": "2026-10-28T20:21:45.852187+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "214caa3a0d3e1478",
+          "movie_id": "m_18ebb58a7cac",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-28T15:23:21+00:00",
+          "detected_at": "2026-10-28T20:21:21.760563+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "L",
+          "raw_title": "Демонолог / Never After Dark (2026) WEB-DL 1080p | L",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "L",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_0d94fc4f4924",
+      "title": "Геошторм",
+      "original_title": "Geostorm",
+      "year": 2026,
+      "overview": "«Геошто́рм» — научно-фантастический фильм-катастрофа, полнометражный режиссёрский дебют Дина Девлина. В главных ролях — Джерард Батлер, Джим Стерджесс и Энди Гарсиа. Премьера в США состоялась 20 октября 2017 года, в России — 19 октября 2017 года в формате IMAX.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTA0OTQwMTIxNzheQTJeQWpwZ15BbWU4MDQ1MzI3OTMy._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "countries": [
+        "United States, Hong Kong, United Arab Emirates, United Kingdom"
+      ],
+      "runtime": null,
+      "imdb_id": "tt1981128",
+      "tmdb_id": null,
+      "imdb_rating": 5.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-28T20:21:21.760563+00:00",
+      "last_updated_at": "2026-10-28T20:21:44.830370+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "d3d22a3716cdfc75",
+          "movie_id": "m_0d94fc4f4924",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-28T17:02:22+00:00",
+          "detected_at": "2026-10-28T20:21:21.760563+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Геошторм / Geostorm (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_6d44a8a2b64d",
+      "title": "Семейное положение",
+      "original_title": "Medeni Haller",
+      "year": 2026,
+      "overview": "История любви между Айлин, адвокатом по разводам, и Озаном, брачным чиновником.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzNkOTQzZTUtOWFhOS00NmYxLWI3NWEtNDFmYmE0YmE4NWFjXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Romance"
+      ],
+      "countries": [],
+      "runtime": null,
+      "imdb_id": "tt45720442",
+      "tmdb_id": null,
+      "imdb_rating": 1.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-28T20:21:21.760563+00:00",
+      "last_updated_at": "2026-10-28T20:21:42.304862+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "1bf540b70e5b5445",
+          "movie_id": "m_6d44a8a2b64d",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-28T17:59:52+00:00",
+          "detected_at": "2026-10-28T20:21:21.760563+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "P",
+          "raw_title": "Семейное положение / Medeni Haller (2026) WEB-DL 1080p | P",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "P",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_180f371cd242",
+      "title": "Агата Кристиан: игра в убийство",
+      "original_title": "Agata Christian - Delitto sulle nevi",
+      "year": 2026,
+      "overview": "Кристиан Агата, известный криминолог, известный своим острым сарказмом и непогрешимым исследовательским талантом, оказывается втянутым в загадочные выходные. По приглашению семьи Гульмаров - представителей индустрии настольных игр - выступить в качестве представителя перезапуска их исторической игры «Замок преступлений», он соглашается провести несколько дней в их зимнем поместье в долине Аоста. То, что начиналось как тихая коммерческая операция, вскоре превращает его в Cas",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzA0MzRiZDgtODZkMy00MDZiLWE4MDMtZjRkMTgwOTU3MjIxXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Mystery"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "runtime": null,
+      "imdb_id": "tt36396485",
+      "tmdb_id": null,
+      "imdb_rating": 5.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-28T20:21:21.760563+00:00",
+      "last_updated_at": "2026-10-28T20:21:38.018618+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b544baeb32f7cd74",
+          "movie_id": "m_180f371cd242",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-28T18:25:28+00:00",
+          "detected_at": "2026-10-28T20:21:21.760563+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Агата Кристиан: игра в убийство / Agata Christian - Delitto sulle nevi (2026) WEB-DL 1080p | Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]

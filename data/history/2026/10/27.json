@@ -1,7 +1,83 @@
 {
   "date": "2026-10-27",
-  "count": 2,
+  "count": 3,
   "movies": [
+    {
+      "id": "tt34611096",
+      "title": "The Stunt Driver",
+      "original_title": "The Stunt Driver",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "история"
+      ],
+      "countries": [
+        "Canada",
+        "United Kingdom"
+      ],
+      "runtime": 99,
+      "imdb_id": "tt34611096",
+      "tmdb_id": 1562777,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 9.0,
+      "tmdb_vote_count": 5,
+      "popularity": 14.0477,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-25",
+      "digital_release_date": "2026-10-27",
+      "first_detected_at": "2026-10-28T20:21:21.760563+00:00",
+      "last_updated_at": "2026-10-28T20:21:28.649724+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "1eba2ed5bd072ba7",
+          "movie_id": "tt34611096",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-27",
+          "detected_at": "2026-10-28T20:21:21.760563+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "The Stunt Driver",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/mCSWDVb87GpfQKEyvHIlBt6Obht.jpg",
+            "genres": [
+              "комедия",
+              "драма",
+              "история"
+            ],
+            "countries": [
+              "Canada",
+              "United Kingdom"
+            ],
+            "runtime": 99,
+            "popularity": 14.0477,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 9.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-25",
+            "digital_release_date": "2026-10-27"
+          }
+        }
+      ]
+    },
     {
       "id": "tt32261958",
       "title": "Тайный дневник Верити",
@@ -23,19 +99,19 @@
       "imdb_rating": null,
       "imdb_vote_count": null,
       "tmdb_rating": 6.4,
-      "tmdb_vote_count": 269,
+      "tmdb_vote_count": 276,
       "popularity": 138.1498,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-30",
       "digital_release_date": "2026-10-27",
       "first_detected_at": "2026-10-27T00:33:29.779717+00:00",
-      "last_updated_at": "2026-10-27T09:08:53.451418+00:00",
-      "status": "WEB_RELEASE",
+      "last_updated_at": "2026-10-28T20:21:44.841003+00:00",
+      "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "b6c38729c0853a9c",
@@ -101,6 +177,78 @@
             ],
             "imdb_rating": null,
             "runtime": null
+          }
+        },
+        {
+          "id": "1f1a567ceb4c66e4",
+          "movie_id": "tt32261958",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-28T15:40:41+00:00",
+          "detected_at": "2026-10-28T20:21:21.760563+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Тайный дневник Верити / Verity (2026) WEB-DL 1080p | Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a06b66a023c5fe4e",
+          "movie_id": "tt32261958",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-28T16:06:16+00:00",
+          "detected_at": "2026-10-28T20:21:21.760563+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Тайный дневник Верити / Verity (2026) UHD WEB-DL 2160p | 4K | HDR10+ | Dolby Vision P8 | D, P | HDrezka Studio, Смотри кино",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "75970b29508d9e71",
+          "movie_id": "tt32261958",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-28T20:06:44+00:00",
+          "detected_at": "2026-10-28T20:21:21.760563+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Тайный дневник Верити / Verity (2026) WEB-DL 720p от New-Team | D, P | HDRezka Studio, Смотри кино",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]

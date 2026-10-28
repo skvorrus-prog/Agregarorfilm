@@ -7,7 +7,7 @@
       "title": "Разум и чувства",
       "original_title": "Sense and Sensibility",
       "year": 2026,
-      "overview": "",
+      "overview": "Сестры Элинор и Марианна Дэшвуд вынуждены покинуть свое поместье в Суссексе, чтобы жить у дальнего родственника, сталкиваясь при этом как с романтическими, так и с финансовыми трудностями.",
       "poster": "https://image.tmdb.org/t/p/w500/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tIcONOFK9D3F89ETK8DBS1hIwVF.jpg",
       "genres": [
@@ -21,16 +21,16 @@
       "runtime": 132,
       "imdb_id": "tt13609648",
       "tmdb_id": 1503762,
-      "imdb_rating": null,
+      "imdb_rating": 7.2,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.329,
-      "tmdb_vote_count": 82,
+      "tmdb_rating": 7.315,
+      "tmdb_vote_count": 84,
       "popularity": 86.2164,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-23",
       "digital_release_date": "2026-09-23",
       "first_detected_at": "2026-10-27T15:25:30.671091+00:00",
-      "last_updated_at": "2026-10-27T22:23:15.276806+00:00",
+      "last_updated_at": "2026-10-28T20:21:28.663155+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -108,6 +108,36 @@
             "tmdb_vote_count": 75,
             "theatrical_release_date": "2026-09-23",
             "digital_release_date": "2026-10-26"
+          }
+        },
+        {
+          "id": "76515888a154c2ae",
+          "movie_id": "tt13609648",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-28T20:21:21.760563+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Sense and Sensibility (2026)",
+          "details": {
+            "title": "Sense and Sensibility",
+            "year": 2026,
+            "overview": "From Focus Features and Working Title comes an irresistible new take on Jane Austen's iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esmé Creed-Miles.",
+            "poster": "https://images.metahub.space/poster/small/tt13609648/img",
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "countries": [
+              "United Kingdom, United States"
+            ],
+            "imdb_rating": 7.2,
+            "runtime": null
           }
         }
       ]
