@@ -34,6 +34,21 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   },
+   {
+    "id": "m_ee83ba7e4c2d",
+    "title": "Демон скорости",
+    "original_title": "Speed Demon",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjkxZjA5NTgtY2Y0NC00ZWExLTk4ODctNWJjNDczZTlhZGYzXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 3.4,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
    }
   ]
  },
