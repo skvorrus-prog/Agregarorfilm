@@ -36,6 +36,36 @@
     "has_ru_audio": false
    },
    {
+    "id": "m_5e8215437263",
+    "title": "Спасён",
+    "original_title": "Rescued",
+    "year": 2026,
+    "poster": null,
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_8bbf1540ea6a",
+    "title": "Мама, я беременна от пришельца",
+    "original_title": "Mum, I'm Alien Pregnant",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdhZGQ2ZGItOTI1MC00YjQ0LTliOTMtNTVlM2ViMzdiOTQ0XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.8,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_cd2de2efb330",
     "title": "Замок Уиджи",
     "original_title": "Ouija Castle",
