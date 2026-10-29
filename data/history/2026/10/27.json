@@ -1,7 +1,79 @@
 {
   "date": "2026-10-27",
-  "count": 3,
+  "count": 4,
   "movies": [
+    {
+      "id": "tt37180686",
+      "title": "Драйв: Притворщики",
+      "original_title": "Drive - The Pretenders",
+      "year": 2026,
+      "overview": "Молодой гоночный механик имитирует помолвку с самой скандальной звездой автоспорта — официально ради спасения её репутации, а на деле — чтобы получить шанс самой сесть за руль. Но вскоре эта ложь начинает угрожать всему — в том числе тому, что уже переросло рамки простой сделки.",
+      "poster": "https://image.tmdb.org/t/p/w500/zJkpdPkIQWsDojHl0hTvhH9H5ya.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "genres": [
+        "мелодрама",
+        "триллер"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "runtime": 103,
+      "imdb_id": "tt37180686",
+      "tmdb_id": 1596275,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.6,
+      "tmdb_vote_count": 12,
+      "popularity": 15.225,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-27",
+      "digital_release_date": "2026-10-27",
+      "first_detected_at": "2026-10-29T01:02:28.678359+00:00",
+      "last_updated_at": "2026-10-29T01:02:35.429747+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "69e63f12fb09a500",
+          "movie_id": "tt37180686",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-27",
+          "detected_at": "2026-10-29T01:02:28.678359+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Драйв: Притворщики",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Молодой гоночный механик имитирует помолвку с самой скандальной звездой автоспорта — официально ради спасения её репутации, а на деле — чтобы получить шанс самой сесть за руль. Но вскоре эта ложь начинает угрожать всему — в том числе тому, что уже переросло рамки простой сделки.",
+            "poster": "https://image.tmdb.org/t/p/w500/zJkpdPkIQWsDojHl0hTvhH9H5ya.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+            "genres": [
+              "мелодрама",
+              "триллер"
+            ],
+            "countries": [
+              "Germany"
+            ],
+            "runtime": 103,
+            "popularity": 15.225,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.6,
+            "tmdb_vote_count": 12,
+            "theatrical_release_date": "2026-10-27",
+            "digital_release_date": "2026-10-27"
+          }
+        }
+      ]
+    },
     {
       "id": "tt34611096",
       "title": "The Stunt Driver",
@@ -98,8 +170,8 @@
       "tmdb_id": 1283515,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.4,
-      "tmdb_vote_count": 276,
+      "tmdb_rating": 6.3,
+      "tmdb_vote_count": 283,
       "popularity": 138.1498,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-30",
