@@ -18,6 +18,55 @@
    }
   ]
  },
+ "10-29": {
+  "2026": [
+   {
+    "id": "tt44090278",
+    "title": "பத்தா",
+    "original_title": "பத்தா",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
+    "digital_release_date": "2026-10-29",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_cd2de2efb330",
+    "title": "Замок Уиджи",
+    "original_title": "Ouija Castle",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWUyNzMxNDYtODkwMi00NDZkLWJlNTMtYWJhMDQ5NzRlYWJkXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 3.3,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "tt36583977",
+    "title": "Forgotten Island",
+    "original_title": "Forgotten Island",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt36583977/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.7,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-28": {
   "2026": [
    {
@@ -139,10 +188,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt32261958",
@@ -2913,10 +2962,10 @@
     "imdb_rating": 7.2,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    }
   ]
  },
@@ -6394,7 +6443,7 @@
     "year": null,
     "poster": "https://live.metahub.space/poster/small/tt49058294/img",
     "digital_release_date": null,
-    "imdb_rating": null,
+    "imdb_rating": 7.4,
     "imdb_vote_count": null,
     "best_quality": "unknown",
     "best_resolution": "unknown",

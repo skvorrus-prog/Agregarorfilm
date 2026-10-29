@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-29",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt44090278",
+      "title": "பத்தா",
+      "original_title": "பத்தா",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xrAtBSFEYzcRRB5kOvtICSuOrok.jpg",
+      "genres": [
+        "драма",
+        "комедия",
+        "боевик"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 159,
+      "imdb_id": "tt44090278",
+      "tmdb_id": 1515692,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.2,
+      "tmdb_vote_count": 5,
+      "popularity": 17.5257,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-01",
+      "digital_release_date": "2026-10-29",
+      "first_detected_at": "2026-10-29T10:10:01.919711+00:00",
+      "last_updated_at": "2026-10-29T10:10:08.792106+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "14628690535a4d49",
+          "movie_id": "tt44090278",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-29",
+          "detected_at": "2026-10-29T10:10:01.919711+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "பத்தா",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/xrAtBSFEYzcRRB5kOvtICSuOrok.jpg",
+            "genres": [
+              "драма",
+              "комедия",
+              "боевик"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 159,
+            "popularity": 17.5257,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.2,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-10-01",
+            "digital_release_date": "2026-10-29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_cd2de2efb330",
+      "title": "Замок Уиджи",
+      "original_title": "Ouija Castle",
+      "year": 2024,
+      "overview": "Жизнь принцессы Талии рушится после смерти ее отца. Королева Велма погружает ее в бесконечный сон, чтобы захватить королевство, но ее действия распутывают множество последствий.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWUyNzMxNDYtODkwMi00NDZkLWJlNTMtYWJhMDQ5NzRlYWJkXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": null,
+      "imdb_id": "tt27819383",
+      "tmdb_id": null,
+      "imdb_rating": 3.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-29T10:10:01.919711+00:00",
+      "last_updated_at": "2026-10-29T10:10:15.024466+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "d94730e89b10d599",
+          "movie_id": "m_cd2de2efb330",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-29T01:07:12+00:00",
+          "detected_at": "2026-10-29T10:10:01.919711+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "P",
+          "raw_title": "Замок Уиджи / Ouija Castle (2024) WEB-DL 1080p | P",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "P",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt36583977",
+      "title": "Forgotten Island",
+      "original_title": "Forgotten Island",
+      "year": 2026,
+      "overview": "Два лучших друга попадают в мистический мир Накали, где их единственный побег может стоить им общей жизни воспоминаний.",
+      "poster": "https://images.metahub.space/poster/small/tt36583977/img",
+      "backdrop": null,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "countries": [
+        "United States, Japan"
+      ],
+      "runtime": null,
+      "imdb_id": "tt36583977",
+      "tmdb_id": null,
+      "imdb_rating": 7.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-10-29T10:10:01.919711+00:00",
+      "last_updated_at": "2026-10-29T10:10:11.045514+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "1dfc3633266ae1fd",
+          "movie_id": "tt36583977",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-29T10:10:01.919711+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Forgotten Island (2026)",
+          "details": {
+            "title": "Forgotten Island",
+            "year": 2026,
+            "overview": "Two best friends become stranded on the mystical world of Nakali, where their only escape might cost them their shared lifetime of memories.",
+            "poster": "https://images.metahub.space/poster/small/tt36583977/img",
+            "genres": [
+              "Animation",
+              "Action",
+              "Adventure"
+            ],
+            "countries": [
+              "United States, Japan"
+            ],
+            "imdb_rating": 7.7,
+            "runtime": null
+          }
+        }
+      ]
+    }
+  ]
+}
