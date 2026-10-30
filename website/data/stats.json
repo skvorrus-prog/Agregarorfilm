@@ -4,9 +4,9 @@
   "bluray_count": 66,
   "four_k_count": 48,
   "hdr_count": 64,
-  "ru_audio_count": 167,
+  "ru_audio_count": 168,
   "avg_rating": 6.43,
-  "rated_movies_count": 418,
+  "rated_movies_count": 419,
   "by_year": {
     "2026": 442,
     "2025": 1
@@ -32,13 +32,13 @@
     "REMUX": 3
   },
   "by_resolution": {
-    "unknown": 243,
+    "unknown": 242,
     "1080p": 122,
     "2160p": 48,
-    "720p": 30
+    "720p": 31
   },
   "by_genre": {
-    "Drama": 88,
+    "Drama": 89,
     "триллер": 68,
     "Action": 68,
     "комедия": 67,

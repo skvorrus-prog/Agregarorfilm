@@ -40,9 +40,9 @@
     "title": "Спасён",
     "original_title": "Rescued",
     "year": 2026,
-    "poster": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQ3Zjk0ZjItMzgyMy00ODU1LWIwYjItMTE2ZGJhZDJkNzBiXkEyXkFqcGc@._V1_SX250.jpg",
     "digital_release_date": null,
-    "imdb_rating": null,
+    "imdb_rating": 8.6,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",
@@ -4601,10 +4601,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "720p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt11866682",
