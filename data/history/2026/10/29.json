@@ -1,7 +1,79 @@
 {
   "date": "2026-10-29",
-  "count": 5,
+  "count": 6,
   "movies": [
+    {
+      "id": "tt38504402",
+      "title": "Noi un po' meglio",
+      "original_title": "Noi un po' meglio",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ahSqZAAHU4PgNdbKdGPj332O7As.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ],
+      "countries": [
+        "Italy"
+      ],
+      "runtime": 107,
+      "imdb_id": "tt38504402",
+      "tmdb_id": 1541477,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.2,
+      "tmdb_vote_count": 11,
+      "popularity": 24.6404,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-29",
+      "digital_release_date": "2026-10-29",
+      "first_detected_at": "2026-10-30T10:12:26.026191+00:00",
+      "last_updated_at": "2026-10-30T10:12:33.101526+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "d0d5a9878cea5063",
+          "movie_id": "tt38504402",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-29",
+          "detected_at": "2026-10-30T10:12:26.026191+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Noi un po' meglio",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/ahSqZAAHU4PgNdbKdGPj332O7As.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+            "genres": [
+              "драма",
+              "комедия"
+            ],
+            "countries": [
+              "Italy"
+            ],
+            "runtime": 107,
+            "popularity": 24.6404,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.2,
+            "tmdb_vote_count": 11,
+            "theatrical_release_date": "2026-10-29",
+            "digital_release_date": "2026-10-29"
+          }
+        }
+      ]
+    },
     {
       "id": "tt44090278",
       "title": "பத்தா",
@@ -25,7 +97,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 8.5,
       "tmdb_vote_count": 6,
-      "popularity": 17.5257,
+      "popularity": 38.5183,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-01",
       "digital_release_date": "2026-10-29",
