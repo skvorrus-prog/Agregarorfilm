@@ -135,7 +135,7 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-07-08",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-10-25T23:20:12.288262+00:00",
+      "last_updated_at": "2026-10-30T22:28:13.587392+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "2160p",
@@ -422,6 +422,30 @@
             "hdr": "Dolby Vision / HDR10",
             "audio": null,
             "language": null,
+            "release_group": "Movie Dubbing",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "7fa722b90fe4502c",
+          "movie_id": "tt27165187",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-30T19:19:49+00:00",
+          "detected_at": "2026-10-30T22:27:56.311573+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "На краю Оук-стрит / The End of Oak Street (2026) BDRip-HEVC 1080p | D | Movie Dubbing",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
             "release_group": "Movie Dubbing",
             "is_secondary_signal": true
           }
