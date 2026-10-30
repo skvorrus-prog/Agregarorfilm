@@ -1,7 +1,81 @@
 {
   "date": "2026-10-28",
-  "count": 6,
+  "count": 7,
   "movies": [
+    {
+      "id": "tt37405791",
+      "title": "Hanging by a Wire",
+      "original_title": "Hanging by a Wire",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States of America",
+        "Pakistan"
+      ],
+      "runtime": 77,
+      "imdb_id": "tt37405791",
+      "tmdb_id": 1480856,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.417,
+      "tmdb_vote_count": 6,
+      "popularity": 8.1023,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-21",
+      "digital_release_date": "2026-10-28",
+      "first_detected_at": "2026-10-30T18:07:36.346050+00:00",
+      "last_updated_at": "2026-10-30T18:07:43.341347+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "7c9269da89c5c92e",
+          "movie_id": "tt37405791",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-28",
+          "detected_at": "2026-10-30T18:07:36.346050+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Hanging by a Wire",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United Kingdom",
+              "United States of America",
+              "Pakistan"
+            ],
+            "runtime": 77,
+            "popularity": 8.1023,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.417,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-10-21",
+            "digital_release_date": "2026-10-28"
+          }
+        }
+      ]
+    },
     {
       "id": "tt43655467",
       "title": "Али Джи: Кто я?",
@@ -21,8 +95,8 @@
       "tmdb_id": 1727734,
       "imdb_rating": 6.2,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.114,
-      "tmdb_vote_count": 57,
+      "tmdb_rating": 6.225,
+      "tmdb_vote_count": 69,
       "popularity": 106.0394,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-22",

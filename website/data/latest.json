@@ -21,8 +21,8 @@
   "tmdb_id": 1290418,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.814,
-  "tmdb_vote_count": 70,
+  "tmdb_rating": 6.736,
+  "tmdb_vote_count": 72,
   "popularity": 97.9522,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-24",
@@ -203,6 +203,128 @@
   ]
  },
  {
+  "id": "tt37522541",
+  "title": "Апокалипсис Z: Новый мир",
+  "original_title": "Apocalipsis Z: Nuevo mundo",
+  "year": 2026,
+  "overview": "Миссия по доставке грузов в охваченную вирусом Испанию оборачивается сложной задачей, когда к ней присоединяется Роберто с безопасных Канарских островов, преследующий тайные намерения. Команда сталкивается с толпами заражённых и проблемами доверия, пытаясь найти баланс между выживанием и гуманностью.",
+  "poster": "https://image.tmdb.org/t/p/w500/wgSMJ3083ad5qKC4QzzVNJ4cv5D.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+  "genres": [
+   "боевик",
+   "триллер",
+   "ужасы"
+  ],
+  "countries": [
+   "Spain"
+  ],
+  "runtime": 98,
+  "imdb_id": "tt37522541",
+  "tmdb_id": 1507696,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 8.8,
+  "tmdb_vote_count": 5,
+  "popularity": 6.7398,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-09",
+  "digital_release_date": "2026-10-30",
+  "first_detected_at": "2026-10-30T18:07:36.346050+00:00",
+  "last_updated_at": "2026-10-30T18:07:46.027788+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "45022f280d4518cc",
+    "movie_id": "tt37522541",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-30",
+    "detected_at": "2026-10-30T18:07:36.346050+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Апокалипсис Z: Новый мир",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Миссия по доставке грузов в охваченную вирусом Испанию оборачивается сложной задачей, когда к ней присоединяется Роберто с безопасных Канарских островов, преследующий тайные намерения. Команда сталкивается с толпами заражённых и проблемами доверия, пытаясь найти баланс между выживанием и гуманностью.",
+     "poster": "https://image.tmdb.org/t/p/w500/wgSMJ3083ad5qKC4QzzVNJ4cv5D.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+     "genres": [
+      "боевик",
+      "триллер",
+      "ужасы"
+     ],
+     "countries": [
+      "Spain"
+     ],
+     "runtime": 98,
+     "popularity": 6.7398,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 8.8,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-09",
+     "digital_release_date": "2026-10-30"
+    }
+   },
+   {
+    "id": "91a6d914212a4c09",
+    "movie_id": "tt37522541",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-30T13:03:39+00:00",
+    "detected_at": "2026-10-30T18:07:36.346050+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "L2",
+    "raw_title": "Апокалипсис Z: Новый мир / Apocalypse Z: Nuevo Mundo (2026) WEB-DL 1080p от Kerob | L2",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "L2",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "f447cf2df467b5c4",
+    "movie_id": "tt37522541",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-30T13:10:26+00:00",
+    "detected_at": "2026-10-30T18:07:36.346050+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "L2",
+    "raw_title": "Апокалипсис Z: Новый мир / Apocalypse Z: Nuevo Mundo (2026) WEB-DLRip от Kerob | L2",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "L2",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
   "id": "tt38504402",
   "title": "Noi un po' meglio",
   "original_title": "Noi un po' meglio",
@@ -223,7 +345,7 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 6.2,
-  "tmdb_vote_count": 11,
+  "tmdb_vote_count": 12,
   "popularity": 24.6404,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-29",
@@ -349,6 +471,80 @@
   ]
  },
  {
+  "id": "tt37405791",
+  "title": "Hanging by a Wire",
+  "original_title": "Hanging by a Wire",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
+  "genres": [
+   "документальный"
+  ],
+  "countries": [
+   "United Kingdom",
+   "United States of America",
+   "Pakistan"
+  ],
+  "runtime": 77,
+  "imdb_id": "tt37405791",
+  "tmdb_id": 1480856,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.417,
+  "tmdb_vote_count": 6,
+  "popularity": 8.1023,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-21",
+  "digital_release_date": "2026-10-28",
+  "first_detected_at": "2026-10-30T18:07:36.346050+00:00",
+  "last_updated_at": "2026-10-30T18:07:43.341347+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "7c9269da89c5c92e",
+    "movie_id": "tt37405791",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-28",
+    "detected_at": "2026-10-30T18:07:36.346050+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Hanging by a Wire",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
+     "genres": [
+      "документальный"
+     ],
+     "countries": [
+      "United Kingdom",
+      "United States of America",
+      "Pakistan"
+     ],
+     "runtime": 77,
+     "popularity": 8.1023,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.417,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-10-21",
+     "digital_release_date": "2026-10-28"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt43655467",
   "title": "Али Джи: Кто я?",
   "original_title": "Ali G: Who Iz I?",
@@ -367,8 +563,8 @@
   "tmdb_id": 1727734,
   "imdb_rating": 6.2,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.114,
-  "tmdb_vote_count": 57,
+  "tmdb_rating": 6.225,
+  "tmdb_vote_count": 69,
   "popularity": 106.0394,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-22",
@@ -467,8 +663,8 @@
   "tmdb_id": 1596275,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.855,
-  "tmdb_vote_count": 31,
+  "tmdb_rating": 7.929,
+  "tmdb_vote_count": 35,
   "popularity": 274.3374,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-27",
@@ -548,7 +744,7 @@
   "theatrical_release_date": "2026-09-25",
   "digital_release_date": "2026-10-27",
   "first_detected_at": "2026-10-28T20:21:21.760563+00:00",
-  "last_updated_at": "2026-10-29T10:10:11.053559+00:00",
+  "last_updated_at": "2026-10-30T18:07:46.000593+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -616,6 +812,30 @@
      "release_group": "D",
      "is_secondary_signal": true
     }
+   },
+   {
+    "id": "844cdcd95ff30073",
+    "movie_id": "tt34611096",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-30T13:58:58+00:00",
+    "detected_at": "2026-10-30T18:07:36.346050+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Водитель-каскадёр / The Stunt Driver (2026) WEB-DL 1080p | D, Р",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
    }
   ]
  },
@@ -639,8 +859,8 @@
   "tmdb_id": 1283515,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.418,
-  "tmdb_vote_count": 324,
+  "tmdb_rating": 6.463,
+  "tmdb_vote_count": 336,
   "popularity": 197.3336,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-30",
@@ -1506,8 +1726,8 @@
   "tmdb_id": 1780005,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.2,
-  "tmdb_vote_count": 68,
+  "tmdb_rating": 7.254,
+  "tmdb_vote_count": 69,
   "popularity": 100.4734,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-23",
@@ -2717,8 +2937,8 @@
   "tmdb_id": 1561726,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.919,
-  "tmdb_vote_count": 198,
+  "tmdb_rating": 6.891,
+  "tmdb_vote_count": 202,
   "popularity": 127.1597,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-16",
@@ -2984,8 +3204,8 @@
   "tmdb_id": 1288069,
   "imdb_rating": 7.5,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.312,
-  "tmdb_vote_count": 218,
+  "tmdb_rating": 8.297,
+  "tmdb_vote_count": 219,
   "popularity": 52.4893,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -3963,7 +4183,7 @@
   "theatrical_release_date": null,
   "digital_release_date": "2026-10-13",
   "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-10-28T13:10:53.766282+00:00",
+  "last_updated_at": "2026-10-30T18:07:46.003116+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -4272,6 +4492,30 @@
     "details": {
      "quality": "WEB-DL",
      "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "b86af78b34ec825b",
+    "movie_id": "m_17f933a625b7",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-30T13:46:27+00:00",
+    "detected_at": "2026-10-30T18:07:36.346050+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Курьер / Runner (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Пифагор | Локализованная версия",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
      "hdr": null,
      "audio": null,
      "language": "RU",
@@ -7465,215 +7709,6 @@
      "tmdb_vote_count": 5,
      "theatrical_release_date": "2026-10-01",
      "digital_release_date": "2026-10-01"
-    }
-   }
-  ]
- },
- {
-  "id": "tt43750202",
-  "title": "Стрим из ада",
-  "original_title": "Livestream from Hell",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
-  "genres": [
-   "ужасы",
-   "комедия"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 77,
-  "imdb_id": "tt43750202",
-  "tmdb_id": 1437195,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 4.524,
-  "tmdb_vote_count": 41,
-  "popularity": 27.0383,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-30",
-  "digital_release_date": "2026-09-30",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.488665+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "6a2badb37f0c16d4",
-    "movie_id": "tt43750202",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-30",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Стрим из ада",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
-     "genres": [
-      "ужасы",
-      "комедия"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 77,
-     "popularity": 33.7104,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.111,
-     "tmdb_vote_count": 9,
-     "theatrical_release_date": "2026-09-30",
-     "digital_release_date": "2026-09-30"
-    }
-   },
-   {
-    "id": "9edaa3e3a65929d9",
-    "movie_id": "tt43750202",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-30",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Стрим из ада",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
-     "genres": [
-      "ужасы",
-      "комедия"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 77,
-     "popularity": 33.7104,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.111,
-     "tmdb_vote_count": 9,
-     "theatrical_release_date": "2026-09-30",
-     "digital_release_date": "2026-09-30"
-    }
-   }
-  ]
- },
- {
-  "id": "tt36602063",
-  "title": "WWE/AAA Worlds Collide 2026: Chicago",
-  "original_title": "WWE/AAA Worlds Collide 2026: Chicago",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/r7rSQjPEodbeebUkFtMjcH6yGG8.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/aLBjCSSbdzPPhwTp0SksKuevSlQ.jpg",
-  "genres": [
-   "боевик"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 154,
-  "imdb_id": "tt36602063",
-  "tmdb_id": 1743016,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 7.0,
-  "tmdb_vote_count": 1,
-  "popularity": 6.8045,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-30",
-  "digital_release_date": "2026-09-30",
-  "first_detected_at": "2026-10-02T09:12:16.484899+00:00",
-  "last_updated_at": "2026-10-02T09:23:19.487554+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "131c80a0665e9e8f",
-    "movie_id": "tt36602063",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-30",
-    "detected_at": "2026-10-02T09:12:16.484899+00:00",
-    "quality": "unknown",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "WWE/AAA Worlds Collide 2026: Chicago",
-    "details": {
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/r7rSQjPEodbeebUkFtMjcH6yGG8.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/aLBjCSSbdzPPhwTp0SksKuevSlQ.jpg",
-     "genres": [
-      "боевик"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 154,
-     "popularity": 6.8045,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-30",
-     "digital_release_date": "2026-09-30"
-    }
-   },
-   {
-    "id": "51e0f4f65359a06f",
-    "movie_id": "tt36602063",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-09-30",
-    "detected_at": "2026-10-02T09:23:12.529063+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "WWE/AAA Worlds Collide 2026: Chicago",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/r7rSQjPEodbeebUkFtMjcH6yGG8.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/aLBjCSSbdzPPhwTp0SksKuevSlQ.jpg",
-     "genres": [
-      "боевик"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 154,
-     "popularity": 6.8045,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.0,
-     "tmdb_vote_count": 1,
-     "theatrical_release_date": "2026-09-30",
-     "digital_release_date": "2026-09-30"
     }
    }
   ]

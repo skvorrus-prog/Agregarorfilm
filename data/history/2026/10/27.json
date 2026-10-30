@@ -22,8 +22,8 @@
       "tmdb_id": 1596275,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.855,
-      "tmdb_vote_count": 31,
+      "tmdb_rating": 7.929,
+      "tmdb_vote_count": 35,
       "popularity": 274.3374,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-27",
@@ -103,7 +103,7 @@
       "theatrical_release_date": "2026-09-25",
       "digital_release_date": "2026-10-27",
       "first_detected_at": "2026-10-28T20:21:21.760563+00:00",
-      "last_updated_at": "2026-10-29T10:10:11.053559+00:00",
+      "last_updated_at": "2026-10-30T18:07:46.000593+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -171,6 +171,30 @@
             "release_group": "D",
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "844cdcd95ff30073",
+          "movie_id": "tt34611096",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-30T13:58:58+00:00",
+          "detected_at": "2026-10-30T18:07:36.346050+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Водитель-каскадёр / The Stunt Driver (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -194,8 +218,8 @@
       "tmdb_id": 1283515,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.418,
-      "tmdb_vote_count": 324,
+      "tmdb_rating": 6.463,
+      "tmdb_vote_count": 336,
       "popularity": 197.3336,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-30",
