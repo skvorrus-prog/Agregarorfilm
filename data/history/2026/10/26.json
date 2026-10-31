@@ -201,7 +201,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-26T20:35:23.467493+00:00",
-      "last_updated_at": "2026-10-28T13:10:56.511031+00:00",
+      "last_updated_at": "2026-10-31T19:21:50.113122+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -398,6 +398,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "48324d4f8ff7aeca",
+          "movie_id": "m_38f3cc958f16",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-31T15:05:28+00:00",
+          "detected_at": "2026-10-31T19:21:43.083784+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "MovieDalen",
+          "raw_title": "Собачьи звёзды / The Dog Stars (2026) WEB-DLRip-AVC от ExKinoRay | D | MovieDalen",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "MovieDalen",
             "is_secondary_signal": true
           }
         }

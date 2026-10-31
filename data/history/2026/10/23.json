@@ -1,7 +1,79 @@
 {
   "date": "2026-10-23",
-  "count": 10,
+  "count": 11,
   "movies": [
+    {
+      "id": "tt38990864",
+      "title": "ധൂമകേതു",
+      "original_title": "ധൂമകേതു",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ma7nFrXqSiA8FxAxqhyk4zoP58x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4YxZxGPt702wGaNqgXwN6Jaq390.jpg",
+      "genres": [
+        "комедия",
+        "фэнтези"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 122,
+      "imdb_id": "tt38990864",
+      "tmdb_id": 1590718,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.7,
+      "tmdb_vote_count": 5,
+      "popularity": 10.2519,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-25",
+      "digital_release_date": "2026-10-23",
+      "first_detected_at": "2026-10-31T19:21:43.083784+00:00",
+      "last_updated_at": "2026-10-31T19:21:50.046644+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ef51185d80432413",
+          "movie_id": "tt38990864",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-23",
+          "detected_at": "2026-10-31T19:21:43.083784+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "ധൂമകേതു",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/ma7nFrXqSiA8FxAxqhyk4zoP58x.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/4YxZxGPt702wGaNqgXwN6Jaq390.jpg",
+            "genres": [
+              "комедия",
+              "фэнтези"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 122,
+            "popularity": 10.2519,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.7,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-09-25",
+            "digital_release_date": "2026-10-23"
+          }
+        }
+      ]
+    },
     {
       "id": "tt39631280",
       "title": "ग़ज़ब रात",
@@ -93,8 +165,8 @@
       "tmdb_id": 1780005,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.354,
-      "tmdb_vote_count": 82,
+      "tmdb_rating": 7.42,
+      "tmdb_vote_count": 88,
       "popularity": 103.4973,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-23",
@@ -168,8 +240,8 @@
       "tmdb_id": 1477104,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.4,
-      "tmdb_vote_count": 42,
+      "tmdb_rating": 7.409,
+      "tmdb_vote_count": 44,
       "popularity": 39.1831,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-17",
@@ -245,8 +317,8 @@
       "tmdb_id": 1578079,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 8.5,
-      "tmdb_vote_count": 8,
+      "tmdb_rating": 8.667,
+      "tmdb_vote_count": 9,
       "popularity": 10.326,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-25",

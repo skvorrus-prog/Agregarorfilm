@@ -3,6 +3,151 @@
   "count": 5,
   "movies": [
     {
+      "id": "m_9e2a1351a8d1",
+      "title": "Курс на столкновение",
+      "original_title": "Colisión / Collision Course",
+      "year": 2026,
+      "overview": "Испания, 2013. После ограбления банка, авария раскрывает скрытую сторону каждого вора, разоблачая предательства и ложь, которые начались задолго до ограбления.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWI3NDA0NmMtODgyZS00NTk0LTg3YjUtMzI3NjdkYTZiNmMxXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "runtime": 106,
+      "imdb_id": "tt38793125",
+      "tmdb_id": 1571955,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.167,
+      "tmdb_vote_count": 6,
+      "popularity": 76.7435,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-10-30",
+      "first_detected_at": "2026-10-30T22:27:56.311573+00:00",
+      "last_updated_at": "2026-10-31T19:21:49.964967+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "51da694b86e57f1d",
+          "movie_id": "m_9e2a1351a8d1",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-30",
+          "detected_at": "2026-10-31T19:21:43.083784+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Курс на столкновение",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Испания, 2013. Только что ограбившая банк банда воров попадает в ДТП, и обнаруживается все, что каждый скрывал: ложь и предательство, начавшиеся задолго до кражи.",
+            "poster": "https://image.tmdb.org/t/p/w500/p0N49IjEXeAV52s2qtREFx6DYzn.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+            "genres": [
+              "драма",
+              "боевик",
+              "криминал"
+            ],
+            "countries": [
+              "Spain"
+            ],
+            "runtime": 106,
+            "popularity": 76.7435,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.167,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-10-30",
+            "digital_release_date": "2026-10-30"
+          }
+        },
+        {
+          "id": "8b50531921e7934a",
+          "movie_id": "m_9e2a1351a8d1",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-30T18:36:42+00:00",
+          "detected_at": "2026-10-30T22:27:56.311573+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Курс на столкновение / Colisión / Collision Course (2026) WEB-DL 1080p | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "60bfd7e48b4f5296",
+          "movie_id": "m_9e2a1351a8d1",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-30T19:17:09+00:00",
+          "detected_at": "2026-10-30T22:27:56.311573+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Курс на столкновение / Colisión / Collision Course (2026) WEB-DLRip | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "65c103ad58b1ece9",
+          "movie_id": "m_9e2a1351a8d1",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-31T07:26:26+00:00",
+          "detected_at": "2026-10-31T12:45:14.314276+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "Курс на столкновение / Colisión / Collision Course (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Movie Dubbing",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Movie Dubbing",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
       "id": "tt37522541",
       "title": "Апокалипсис Z: Новый мир",
       "original_title": "Apocalipsis Z: Nuevo mundo",
@@ -143,115 +288,6 @@
             "audio": null,
             "language": null,
             "release_group": "L2",
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "m_9e2a1351a8d1",
-      "title": "Курс на столкновение",
-      "original_title": "Colisión / Collision Course",
-      "year": 2026,
-      "overview": "Испания, 2013. После ограбления банка, авария раскрывает скрытую сторону каждого вора, разоблачая предательства и ложь, которые начались задолго до ограбления.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMWI3NDA0NmMtODgyZS00NTk0LTg3YjUtMzI3NjdkYTZiNmMxXkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "countries": [
-        "Spain"
-      ],
-      "runtime": null,
-      "imdb_id": "tt38793125",
-      "tmdb_id": null,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-10-30T22:27:56.311573+00:00",
-      "last_updated_at": "2026-10-31T12:45:21.848801+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "1080p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": true,
-      "events": [
-        {
-          "id": "8b50531921e7934a",
-          "movie_id": "m_9e2a1351a8d1",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-30T18:36:42+00:00",
-          "detected_at": "2026-10-30T22:27:56.311573+00:00",
-          "quality": "WEB-DL",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": "D",
-          "raw_title": "Курс на столкновение / Colisión / Collision Course (2026) WEB-DL 1080p | D",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": "D",
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "60bfd7e48b4f5296",
-          "movie_id": "m_9e2a1351a8d1",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-30T19:17:09+00:00",
-          "detected_at": "2026-10-30T22:27:56.311573+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": "D",
-          "raw_title": "Курс на столкновение / Colisión / Collision Course (2026) WEB-DLRip | D",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "unknown",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": "D",
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "65c103ad58b1ece9",
-          "movie_id": "m_9e2a1351a8d1",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-10-31T07:26:26+00:00",
-          "detected_at": "2026-10-31T12:45:14.314276+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": "Movie Dubbing",
-          "raw_title": "Курс на столкновение / Colisión / Collision Course (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Movie Dubbing",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "unknown",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": "Movie Dubbing",
             "is_secondary_signal": true
           }
         }
@@ -405,7 +441,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-30T18:07:36.346050+00:00",
-      "last_updated_at": "2026-10-30T18:07:45.999185+00:00",
+      "last_updated_at": "2026-10-31T19:21:50.120603+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -458,6 +494,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "2c0ef5f5c17cc2e8",
+          "movie_id": "m_5a0e4b6d4fcd",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-31T14:43:42+00:00",
+          "detected_at": "2026-10-31T19:21:43.083784+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Videofilm Int",
+          "raw_title": "Подарочек / Das Geschenk / The Birthday Gift (2026) WEB-DLRip | D | Videofilm Int",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Videofilm Int",
             "is_secondary_signal": true
           }
         }

@@ -203,6 +203,151 @@
   ]
  },
  {
+  "id": "m_9e2a1351a8d1",
+  "title": "Курс на столкновение",
+  "original_title": "Colisión / Collision Course",
+  "year": 2026,
+  "overview": "Испания, 2013. После ограбления банка, авария раскрывает скрытую сторону каждого вора, разоблачая предательства и ложь, которые начались задолго до ограбления.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWI3NDA0NmMtODgyZS00NTk0LTg3YjUtMzI3NjdkYTZiNmMxXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+  "genres": [
+   "Thriller",
+   "Drama"
+  ],
+  "countries": [
+   "Spain"
+  ],
+  "runtime": 106,
+  "imdb_id": "tt38793125",
+  "tmdb_id": 1571955,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.167,
+  "tmdb_vote_count": 6,
+  "popularity": 76.7435,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": null,
+  "digital_release_date": "2026-10-30",
+  "first_detected_at": "2026-10-30T22:27:56.311573+00:00",
+  "last_updated_at": "2026-10-31T19:21:49.964967+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "51da694b86e57f1d",
+    "movie_id": "m_9e2a1351a8d1",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-30",
+    "detected_at": "2026-10-31T19:21:43.083784+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Курс на столкновение",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Испания, 2013. Только что ограбившая банк банда воров попадает в ДТП, и обнаруживается все, что каждый скрывал: ложь и предательство, начавшиеся задолго до кражи.",
+     "poster": "https://image.tmdb.org/t/p/w500/p0N49IjEXeAV52s2qtREFx6DYzn.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+     "genres": [
+      "драма",
+      "боевик",
+      "криминал"
+     ],
+     "countries": [
+      "Spain"
+     ],
+     "runtime": 106,
+     "popularity": 76.7435,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.167,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-10-30",
+     "digital_release_date": "2026-10-30"
+    }
+   },
+   {
+    "id": "8b50531921e7934a",
+    "movie_id": "m_9e2a1351a8d1",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-30T18:36:42+00:00",
+    "detected_at": "2026-10-30T22:27:56.311573+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Курс на столкновение / Colisión / Collision Course (2026) WEB-DL 1080p | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "60bfd7e48b4f5296",
+    "movie_id": "m_9e2a1351a8d1",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-30T19:17:09+00:00",
+    "detected_at": "2026-10-30T22:27:56.311573+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Курс на столкновение / Colisión / Collision Course (2026) WEB-DLRip | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "65c103ad58b1ece9",
+    "movie_id": "m_9e2a1351a8d1",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-10-31T07:26:26+00:00",
+    "detected_at": "2026-10-31T12:45:14.314276+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Movie Dubbing",
+    "raw_title": "Курс на столкновение / Colisión / Collision Course (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Movie Dubbing",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Movie Dubbing",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
   "id": "tt37522541",
   "title": "Апокалипсис Z: Новый мир",
   "original_title": "Apocalipsis Z: Nuevo mundo",
@@ -515,8 +660,8 @@
   "tmdb_id": 1480856,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.563,
-  "tmdb_vote_count": 8,
+  "tmdb_rating": 6.944,
+  "tmdb_vote_count": 9,
   "popularity": 7.4348,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-21",
@@ -587,8 +732,8 @@
   "tmdb_id": 1727734,
   "imdb_rating": 6.2,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.981,
-  "tmdb_vote_count": 79,
+  "tmdb_rating": 6.042,
+  "tmdb_vote_count": 83,
   "popularity": 103.9137,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-22",
@@ -1136,8 +1281,8 @@
   "tmdb_id": 1283515,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.652,
-  "tmdb_vote_count": 399,
+  "tmdb_rating": 6.649,
+  "tmdb_vote_count": 407,
   "popularity": 204.6851,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-30",
@@ -1937,6 +2082,78 @@
   ]
  },
  {
+  "id": "tt38990864",
+  "title": "ധൂമകേതു",
+  "original_title": "ധൂമകേതു",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/ma7nFrXqSiA8FxAxqhyk4zoP58x.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4YxZxGPt702wGaNqgXwN6Jaq390.jpg",
+  "genres": [
+   "комедия",
+   "фэнтези"
+  ],
+  "countries": [
+   "India"
+  ],
+  "runtime": 122,
+  "imdb_id": "tt38990864",
+  "tmdb_id": 1590718,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.7,
+  "tmdb_vote_count": 5,
+  "popularity": 10.2519,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-25",
+  "digital_release_date": "2026-10-23",
+  "first_detected_at": "2026-10-31T19:21:43.083784+00:00",
+  "last_updated_at": "2026-10-31T19:21:50.046644+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "ef51185d80432413",
+    "movie_id": "tt38990864",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-23",
+    "detected_at": "2026-10-31T19:21:43.083784+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "ധൂമകേതു",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/ma7nFrXqSiA8FxAxqhyk4zoP58x.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/4YxZxGPt702wGaNqgXwN6Jaq390.jpg",
+     "genres": [
+      "комедия",
+      "фэнтези"
+     ],
+     "countries": [
+      "India"
+     ],
+     "runtime": 122,
+     "popularity": 10.2519,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.7,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-09-25",
+     "digital_release_date": "2026-10-23"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt39631280",
   "title": "ग़ज़ब रात",
   "original_title": "ग़ज़ब रात",
@@ -2027,8 +2244,8 @@
   "tmdb_id": 1780005,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.354,
-  "tmdb_vote_count": 82,
+  "tmdb_rating": 7.42,
+  "tmdb_vote_count": 88,
   "popularity": 103.4973,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-23",
@@ -2102,8 +2319,8 @@
   "tmdb_id": 1477104,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.4,
-  "tmdb_vote_count": 42,
+  "tmdb_rating": 7.409,
+  "tmdb_vote_count": 44,
   "popularity": 39.1831,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-17",
@@ -2179,8 +2396,8 @@
   "tmdb_id": 1578079,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.5,
-  "tmdb_vote_count": 8,
+  "tmdb_rating": 8.667,
+  "tmdb_vote_count": 9,
   "popularity": 10.326,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-25",
@@ -7699,154 +7916,6 @@
      "tmdb_rating": 6.0,
      "tmdb_vote_count": 5,
      "theatrical_release_date": "2026-10-01",
-     "digital_release_date": "2026-10-01"
-    }
-   }
-  ]
- },
- {
-  "id": "tt37601032",
-  "title": "Последний богатырь. Колобок",
-  "original_title": "Последний богатырь. Колобок",
-  "year": 2026,
-  "overview": "История Колобка: с какой коварной целью его испекли, как ему удалось сбежать, как он скитался и попал в банду разбойников, а потом поневоле стал напарником неудачливого пекаря Тихона и необычной девушки Лады.",
-  "poster": "https://image.tmdb.org/t/p/w500/jPKQThX15zNRaYdbEhmnJEjGjWT.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/uwCrmXg12dZ39lsgAzp1kU6oji9.jpg",
-  "genres": [
-   "комедия",
-   "приключения",
-   "семейный"
-  ],
-  "countries": [
-   "Russia"
-  ],
-  "runtime": 109,
-  "imdb_id": "tt37601032",
-  "tmdb_id": 1513703,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 4.6,
-  "tmdb_vote_count": 5,
-  "popularity": 2.6356,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-08-06",
-  "digital_release_date": "2026-10-01",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:25.323231+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "f54dba9479d4d19b",
-    "movie_id": "tt37601032",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-01",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Последний богатырь. Колобок",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "История Колобка: с какой коварной целью его испекли, как ему удалось сбежать, как он скитался и попал в банду разбойников, а потом поневоле стал напарником неудачливого пекаря Тихона и необычной девушки Лады.",
-     "poster": "https://image.tmdb.org/t/p/w500/jPKQThX15zNRaYdbEhmnJEjGjWT.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/uwCrmXg12dZ39lsgAzp1kU6oji9.jpg",
-     "genres": [
-      "комедия",
-      "приключения",
-      "семейный"
-     ],
-     "countries": [
-      "Russia"
-     ],
-     "runtime": 109,
-     "popularity": 3.4393,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 4.6,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-08-06",
-     "digital_release_date": "2026-10-01"
-    }
-   }
-  ]
- },
- {
-  "id": "tt37535100",
-  "title": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-  "original_title": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
-  "genres": [
-   "мелодрама",
-   "комедия",
-   "драма"
-  ],
-  "countries": [
-   "India"
-  ],
-  "runtime": 155,
-  "imdb_id": "tt37535100",
-  "tmdb_id": 1508168,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 8.4,
-  "tmdb_vote_count": 27,
-  "popularity": 51.4429,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-08-21",
-  "digital_release_date": "2026-10-01",
-  "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:24.565788+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "c1c085497bc020c7",
-    "movie_id": "tt37535100",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-01",
-    "detected_at": "2026-10-02T09:42:14.013589+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
-     "genres": [
-      "мелодрама",
-      "комедия",
-      "драма"
-     ],
-     "countries": [
-      "India"
-     ],
-     "runtime": 155,
-     "popularity": 14.8205,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 8.8,
-     "tmdb_vote_count": 20,
-     "theatrical_release_date": "2026-08-21",
      "digital_release_date": "2026-10-01"
     }
    }

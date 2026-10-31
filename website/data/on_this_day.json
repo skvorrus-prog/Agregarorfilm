@@ -21,6 +21,21 @@
  "10-30": {
   "2026": [
    {
+    "id": "m_9e2a1351a8d1",
+    "title": "Курс на столкновение",
+    "original_title": "Colisión / Collision Course",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI3NDA0NmMtODgyZS00NTk0LTg3YjUtMzI3NjdkYTZiNmMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-10-30",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
     "id": "tt37522541",
     "title": "Апокалипсис Z: Новый мир",
     "original_title": "Apocalipsis Z: Nuevo mundo",
@@ -34,21 +49,6 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
-   },
-   {
-    "id": "m_9e2a1351a8d1",
-    "title": "Курс на столкновение",
-    "original_title": "Colisión / Collision Course",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWI3NDA0NmMtODgyZS00NTk0LTg3YjUtMzI3NjdkYTZiNmMxXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
    },
    {
     "id": "m_e857664e46a0",
@@ -415,6 +415,21 @@
  },
  "10-23": {
   "2026": [
+   {
+    "id": "tt38990864",
+    "title": "ധൂമകേതു",
+    "original_title": "ധൂമകേതു",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ma7nFrXqSiA8FxAxqhyk4zoP58x.jpg",
+    "digital_release_date": "2026-10-23",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt39631280",
     "title": "ग़ज़ब रात",
@@ -2934,7 +2949,7 @@
     "digital_release_date": "2026-09-29",
     "imdb_rating": null,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
+    "best_quality": "BluRay",
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
