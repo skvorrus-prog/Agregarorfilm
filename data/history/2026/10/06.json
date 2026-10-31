@@ -270,7 +270,7 @@
       "theatrical_release_date": "2026-09-02",
       "digital_release_date": "2026-10-06",
       "first_detected_at": "2026-10-06T06:30:40.997289+00:00",
-      "last_updated_at": "2026-10-25T11:44:38.814085+00:00",
+      "last_updated_at": "2026-10-31T05:54:53.246930+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -647,6 +647,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "578e9929bfe899ea",
+          "movie_id": "tt32268691",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-31T04:53:31+00:00",
+          "detected_at": "2026-10-31T05:54:46.337694+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Flarrow Films",
+          "raw_title": "Натиск / Onslaught (2026) WEB-DLRip-AVC от ExKinoRay | D | Flarrow Films",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Flarrow Films",
             "is_secondary_signal": true
           }
         }

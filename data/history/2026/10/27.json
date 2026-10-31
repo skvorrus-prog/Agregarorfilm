@@ -1,7 +1,212 @@
 {
   "date": "2026-10-27",
-  "count": 4,
+  "count": 6,
   "movies": [
+    {
+      "id": "m_8bbf1540ea6a",
+      "title": "Мама, я беременна от пришельца",
+      "original_title": "Mum, I'm Alien Pregnant",
+      "year": 2026,
+      "overview": "Когда грязная неудачница случайно забеременела от инопланетян, она должна преодолеть скептически настроенных врачей, бесполезного папу ребенка и свою чрезмерную мать, чтобы выжить и вернуть себе жизнь.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjdhZGQ2ZGItOTI1MC00YjQ0LTliOTMtNTVlM2ViMzdiOTQ0XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "countries": [
+        "New Zealand"
+      ],
+      "runtime": 94,
+      "imdb_id": "tt28784376",
+      "tmdb_id": 1596301,
+      "imdb_rating": 6.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.0,
+      "tmdb_vote_count": 8,
+      "popularity": 8.169,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-10-27",
+      "first_detected_at": "2026-10-29T18:32:30.400539+00:00",
+      "last_updated_at": "2026-10-31T05:54:53.220217+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "0404c1ca4f66b0d2",
+          "movie_id": "m_8bbf1540ea6a",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-27",
+          "detected_at": "2026-10-31T05:54:46.337694+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Мама, я беременна от пришельца",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Мэри - инфантильная девушка-миллениал, которая живет в пригороде Новой Зеландии вместе со своей чересчур болтливой матерью Синтией. Ее жизнь резко меняется после нелепой интимной связи в прачечной с эксцентричным соседом по имени Бу. Вскоре выясняется, что Бу наполовину пришелец, а Мэри забеременела. Инопланетный плод развивается внутри нее с бешеной скоростью, вызывая пугающие и гротескные изменения в теле. Мэри приходится рассчитывать только на себя, так как местные врачи отказываются верить в происходящее, а новоиспеченный отец слишком незрел и бесполезен, чтобы хоть чем-то помочь.",
+            "poster": "https://image.tmdb.org/t/p/w500/RXfZ8QjllkTvNKyj7aTetQ8ywO.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/2ASkOyNYZvDs3M9xzKhckYmcRz4.jpg",
+            "genres": [
+              "ужасы",
+              "фантастика",
+              "комедия"
+            ],
+            "countries": [
+              "New Zealand"
+            ],
+            "runtime": 94,
+            "popularity": 8.169,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.0,
+            "tmdb_vote_count": 8,
+            "theatrical_release_date": "2026-09-10",
+            "digital_release_date": "2026-10-27"
+          }
+        },
+        {
+          "id": "47a71452619dd166",
+          "movie_id": "m_8bbf1540ea6a",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-10-29T16:15:28+00:00",
+          "detected_at": "2026-10-29T18:32:30.400539+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "L",
+          "raw_title": "Мама, я беременна от пришельца / Mum, I'm Alien Pregnant (2026) WEB-DL 1080p | L",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "L",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt36583977",
+      "title": "Forgotten Island",
+      "original_title": "Forgotten Island",
+      "year": 2026,
+      "overview": "Два лучших друга попадают в мистический мир Накали, где их единственный побег может стоить им общей жизни воспоминаний.",
+      "poster": "https://images.metahub.space/poster/small/tt36583977/img",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "countries": [
+        "United States, Japan"
+      ],
+      "runtime": 109,
+      "imdb_id": "tt36583977",
+      "tmdb_id": 1465063,
+      "imdb_rating": 7.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.6,
+      "tmdb_vote_count": 145,
+      "popularity": 119.5326,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-10-27",
+      "first_detected_at": "2026-10-29T10:10:01.919711+00:00",
+      "last_updated_at": "2026-10-31T05:54:53.221207+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "0084f7ec7e6077a3",
+          "movie_id": "tt36583977",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-10-27",
+          "detected_at": "2026-10-31T05:54:46.337694+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Остров забвения",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "На Филиппинах 1990-ых годов две лучшие подруги, Джо и Раисса, готовятся расстаться после окончания школы: Раисса должна уехать в США вместе с родителями. В последнюю ночь перед её отъездом девушки неожиданно попадают в таинственный мир Накали — остров, населённый магическими и мифическими существами. Здесь они обнаруживают, что чем дольше остаются на острове, тем быстрее исчезают их воспоминания. Теперь Джо и Раиссе предстоит найти способ вернуться домой, пока они окончательно не забудут друг друга и всё, что связывало их в прошлом.",
+            "poster": "https://image.tmdb.org/t/p/w500/cLEsUIvvzEUzoID2FdxTcNJBHwB.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+            "genres": [
+              "мультфильм",
+              "приключения",
+              "фэнтези",
+              "комедия",
+              "семейный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 109,
+            "popularity": 119.5326,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.6,
+            "tmdb_vote_count": 145,
+            "theatrical_release_date": "2026-09-10",
+            "digital_release_date": "2026-10-27"
+          }
+        },
+        {
+          "id": "1dfc3633266ae1fd",
+          "movie_id": "tt36583977",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-10-29T10:10:01.919711+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Forgotten Island (2026)",
+          "details": {
+            "title": "Forgotten Island",
+            "year": 2026,
+            "overview": "Two best friends become stranded on the mystical world of Nakali, where their only escape might cost them their shared lifetime of memories.",
+            "poster": "https://images.metahub.space/poster/small/tt36583977/img",
+            "genres": [
+              "Animation",
+              "Action",
+              "Adventure"
+            ],
+            "countries": [
+              "United States, Japan"
+            ],
+            "imdb_rating": 7.7,
+            "runtime": null
+          }
+        }
+      ]
+    },
     {
       "id": "tt37180686",
       "title": "Драйв: Притворщики",
@@ -22,9 +227,9 @@
       "tmdb_id": 1596275,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.929,
-      "tmdb_vote_count": 35,
-      "popularity": 274.3374,
+      "tmdb_rating": 7.915,
+      "tmdb_vote_count": 47,
+      "popularity": 278.399,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-27",
       "digital_release_date": "2026-10-27",
@@ -122,7 +327,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 8.2,
       "tmdb_vote_count": 5,
-      "popularity": 16.2492,
+      "popularity": 14.4291,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-25",
       "digital_release_date": "2026-10-27",
@@ -242,9 +447,9 @@
       "tmdb_id": 1283515,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.521,
-      "tmdb_vote_count": 351,
-      "popularity": 197.3336,
+      "tmdb_rating": 6.627,
+      "tmdb_vote_count": 389,
+      "popularity": 204.6851,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-30",
       "digital_release_date": "2026-10-27",
