@@ -36,6 +36,21 @@
     "has_ru_audio": true
    },
    {
+    "id": "m_5a0e4b6d4fcd",
+    "title": "Подарочек",
+    "original_title": "Das Geschenk / The Birthday Gift",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTM2MGFiMGYtMmFhZC00YWU3LThlOTAtZTAyOGNiMzUxODc4XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-10-30",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
     "id": "tt37522541",
     "title": "Апокалипсис Z: Новый мир",
     "original_title": "Apocalipsis Z: Nuevo mundo",
@@ -78,21 +93,6 @@
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_5a0e4b6d4fcd",
-    "title": "Подарочек",
-    "original_title": "Das Geschenk / The Birthday Gift",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTM2MGFiMGYtMmFhZC00YWU3LThlOTAtZTAyOGNiMzUxODc4XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "2160p",
-    "has_4k": true,
-    "has_hdr": true,
     "has_ru_audio": true
    }
   ]
@@ -415,6 +415,21 @@
  },
  "10-23": {
   "2026": [
+   {
+    "id": "tt33998222",
+    "title": "Love Language",
+    "original_title": "Love Language",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vCET3PDxBWnuaG8TgimTCKjkEtE.jpg",
+    "digital_release_date": "2026-10-23",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt38990864",
     "title": "ധൂമകേതു",
@@ -6515,6 +6530,21 @@
  },
  "11-01": {
   "2026": [
+   {
+    "id": "m_a4a6511b8acd",
+    "title": "Зловещая муза",
+    "original_title": "A Wicked Muse",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODUwZTM2MmQtYTMzNy00YTA4LWE2YmQtNGE1MmZjNDU3MTA0XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.8,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "m_dd468210ba47",
     "title": "Мирзапур: Фильм",
