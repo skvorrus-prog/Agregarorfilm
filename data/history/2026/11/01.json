@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-01",
+  "count": 2,
+  "movies": [
+    {
+      "id": "m_dd468210ba47",
+      "title": "Мирзапур: Фильм",
+      "original_title": "Mirzapur: The Movie",
+      "year": 2026,
+      "overview": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjhlYWY1NWUtYjU4Zi00MDg4LWE2N2MtYjQzMjBkMjgwOWI5XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [],
+      "countries": [
+        "India"
+      ],
+      "runtime": null,
+      "imdb_id": "tt34339725",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-01T16:06:54.673580+00:00",
+      "last_updated_at": "2026-11-01T16:07:06.827823+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "5d152e5477efe31b",
+          "movie_id": "m_dd468210ba47",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-01T08:27:14+00:00",
+          "detected_at": "2026-11-01T16:06:54.673580+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Мирзапур: Фильм / Mirzapur: The Movie (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_5e534945cc42",
+      "title": "Незнакомцы: Часть третья",
+      "original_title": "The Strangers: Chapter 3",
+      "year": 2026,
+      "overview": "В самой жестокой главе серии Майя сталкивается с убийцами в масках и находит единственный выход из кошмара...",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGQ2ZDJlMjgtYmMwNi00MjAxLWIzOWYtMzE0YTFjZWYyNmEzXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "United States, United Kingdom, Spain, Slovakia, Canada"
+      ],
+      "runtime": null,
+      "imdb_id": "tt28682323",
+      "tmdb_id": null,
+      "imdb_rating": 4.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-01T16:06:54.673580+00:00",
+      "last_updated_at": "2026-11-01T16:07:05.550080+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": true,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "5d5d0e472f1e2991",
+          "movie_id": "m_5e534945cc42",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-01T09:09:46+00:00",
+          "detected_at": "2026-11-01T16:06:54.673580+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDRezka Studio",
+          "raw_title": "Незнакомцы: Часть третья / The Strangers: Chapter 3 (2026) BDRip 720p от DoMiNo & селезень | P | HDRezka Studio",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}
