@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-02",
+  "count": 2,
+  "movies": [
+    {
+      "id": "m_dabef0503101",
+      "title": "Обитель зла",
+      "original_title": "Resident Evil",
+      "year": 2026,
+      "overview": "«Обитель зла» — боевик и фильм ужасов 2002 года режиссёра, продюсера и сценариста Пола Уильяма Скотта Андерсона. Кинолента совместного производства США, Германии, Франции и Великобритании. «Обитель зла» снят по мотивам одноимённой компьютерной игры с элементами из Resident Evil 2 и Resident Evil 3: Nemesis, а также содержит аллюзии на творчество Льюиса Кэрролла. Главную роль сыграла Милла Йовович, а одну из ролей второго плана — Мишель Родригес. Сюжет построен вокруг потерявшей память девушки Элис и группы спецназовцев корпорации Umbrella, которые пытаются сдержать распространение Т-вируса на секретном подземном объекте. Слоганы картины: «Секретный эксперимент. Смертельный вирус. Роковая ошибка», «Пережить ужас».",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGZjZWI1NTItOGUwZC00YWZkLWIxZWEtNzE2ZTIxODdjNmZmXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "countries": [
+        "Germany, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt35538033",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-02T19:35:04.294235+00:00",
+      "last_updated_at": "2026-11-02T19:35:13.445732+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "065931c8a05b395f",
+          "movie_id": "m_dabef0503101",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-02T13:51:33+00:00",
+          "detected_at": "2026-11-02T19:35:04.294235+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Обитель зла / Resident Evil (2026) WEB-DL 1080p | Sub",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_a114ed6c7569",
+      "title": "Холст",
+      "original_title": "The Canvas",
+      "year": 2026,
+      "overview": "Холст — натуральная, бумажная, синтетическая или комбинированная (смесовая) ткань с полотняным переплетением пряжи.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzQ0MTI0MmEtZTVmOS00NzBmLTlkNjEtNWRmOGQzZjE2ZGVhXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "United States, Italy"
+      ],
+      "runtime": null,
+      "imdb_id": "tt39773403",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-02T19:35:04.294235+00:00",
+      "last_updated_at": "2026-11-02T19:35:12.741016+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "001ac351b2ada710",
+          "movie_id": "m_a114ed6c7569",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-02T14:53:25+00:00",
+          "detected_at": "2026-11-02T19:35:04.294235+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Холст / The Canvas (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}
