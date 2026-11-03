@@ -1,7 +1,85 @@
 {
   "date": "2026-11-03",
-  "count": 1,
+  "count": 2,
   "movies": [
+    {
+      "id": "tt35856037",
+      "title": "Твоя мать, твоя мать, твоя мать",
+      "original_title": "Your Mother Your Mother Your Mother",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jiFLiatBtBALlAzV5R72gzspBad.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "драма",
+        "триллер"
+      ],
+      "countries": [
+        "United States of America",
+        "United Kingdom"
+      ],
+      "runtime": 112,
+      "imdb_id": "tt35856037",
+      "tmdb_id": 1437396,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.3,
+      "tmdb_vote_count": 9,
+      "popularity": 33.9185,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-09-25",
+      "digital_release_date": "2026-11-03",
+      "first_detected_at": "2026-11-03T11:01:43.123091+00:00",
+      "last_updated_at": "2026-11-03T11:01:49.954289+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "468eef95a535f717",
+          "movie_id": "tt35856037",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-03",
+          "detected_at": "2026-11-03T11:01:43.123091+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Твоя мать, твоя мать, твоя мать",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/jiFLiatBtBALlAzV5R72gzspBad.jpg",
+            "genres": [
+              "боевик",
+              "криминал",
+              "драма",
+              "триллер"
+            ],
+            "countries": [
+              "United States of America",
+              "United Kingdom"
+            ],
+            "runtime": 112,
+            "popularity": 33.9185,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.3,
+            "tmdb_vote_count": 9,
+            "theatrical_release_date": "2026-09-25",
+            "digital_release_date": "2026-11-03"
+          }
+        }
+      ]
+    },
     {
       "id": "tt10377864",
       "title": "Beware Boiúna",
@@ -24,9 +102,9 @@
       "tmdb_id": 1244523,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.4,
-      "tmdb_vote_count": 14,
-      "popularity": 41.0618,
+      "tmdb_rating": 6.2,
+      "tmdb_vote_count": 16,
+      "popularity": 47.1881,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-01",
       "digital_release_date": "2026-11-03",

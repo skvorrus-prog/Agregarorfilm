@@ -21,6 +21,21 @@
  "11-03": {
   "2026": [
    {
+    "id": "tt35856037",
+    "title": "Твоя мать, твоя мать, твоя мать",
+    "original_title": "Your Mother Your Mother Your Mother",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+    "digital_release_date": "2026-11-03",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt10377864",
     "title": "Beware Boiúna",
     "original_title": "Beware Boiúna",
@@ -2105,9 +2120,9 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
     "has_ru_audio": true
    },
    {
