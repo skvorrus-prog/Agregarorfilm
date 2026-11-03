@@ -18,6 +18,25 @@
    }
   ]
  },
+ "11-03": {
+  "2026": [
+   {
+    "id": "tt10377864",
+    "title": "Beware Boiúna",
+    "original_title": "Beware Boiúna",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
+    "digital_release_date": "2026-11-03",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-30": {
   "2026": [
    {
@@ -6543,7 +6562,7 @@
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "m_a114ed6c7569",
