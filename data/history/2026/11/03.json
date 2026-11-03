@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "count": 2,
+  "count": 3,
   "movies": [
     {
       "id": "tt35856037",
@@ -25,8 +25,8 @@
       "tmdb_id": 1437396,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.3,
-      "tmdb_vote_count": 9,
+      "tmdb_rating": 7.4,
+      "tmdb_vote_count": 10,
       "popularity": 33.9185,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-25",
@@ -152,6 +152,75 @@
             "tmdb_vote_count": 14,
             "theatrical_release_date": "2026-10-01",
             "digital_release_date": "2026-11-03"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt34206385",
+      "title": "Primetime",
+      "original_title": "Primetime",
+      "year": 2026,
+      "overview": "В 2006 году ведущий фильма «Поймать хищника» (To Catch a Predator) Крис Хансен собирается войти в историю телевидения.",
+      "poster": "https://images.metahub.space/poster/small/tt34206385/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Biography",
+        "Crime"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt34206385",
+      "tmdb_id": null,
+      "imdb_rating": 7.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-03T19:35:29.495988+00:00",
+      "last_updated_at": "2026-11-03T19:35:38.813690+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "5ea9d7227c27ff7e",
+          "movie_id": "tt34206385",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-03T19:35:29.495988+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Primetime (2026)",
+          "details": {
+            "title": "Primetime",
+            "year": 2026,
+            "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+            "poster": "https://images.metahub.space/poster/small/tt34206385/img",
+            "genres": [
+              "Action",
+              "Biography",
+              "Crime"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 7.1,
+            "runtime": null
           }
         }
       ]
