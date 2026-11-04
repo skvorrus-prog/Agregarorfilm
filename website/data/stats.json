@@ -4,7 +4,7 @@
   "bluray_count": 70,
   "four_k_count": 52,
   "hdr_count": 70,
-  "ru_audio_count": 176,
+  "ru_audio_count": 177,
   "avg_rating": 6.44,
   "rated_movies_count": 434,
   "by_year": {
@@ -32,8 +32,8 @@
     "REMUX": 3
   },
   "by_resolution": {
-    "unknown": 245,
-    "1080p": 132,
+    "unknown": 244,
+    "1080p": 133,
     "2160p": 52,
     "720p": 32
   },
