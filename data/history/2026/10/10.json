@@ -414,9 +414,9 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-10T09:58:42.423736+00:00",
-      "last_updated_at": "2026-10-10T09:58:58.442785+00:00",
-      "status": "ANNOUNCED",
-      "best_quality": "unknown",
+      "last_updated_at": "2026-11-04T01:28:15.576121+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
       "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
@@ -442,6 +442,30 @@
             "hdr": null,
             "audio": null,
             "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "27f0f95fcb616147",
+          "movie_id": "m_d1232b88e040",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-03T19:51:22+00:00",
+          "detected_at": "2026-11-04T01:28:06.954484+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Охота за тенью / Край тени / Bu feng zhui ying / The Shadow's Edge (2025) BDRip-AVC от DoMiNo & селезень | P | ВПОДПОЛЬЕ",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
             "release_group": null,
             "is_secondary_signal": true
           }
