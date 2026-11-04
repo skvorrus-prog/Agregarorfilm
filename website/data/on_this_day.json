@@ -34,6 +34,36 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   },
+   {
+    "id": "m_3eacff4b79d1",
+    "title": "Королева у моря",
+    "original_title": "Queen at Sea",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTIxY2M1YjMtNGQ5My00NTZiLTlhOGItNWIxNWY3YmQxNDhmXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.7,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_a85679fabebc",
+    "title": "Идеальное собачье Рождество",
+    "original_title": "A Dog's Perfect Christmas",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1ZDNiYWQtZWE2OS00YjllLThhYjUtOGI5YjFjMGZhMzk0XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
    }
   ]
  },
@@ -88,6 +118,21 @@
  },
  "10-30": {
   "2026": [
+   {
+    "id": "tt44825373",
+    "title": "Секонд Сити ТВ: Величайшее шоу, о котором вы никогда не слышали",
+    "original_title": "SCTV: The Greatest Show You've Never Heard Of",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg",
+    "digital_release_date": "2026-10-30",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "m_9e2a1351a8d1",
     "title": "Курс на столкновение",
@@ -6471,7 +6516,7 @@
     "digital_release_date": "2026-01-15",
     "imdb_rating": 6.6,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
+    "best_quality": "BluRay",
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,

@@ -240,9 +240,9 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-01-15",
       "first_detected_at": "2026-01-15T12:00:00Z",
-      "last_updated_at": "2026-10-06T06:30:53.317455+00:00",
+      "last_updated_at": "2026-11-04T19:52:21.126875+00:00",
       "status": "UHD_RELEASE",
-      "best_quality": "WEB-DL",
+      "best_quality": "BluRay",
       "best_resolution": "2160p",
       "has_4k": true,
       "has_hdr": true,
@@ -276,6 +276,30 @@
             ],
             "imdb_rating": 7.3,
             "runtime": null
+          }
+        },
+        {
+          "id": "edb078d146d60e65",
+          "movie_id": "tt35672862",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-04T16:49:36+00:00",
+          "detected_at": "2026-11-04T19:52:14.210924+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Хокум / Hokum (2026) BDRip-HEVC 1080p | D | Мосфильм-Мастер",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]
