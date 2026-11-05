@@ -70,6 +70,21 @@
  "11-03": {
   "2026": [
    {
+    "id": "tt13884466",
+    "title": "Образцовый гражданин",
+    "original_title": "Model Citizen",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/909iKtZQg7PWjBxNuFkTCd1LrGW.jpg",
+    "digital_release_date": "2026-11-03",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt35856037",
     "title": "Твоя мать, твоя мать, твоя мать",
     "original_title": "Your Mother Your Mother Your Mother",
