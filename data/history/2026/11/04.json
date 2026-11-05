@@ -3,6 +3,103 @@
   "count": 3,
   "movies": [
     {
+      "id": "m_a85679fabebc",
+      "title": "Идеальное собачье Рождество",
+      "original_title": "A Dog's Perfect Christmas",
+      "year": 2026,
+      "overview": "Сюжет следует за семьей в кризисе, где подросток, ее дедушка и его верный бассет-хаунд изо всех сил пытаются сохранить семью на Рождество.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1ZDNiYWQtZWE2OS00YjllLThhYjUtOGI5YjFjMGZhMzk0XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Drama"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "runtime": 102,
+      "imdb_id": "tt38515310",
+      "tmdb_id": 1570488,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.3,
+      "tmdb_vote_count": 6,
+      "popularity": 51.6633,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-11-04",
+      "first_detected_at": "2026-11-04T19:52:14.210924+00:00",
+      "last_updated_at": "2026-11-05T11:09:21.535629+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "31ddf5f51d8b8f18",
+          "movie_id": "m_a85679fabebc",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-04",
+          "detected_at": "2026-11-05T11:09:14.591316+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Идеальное Рождество для собаки",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Когда внезапная болезнь разлучает семью Госс, преданный пес Уинстед делает всё возможное, чтобы любимые хозяева снова встретились к Рождеству.",
+            "poster": "https://image.tmdb.org/t/p/w500/a80Mg04hjQh4l0MRvv7RB0qc17S.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+            "genres": [
+              "комедия",
+              "драма"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 102,
+            "popularity": 51.6633,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.3,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-11-04",
+            "digital_release_date": "2026-11-04"
+          }
+        },
+        {
+          "id": "be467343d2319108",
+          "movie_id": "m_a85679fabebc",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-04T15:47:18+00:00",
+          "detected_at": "2026-11-04T19:52:14.210924+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Идеальное собачье Рождество / A Dog's Perfect Christmas (2026) WEB-DL 1080p | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
       "id": "tt13611778",
       "title": "Мангуст",
       "original_title": "The Mongoose",
@@ -22,9 +119,9 @@
       "tmdb_id": 1294189,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.42,
-      "tmdb_vote_count": 25,
-      "popularity": 150.7374,
+      "tmdb_rating": 6.565,
+      "tmdb_vote_count": 31,
+      "popularity": 197.1989,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-29",
       "digital_release_date": "2026-11-04",
@@ -129,68 +226,6 @@
             "audio": null,
             "language": "RU",
             "release_group": "MUZOBOZ",
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "m_a85679fabebc",
-      "title": "Идеальное собачье Рождество",
-      "original_title": "A Dog's Perfect Christmas",
-      "year": 2026,
-      "overview": "Сюжет следует за семьей в кризисе, где подросток, ее дедушка и его верный бассет-хаунд изо всех сил пытаются сохранить семью на Рождество.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1ZDNiYWQtZWE2OS00YjllLThhYjUtOGI5YjFjMGZhMzk0XkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Family",
-        "Comedy",
-        "Drama"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "runtime": null,
-      "imdb_id": "tt38515310",
-      "tmdb_id": null,
-      "imdb_rating": null,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-11-04T19:52:14.210924+00:00",
-      "last_updated_at": "2026-11-04T19:52:23.233240+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "1080p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": true,
-      "events": [
-        {
-          "id": "be467343d2319108",
-          "movie_id": "m_a85679fabebc",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-11-04T15:47:18+00:00",
-          "detected_at": "2026-11-04T19:52:14.210924+00:00",
-          "quality": "WEB-DL",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": "D",
-          "raw_title": "Идеальное собачье Рождество / A Dog's Perfect Christmas (2026) WEB-DL 1080p | D",
-          "details": {
-            "quality": "WEB-DL",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": "D",
             "is_secondary_signal": true
           }
         }

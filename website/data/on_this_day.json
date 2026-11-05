@@ -15,11 +15,41 @@
     "has_4k": false,
     "has_hdr": true,
     "has_ru_audio": true
+   },
+   {
+    "id": "m_ece528005242",
+    "title": "Ночь с гризли",
+    "original_title": "Grizzly Night",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjkwYWYwMTctM2MyZi00MzM1LWFmNjktNDQxZGU4MzU0NDYwXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
    }
   ]
  },
  "11-04": {
   "2026": [
+   {
+    "id": "m_a85679fabebc",
+    "title": "Идеальное собачье Рождество",
+    "original_title": "A Dog's Perfect Christmas",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1ZDNiYWQtZWE2OS00YjllLThhYjUtOGI5YjFjMGZhMzk0XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-11-04",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "tt13611778",
     "title": "Мангуст",
@@ -43,21 +73,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTIxY2M1YjMtNGQ5My00NTZiLTlhOGItNWIxNWY3YmQxNDhmXkEyXkFqcGc@._V1_SX250.jpg",
     "digital_release_date": null,
     "imdb_rating": 7.7,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_a85679fabebc",
-    "title": "Идеальное собачье Рождество",
-    "original_title": "A Dog's Perfect Christmas",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ1ZDNiYWQtZWE2OS00YjllLThhYjUtOGI5YjFjMGZhMzk0XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",
@@ -3751,11 +3766,11 @@
     "digital_release_date": "2026-09-10",
     "imdb_rating": null,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "has_hdr": true,
+    "has_ru_audio": true
    }
   ]
  },
