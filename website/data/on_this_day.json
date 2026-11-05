@@ -17,6 +17,66 @@
     "has_ru_audio": true
    },
    {
+    "id": "m_ec05449f01af",
+    "title": "Чарли и Харпер",
+    "original_title": "Charlie Harper",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTgyMjFkMmYtYzNmZS00NTMyLWE2NDktNmRjYmRhNDIxZDExXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.6,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_d582438092ce",
+    "title": "Горькое Рождество",
+    "original_title": "Amarga Navidad",
+    "year": 2026,
+    "poster": null,
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_8edc05f14cdd",
+    "title": "Албасты",
+    "original_title": null,
+    "year": 2025,
+    "poster": null,
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_d82fc254dcc0",
+    "title": "Скорпион",
+    "original_title": "Scorpion",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTAyODNhY2EtNGMwZi00OGZiLWE5YWEtOTUzOGYzYTlkMDQyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 4.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_ece528005242",
     "title": "Ночь с гризли",
     "original_title": "Grizzly Night",
@@ -138,11 +198,11 @@
     "digital_release_date": null,
     "imdb_rating": 7.1,
     "imdb_vote_count": null,
-    "best_quality": "unknown",
-    "best_resolution": "unknown",
+    "best_quality": "WEB-DL",
+    "best_resolution": "720p",
     "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "has_hdr": true,
+    "has_ru_audio": true
    }
   ]
  },
