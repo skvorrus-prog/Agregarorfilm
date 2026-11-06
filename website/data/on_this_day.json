@@ -15,6 +15,36 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   },
+   {
+    "id": "m_20d7d60e5ade",
+    "title": "Последняя афера",
+    "original_title": "Cada día nace un listo / A Sucker's Born Every Minute",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZmYjRiNjQtNDA4OS00YjYwLWI2MzgtZmI0MmM4MmFmY2M2XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_7dad820b1111",
+    "title": "Уличный боец",
+    "original_title": "Street Fighter",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
    }
   ]
  },
@@ -3642,11 +3672,11 @@
     "digital_release_date": "2026-09-15",
     "imdb_rating": null,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt33253206",

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "count": 1,
+  "count": 3,
   "movies": [
     {
       "id": "tt27041231",
@@ -68,6 +68,126 @@
             "tmdb_vote_count": 7,
             "theatrical_release_date": "2026-10-09",
             "digital_release_date": "2026-11-06"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_20d7d60e5ade",
+      "title": "Последняя афера",
+      "original_title": "Cada día nace un listo / A Sucker's Born Every Minute",
+      "year": 2026,
+      "overview": "Рекламные лозунги Джимми Ханагана и лабораторные отчеты показывают, что запатентованный приготовленный пудинг, изобретенный Лемюэлем П. Шпагатом, содержит сокровище витамина Z и полон Zumph. Дочь Лемюэля, Хелен влюблена в Джимми, но ее мать хочет, чтобы она вышла замуж за Лестера Кадваладера-младшего, сына Кадваладера-старшего, политического босса города и наставника и кнута нынешнего мэра Мо Карсона. Кадваладер поддерживает Шпагата на пост мэра, хотя он знает",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2ZmYjRiNjQtNDA4OS00YjYwLWI2MzgtZmI0MmM4MmFmY2M2XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Comedy"
+      ],
+      "countries": [
+        "USA"
+      ],
+      "runtime": null,
+      "imdb_id": "tt0035427",
+      "tmdb_id": null,
+      "imdb_rating": 5.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-06T19:30:15.456048+00:00",
+      "last_updated_at": "2026-11-06T19:30:33.508350+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "02beb3b3ad91eb99",
+          "movie_id": "m_20d7d60e5ade",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-06T17:55:22+00:00",
+          "detected_at": "2026-11-06T19:30:15.456048+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Последняя афера / Cada día nace un listo / A Sucker's Born Every Minute (2026) WEB-DL 1080p | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_7dad820b1111",
+      "title": "Уличный боец",
+      "original_title": "Street Fighter",
+      "year": 2026,
+      "overview": "Уличный боец:«Уличный боец» — название ряда фильмов, мультфильмов.\n«Уличный боец» — альбом Децла.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action"
+      ],
+      "countries": [
+        "United States, Japan"
+      ],
+      "runtime": null,
+      "imdb_id": "tt27419420",
+      "tmdb_id": null,
+      "imdb_rating": 6.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-06T19:30:15.456048+00:00",
+      "last_updated_at": "2026-11-06T19:30:23.081017+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "3fd3142f47b46b02",
+          "movie_id": "m_7dad820b1111",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-06T19:23:46+00:00",
+          "detected_at": "2026-11-06T19:30:15.456048+00:00",
+          "quality": "unknown",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "ViruseProject",
+          "raw_title": "Уличный боец / Street Fighter (2026) TS-HEVC 1080p | P2 | ViruseProject",
+          "details": {
+            "quality": "unknown",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "ViruseProject",
+            "is_secondary_signal": true
           }
         }
       ]
