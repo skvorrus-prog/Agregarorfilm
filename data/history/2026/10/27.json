@@ -227,8 +227,8 @@
       "tmdb_id": 1596275,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.779,
-      "tmdb_vote_count": 120,
+      "tmdb_rating": 7.718,
+      "tmdb_vote_count": 124,
       "popularity": 231.4612,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-27",
@@ -332,7 +332,7 @@
       "theatrical_release_date": "2026-09-25",
       "digital_release_date": "2026-10-27",
       "first_detected_at": "2026-10-28T20:21:21.760563+00:00",
-      "last_updated_at": "2026-10-30T18:07:46.000593+00:00",
+      "last_updated_at": "2026-11-06T01:37:14.517150+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -424,6 +424,30 @@
             "release_group": null,
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "e4e9eb0f7f285175",
+          "movie_id": "tt34611096",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-05T21:29:00+00:00",
+          "detected_at": "2026-11-06T01:37:07.590940+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Водитель-каскадёр / The Stunt Driver (2026) WEB-DLRip-AVC | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -447,8 +471,8 @@
       "tmdb_id": 1283515,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.976,
-      "tmdb_vote_count": 601,
+      "tmdb_rating": 7.0,
+      "tmdb_vote_count": 605,
       "popularity": 205.4296,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-30",

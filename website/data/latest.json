@@ -1,5 +1,75 @@
 [
  {
+  "id": "tt27041231",
+  "title": "Маск",
+  "original_title": "Musk",
+  "year": 2026,
+  "overview": "Проницательный взгляд на то, что скрывается за легендой об Илоне Маске — самом прославленном в мире «изобретателе-предпринимателе», который оказывает огромное влияние на мир, в котором мы все живем.",
+  "poster": "https://image.tmdb.org/t/p/w500/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/1CfHIKczBiAauSRBiNQ90bjLsCM.jpg",
+  "genres": [
+   "документальный"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 235,
+  "imdb_id": "tt27041231",
+  "tmdb_id": 1096228,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.4,
+  "tmdb_vote_count": 7,
+  "popularity": 4.4185,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-09",
+  "digital_release_date": "2026-11-06",
+  "first_detected_at": "2026-11-06T01:37:07.590940+00:00",
+  "last_updated_at": "2026-11-06T01:37:14.463915+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "1b7f0f354edf93b6",
+    "movie_id": "tt27041231",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-06",
+    "detected_at": "2026-11-06T01:37:07.590940+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Маск",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Проницательный взгляд на то, что скрывается за легендой об Илоне Маске — самом прославленном в мире «изобретателе-предпринимателе», который оказывает огромное влияние на мир, в котором мы все живем.",
+     "poster": "https://image.tmdb.org/t/p/w500/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/1CfHIKczBiAauSRBiNQ90bjLsCM.jpg",
+     "genres": [
+      "документальный"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 235,
+     "popularity": 4.4185,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.4,
+     "tmdb_vote_count": 7,
+     "theatrical_release_date": "2026-10-09",
+     "digital_release_date": "2026-11-06"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt32358390",
   "title": "Цикл зверя",
   "original_title": "The Cycle",
@@ -223,8 +293,8 @@
   "tmdb_id": 1570488,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.4,
-  "tmdb_vote_count": 8,
+  "tmdb_rating": 8.333,
+  "tmdb_vote_count": 9,
   "popularity": 51.6633,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -319,8 +389,8 @@
   "tmdb_id": 1294189,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.4,
-  "tmdb_vote_count": 34,
+  "tmdb_rating": 6.402,
+  "tmdb_vote_count": 41,
   "popularity": 197.1989,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-29",
@@ -711,8 +781,8 @@
   "tmdb_id": 1571955,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.564,
-  "tmdb_vote_count": 55,
+  "tmdb_rating": 6.519,
+  "tmdb_vote_count": 54,
   "popularity": 158.3856,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -856,8 +926,8 @@
   "tmdb_id": 1789549,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.0,
-  "tmdb_vote_count": 13,
+  "tmdb_rating": 7.179,
+  "tmdb_vote_count": 14,
   "popularity": 42.3726,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1388,7 +1458,7 @@
   "tmdb_id": 1727734,
   "imdb_rating": 6.2,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.757,
+  "tmdb_rating": 5.8,
   "tmdb_vote_count": 144,
   "popularity": 83.769,
   "popularity_source": "TMDB",
@@ -1717,8 +1787,8 @@
   "tmdb_id": 1596275,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.779,
-  "tmdb_vote_count": 120,
+  "tmdb_rating": 7.718,
+  "tmdb_vote_count": 124,
   "popularity": 231.4612,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-27",
@@ -1822,7 +1892,7 @@
   "theatrical_release_date": "2026-09-25",
   "digital_release_date": "2026-10-27",
   "first_detected_at": "2026-10-28T20:21:21.760563+00:00",
-  "last_updated_at": "2026-10-30T18:07:46.000593+00:00",
+  "last_updated_at": "2026-11-06T01:37:14.517150+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -1914,6 +1984,30 @@
      "release_group": null,
      "is_secondary_signal": true
     }
+   },
+   {
+    "id": "e4e9eb0f7f285175",
+    "movie_id": "tt34611096",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-05T21:29:00+00:00",
+    "detected_at": "2026-11-06T01:37:07.590940+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Водитель-каскадёр / The Stunt Driver (2026) WEB-DLRip-AVC | D, Р",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
    }
   ]
  },
@@ -1937,8 +2031,8 @@
   "tmdb_id": 1283515,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.976,
-  "tmdb_vote_count": 601,
+  "tmdb_rating": 7.0,
+  "tmdb_vote_count": 605,
   "popularity": 205.4296,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-30",
@@ -2951,7 +3045,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 5.7,
   "tmdb_vote_count": 17,
-  "popularity": 91.8659,
+  "popularity": 83.7954,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-23",
   "digital_release_date": "2026-10-23",
@@ -7863,76 +7957,6 @@
      "tmdb_vote_count": 153,
      "theatrical_release_date": "2026-07-23",
      "digital_release_date": "2026-10-05"
-    }
-   }
-  ]
- },
- {
-  "id": "tt39453404",
-  "title": "Шумахер 1994: Рождение легенды",
-  "original_title": "Schumacher ’94 – Die Geburt einer Legende",
-  "year": 2026,
-  "overview": "Легендарный сезон «Формулы-1» 1994 года, когда Михаэль Шумахер впервые стал чемпионом мира, оживает в личных интервью и архивных кадрах того времени.",
-  "poster": "https://image.tmdb.org/t/p/w500/o09Z2TPQLkLg2zE6U9PUF17RmGf.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
-  "genres": [
-   "документальный"
-  ],
-  "countries": [
-   "Germany"
-  ],
-  "runtime": 107,
-  "imdb_id": "tt39453404",
-  "tmdb_id": 1752355,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 7.63,
-  "tmdb_vote_count": 27,
-  "popularity": 9.3406,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-10-02",
-  "digital_release_date": "2026-10-03",
-  "first_detected_at": "2026-10-05T14:54:50.506269+00:00",
-  "last_updated_at": "2026-10-05T14:54:57.550195+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "3153b63db6904332",
-    "movie_id": "tt39453404",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-03",
-    "detected_at": "2026-10-05T14:54:50.506269+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Шумахер 1994: Рождение легенды",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Легендарный сезон «Формулы-1» 1994 года, когда Михаэль Шумахер впервые стал чемпионом мира, оживает в личных интервью и архивных кадрах того времени.",
-     "poster": "https://image.tmdb.org/t/p/w500/o09Z2TPQLkLg2zE6U9PUF17RmGf.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
-     "genres": [
-      "документальный"
-     ],
-     "countries": [
-      "Germany"
-     ],
-     "runtime": 107,
-     "popularity": 19.2482,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 8.6,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-10-02",
-     "digital_release_date": "2026-10-03"
     }
    }
   ]
