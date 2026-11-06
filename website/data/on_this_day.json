@@ -21,6 +21,21 @@
  "11-05": {
   "2026": [
    {
+    "id": "tt39400541",
+    "title": "余命一年、男をかう",
+    "original_title": "余命一年、男をかう",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lkEQXQ1YpMCzCrLOBxHLGdCHLVb.jpg",
+    "digital_release_date": "2026-11-05",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt32358390",
     "title": "Цикл зверя",
     "original_title": "The Cycle",
@@ -215,7 +230,7 @@
     "year": 2026,
     "poster": "https://images.metahub.space/poster/small/tt34206385/img",
     "digital_release_date": null,
-    "imdb_rating": 7.1,
+    "imdb_rating": 8.7,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "720p",

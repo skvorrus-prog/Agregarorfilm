@@ -25,7 +25,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 7.1,
       "tmdb_vote_count": 11,
-      "popularity": 5.4553,
+      "popularity": 4.9432,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-21",
       "digital_release_date": "2026-10-28",
@@ -95,9 +95,9 @@
       "tmdb_id": 1727734,
       "imdb_rating": 6.2,
       "imdb_vote_count": null,
-      "tmdb_rating": 5.8,
-      "tmdb_vote_count": 144,
-      "popularity": 83.769,
+      "tmdb_rating": 5.752,
+      "tmdb_vote_count": 145,
+      "popularity": 69.7106,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-22",
       "digital_release_date": "2026-10-28",
@@ -225,7 +225,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-28T20:21:21.760563+00:00",
-      "last_updated_at": "2026-11-02T19:35:11.215686+00:00",
+      "last_updated_at": "2026-11-06T11:06:43.255562+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -279,6 +279,35 @@
             "language": "RU",
             "release_group": "L",
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "5f70356d18a87895",
+          "movie_id": "m_18ebb58a7cac",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-06T11:06:36.033177+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Never After Dark (2026)",
+          "details": {
+            "title": "Never After Dark",
+            "year": 2026,
+            "overview": "A traveling psychic who helps lost souls cross over encounters a powerful entity at a remote house. While investigating its origins, she uncovers dark secrets and faces a deadly threat from an unexpected source.",
+            "poster": "https://images.metahub.space/poster/small/tt38589433/img",
+            "genres": [
+              "Horror"
+            ],
+            "countries": [
+              "Japan"
+            ],
+            "imdb_rating": null,
+            "runtime": null
           }
         }
       ]
