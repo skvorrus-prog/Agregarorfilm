@@ -1,7 +1,67 @@
 {
   "date": "2026-11-07",
-  "count": 3,
+  "count": 4,
   "movies": [
+    {
+      "id": "m_c4e92c6f5263",
+      "title": "Астрал. Шёпот призрака",
+      "original_title": "Geomeun ryeong / Rhapsody for the Dead",
+      "year": 2026,
+      "overview": "Су-а отправляется в путешествие на остров со своими друзьями, чтобы отпраздновать свое 25-летие. В ночь полнолуния Ануат следует по стопам Су-а и сталкивается со злыми духами, окружающими ее.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjkzOTQyMzgtZmNjZC00MmU2LWE3OWEtYzU3ZGFjMDE4ZGJlXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "runtime": null,
+      "imdb_id": "tt35136066",
+      "tmdb_id": null,
+      "imdb_rating": 6.6,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-07T17:46:31.450631+00:00",
+      "last_updated_at": "2026-11-07T17:46:44.938825+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "ab063a5fe2aee576",
+          "movie_id": "m_c4e92c6f5263",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T13:42:17+00:00",
+          "detected_at": "2026-11-07T17:46:31.450631+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Астрал. Шёпот призрака / Geomeun ryeong / Rhapsody for the Dead (2026) WEB-DLRip от AR-Team | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_374dc8a30550",
       "title": "Призрак Гилмор-Хаус",
@@ -151,13 +211,13 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-07T00:58:21.179652+00:00",
-      "last_updated_at": "2026-11-07T10:25:26.799682+00:00",
+      "last_updated_at": "2026-11-07T17:46:44.978030+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
       "has_4k": true,
       "has_hdr": true,
-      "has_ru_audio": false,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "0cef5614e51d5779",
@@ -227,6 +287,126 @@
             "hdr": "Dolby Vision / HDR10",
             "audio": null,
             "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "b257caafb3be2a92",
+          "movie_id": "m_e63987f67834",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T11:41:44+00:00",
+          "detected_at": "2026-11-07T17:46:31.450631+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Сердце зверя / Heart of the Beast (2026) WEB-DLRip-AVC от ExKinoRay | Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "2ed1609dc24714ca",
+          "movie_id": "m_e63987f67834",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T12:05:21+00:00",
+          "detected_at": "2026-11-07T17:46:31.450631+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Сердце зверя / Heart of the Beast (2026) WEB-DLRip-AVC | Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "b256d83f7da9816e",
+          "movie_id": "m_e63987f67834",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T14:01:36+00:00",
+          "detected_at": "2026-11-07T17:46:31.450631+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Сердце зверя / Heart of the Beast (2026) WEB-DLRip-AVC от DoMiNo & селезень | Р | Смотри Кино",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "da7445f35c3d5f8b",
+          "movie_id": "m_e63987f67834",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T16:44:41+00:00",
+          "detected_at": "2026-11-07T17:46:31.450631+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Сердце зверя / Heart of the Beast (2026) WEB-DLRip 720p от New-Team | D, P | HDRezka Studio, Смотри Кино",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "16a85ed97b99487e",
+          "movie_id": "m_e63987f67834",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T16:56:19+00:00",
+          "detected_at": "2026-11-07T17:46:31.450631+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Сердце зверя / Heart of the Beast (2026) UHD WEB-DL 2160p | 4K | HDR10+ | Dolby Vision P8 | D, P | HDrezka Studio, Смотри кино",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
             "release_group": null,
             "is_secondary_signal": true
           }

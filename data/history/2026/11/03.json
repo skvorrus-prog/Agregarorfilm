@@ -24,8 +24,8 @@
       "tmdb_id": 1792170,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.125,
-      "tmdb_vote_count": 12,
+      "tmdb_rating": 6.567,
+      "tmdb_vote_count": 15,
       "popularity": 36.8657,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-11-03",
@@ -101,19 +101,19 @@
       "tmdb_id": 1437396,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.0,
-      "tmdb_vote_count": 30,
+      "tmdb_rating": 6.984,
+      "tmdb_vote_count": 32,
       "popularity": 60.1424,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-09-25",
       "digital_release_date": "2026-11-03",
       "first_detected_at": "2026-11-03T11:01:43.123091+00:00",
-      "last_updated_at": "2026-11-07T10:25:26.808825+00:00",
+      "last_updated_at": "2026-11-07T17:46:44.950102+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
       "has_4k": false,
-      "has_hdr": false,
+      "has_hdr": true,
       "has_ru_audio": false,
       "events": [
         {
@@ -177,6 +177,30 @@
             "release_group": null,
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "03fba34c7b7268c8",
+          "movie_id": "tt35856037",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T13:39:06+00:00",
+          "detected_at": "2026-11-07T17:46:31.450631+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDrezka Studio",
+          "raw_title": "Твоя мать, твоя мать, твоя мать / Your Mother Your Mother Your Mother (2026) WEB-DLRip от AR-Team | Р | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -202,14 +226,14 @@
       "tmdb_id": 1244523,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.167,
+      "tmdb_rating": 6.2,
       "tmdb_vote_count": 42,
       "popularity": 122.518,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-01",
       "digital_release_date": "2026-11-03",
       "first_detected_at": "2026-11-03T02:57:16.044221+00:00",
-      "last_updated_at": "2026-11-04T11:09:40.222338+00:00",
+      "last_updated_at": "2026-11-07T17:46:44.960516+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -277,6 +301,30 @@
             "release_group": "D",
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "9721abeaeed3d6bc",
+          "movie_id": "tt10377864",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T12:33:28+00:00",
+          "detected_at": "2026-11-07T17:46:31.450631+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Монстр Амазонки / Beware Boiúna (2026) WEB-DL 1080p | D, Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -308,7 +356,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-03T19:35:29.495988+00:00",
-      "last_updated_at": "2026-11-05T20:04:48.911645+00:00",
+      "last_updated_at": "2026-11-07T17:46:44.948118+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "720p",
@@ -364,6 +412,30 @@
           "details": {
             "quality": "WEB-DL",
             "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "c1f36952fc5226df",
+          "movie_id": "tt34206385",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T13:40:11+00:00",
+          "detected_at": "2026-11-07T17:46:31.450631+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Прайм-тайм / Primetime (2026) WEB-DLRip от AR-Team | D | HDRezka Studio, WinMedia",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
             "hdr": null,
             "audio": null,
             "language": "RU",

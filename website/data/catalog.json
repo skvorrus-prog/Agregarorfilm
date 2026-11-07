@@ -18,8 +18,8 @@
   "tmdb_id": 1096228,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.6,
-  "tmdb_vote_count": 10,
+  "tmdb_rating": 6.6,
+  "tmdb_vote_count": 13,
   "popularity": 12.1742,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -89,8 +89,8 @@
   "tmdb_id": 1654940,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.5,
-  "tmdb_vote_count": 16,
+  "tmdb_rating": 7.6,
+  "tmdb_vote_count": 17,
   "popularity": 46.5618,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-05",
@@ -559,8 +559,8 @@
   "tmdb_id": 1792170,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.125,
-  "tmdb_vote_count": 12,
+  "tmdb_rating": 6.567,
+  "tmdb_vote_count": 15,
   "popularity": 36.8657,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-03",
@@ -636,19 +636,19 @@
   "tmdb_id": 1437396,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.0,
-  "tmdb_vote_count": 30,
+  "tmdb_rating": 6.984,
+  "tmdb_vote_count": 32,
   "popularity": 60.1424,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-25",
   "digital_release_date": "2026-11-03",
   "first_detected_at": "2026-11-03T11:01:43.123091+00:00",
-  "last_updated_at": "2026-11-07T10:25:26.808825+00:00",
+  "last_updated_at": "2026-11-07T17:46:44.950102+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
   "has_4k": false,
-  "has_hdr": false,
+  "has_hdr": true,
   "has_ru_audio": false,
   "events": [
    {
@@ -712,6 +712,30 @@
      "release_group": null,
      "is_secondary_signal": true
     }
+   },
+   {
+    "id": "03fba34c7b7268c8",
+    "movie_id": "tt35856037",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T13:39:06+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "HDrezka Studio",
+    "raw_title": "Твоя мать, твоя мать, твоя мать / Your Mother Your Mother Your Mother (2026) WEB-DLRip от AR-Team | Р | HDrezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "HDrezka Studio",
+     "is_secondary_signal": true
+    }
    }
   ]
  },
@@ -737,14 +761,14 @@
   "tmdb_id": 1244523,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.167,
+  "tmdb_rating": 6.2,
   "tmdb_vote_count": 42,
   "popularity": 122.518,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-01",
   "digital_release_date": "2026-11-03",
   "first_detected_at": "2026-11-03T02:57:16.044221+00:00",
-  "last_updated_at": "2026-11-04T11:09:40.222338+00:00",
+  "last_updated_at": "2026-11-07T17:46:44.960516+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -810,6 +834,30 @@
      "audio": null,
      "language": "RU",
      "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "9721abeaeed3d6bc",
+    "movie_id": "tt10377864",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T12:33:28+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "WEB-DL",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Монстр Амазонки / Beware Boiúna (2026) WEB-DL 1080p | D, Р",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
      "is_secondary_signal": true
     }
    }
@@ -1214,8 +1262,8 @@
   "tmdb_id": 1507696,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.13,
-  "tmdb_vote_count": 135,
+  "tmdb_rating": 6.061,
+  "tmdb_vote_count": 139,
   "popularity": 381.6851,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -1340,6 +1388,78 @@
   ]
  },
  {
+  "id": "tt28131387",
+  "title": "敦煌英雄",
+  "original_title": "敦煌英雄",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qGdeXBDEMCT6MWtM60VqeHmhhx4.jpg",
+  "genres": [
+   "боевик",
+   "история"
+  ],
+  "countries": [
+   "China"
+  ],
+  "runtime": 123,
+  "imdb_id": "tt28131387",
+  "tmdb_id": 1089598,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.2,
+  "tmdb_vote_count": 5,
+  "popularity": 3.812,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-09-25",
+  "digital_release_date": "2026-10-29",
+  "first_detected_at": "2026-11-07T17:46:31.450631+00:00",
+  "last_updated_at": "2026-11-07T17:46:38.926119+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "5098623c3289f398",
+    "movie_id": "tt28131387",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-29",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "敦煌英雄",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/qGdeXBDEMCT6MWtM60VqeHmhhx4.jpg",
+     "genres": [
+      "боевик",
+      "история"
+     ],
+     "countries": [
+      "China"
+     ],
+     "runtime": 123,
+     "popularity": 3.812,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.2,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-09-25",
+     "digital_release_date": "2026-10-29"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt38504402",
   "title": "Noi un po' meglio",
   "original_title": "Noi un po' meglio",
@@ -1432,8 +1552,8 @@
   "tmdb_id": 1515692,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.0,
-  "tmdb_vote_count": 12,
+  "tmdb_rating": 7.857,
+  "tmdb_vote_count": 14,
   "popularity": 25.776,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-01",
@@ -1578,8 +1698,8 @@
   "tmdb_id": 1727734,
   "imdb_rating": 6.2,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.74,
-  "tmdb_vote_count": 152,
+  "tmdb_rating": 5.716,
+  "tmdb_vote_count": 153,
   "popularity": 61.4732,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-22",
@@ -1908,7 +2028,7 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 7.7,
-  "tmdb_vote_count": 130,
+  "tmdb_vote_count": 131,
   "popularity": 171.4507,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-27",
@@ -2175,8 +2295,8 @@
   "tmdb_id": 1283515,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.962,
-  "tmdb_vote_count": 613,
+  "tmdb_rating": 7.0,
+  "tmdb_vote_count": 615,
   "popularity": 184.0988,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-09-30",
@@ -25347,10 +25467,10 @@
   "theatrical_release_date": "2026-07-03",
   "digital_release_date": "2026-07-03",
   "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-10-02T09:43:35.367794+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
+  "last_updated_at": "2026-11-07T17:46:38.974633+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "1080p",
   "has_4k": false,
   "has_hdr": false,
   "has_ru_audio": false,
@@ -25389,6 +25509,30 @@
      "tmdb_vote_count": 642,
      "theatrical_release_date": "2026-07-03",
      "digital_release_date": "2026-07-03"
+    }
+   },
+   {
+    "id": "71f636c11492444f",
+    "movie_id": "tt41605854",
+    "event_type": "BLURAY_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T15:53:07+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "BluRay",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Sub",
+    "raw_title": "Одиссея / The Odyssey (2026) BDRip 1080p | IMAX | Sub",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Sub",
+     "is_secondary_signal": true
     }
    }
   ]
@@ -26508,13 +26652,13 @@
   "theatrical_release_date": null,
   "digital_release_date": "2026-04-22",
   "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-  "last_updated_at": "2026-09-28T19:44:00.414769+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
+  "last_updated_at": "2026-11-07T17:46:38.990427+00:00",
+  "status": "BLURAY_RELEASE",
+  "best_quality": "BluRay",
+  "best_resolution": "1080p",
   "has_4k": false,
   "has_hdr": false,
-  "has_ru_audio": false,
+  "has_ru_audio": true,
   "events": [
    {
     "id": "09aa068043c013a9",
@@ -26545,6 +26689,30 @@
      ],
      "imdb_rating": 7.2,
      "runtime": null
+    }
+   },
+   {
+    "id": "c827c35637330ced",
+    "movie_id": "tt33296751",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T14:51:35+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "BluRay",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Настройщик / Tuner (2025) BDRip 1080p от EniaHD | D, P | CPI Films, WinMedia, TVShows",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
     }
    }
   ]
@@ -28657,7 +28825,7 @@
   "theatrical_release_date": null,
   "digital_release_date": "2026-01-01",
   "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
-  "last_updated_at": "2026-10-02T09:43:24.862585+00:00",
+  "last_updated_at": "2026-11-07T17:46:44.957812+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -28875,6 +29043,30 @@
      "theatrical_release_date": "2026-08-17",
      "digital_release_date": "2026-10-05"
     }
+   },
+   {
+    "id": "be25dabab3e24c2a",
+    "movie_id": "tt1756855",
+    "event_type": "UHD_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T12:44:59+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "unknown",
+    "resolution": "2160p",
+    "hdr": "Dolby Vision / HDR10",
+    "audio": null,
+    "language": "RU",
+    "release_group": "HDRezka Studio",
+    "raw_title": "Хитрый койот / Coyote vs. Acme (2026) UHD BDRemux 2160p | 4K | HDR10 | Dolby Vision P7 | D, P | HDRezka Studio",
+    "details": {
+     "quality": "unknown",
+     "resolution": "2160p",
+     "hdr": "Dolby Vision / HDR10",
+     "audio": null,
+     "language": "RU",
+     "release_group": "HDRezka Studio",
+     "is_secondary_signal": true
+    }
    }
   ]
  },
@@ -29081,6 +29273,66 @@
   ]
  },
  {
+  "id": "m_c4e92c6f5263",
+  "title": "Астрал. Шёпот призрака",
+  "original_title": "Geomeun ryeong / Rhapsody for the Dead",
+  "year": 2026,
+  "overview": "Су-а отправляется в путешествие на остров со своими друзьями, чтобы отпраздновать свое 25-летие. В ночь полнолуния Ануат следует по стопам Су-а и сталкивается со злыми духами, окружающими ее.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjkzOTQyMzgtZmNjZC00MmU2LWE3OWEtYzU3ZGFjMDE4ZGJlXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": null,
+  "genres": [
+   "Horror"
+  ],
+  "countries": [
+   "South Korea"
+  ],
+  "runtime": null,
+  "imdb_id": "tt35136066",
+  "tmdb_id": null,
+  "imdb_rating": 6.6,
+  "imdb_vote_count": null,
+  "tmdb_rating": null,
+  "tmdb_vote_count": null,
+  "popularity": null,
+  "popularity_source": null,
+  "theatrical_release_date": null,
+  "digital_release_date": null,
+  "first_detected_at": "2026-11-07T17:46:31.450631+00:00",
+  "last_updated_at": "2026-11-07T17:46:44.938825+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "ab063a5fe2aee576",
+    "movie_id": "m_c4e92c6f5263",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T13:42:17+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "D",
+    "raw_title": "Астрал. Шёпот призрака / Geomeun ryeong / Rhapsody for the Dead (2026) WEB-DLRip от AR-Team | D",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "D",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
   "id": "m_374dc8a30550",
   "title": "Призрак Гилмор-Хаус",
   "original_title": "A Ghost at Gilmore House",
@@ -29229,13 +29481,13 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-11-07T00:58:21.179652+00:00",
-  "last_updated_at": "2026-11-07T10:25:26.799682+00:00",
+  "last_updated_at": "2026-11-07T17:46:44.978030+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
   "has_4k": true,
   "has_hdr": true,
-  "has_ru_audio": false,
+  "has_ru_audio": true,
   "events": [
    {
     "id": "0cef5614e51d5779",
@@ -29308,6 +29560,126 @@
      "release_group": null,
      "is_secondary_signal": true
     }
+   },
+   {
+    "id": "b257caafb3be2a92",
+    "movie_id": "m_e63987f67834",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T11:41:44+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Сердце зверя / Heart of the Beast (2026) WEB-DLRip-AVC от ExKinoRay | Р",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "2ed1609dc24714ca",
+    "movie_id": "m_e63987f67834",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T12:05:21+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Сердце зверя / Heart of the Beast (2026) WEB-DLRip-AVC | Р",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "b256d83f7da9816e",
+    "movie_id": "m_e63987f67834",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T14:01:36+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Сердце зверя / Heart of the Beast (2026) WEB-DLRip-AVC от DoMiNo & селезень | Р | Смотри Кино",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "da7445f35c3d5f8b",
+    "movie_id": "m_e63987f67834",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T16:44:41+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "WEB-DL",
+    "resolution": "720p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Сердце зверя / Heart of the Beast (2026) WEB-DLRip 720p от New-Team | D, P | HDRezka Studio, Смотри Кино",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "16a85ed97b99487e",
+    "movie_id": "m_e63987f67834",
+    "event_type": "UHD_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T16:56:19+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "WEB-DL",
+    "resolution": "2160p",
+    "hdr": "Dolby Vision / HDR10",
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Сердце зверя / Heart of the Beast (2026) UHD WEB-DL 2160p | 4K | HDR10+ | Dolby Vision P8 | D, P | HDrezka Studio, Смотри кино",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "2160p",
+     "hdr": "Dolby Vision / HDR10",
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
    }
   ]
  },
@@ -29337,7 +29709,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-11-06T19:30:15.456048+00:00",
-  "last_updated_at": "2026-11-06T19:30:33.508350+00:00",
+  "last_updated_at": "2026-11-07T17:46:38.982988+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -29366,6 +29738,30 @@
      "audio": null,
      "language": "RU",
      "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "2d8a8724ff5d6f8d",
+    "movie_id": "m_20d7d60e5ade",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T15:31:27+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Последняя афера / Cada día nace un listo / A Sucker's Born Every Minute (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Akimbo Production | Локализованная версия",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
      "is_secondary_signal": true
     }
    }
@@ -29858,7 +30254,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-11-03T19:35:29.495988+00:00",
-  "last_updated_at": "2026-11-05T20:04:48.911645+00:00",
+  "last_updated_at": "2026-11-07T17:46:44.948118+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "720p",
@@ -29914,6 +30310,30 @@
     "details": {
      "quality": "WEB-DL",
      "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "c1f36952fc5226df",
+    "movie_id": "tt34206385",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-07T13:40:11+00:00",
+    "detected_at": "2026-11-07T17:46:31.450631+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Прайм-тайм / Primetime (2026) WEB-DLRip от AR-Team | D | HDRezka Studio, WinMedia",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
      "hdr": null,
      "audio": null,
      "language": "RU",

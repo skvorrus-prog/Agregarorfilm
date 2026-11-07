@@ -30,7 +30,7 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-01-01",
       "first_detected_at": "2026-09-29T17:53:19.621455+00:00",
-      "last_updated_at": "2026-10-02T09:43:24.862585+00:00",
+      "last_updated_at": "2026-11-07T17:46:44.957812+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -247,6 +247,30 @@
             "tmdb_vote_count": 601,
             "theatrical_release_date": "2026-08-17",
             "digital_release_date": "2026-10-05"
+          }
+        },
+        {
+          "id": "be25dabab3e24c2a",
+          "movie_id": "tt1756855",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T12:44:59+00:00",
+          "detected_at": "2026-11-07T17:46:31.450631+00:00",
+          "quality": "unknown",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Хитрый койот / Coyote vs. Acme (2026) UHD BDRemux 2160p | 4K | HDR10 | Dolby Vision P7 | D, P | HDRezka Studio",
+          "details": {
+            "quality": "unknown",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
           }
         }
       ]

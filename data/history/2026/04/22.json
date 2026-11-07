@@ -30,13 +30,13 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-04-22",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-09-28T19:44:00.414769+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
+      "last_updated_at": "2026-11-07T17:46:38.990427+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
-      "has_ru_audio": false,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "09aa068043c013a9",
@@ -67,6 +67,30 @@
             ],
             "imdb_rating": 7.2,
             "runtime": null
+          }
+        },
+        {
+          "id": "c827c35637330ced",
+          "movie_id": "tt33296751",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T14:51:35+00:00",
+          "detected_at": "2026-11-07T17:46:31.450631+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Настройщик / Tuner (2025) BDRip 1080p от EniaHD | D, P | CPI Films, WinMedia, TVShows",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]
