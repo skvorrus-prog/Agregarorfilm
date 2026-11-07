@@ -30,7 +30,7 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-01-22",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-11-01T16:07:06.840900+00:00",
+      "last_updated_at": "2026-11-07T10:25:26.807085+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -114,6 +114,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "b6e10cfca5bc1317",
+          "movie_id": "tt32273171",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-07T02:08:00+00:00",
+          "detected_at": "2026-11-07T10:25:12.111931+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "TVShows",
+          "raw_title": "Смерть Робин Гуда / The Death of Robin Hood (2026) HDRip | Р | TVShows",
+          "details": {
+            "quality": "unknown",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "TVShows",
             "is_secondary_signal": true
           }
         }
