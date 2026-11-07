@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-07",
+  "count": 1,
+  "movies": [
+    {
+      "id": "m_e63987f67834",
+      "title": "Сердце зверя",
+      "original_title": "Heart of the Beast",
+      "year": 2026,
+      "overview": "После душераздирающей авиакатастрофы офицер спецназа и его боевая собака оказываются в глубине дикой природы Аляски. Вместе они вынуждены вступить в жестокую борьбу за выживание со стихией.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt7526136",
+      "tmdb_id": null,
+      "imdb_rating": 7.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-07T00:58:21.179652+00:00",
+      "last_updated_at": "2026-11-07T00:58:31.094237+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "0cef5614e51d5779",
+          "movie_id": "m_e63987f67834",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-06T19:49:53+00:00",
+          "detected_at": "2026-11-07T00:58:21.179652+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Сердце зверя / Heart of the Beast (2026) WEB-DL 1080p | Р",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}
