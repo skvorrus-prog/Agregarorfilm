@@ -23,8 +23,8 @@
       "tmdb_id": 1570488,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 8.3,
-      "tmdb_vote_count": 21,
+      "tmdb_rating": 8.205,
+      "tmdb_vote_count": 22,
       "popularity": 123.9973,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
@@ -143,19 +143,19 @@
       "tmdb_id": 1294189,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 5.859,
-      "tmdb_vote_count": 78,
+      "tmdb_rating": 5.817,
+      "tmdb_vote_count": 82,
       "popularity": 203.679,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-29",
       "digital_release_date": "2026-11-04",
       "first_detected_at": "2026-11-04T01:28:06.954484+00:00",
-      "last_updated_at": "2026-11-04T01:28:15.533743+00:00",
-      "status": "WEB_RELEASE",
+      "last_updated_at": "2026-11-08T13:39:37.399519+00:00",
+      "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
       "has_ru_audio": false,
       "events": [
         {
@@ -191,6 +191,30 @@
             "tmdb_vote_count": 13,
             "theatrical_release_date": "2026-10-29",
             "digital_release_date": "2026-11-04"
+          }
+        },
+        {
+          "id": "50e187c484e741d2",
+          "movie_id": "tt13611778",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-08T08:53:54+00:00",
+          "detected_at": "2026-11-08T13:39:24.815776+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Мангуст / The Mongoose (2026) WEB-DL-HEVC 2160p | 4K | HDR | HDR 10+ | Dolby Vision P8 | Sub",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
           }
         }
       ]
