@@ -211,7 +211,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-07T00:58:21.179652+00:00",
-      "last_updated_at": "2026-11-07T21:58:50.282883+00:00",
+      "last_updated_at": "2026-11-08T19:45:43.591989+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -432,6 +432,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "c759d10db9279ce1",
+          "movie_id": "m_e63987f67834",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-08T19:15:22+00:00",
+          "detected_at": "2026-11-08T19:45:36.356141+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Сердце зверя / Heart of the Beast (2026) WEB-DL 1080p от EniaHD | D, P | Продубляж, WinMedia, HDrezka",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
             "is_secondary_signal": true
           }
         }

@@ -6102,13 +6102,13 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
     "digital_release_date": "2026-07-03",
-    "imdb_rating": null,
+    "imdb_rating": 8.4,
     "imdb_vote_count": null,
-    "best_quality": "BluRay",
+    "best_quality": "REMUX",
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt38890293",
@@ -6319,7 +6319,7 @@
     "best_quality": "BluRay",
     "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": false,
+    "has_hdr": true,
     "has_ru_audio": true
    },
    {
@@ -6812,6 +6812,21 @@
  },
  "11-08": {
   "2026": [
+   {
+    "id": "m_2601f64a4587",
+    "title": "Роботика",
+    "original_title": "Robotica",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU2MzBjYjgtZWY3OC00Y2MxLWFhM2YtMzhhZjNlMzk5OWRmXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 8.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "m_63e687176fa5",
     "title": "Все дьяволы здесь",

@@ -21,8 +21,8 @@
       "tmdb_id": 1096228,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.45,
-      "tmdb_vote_count": 20,
+      "tmdb_rating": 6.318,
+      "tmdb_vote_count": 22,
       "popularity": 23.7615,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-09",
@@ -98,7 +98,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-06T19:30:15.456048+00:00",
-      "last_updated_at": "2026-11-07T17:46:38.982988+00:00",
+      "last_updated_at": "2026-11-08T19:45:46.109929+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -151,6 +151,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "589a0649d53e8547",
+          "movie_id": "m_20d7d60e5ade",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-08T14:12:28+00:00",
+          "detected_at": "2026-11-08T19:45:36.356141+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Akimbo Production",
+          "raw_title": "Последняя афера / Cada día nace un listo / A Sucker's Born Every Minute (2026) WEB-DLRip от AR-Team | D | Akimbo Production",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Akimbo Production",
             "is_secondary_signal": true
           }
         }

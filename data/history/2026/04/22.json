@@ -30,12 +30,12 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-04-22",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-11-07T21:58:50.273639+00:00",
+      "last_updated_at": "2026-11-08T19:45:46.050019+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "1080p",
       "has_4k": false,
-      "has_hdr": false,
+      "has_hdr": true,
       "has_ru_audio": true,
       "events": [
         {
@@ -114,6 +114,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "CPI Films",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "304a8c56a576c8c2",
+          "movie_id": "tt33296751",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-08T17:35:43+00:00",
+          "detected_at": "2026-11-08T19:45:36.356141+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Настройщик / Tuner (2025) HDRip от AR-Team | D",
+          "details": {
+            "quality": "unknown",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
             "is_secondary_signal": true
           }
         }

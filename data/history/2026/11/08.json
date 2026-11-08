@@ -1,7 +1,68 @@
 {
   "date": "2026-11-08",
-  "count": 4,
+  "count": 5,
   "movies": [
+    {
+      "id": "m_2601f64a4587",
+      "title": "Роботика",
+      "original_title": "Robotica",
+      "year": 2026,
+      "overview": "Робототе́хника — прикладная наука, занимающаяся разработкой автоматизированных технических систем и являющаяся важнейшей технической основой развития производства.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmU2MzBjYjgtZWY3OC00Y2MxLWFhM2YtMzhhZjNlMzk5OWRmXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt42003599",
+      "tmdb_id": null,
+      "imdb_rating": 8.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-08T19:45:36.356141+00:00",
+      "last_updated_at": "2026-11-08T19:45:46.040787+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "211dcb64c9f10671",
+          "movie_id": "m_2601f64a4587",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-08T17:51:08+00:00",
+          "detected_at": "2026-11-08T19:45:36.356141+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Роботика / Robotica (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_63e687176fa5",
       "title": "Все дьяволы здесь",
@@ -29,7 +90,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-08T13:39:24.815776+00:00",
-      "last_updated_at": "2026-11-08T13:39:37.376843+00:00",
+      "last_updated_at": "2026-11-08T19:45:46.092916+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -82,6 +143,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "4c59c6e9d1d3c60d",
+          "movie_id": "m_63e687176fa5",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-08T14:40:21+00:00",
+          "detected_at": "2026-11-08T19:45:36.356141+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "TVShows",
+          "raw_title": "Все дьяволы здесь / All the Devils are Here (2025) WEB-DLRip-AVC от DoMiNo & селезень | P | TVShows",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "TVShows",
             "is_secondary_signal": true
           }
         }
