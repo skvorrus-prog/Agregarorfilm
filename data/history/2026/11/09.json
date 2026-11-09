@@ -1,7 +1,139 @@
 {
   "date": "2026-11-09",
-  "count": 1,
+  "count": 2,
   "movies": [
+    {
+      "id": "m_486ca06571f8",
+      "title": "Хороший адвокат",
+      "original_title": "Un bon avocat / The Good Lawyer",
+      "year": 2026,
+      "overview": "Леонард Ландри, яркий адвокат по уголовным делам, передозирует в центре зала суда. После прохождения реабилитации у него есть одна неделя, чтобы спасти свою карьеру и подготовиться к собственному испытанию, которому неохотно помогает упорный стажер Ноэ. Это знаменует собой начало неистовой гонки, включающей юридические маневры, соблазны и драматические повороты.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjVhODFmODItMWRjNi00ZjNjLTg1YmQtMjdlZTZkYWFiNjJlXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Thriller"
+      ],
+      "countries": [
+        "France"
+      ],
+      "runtime": null,
+      "imdb_id": "tt39453578",
+      "tmdb_id": null,
+      "imdb_rating": 6.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-09T11:47:03.429501+00:00",
+      "last_updated_at": "2026-11-09T11:47:13.774686+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "e0d52868c3a7c0c9",
+          "movie_id": "m_486ca06571f8",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-09T10:37:50+00:00",
+          "detected_at": "2026-11-09T11:47:03.429501+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": "Netflix",
+          "raw_title": "Хороший адвокат / Un bon avocat (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D | Netflix",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": "Netflix",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "7b58ccec46fc4bc0",
+          "movie_id": "m_486ca06571f8",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-09T11:10:20+00:00",
+          "detected_at": "2026-11-09T11:47:03.429501+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Netflix",
+          "raw_title": "Хороший адвокат / Un bon avocat (2026) UHD WEB-DL 2160p | 4K | SDR | D | Netflix",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Netflix",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "7cdb1b15ca60451e",
+          "movie_id": "m_486ca06571f8",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-09T11:26:25+00:00",
+          "detected_at": "2026-11-09T11:47:03.429501+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Netflix",
+          "raw_title": "Хороший адвокат / Un bon avocat / The Good Lawyer (2026) WEB-DL 1080p | D | Netflix",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Netflix",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a7375fcefaa7882e",
+          "movie_id": "m_486ca06571f8",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-09T11:32:50+00:00",
+          "detected_at": "2026-11-09T11:47:03.429501+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Хороший адвокат / Un bon avocat / The Good Lawyer (2026) WEB-DL 1080p от селезень | D",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_0cc5682f5ac4",
       "title": "Ик",
