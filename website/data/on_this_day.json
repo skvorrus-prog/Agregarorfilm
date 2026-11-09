@@ -270,6 +270,55 @@
    }
   ]
  },
+ "11-02": {
+  "2026": [
+   {
+    "id": "m_3ed5c97091c6",
+    "title": "Мёртвый вой",
+    "original_title": "Dead Howling",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQ3ODM4YzAtMzg3Yi00YWE3LWEwYTktNDJiMDk0YTU3MTk2XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-11-02",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_dabef0503101",
+    "title": "Обитель зла",
+    "original_title": "Resident Evil",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZjZWI1NTItOGUwZC00YWZkLWIxZWEtNzE2ZTIxODdjNmZmXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_a114ed6c7569",
+    "title": "Холст",
+    "original_title": "The Canvas",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzQ0MTI0MmEtZTVmOS00NzBmLTlkNjEtNWRmOGQzZjE2ZGVhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "10-30": {
   "2026": [
    {
@@ -6810,6 +6859,25 @@
    }
   ]
  },
+ "11-09": {
+  "2026": [
+   {
+    "id": "m_0cc5682f5ac4",
+    "title": "Ик",
+    "original_title": "Ick",
+    "year": 2024,
+    "poster": "https://images.metahub.space/poster/small/tt31795447/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.3,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "11-08": {
   "2026": [
    {
@@ -6867,21 +6935,6 @@
     "imdb_rating": 5.1,
     "imdb_vote_count": null,
     "best_quality": "WEBRip",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "m_3ed5c97091c6",
-    "title": "Мёртвый вой",
-    "original_title": "Dead Howling",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODQ3ODM4YzAtMzg3Yi00YWE3LWEwYTktNDJiMDk0YTU3MTk2XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
@@ -6950,40 +7003,6 @@
     "has_4k": true,
     "has_hdr": true,
     "has_ru_audio": true
-   }
-  ]
- },
- "11-02": {
-  "2026": [
-   {
-    "id": "m_dabef0503101",
-    "title": "Обитель зла",
-    "original_title": "Resident Evil",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGZjZWI1NTItOGUwZC00YWZkLWIxZWEtNzE2ZTIxODdjNmZmXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "2160p",
-    "has_4k": true,
-    "has_hdr": true,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_a114ed6c7569",
-    "title": "Холст",
-    "original_title": "The Canvas",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQ0MTI0MmEtZTVmOS00NzBmLTlkNjEtNWRmOGQzZjE2ZGVhXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEBRip",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
    }
   ]
  },
