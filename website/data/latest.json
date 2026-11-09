@@ -1,5 +1,149 @@
 [
  {
+  "id": "tt34385184",
+  "title": "Misty Green",
+  "original_title": "Misty Green",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
+  "genres": [
+   "драма",
+   "комедия"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 103,
+  "imdb_id": "tt34385184",
+  "tmdb_id": 1381221,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.8,
+  "tmdb_vote_count": 5,
+  "popularity": 13.3452,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-10-09",
+  "digital_release_date": "2026-11-09",
+  "first_detected_at": "2026-11-09T22:29:14.622093+00:00",
+  "last_updated_at": "2026-11-09T22:29:21.747106+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "a17c3d32ff45a312",
+    "movie_id": "tt34385184",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-09",
+    "detected_at": "2026-11-09T22:29:14.622093+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Misty Green",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
+     "genres": [
+      "драма",
+      "комедия"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 103,
+     "popularity": 13.3452,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.8,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-10-09",
+     "digital_release_date": "2026-11-09"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt48500521",
+  "title": "Desprotexida: el crimen de Pazos",
+  "original_title": "Desprotexida: el crimen de Pazos",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+  "genres": [
+   "документальный",
+   "криминал"
+  ],
+  "countries": [
+   "Spain"
+  ],
+  "runtime": 65,
+  "imdb_id": "tt48500521",
+  "tmdb_id": 1794569,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.429,
+  "tmdb_vote_count": 7,
+  "popularity": 14.4681,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-11-06",
+  "digital_release_date": "2026-11-06",
+  "first_detected_at": "2026-11-09T22:29:14.622093+00:00",
+  "last_updated_at": "2026-11-09T22:29:21.617979+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "f7b51b487c3c2e2e",
+    "movie_id": "tt48500521",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-06",
+    "detected_at": "2026-11-09T22:29:14.622093+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Desprotexida: el crimen de Pazos",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+     "genres": [
+      "документальный",
+      "криминал"
+     ],
+     "countries": [
+      "Spain"
+     ],
+     "runtime": 65,
+     "popularity": 14.4681,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.429,
+     "tmdb_vote_count": 7,
+     "theatrical_release_date": "2026-11-06",
+     "digital_release_date": "2026-11-06"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt27041231",
   "title": "Маск",
   "original_title": "Musk",
@@ -18,8 +162,8 @@
   "tmdb_id": 1096228,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.885,
-  "tmdb_vote_count": 26,
+  "tmdb_rating": 6.037,
+  "tmdb_vote_count": 27,
   "popularity": 22.6373,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -65,6 +209,78 @@
      "tmdb_vote_count": 7,
      "theatrical_release_date": "2026-10-09",
      "digital_release_date": "2026-11-06"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt39219651",
+  "title": "The 12 Dates of Christmas",
+  "original_title": "The 12 Dates of Christmas",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uRVWQyHPmkyKmjjkPQRO0Q475II.jpg",
+  "genres": [
+   "комедия",
+   "мелодрама"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 0,
+  "imdb_id": "tt39219651",
+  "tmdb_id": 1600653,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.667,
+  "tmdb_vote_count": 6,
+  "popularity": 10.617,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-11-05",
+  "digital_release_date": "2026-11-05",
+  "first_detected_at": "2026-11-09T22:29:14.622093+00:00",
+  "last_updated_at": "2026-11-09T22:29:21.686086+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "08292fa8d0f6f7ce",
+    "movie_id": "tt39219651",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-05",
+    "detected_at": "2026-11-09T22:29:14.622093+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "The 12 Dates of Christmas",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/uRVWQyHPmkyKmjjkPQRO0Q475II.jpg",
+     "genres": [
+      "комедия",
+      "мелодрама"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 0,
+     "popularity": 10.617,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.667,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-11-05",
+     "digital_release_date": "2026-11-05"
     }
    }
   ]
@@ -365,8 +581,8 @@
   "tmdb_id": 1570488,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.9,
-  "tmdb_vote_count": 29,
+  "tmdb_rating": 7.688,
+  "tmdb_vote_count": 32,
   "popularity": 130.448,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -485,8 +701,8 @@
   "tmdb_id": 1294189,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.622,
-  "tmdb_vote_count": 94,
+  "tmdb_rating": 5.63,
+  "tmdb_vote_count": 96,
   "popularity": 203.4978,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-29",
@@ -583,7 +799,7 @@
   "tmdb_id": 1792170,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.833,
+  "tmdb_rating": 6.5,
   "tmdb_vote_count": 21,
   "popularity": 47.6557,
   "popularity_source": "TMDB",
@@ -809,7 +1025,7 @@
   "tmdb_id": 1244523,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.2,
+  "tmdb_rating": 6.217,
   "tmdb_vote_count": 46,
   "popularity": 153.7159,
   "popularity_source": "TMDB",
@@ -931,7 +1147,7 @@
   "tmdb_id": 1532997,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.167,
+  "tmdb_rating": 6.2,
   "tmdb_vote_count": 6,
   "popularity": 7.7263,
   "popularity_source": "TMDB",
@@ -1239,8 +1455,8 @@
   "tmdb_id": 1789549,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.462,
-  "tmdb_vote_count": 26,
+  "tmdb_rating": 6.552,
+  "tmdb_vote_count": 29,
   "popularity": 21.1692,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1407,8 +1623,8 @@
   "tmdb_id": 1507696,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.093,
-  "tmdb_vote_count": 162,
+  "tmdb_rating": 6.129,
+  "tmdb_vote_count": 167,
   "popularity": 407.3366,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -1624,8 +1840,8 @@
   "tmdb_id": 1541477,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.734,
-  "tmdb_vote_count": 47,
+  "tmdb_rating": 5.823,
+  "tmdb_vote_count": 48,
   "popularity": 18.7902,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-29",
@@ -1697,8 +1913,8 @@
   "tmdb_id": 1515692,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.9,
-  "tmdb_vote_count": 15,
+  "tmdb_rating": 7.824,
+  "tmdb_vote_count": 17,
   "popularity": 20.9061,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-01",
@@ -1843,8 +2059,8 @@
   "tmdb_id": 1727734,
   "imdb_rating": 6.2,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.705,
-  "tmdb_vote_count": 171,
+  "tmdb_rating": 5.687,
+  "tmdb_vote_count": 174,
   "popularity": 50.5523,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-22",
@@ -2172,8 +2388,8 @@
   "tmdb_id": 1596275,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.7,
-  "tmdb_vote_count": 144,
+  "tmdb_rating": 7.712,
+  "tmdb_vote_count": 146,
   "popularity": 157.6055,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-27",
@@ -5143,7 +5359,7 @@
   "runtime": 126,
   "imdb_id": "tt6262770",
   "tmdb_id": 1288069,
-  "imdb_rating": 7.7,
+  "imdb_rating": 7.4,
   "imdb_vote_count": null,
   "tmdb_rating": 8.297,
   "tmdb_vote_count": 219,
@@ -7202,368 +7418,6 @@
      "language": "RU",
      "release_group": null,
      "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "m_4852554f6655",
-  "title": "Животные",
-  "original_title": "Animals",
-  "year": 2026,
-  "overview": "Живо́тные (лат. Animalia) — традиционно выделяемая категория организмов, в настоящее время рассматриваемая в качестве биологического царства. Животные являются основным объектом изучения зоологии.",
-  "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-  "genres": [
-   "Crime",
-   "Thriller"
-  ],
-  "countries": [
-   "United States"
-  ],
-  "runtime": 109,
-  "imdb_id": "tt31049299",
-  "tmdb_id": 1236045,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.956,
-  "tmdb_vote_count": 556,
-  "popularity": 166.5319,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": null,
-  "digital_release_date": "2026-10-09",
-  "first_detected_at": "2026-10-09T10:42:54.830647+00:00",
-  "last_updated_at": "2026-10-11T19:36:31.775461+00:00",
-  "status": "UHD_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "2160p",
-  "has_4k": true,
-  "has_hdr": true,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "93286de1920e941c",
-    "movie_id": "m_4852554f6655",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-09",
-    "detected_at": "2026-10-09T18:24:49.166125+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Животные",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Когда их сына похищают, кандидат на пост мэра Лос-Анджелеса и его жена в панике пытаются собрать выкуп, принимая решения, из-за которых их мир может рухнуть.",
-     "poster": "https://image.tmdb.org/t/p/w500/tivUBDoIEXHnL5ZjyNca3FMTH86.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-     "genres": [
-      "триллер",
-      "драма"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 109,
-     "popularity": 8.6916,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 5.7,
-     "tmdb_vote_count": 15,
-     "theatrical_release_date": "2026-10-09",
-     "digital_release_date": "2026-10-09"
-    }
-   },
-   {
-    "id": "53923f5d769a5dfb",
-    "movie_id": "m_4852554f6655",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-09T07:11:28+00:00",
-    "detected_at": "2026-10-09T10:42:54.830647+00:00",
-    "quality": "WEB-DL",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": "D",
-    "raw_title": "Животные / Animals (2026) WEB-DL 1080p от EniaHD | D",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": "D",
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "b11532cf07d80eb7",
-    "movie_id": "m_4852554f6655",
-    "event_type": "UHD_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-09T08:39:40+00:00",
-    "detected_at": "2026-10-09T10:42:54.830647+00:00",
-    "quality": "WEB-DL",
-    "resolution": "2160p",
-    "hdr": "Dolby Vision / HDR10",
-    "audio": null,
-    "language": "RU",
-    "release_group": null,
-    "raw_title": "Животные / Animals (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D | Videofilm Int.",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "2160p",
-     "hdr": "Dolby Vision / HDR10",
-     "audio": null,
-     "language": "RU",
-     "release_group": null,
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "457e8687645e4d0c",
-    "movie_id": "m_4852554f6655",
-    "event_type": "UHD_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-09T09:20:24+00:00",
-    "detected_at": "2026-10-09T10:42:54.830647+00:00",
-    "quality": "WEB-DL",
-    "resolution": "2160p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": null,
-    "raw_title": "Животные / Animals (2026) UHD WEB-DL 2160p | 4K | SDR | D | Videofilm Int.",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "2160p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": null,
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "a20ac905659f47cb",
-    "movie_id": "m_4852554f6655",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-09T11:10:43+00:00",
-    "detected_at": "2026-10-09T18:24:49.166125+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": null,
-    "raw_title": "Животные / Animals (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Videofilm Int.",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "unknown",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": null,
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "75ad21b29ee21c21",
-    "movie_id": "m_4852554f6655",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-11T06:45:56+00:00",
-    "detected_at": "2026-10-11T13:03:51.633016+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": null,
-    "raw_title": "Животные / Animals (2026) WEB-DLRip | D | Videofilm Int.",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "unknown",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": null,
-     "is_secondary_signal": true
-    }
-   },
-   {
-    "id": "ff0d28087ed226c5",
-    "movie_id": "m_4852554f6655",
-    "event_type": "RU_AUDIO_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-10-11T14:05:53+00:00",
-    "detected_at": "2026-10-11T19:35:54.390078+00:00",
-    "quality": "WEB-DL",
-    "resolution": "720p",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": null,
-    "raw_title": "Животные / Animals (2026) WEB-DL 720p от New-Team | D | Videofilm Int.",
-    "details": {
-     "quality": "WEB-DL",
-     "resolution": "720p",
-     "hdr": null,
-     "audio": null,
-     "language": "RU",
-     "release_group": null,
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "tt36150957",
-  "title": "Oasis: Don't Look Back in Anger",
-  "original_title": "Oasis: Don't Look Back in Anger",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-  "genres": [
-   "документальный",
-   "музыка"
-  ],
-  "countries": [
-   "United Kingdom",
-   "United States of America"
-  ],
-  "runtime": 123,
-  "imdb_id": "tt36150957",
-  "tmdb_id": 1447853,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 7.257,
-  "tmdb_vote_count": 37,
-  "popularity": 40.8915,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-09",
-  "digital_release_date": "2026-10-09",
-  "first_detected_at": "2026-10-09T01:15:54.124233+00:00",
-  "last_updated_at": "2026-10-09T01:16:01.854520+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "4a4728a22efee9b6",
-    "movie_id": "tt36150957",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-09",
-    "detected_at": "2026-10-09T01:15:54.124233+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Oasis: Don't Look Back in Anger",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-     "genres": [
-      "документальный",
-      "музыка"
-     ],
-     "countries": [
-      "United Kingdom",
-      "United States of America"
-     ],
-     "runtime": 123,
-     "popularity": 20.0527,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.5,
-     "tmdb_vote_count": 21,
-     "theatrical_release_date": "2026-09-09",
-     "digital_release_date": "2026-10-09"
-    }
-   }
-  ]
- },
- {
-  "id": "tt36596965",
-  "title": "மண்டாடி",
-  "original_title": "மண்டாடி",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/xRIsVUcCBRVGh2pt9VgzRIw2tK5.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
-  "genres": [
-   "боевик",
-   "драма"
-  ],
-  "countries": [
-   "India"
-  ],
-  "runtime": 153,
-  "imdb_id": "tt36596965",
-  "tmdb_id": 1465943,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 7.8,
-  "tmdb_vote_count": 7,
-  "popularity": 9.1848,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-10",
-  "digital_release_date": "2026-10-08",
-  "first_detected_at": "2026-10-11T13:03:51.633016+00:00",
-  "last_updated_at": "2026-10-11T13:03:58.863515+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "4919a9f7c281a6df",
-    "movie_id": "tt36596965",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-08",
-    "detected_at": "2026-10-11T13:03:51.633016+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "மண்டாடி",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/xRIsVUcCBRVGh2pt9VgzRIw2tK5.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
-     "genres": [
-      "боевик",
-      "драма"
-     ],
-     "countries": [
-      "India"
-     ],
-     "runtime": 153,
-     "popularity": 19.3037,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 7.4,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-09-10",
-     "digital_release_date": "2026-10-08"
     }
    }
   ]

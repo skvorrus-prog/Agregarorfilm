@@ -1,6 +1,130 @@
 {
+ "11-09": {
+  "2026": [
+   {
+    "id": "tt34385184",
+    "title": "Misty Green",
+    "original_title": "Misty Green",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+    "digital_release_date": "2026-11-09",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_cad94a2f53ed",
+    "title": "Убойная суббота",
+    "original_title": "Playdate",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQ4N2Y5YjYtNGE1Ni00YWExLWIzNDYtMmM2ZTc0OGJmMDA1XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_8316197bb5c8",
+    "title": "Секс втроём",
+    "original_title": "Threesome",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGZiYjA5MmItMjcwMC00Njk4LTlhNjEtODYzMzRkZWY3Yjk1XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_1778c95339ad",
+    "title": "Актеры в законе",
+    "original_title": "Kaeng Owoe",
+    "year": 2026,
+    "poster": null,
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "tt12590266",
+    "title": "I See Ice",
+    "original_title": "I See Ice",
+    "year": null,
+    "poster": "https://live.metahub.space/poster/small/tt12590266/img",
+    "digital_release_date": null,
+    "imdb_rating": 8.3,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_486ca06571f8",
+    "title": "Хороший адвокат",
+    "original_title": "Un bon avocat / The Good Lawyer",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjVhODFmODItMWRjNi00ZjNjLTg1YmQtMjdlZTZkYWFiNjJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_0cc5682f5ac4",
+    "title": "Ик",
+    "original_title": "Ick",
+    "year": 2024,
+    "poster": "https://images.metahub.space/poster/small/tt31795447/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.3,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "11-06": {
   "2026": [
+   {
+    "id": "tt48500521",
+    "title": "Desprotexida: el crimen de Pazos",
+    "original_title": "Desprotexida: el crimen de Pazos",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+    "digital_release_date": "2026-11-06",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt27041231",
     "title": "Маск",
@@ -50,6 +174,21 @@
  },
  "11-05": {
   "2026": [
+   {
+    "id": "tt39219651",
+    "title": "The 12 Dates of Christmas",
+    "original_title": "The 12 Dates of Christmas",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
+    "digital_release_date": "2026-11-05",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt39400541",
     "title": "余命一年、男をかう",
@@ -260,7 +399,7 @@
     "year": 2026,
     "poster": "https://images.metahub.space/poster/small/tt34206385/img",
     "digital_release_date": null,
-    "imdb_rating": 8.7,
+    "imdb_rating": 7.0,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "720p",
@@ -1463,7 +1602,7 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/ieS40Zp9hmDwoZdRUVB3v8HgJaK.jpg",
     "digital_release_date": "2026-10-16",
-    "imdb_rating": 7.7,
+    "imdb_rating": 7.4,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "2160p",
@@ -6856,40 +6995,6 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
-   }
-  ]
- },
- "11-09": {
-  "2026": [
-   {
-    "id": "m_486ca06571f8",
-    "title": "Хороший адвокат",
-    "original_title": "Un bon avocat / The Good Lawyer",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjVhODFmODItMWRjNi00ZjNjLTg1YmQtMjdlZTZkYWFiNjJlXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.5,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "2160p",
-    "has_4k": true,
-    "has_hdr": true,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_0cc5682f5ac4",
-    "title": "Ик",
-    "original_title": "Ick",
-    "year": 2024,
-    "poster": "https://images.metahub.space/poster/small/tt31795447/img",
-    "digital_release_date": null,
-    "imdb_rating": 5.3,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
    }
   ]
  },

@@ -1,7 +1,79 @@
 {
   "date": "2026-11-06",
-  "count": 3,
+  "count": 4,
   "movies": [
+    {
+      "id": "tt48500521",
+      "title": "Desprotexida: el crimen de Pazos",
+      "original_title": "Desprotexida: el crimen de Pazos",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+      "genres": [
+        "документальный",
+        "криминал"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "runtime": 65,
+      "imdb_id": "tt48500521",
+      "tmdb_id": 1794569,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.429,
+      "tmdb_vote_count": 7,
+      "popularity": 14.4681,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-06",
+      "digital_release_date": "2026-11-06",
+      "first_detected_at": "2026-11-09T22:29:14.622093+00:00",
+      "last_updated_at": "2026-11-09T22:29:21.617979+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f7b51b487c3c2e2e",
+          "movie_id": "tt48500521",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-06",
+          "detected_at": "2026-11-09T22:29:14.622093+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Desprotexida: el crimen de Pazos",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+            "genres": [
+              "документальный",
+              "криминал"
+            ],
+            "countries": [
+              "Spain"
+            ],
+            "runtime": 65,
+            "popularity": 14.4681,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.429,
+            "tmdb_vote_count": 7,
+            "theatrical_release_date": "2026-11-06",
+            "digital_release_date": "2026-11-06"
+          }
+        }
+      ]
+    },
     {
       "id": "tt27041231",
       "title": "Маск",
@@ -21,8 +93,8 @@
       "tmdb_id": 1096228,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 5.885,
-      "tmdb_vote_count": 26,
+      "tmdb_rating": 6.037,
+      "tmdb_vote_count": 27,
       "popularity": 22.6373,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-09",
