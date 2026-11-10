@@ -1,4 +1,53 @@
 {
+ "11-10": {
+  "2026": [
+   {
+    "id": "tt36586020",
+    "title": "Чужая мама",
+    "original_title": "Other Mommy",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xM23YJnhlJgf8gOFE34IZBMxUy3.jpg",
+    "digital_release_date": "2026-11-10",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "tt39120306",
+    "title": "El despertar",
+    "original_title": "El despertar",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+    "digital_release_date": "2026-11-10",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "tt37803364",
+    "title": "Possible Love",
+    "original_title": "Possible Love",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt37803364/img",
+    "digital_release_date": null,
+    "imdb_rating": 8.0,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "11-09": {
   "2026": [
    {

@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-10",
+  "count": 3,
+  "movies": [
+    {
+      "id": "tt36586020",
+      "title": "Чужая мама",
+      "original_title": "Other Mommy",
+      "year": 2026,
+      "overview": "Бэла, 8-милетняя девочка из семьи, переживающей супружеский кризис, сталкивается со зловещей сущностью, появляющейся из её шкафа. Эта сущность, которую она называет \"Другой мамочкой\", становится всё более угрожающей для неё и её семьи.",
+      "poster": "https://image.tmdb.org/t/p/w500/xM23YJnhlJgf8gOFE34IZBMxUy3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "genres": [
+        "ужасы"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 93,
+      "imdb_id": "tt36586020",
+      "tmdb_id": 1400837,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.78,
+      "tmdb_vote_count": 202,
+      "popularity": 62.5888,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-07",
+      "digital_release_date": "2026-11-10",
+      "first_detected_at": "2026-11-10T07:28:33.749122+00:00",
+      "last_updated_at": "2026-11-10T07:28:40.553887+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "02dc045316617e74",
+          "movie_id": "tt36586020",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-10",
+          "detected_at": "2026-11-10T07:28:33.749122+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Чужая мама",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Бэла, 8-милетняя девочка из семьи, переживающей супружеский кризис, сталкивается со зловещей сущностью, появляющейся из её шкафа. Эта сущность, которую она называет \"Другой мамочкой\", становится всё более угрожающей для неё и её семьи.",
+            "poster": "https://image.tmdb.org/t/p/w500/xM23YJnhlJgf8gOFE34IZBMxUy3.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+            "genres": [
+              "ужасы"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 93,
+            "popularity": 62.5888,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.78,
+            "tmdb_vote_count": 202,
+            "theatrical_release_date": "2026-10-07",
+            "digital_release_date": "2026-11-10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt39120306",
+      "title": "El despertar",
+      "original_title": "El despertar",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
+      "genres": [
+        "ужасы",
+        "боевик",
+        "военный",
+        "фэнтези",
+        "триллер"
+      ],
+      "countries": [
+        "Colombia"
+      ],
+      "runtime": 96,
+      "imdb_id": "tt39120306",
+      "tmdb_id": 1657630,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.526,
+      "tmdb_vote_count": 115,
+      "popularity": 153.8121,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-29",
+      "digital_release_date": "2026-11-10",
+      "first_detected_at": "2026-11-10T07:28:33.749122+00:00",
+      "last_updated_at": "2026-11-10T07:28:40.457264+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "66fe8ef41d968dc6",
+          "movie_id": "tt39120306",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-10",
+          "detected_at": "2026-11-10T07:28:33.749122+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "El despertar",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
+            "genres": [
+              "ужасы",
+              "боевик",
+              "военный",
+              "фэнтези",
+              "триллер"
+            ],
+            "countries": [
+              "Colombia"
+            ],
+            "runtime": 96,
+            "popularity": 153.8121,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.526,
+            "tmdb_vote_count": 115,
+            "theatrical_release_date": "2026-10-29",
+            "digital_release_date": "2026-11-10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt37803364",
+      "title": "Possible Love",
+      "original_title": "Possible Love",
+      "year": 2026,
+      "overview": "Пути четырех незнакомцев пересекаются случайно, что приводит к сложным эмоциональным переплетениям, которые бросают вызов их существующим отношениям и заставляют их противостоять неудобным истинам о любви и приверженности.",
+      "poster": "https://images.metahub.space/poster/small/tt37803364/img",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "countries": [
+        "South Korea, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt37803364",
+      "tmdb_id": null,
+      "imdb_rating": 8.0,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-10T07:28:33.749122+00:00",
+      "last_updated_at": "2026-11-10T07:28:42.078053+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "237b41a780c1ac4a",
+          "movie_id": "tt37803364",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-10T07:28:33.749122+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Possible Love (2026)",
+          "details": {
+            "title": "Possible Love",
+            "year": 2026,
+            "overview": "Four strangers' paths cross by chance, leading to complex emotional entanglements that challenge their existing relationships and force them to confront uncomfortable truths about love and commitment.",
+            "poster": "https://images.metahub.space/poster/small/tt37803364/img",
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "countries": [
+              "South Korea, United States"
+            ],
+            "imdb_rating": 8.0,
+            "runtime": null
+          }
+        }
+      ]
+    }
+  ]
+}

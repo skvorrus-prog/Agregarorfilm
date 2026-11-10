@@ -24,9 +24,9 @@
       "tmdb_id": 1792170,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.5,
-      "tmdb_vote_count": 21,
-      "popularity": 47.6557,
+      "tmdb_rating": 6.477,
+      "tmdb_vote_count": 22,
+      "popularity": 51.2091,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-11-03",
       "digital_release_date": "2026-11-03",
@@ -108,7 +108,7 @@
       "theatrical_release_date": "2026-09-25",
       "digital_release_date": "2026-11-03",
       "first_detected_at": "2026-11-03T11:01:43.123091+00:00",
-      "last_updated_at": "2026-11-07T21:58:50.284838+00:00",
+      "last_updated_at": "2026-11-10T07:28:40.568724+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -224,6 +224,37 @@
             "language": null,
             "release_group": "HDrezka Studio",
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "ceba844b1bc24f3c",
+          "movie_id": "tt35856037",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-10T07:28:33.749122+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Your Mother Your Mother Your Mother (2026)",
+          "details": {
+            "title": "Your Mother Your Mother Your Mother",
+            "year": 2026,
+            "overview": "Follows Latif, a devoutly religious hitman, who embarks on a desperate journey across Houston to protect his children after his wife dies, confronting forces closing in and beliefs threatening to unravel.",
+            "poster": "https://images.metahub.space/poster/small/tt35856037/img",
+            "genres": [
+              "Action",
+              "Crime",
+              "Drama"
+            ],
+            "countries": [
+              "United Kingdom, United States"
+            ],
+            "imdb_rating": null,
+            "runtime": null
           }
         }
       ]

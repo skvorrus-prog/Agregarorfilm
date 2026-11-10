@@ -23,14 +23,14 @@
       "tmdb_id": 1570488,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.688,
-      "tmdb_vote_count": 32,
-      "popularity": 130.448,
+      "tmdb_rating": 7.727,
+      "tmdb_vote_count": 33,
+      "popularity": 121.3413,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-11-04",
       "first_detected_at": "2026-11-04T19:52:14.210924+00:00",
-      "last_updated_at": "2026-11-06T19:30:33.517785+00:00",
+      "last_updated_at": "2026-11-10T07:28:40.559613+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -120,6 +120,35 @@
             "release_group": null,
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "d2dab4e7e9e8ea63",
+          "movie_id": "m_a85679fabebc",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-10T07:28:33.749122+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "A Dog's Perfect Christmas (2026)",
+          "details": {
+            "title": "A Dog's Perfect Christmas",
+            "year": 2026,
+            "overview": "A sage basset hound narrates how his family faces turmoil when Mrs. Goss falls into an induced coma, and a new Corgi pup helps unite the scattered household during their mother's absence.",
+            "poster": "https://images.metahub.space/poster/small/tt38515310/img",
+            "genres": [
+              "Drama"
+            ],
+            "countries": [
+              "Canada"
+            ],
+            "imdb_rating": null,
+            "runtime": null
+          }
         }
       ]
     },
@@ -143,9 +172,9 @@
       "tmdb_id": 1294189,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 5.63,
-      "tmdb_vote_count": 96,
-      "popularity": 203.4978,
+      "tmdb_rating": 5.648,
+      "tmdb_vote_count": 98,
+      "popularity": 185.0465,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-29",
       "digital_release_date": "2026-11-04",
