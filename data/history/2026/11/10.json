@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "count": 4,
+  "count": 5,
   "movies": [
     {
       "id": "tt36586020",
@@ -21,8 +21,8 @@
       "tmdb_id": 1400837,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 5.8,
-      "tmdb_vote_count": 202,
+      "tmdb_rating": 5.793,
+      "tmdb_vote_count": 205,
       "popularity": 62.5888,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-07",
@@ -95,8 +95,8 @@
       "tmdb_id": 1657630,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.517,
-      "tmdb_vote_count": 117,
+      "tmdb_rating": 6.5,
+      "tmdb_vote_count": 116,
       "popularity": 153.8121,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-29",
@@ -146,6 +146,67 @@
             "tmdb_vote_count": 115,
             "theatrical_release_date": "2026-10-29",
             "digital_release_date": "2026-11-10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_376cf661365e",
+      "title": "Карнавал вампиров",
+      "original_title": "Vampire Carnival",
+      "year": 2026,
+      "overview": "Когда убитая горем молодая женщина посещает таинственный, путешествующий карнавал в своем маленьком городке, она соблазняется в опасный мир удовольствий и обмана.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWFiZTMyZDQtNDdiOC00N2Q4LTg3ZTYtYmNhOWRmNTFlN2UyXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Romance"
+      ],
+      "countries": [
+        "Spain, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt39649289",
+      "tmdb_id": null,
+      "imdb_rating": 6.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-10T23:29:56.958517+00:00",
+      "last_updated_at": "2026-11-10T23:30:08.638178+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "2dd728f31c6f569f",
+          "movie_id": "m_376cf661365e",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-10T17:58:25+00:00",
+          "detected_at": "2026-11-10T23:29:56.958517+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Карнавал вампиров / Vampire Carnival (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
           }
         }
       ]

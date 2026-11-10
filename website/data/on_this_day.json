@@ -32,6 +32,21 @@
     "has_ru_audio": false
    },
    {
+    "id": "m_376cf661365e",
+    "title": "Карнавал вампиров",
+    "original_title": "Vampire Carnival",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFiZTMyZDQtNDdiOC00N2Q4LTg3ZTYtYmNhOWRmNTFlN2UyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_0f451ebab932",
     "title": "Ворон",
     "original_title": "The Crow",
@@ -2619,7 +2634,7 @@
     "digital_release_date": "2026-10-06",
     "imdb_rating": null,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
+    "best_quality": "REMUX",
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
