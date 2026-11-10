@@ -211,7 +211,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-07T00:58:21.179652+00:00",
-      "last_updated_at": "2026-11-09T22:29:26.653970+00:00",
+      "last_updated_at": "2026-11-10T17:08:11.735265+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -625,6 +625,37 @@
             "language": "RU",
             "release_group": null,
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "655a3162517e850e",
+          "movie_id": "m_e63987f67834",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-10T17:08:04.841899+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Heart of the Beast (2026)",
+          "details": {
+            "title": "Heart of the Beast",
+            "year": 2026,
+            "overview": "After a harrowing plane crash, a Special Forces officer and his combat dog find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+            "poster": "https://images.metahub.space/poster/small/tt7526136/img",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Drama"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 7.2,
+            "runtime": null
           }
         }
       ]

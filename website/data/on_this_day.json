@@ -32,6 +32,21 @@
     "has_ru_audio": false
    },
    {
+    "id": "m_0f451ebab932",
+    "title": "Ворон",
+    "original_title": "The Crow",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTBiNzhkZTItZWUwZS00YTJkLTg0YTEtN2I0ZDI5ODI2MWFjXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
     "id": "tt37803364",
     "title": "Possible Love",
     "original_title": "Possible Love",
@@ -375,7 +390,7 @@
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "m_3eacff4b79d1",
@@ -6554,8 +6569,8 @@
     "imdb_rating": 7.2,
     "imdb_vote_count": null,
     "best_quality": "BluRay",
-    "best_resolution": "1080p",
-    "has_4k": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
     "has_hdr": true,
     "has_ru_audio": true
    },
