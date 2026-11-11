@@ -18,8 +18,8 @@
   "tmdb_id": 1153576,
   "imdb_rating": 6.2,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.331,
-  "tmdb_vote_count": 225,
+  "tmdb_rating": 6.3,
+  "tmdb_vote_count": 226,
   "popularity": 58.1816,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -122,12 +122,12 @@
   "theatrical_release_date": "2026-10-07",
   "digital_release_date": "2026-11-10",
   "first_detected_at": "2026-11-10T07:28:33.749122+00:00",
-  "last_updated_at": "2026-11-10T07:28:40.553887+00:00",
-  "status": "WEB_RELEASE",
+  "last_updated_at": "2026-11-11T17:15:27.067342+00:00",
+  "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
+  "best_resolution": "2160p",
+  "has_4k": true,
+  "has_hdr": true,
   "has_ru_audio": false,
   "events": [
    {
@@ -162,6 +162,54 @@
      "tmdb_vote_count": 202,
      "theatrical_release_date": "2026-10-07",
      "digital_release_date": "2026-11-10"
+    }
+   },
+   {
+    "id": "6a37c7c54d282785",
+    "movie_id": "tt36586020",
+    "event_type": "UHD_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-11T15:43:42+00:00",
+    "detected_at": "2026-11-11T17:15:16.481458+00:00",
+    "quality": "WEB-DL",
+    "resolution": "2160p",
+    "hdr": "Dolby Vision / HDR10",
+    "audio": null,
+    "language": null,
+    "release_group": "HDRezka Studio",
+    "raw_title": "Чужая мама / Other Mommy (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | P | HDRezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "2160p",
+     "hdr": "Dolby Vision / HDR10",
+     "audio": null,
+     "language": null,
+     "release_group": "HDRezka Studio",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "97e68397728c2a08",
+    "movie_id": "tt36586020",
+    "event_type": "UHD_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-11T15:57:24+00:00",
+    "detected_at": "2026-11-11T17:15:16.481458+00:00",
+    "quality": "WEB-DL",
+    "resolution": "2160p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "HDRezka Studio",
+    "raw_title": "Чужая мама / Other Mommy (2026) UHD WEB-DL 2160p | 4K | SDR | P | HDRezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "2160p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "HDRezka Studio",
+     "is_secondary_signal": true
     }
    }
   ]
@@ -507,7 +555,7 @@
   "tmdb_id": 1600653,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.667,
+  "tmdb_rating": 6.7,
   "tmdb_vote_count": 6,
   "popularity": 11.9388,
   "popularity_source": "TMDB",
@@ -580,7 +628,7 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 7.6,
-  "tmdb_vote_count": 20,
+  "tmdb_vote_count": 21,
   "popularity": 50.7692,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-05",
@@ -835,6 +883,78 @@
   ]
  },
  {
+  "id": "tt49895708",
+  "title": "Ninho : Le prix à payer",
+  "original_title": "Ninho : Le prix à payer",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/zstBJatewUcaNVPICaIvLIel10X.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/vwGjInWZImDB2AQnnrIt9775q6L.jpg",
+  "genres": [
+   "документальный",
+   "музыка"
+  ],
+  "countries": [
+   "France"
+  ],
+  "runtime": 98,
+  "imdb_id": "tt49895708",
+  "tmdb_id": 1816668,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 5.7,
+  "tmdb_vote_count": 5,
+  "popularity": 8.236,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-11-04",
+  "digital_release_date": "2026-11-04",
+  "first_detected_at": "2026-11-11T17:15:16.481458+00:00",
+  "last_updated_at": "2026-11-11T17:15:23.721692+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "243cef120d30719c",
+    "movie_id": "tt49895708",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-04",
+    "detected_at": "2026-11-11T17:15:16.481458+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Ninho : Le prix à payer",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/zstBJatewUcaNVPICaIvLIel10X.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/vwGjInWZImDB2AQnnrIt9775q6L.jpg",
+     "genres": [
+      "документальный",
+      "музыка"
+     ],
+     "countries": [
+      "France"
+     ],
+     "runtime": 98,
+     "popularity": 8.236,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 5.7,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-11-04",
+     "digital_release_date": "2026-11-04"
+    }
+   }
+  ]
+ },
+ {
   "id": "m_a85679fabebc",
   "title": "Идеальное собачье Рождество",
   "original_title": "A Dog's Perfect Christmas",
@@ -855,8 +975,8 @@
   "tmdb_id": 1570488,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.4,
-  "tmdb_vote_count": 35,
+  "tmdb_rating": 7.347,
+  "tmdb_vote_count": 36,
   "popularity": 120.0967,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1004,14 +1124,14 @@
   "tmdb_id": 1294189,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.895,
-  "tmdb_vote_count": 110,
+  "tmdb_rating": 5.9,
+  "tmdb_vote_count": 114,
   "popularity": 172.0021,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-29",
   "digital_release_date": "2026-11-04",
   "first_detected_at": "2026-11-04T01:28:06.954484+00:00",
-  "last_updated_at": "2026-11-10T17:08:12.426701+00:00",
+  "last_updated_at": "2026-11-11T17:15:27.099895+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "2160p",
@@ -1123,6 +1243,30 @@
      "audio": null,
      "language": "RU",
      "release_group": "AlphaProject",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "ad1897080c8526c6",
+    "movie_id": "tt13611778",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-11T11:19:10+00:00",
+    "detected_at": "2026-11-11T17:15:16.481458+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "L",
+    "raw_title": "Мангуст / The Mongoose (2026) WEB-DLRip | L",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "L",
      "is_secondary_signal": true
     }
    }
@@ -2029,8 +2173,8 @@
   "tmdb_id": 1507696,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.181,
-  "tmdb_vote_count": 180,
+  "tmdb_rating": 6.195,
+  "tmdb_vote_count": 182,
   "popularity": 323.5915,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -2246,8 +2390,8 @@
   "tmdb_id": 1541477,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.99,
-  "tmdb_vote_count": 50,
+  "tmdb_rating": 6.029,
+  "tmdb_vote_count": 52,
   "popularity": 15.5149,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-29",
@@ -2465,8 +2609,8 @@
   "tmdb_id": 1727734,
   "imdb_rating": 6.2,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.6,
-  "tmdb_vote_count": 177,
+  "tmdb_rating": 5.626,
+  "tmdb_vote_count": 178,
   "popularity": 37.1131,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-22",
@@ -2794,8 +2938,8 @@
   "tmdb_id": 1596275,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.701,
-  "tmdb_vote_count": 157,
+  "tmdb_rating": 7.638,
+  "tmdb_vote_count": 163,
   "popularity": 134.7799,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-27",
@@ -7292,78 +7436,6 @@
      "tmdb_vote_count": 5,
      "theatrical_release_date": "2026-10-10",
      "digital_release_date": "2026-10-10"
-    }
-   }
-  ]
- },
- {
-  "id": "tt40902212",
-  "title": "R.L. Stine's Pumpkinhead 2",
-  "original_title": "R.L. Stine's Pumpkinhead 2",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/4liM7YBglVRk2UVuKsN7YQDmMpr.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/osHkvmg97Trv1QHVW1WIObbN1pu.jpg",
-  "genres": [
-   "фэнтези",
-   "ужасы"
-  ],
-  "countries": [
-   "Canada"
-  ],
-  "runtime": 93,
-  "imdb_id": "tt40902212",
-  "tmdb_id": 1654998,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 5.4,
-  "tmdb_vote_count": 5,
-  "popularity": 3.3973,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-10-09",
-  "digital_release_date": "2026-10-09",
-  "first_detected_at": "2026-10-20T19:21:50.874398+00:00",
-  "last_updated_at": "2026-10-20T19:22:08.421031+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": true,
-  "events": [
-   {
-    "id": "30b54d1c24b3beb9",
-    "movie_id": "tt40902212",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-09",
-    "detected_at": "2026-10-20T19:21:50.874398+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": "RU",
-    "release_group": null,
-    "raw_title": "R.L. Stine's Pumpkinhead 2",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/4liM7YBglVRk2UVuKsN7YQDmMpr.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/osHkvmg97Trv1QHVW1WIObbN1pu.jpg",
-     "genres": [
-      "фэнтези",
-      "ужасы"
-     ],
-     "countries": [
-      "Canada"
-     ],
-     "runtime": 93,
-     "popularity": 4.5177,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 5.4,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-10-09",
-     "digital_release_date": "2026-10-09"
     }
    }
   ]

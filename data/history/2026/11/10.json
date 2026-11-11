@@ -28,12 +28,12 @@
       "theatrical_release_date": "2026-10-07",
       "digital_release_date": "2026-11-10",
       "first_detected_at": "2026-11-10T07:28:33.749122+00:00",
-      "last_updated_at": "2026-11-10T07:28:40.553887+00:00",
-      "status": "WEB_RELEASE",
+      "last_updated_at": "2026-11-11T17:15:27.067342+00:00",
+      "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
-      "has_4k": false,
-      "has_hdr": false,
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
       "has_ru_audio": false,
       "events": [
         {
@@ -68,6 +68,54 @@
             "tmdb_vote_count": 202,
             "theatrical_release_date": "2026-10-07",
             "digital_release_date": "2026-11-10"
+          }
+        },
+        {
+          "id": "6a37c7c54d282785",
+          "movie_id": "tt36586020",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-11T15:43:42+00:00",
+          "detected_at": "2026-11-11T17:15:16.481458+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": null,
+          "release_group": "HDRezka Studio",
+          "raw_title": "Чужая мама / Other Mommy (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": null,
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "97e68397728c2a08",
+          "movie_id": "tt36586020",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-11T15:57:24+00:00",
+          "detected_at": "2026-11-11T17:15:16.481458+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDRezka Studio",
+          "raw_title": "Чужая мама / Other Mommy (2026) UHD WEB-DL 2160p | 4K | SDR | P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
           }
         }
       ]
