@@ -1,4 +1,23 @@
 {
+ "11-11": {
+  "2026": [
+   {
+    "id": "m_7dad820b1111",
+    "title": "Уличный боец",
+    "original_title": "Street Fighter",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-11-11",
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "11-10": {
   "2026": [
    {
@@ -229,21 +248,6 @@
     "imdb_rating": 5.5,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_7dad820b1111",
-    "title": "Уличный боец",
-    "original_title": "Street Fighter",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.2,
-    "imdb_vote_count": null,
-    "best_quality": "unknown",
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
@@ -1963,7 +1967,7 @@
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BOThmN2YyMzMtN2Y2Zi00MjViLTg2NzQtNGM0ZDU3ZDAyYThhXkEyXkFqcGc@._V1_SX250.jpg",
     "digital_release_date": "2026-10-13",
-    "imdb_rating": 6.6,
+    "imdb_rating": 6.2,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",
