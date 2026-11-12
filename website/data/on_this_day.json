@@ -2,6 +2,21 @@
  "11-12": {
   "2026": [
    {
+    "id": "tt39313557",
+    "title": "Bara till jul",
+    "original_title": "Bara till jul",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/cwbRuD96GobB3YSRMnKVw3LVRLx.jpg",
+    "digital_release_date": "2026-11-12",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt33318732",
     "title": "ஜெயிலர் 2",
     "original_title": "ஜெயிலர் 2",
@@ -110,21 +125,6 @@
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "m_376cf661365e",
-    "title": "Карнавал вампиров",
-    "original_title": "Vampire Carnival",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWFiZTMyZDQtNDdiOC00N2Q4LTg3ZTYtYmNhOWRmNTFlN2UyXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.2,
-    "imdb_vote_count": null,
-    "best_quality": "WEBRip",
-    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
@@ -622,6 +622,21 @@
  },
  "10-30": {
   "2026": [
+   {
+    "id": "m_376cf661365e",
+    "title": "Карнавал вампиров",
+    "original_title": "Vampire Carnival",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFiZTMyZDQtNDdiOC00N2Q4LTg3ZTYtYmNhOWRmNTFlN2UyXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-10-30",
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt44825373",
     "title": "Секонд Сити ТВ: Величайшее шоу, о котором вы никогда не слышали",
@@ -3393,7 +3408,7 @@
     "digital_release_date": null,
     "imdb_rating": 5.0,
     "imdb_vote_count": null,
-    "best_quality": "BluRay",
+    "best_quality": "REMUX",
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": true,

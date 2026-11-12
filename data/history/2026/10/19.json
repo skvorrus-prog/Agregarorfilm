@@ -318,7 +318,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-19T13:34:28.361042+00:00",
-      "last_updated_at": "2026-11-06T01:37:14.514964+00:00",
+      "last_updated_at": "2026-11-12T20:05:27.967981+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "2160p",
@@ -564,6 +564,37 @@
             "language": "RU",
             "release_group": null,
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "25c689ab5da11255",
+          "movie_id": "m_2a5d0e5edc30",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-12T20:05:21.014365+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Frankenstein (2025)",
+          "details": {
+            "title": "Frankenstein",
+            "year": 2025,
+            "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+            "poster": "https://images.metahub.space/poster/small/tt1312221/img",
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Horror"
+            ],
+            "countries": [
+              "Mexico, United States, Canada"
+            ],
+            "imdb_rating": 7.4,
+            "runtime": null
           }
         }
       ]

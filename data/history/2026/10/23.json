@@ -806,7 +806,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-23T17:16:04.676208+00:00",
-      "last_updated_at": "2026-10-24T20:57:34.630678+00:00",
+      "last_updated_at": "2026-11-12T20:05:27.966105+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "1080p",
@@ -908,6 +908,37 @@
             "language": "RU",
             "release_group": null,
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "494d5976adb8be6d",
+          "movie_id": "m_bd3fadd4bd46",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-12T20:05:21.014365+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Carolina Caroline (2026)",
+          "details": {
+            "title": "Carolina Caroline",
+            "year": 2026,
+            "overview": "A young woman joins a charming con man on the run, leaving a trail of crime and passion as they hustle through the Southeast in search of her estranged mother.",
+            "poster": "https://images.metahub.space/poster/small/tt33365126/img",
+            "genres": [
+              "Crime",
+              "Drama",
+              "Romance"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": 6.6,
+            "runtime": null
           }
         }
       ]

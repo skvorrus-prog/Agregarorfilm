@@ -1,7 +1,79 @@
 {
   "date": "2026-11-12",
-  "count": 3,
+  "count": 4,
   "movies": [
+    {
+      "id": "tt39313557",
+      "title": "Bara till jul",
+      "original_title": "Bara till jul",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cwbRuD96GobB3YSRMnKVw3LVRLx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ],
+      "countries": [
+        "Sweden"
+      ],
+      "runtime": 103,
+      "imdb_id": "tt39313557",
+      "tmdb_id": 1757174,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.0,
+      "tmdb_vote_count": 5,
+      "popularity": 1.6379,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-12",
+      "digital_release_date": "2026-11-12",
+      "first_detected_at": "2026-11-12T20:05:21.014365+00:00",
+      "last_updated_at": "2026-11-12T20:05:27.903005+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ab77bf3586e1a644",
+          "movie_id": "tt39313557",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-12",
+          "detected_at": "2026-11-12T20:05:21.014365+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Bara till jul",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/cwbRuD96GobB3YSRMnKVw3LVRLx.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+            "genres": [
+              "мелодрама",
+              "комедия"
+            ],
+            "countries": [
+              "Sweden"
+            ],
+            "runtime": 103,
+            "popularity": 1.6379,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-11-12",
+            "digital_release_date": "2026-11-12"
+          }
+        }
+      ]
+    },
     {
       "id": "tt33318732",
       "title": "ஜெயிலர் 2",
@@ -24,7 +96,7 @@
       "imdb_rating": null,
       "imdb_vote_count": null,
       "tmdb_rating": 8.0,
-      "tmdb_vote_count": 29,
+      "tmdb_vote_count": 30,
       "popularity": 30.3462,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-14",

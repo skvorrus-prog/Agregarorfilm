@@ -1,5 +1,77 @@
 [
  {
+  "id": "tt39313557",
+  "title": "Bara till jul",
+  "original_title": "Bara till jul",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/cwbRuD96GobB3YSRMnKVw3LVRLx.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+  "genres": [
+   "мелодрама",
+   "комедия"
+  ],
+  "countries": [
+   "Sweden"
+  ],
+  "runtime": 103,
+  "imdb_id": "tt39313557",
+  "tmdb_id": 1757174,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.0,
+  "tmdb_vote_count": 5,
+  "popularity": 1.6379,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-11-12",
+  "digital_release_date": "2026-11-12",
+  "first_detected_at": "2026-11-12T20:05:21.014365+00:00",
+  "last_updated_at": "2026-11-12T20:05:27.903005+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "ab77bf3586e1a644",
+    "movie_id": "tt39313557",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-12",
+    "detected_at": "2026-11-12T20:05:21.014365+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Bara till jul",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/cwbRuD96GobB3YSRMnKVw3LVRLx.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+     "genres": [
+      "мелодрама",
+      "комедия"
+     ],
+     "countries": [
+      "Sweden"
+     ],
+     "runtime": 103,
+     "popularity": 1.6379,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.0,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-11-12",
+     "digital_release_date": "2026-11-12"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt33318732",
   "title": "ஜெயிலர் 2",
   "original_title": "ஜெயிலர் 2",
@@ -21,7 +93,7 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 8.0,
-  "tmdb_vote_count": 29,
+  "tmdb_vote_count": 30,
   "popularity": 30.3462,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-14",
@@ -189,8 +261,8 @@
   "tmdb_id": 1400837,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.91,
-  "tmdb_vote_count": 266,
+  "tmdb_rating": 5.948,
+  "tmdb_vote_count": 279,
   "popularity": 226.3965,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-07",
@@ -673,7 +745,7 @@
   "tmdb_id": 1096228,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.328,
+  "tmdb_rating": 6.3,
   "tmdb_vote_count": 32,
   "popularity": 19.2896,
   "popularity_source": "TMDB",
@@ -1342,8 +1414,8 @@
   "tmdb_id": 1294189,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.042,
-  "tmdb_vote_count": 130,
+  "tmdb_rating": 6.049,
+  "tmdb_vote_count": 132,
   "popularity": 153.9857,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-29",
@@ -1993,6 +2065,103 @@
   ]
  },
  {
+  "id": "m_376cf661365e",
+  "title": "Карнавал вампиров",
+  "original_title": "Vampire Carnival",
+  "year": 2026,
+  "overview": "Когда убитая горем молодая женщина посещает таинственный, путешествующий карнавал в своем маленьком городке, она соблазняется в опасный мир удовольствий и обмана.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWFiZTMyZDQtNDdiOC00N2Q4LTg3ZTYtYmNhOWRmNTFlN2UyXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/qlI7haUeRut1fJFuB1YITNWkmCy.jpg",
+  "genres": [
+   "Horror",
+   "Romance"
+  ],
+  "countries": [
+   "Spain, United States"
+  ],
+  "runtime": 106,
+  "imdb_id": "tt39649289",
+  "tmdb_id": 1634905,
+  "imdb_rating": 6.2,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.0,
+  "tmdb_vote_count": 6,
+  "popularity": 6.6017,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": null,
+  "digital_release_date": "2026-10-30",
+  "first_detected_at": "2026-11-10T23:29:56.958517+00:00",
+  "last_updated_at": "2026-11-12T20:05:27.928823+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "23119de6e47170a7",
+    "movie_id": "m_376cf661365e",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-10-30",
+    "detected_at": "2026-11-12T20:05:21.014365+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Вампирский карнавал",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/ihxByv2GHUxz7g82mhVlYp9pCj3.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/qlI7haUeRut1fJFuB1YITNWkmCy.jpg",
+     "genres": [
+      "ужасы",
+      "мелодрама"
+     ],
+     "countries": [
+      "Spain",
+      "United States of America"
+     ],
+     "runtime": 106,
+     "popularity": 6.6017,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.0,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-10-07",
+     "digital_release_date": "2026-10-30"
+    }
+   },
+   {
+    "id": "2dd728f31c6f569f",
+    "movie_id": "m_376cf661365e",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-10T17:58:25+00:00",
+    "detected_at": "2026-11-10T23:29:56.958517+00:00",
+    "quality": "WEBRip",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Sub",
+    "raw_title": "Карнавал вампиров / Vampire Carnival (2026) WEBRip 1080p | Sub",
+    "details": {
+     "quality": "WEBRip",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Sub",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
   "id": "tt44825373",
   "title": "Секонд Сити ТВ: Величайшее шоу, о котором вы никогда не слышали",
   "original_title": "SCTV: The Greatest Show You've Never Heard Of",
@@ -2391,8 +2560,8 @@
   "tmdb_id": 1507696,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.247,
-  "tmdb_vote_count": 190,
+  "tmdb_rating": 6.236,
+  "tmdb_vote_count": 191,
   "popularity": 299.9329,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -15490,7 +15659,7 @@
   "theatrical_release_date": "2026-09-10",
   "digital_release_date": "2026-09-10",
   "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-  "last_updated_at": "2026-11-06T19:30:23.086111+00:00",
+  "last_updated_at": "2026-11-12T20:05:27.973968+00:00",
   "status": "BLURAY_RELEASE",
   "best_quality": "BluRay",
   "best_resolution": "1080p",
@@ -15598,6 +15767,30 @@
     "details": {
      "quality": "BluRay",
      "resolution": "720p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Official",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "42f99731594d7654",
+    "movie_id": "tt38953026",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-12T19:36:44+00:00",
+    "detected_at": "2026-11-12T20:05:21.014365+00:00",
+    "quality": "BluRay",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Official",
+    "raw_title": "Кулак льва / Lion Fist (2026) BDRip-AVC | D | Official",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "unknown",
      "hdr": null,
      "audio": null,
      "language": "RU",
@@ -31551,67 +31744,6 @@
   ]
  },
  {
-  "id": "m_376cf661365e",
-  "title": "Карнавал вампиров",
-  "original_title": "Vampire Carnival",
-  "year": 2026,
-  "overview": "Когда убитая горем молодая женщина посещает таинственный, путешествующий карнавал в своем маленьком городке, она соблазняется в опасный мир удовольствий и обмана.",
-  "poster": "https://m.media-amazon.com/images/M/MV5BYWFiZTMyZDQtNDdiOC00N2Q4LTg3ZTYtYmNhOWRmNTFlN2UyXkEyXkFqcGc@._V1_SX250.jpg",
-  "backdrop": null,
-  "genres": [
-   "Horror",
-   "Romance"
-  ],
-  "countries": [
-   "Spain, United States"
-  ],
-  "runtime": null,
-  "imdb_id": "tt39649289",
-  "tmdb_id": null,
-  "imdb_rating": 6.2,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-11-10T23:29:56.958517+00:00",
-  "last_updated_at": "2026-11-10T23:30:08.638178+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEBRip",
-  "best_resolution": "1080p",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "2dd728f31c6f569f",
-    "movie_id": "m_376cf661365e",
-    "event_type": "WEB_DL_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-11-10T17:58:25+00:00",
-    "detected_at": "2026-11-10T23:29:56.958517+00:00",
-    "quality": "WEBRip",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": "Sub",
-    "raw_title": "Карнавал вампиров / Vampire Carnival (2026) WEBRip 1080p | Sub",
-    "details": {
-     "quality": "WEBRip",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": null,
-     "release_group": "Sub",
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
   "id": "m_0f451ebab932",
   "title": "Ворон",
   "original_title": "The Crow",
@@ -36501,7 +36633,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-23T17:16:04.676208+00:00",
-  "last_updated_at": "2026-10-24T20:57:34.630678+00:00",
+  "last_updated_at": "2026-11-12T20:05:27.966105+00:00",
   "status": "BLURAY_RELEASE",
   "best_quality": "BluRay",
   "best_resolution": "1080p",
@@ -36603,6 +36735,37 @@
      "language": "RU",
      "release_group": null,
      "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "494d5976adb8be6d",
+    "movie_id": "m_bd3fadd4bd46",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-11-12T20:05:21.014365+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Carolina Caroline (2026)",
+    "details": {
+     "title": "Carolina Caroline",
+     "year": 2026,
+     "overview": "A young woman joins a charming con man on the run, leaving a trail of crime and passion as they hustle through the Southeast in search of her estranged mother.",
+     "poster": "https://images.metahub.space/poster/small/tt33365126/img",
+     "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+     ],
+     "countries": [
+      "United States"
+     ],
+     "imdb_rating": 6.6,
+     "runtime": null
     }
    }
   ]
@@ -38245,7 +38408,7 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-19T13:34:28.361042+00:00",
-  "last_updated_at": "2026-11-06T01:37:14.514964+00:00",
+  "last_updated_at": "2026-11-12T20:05:27.967981+00:00",
   "status": "UHD_RELEASE",
   "best_quality": "BluRay",
   "best_resolution": "2160p",
@@ -38491,6 +38654,37 @@
      "language": "RU",
      "release_group": null,
      "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "25c689ab5da11255",
+    "movie_id": "m_2a5d0e5edc30",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-11-12T20:05:21.014365+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Frankenstein (2025)",
+    "details": {
+     "title": "Frankenstein",
+     "year": 2025,
+     "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+     "poster": "https://images.metahub.space/poster/small/tt1312221/img",
+     "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+     ],
+     "countries": [
+      "Mexico, United States, Canada"
+     ],
+     "imdb_rating": 7.4,
+     "runtime": null
     }
    }
   ]
@@ -47574,9 +47768,9 @@
   "theatrical_release_date": null,
   "digital_release_date": null,
   "first_detected_at": "2026-10-01T19:01:02.118413+00:00",
-  "last_updated_at": "2026-10-17T20:43:34.746125+00:00",
+  "last_updated_at": "2026-11-12T20:05:28.027169+00:00",
   "status": "BLURAY_RELEASE",
-  "best_quality": "BluRay",
+  "best_quality": "REMUX",
   "best_resolution": "1080p",
   "has_4k": false,
   "has_hdr": true,
@@ -47699,6 +47893,102 @@
      "audio": null,
      "language": "RU",
      "release_group": "D",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "43a06584a42ebab0",
+    "movie_id": "m_7d8304c58967",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-12T13:29:05+00:00",
+    "detected_at": "2026-11-12T20:05:21.014365+00:00",
+    "quality": "BluRay",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Official",
+    "raw_title": "Танк / Наземный корабль / Landship (2026) BDRip 1080p от ELEKTRI4KA | D | Official",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Official",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "86ad8dcad705297d",
+    "movie_id": "m_7d8304c58967",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-12T15:51:29+00:00",
+    "detected_at": "2026-11-12T20:05:21.014365+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Official",
+    "raw_title": "Танк / Наземный корабль / Landship (2026) HDRip от ELEKTRI4KA | D | Official",
+    "details": {
+     "quality": "unknown",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Official",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "d68d6d116f52ff6b",
+    "movie_id": "m_7d8304c58967",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-12T17:07:26+00:00",
+    "detected_at": "2026-11-12T20:05:21.014365+00:00",
+    "quality": "BluRay",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Official",
+    "raw_title": "Танк / Наземный корабль / Landship (2026) BDRip-AVC | D | Official",
+    "details": {
+     "quality": "BluRay",
+     "resolution": "unknown",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Official",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "279d0828df0552f7",
+    "movie_id": "m_7d8304c58967",
+    "event_type": "RU_AUDIO_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-12T17:57:46+00:00",
+    "detected_at": "2026-11-12T20:05:21.014365+00:00",
+    "quality": "REMUX",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": "RU",
+    "release_group": "Official",
+    "raw_title": "Танк / Наземный корабль / Landship (2026) Blu-Ray Remux 1080p | D | Official",
+    "details": {
+     "quality": "REMUX",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": "RU",
+     "release_group": "Official",
      "is_secondary_signal": true
     }
    }
