@@ -15,6 +15,36 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   },
+   {
+    "id": "m_e86369e286ab",
+    "title": "Грабитель с крыши",
+    "original_title": "Roofman",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTI3YjU3OWYtNmZiZS00YjUzLWI2ZjMtMWViZWFmOGNhYzVhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.9,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_1414e65bcb49",
+    "title": "Аллен",
+    "original_title": "Allen",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjBlZGEyMzAtNzBjZS00N2FhLThhMjgtY2IxYTU3Mzc2NDQwXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
    }
   ]
  },
@@ -67,7 +97,7 @@
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "tt39120306",
@@ -1384,7 +1414,7 @@
     "imdb_rating": 7.5,
     "imdb_vote_count": null,
     "best_quality": "BluRay",
-    "best_resolution": "720p",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true

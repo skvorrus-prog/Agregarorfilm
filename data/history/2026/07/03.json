@@ -326,7 +326,7 @@
       "theatrical_release_date": "2026-07-03",
       "digital_release_date": "2026-07-03",
       "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-11-12T00:49:41.127048+00:00",
+      "last_updated_at": "2026-11-12T11:28:39.498590+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "REMUX",
       "best_resolution": "2160p",
@@ -902,6 +902,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "8c6d5510d0c63b43",
+          "movie_id": "tt41605854",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-12T09:01:51+00:00",
+          "detected_at": "2026-11-12T11:28:25.581167+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "ViruseProject",
+          "raw_title": "Одиссея / The Odyssey (2026) BDRip 1080p | P2 | ViruseProject",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "ViruseProject",
             "is_secondary_signal": true
           }
         }

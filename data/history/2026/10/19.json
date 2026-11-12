@@ -102,10 +102,10 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-19T20:37:53.081961+00:00",
-      "last_updated_at": "2026-10-19T20:38:17.341153+00:00",
+      "last_updated_at": "2026-11-12T11:28:39.459768+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
-      "best_resolution": "720p",
+      "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
       "has_ru_audio": true,
@@ -131,6 +131,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "e173df969848491c",
+          "movie_id": "m_bfa504c4cf0b",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-12T10:32:33+00:00",
+          "detected_at": "2026-11-12T11:28:25.581167+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "Фуриоса: Хроники Безумного Макса / Furiosa: A Mad Max Saga (2024) BDRip 1080p от селезень | D | Movie Dubbing",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Movie Dubbing",
             "is_secondary_signal": true
           }
         }

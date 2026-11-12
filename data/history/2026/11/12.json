@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "count": 1,
+  "count": 3,
   "movies": [
     {
       "id": "tt33318732",
@@ -25,7 +25,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 8.0,
       "tmdb_vote_count": 29,
-      "popularity": 25.1236,
+      "popularity": 30.3462,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-10-14",
       "digital_release_date": "2026-11-12",
@@ -72,6 +72,200 @@
             "tmdb_vote_count": 29,
             "theatrical_release_date": "2026-10-14",
             "digital_release_date": "2026-11-12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_e86369e286ab",
+      "title": "Грабитель с крыши",
+      "original_title": "Roofman",
+      "year": 2025,
+      "overview": "«Грабитель с крыши» — американская криминальная драма режиссёра Дерека Сиенфрэнса. Главные роли в фильме исполнили Ченнинг Татум, Кирстен Данст, Бен Мендельсон, Питер Динклэйдж и Лакит Стэнфилд. Фильм основан на истории реального грабителя Джеффри Манчестера, который после побега из тюрьмы скрывался в магазине игрушек.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTI3YjU3OWYtNmZiZS00YjUzLWI2ZjMtMWViZWFmOGNhYzVhXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt4627382",
+      "tmdb_id": null,
+      "imdb_rating": 6.9,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-12T11:28:25.581167+00:00",
+      "last_updated_at": "2026-11-12T11:28:41.136240+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "a8a573eb6b761784",
+          "movie_id": "m_e86369e286ab",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-12T08:02:26+00:00",
+          "detected_at": "2026-11-12T11:28:25.581167+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Грабитель с крыши / Roofman (2025) BDRip 720p от DoMiNo & селезень | D | Мосфильм-Мастер",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_1414e65bcb49",
+      "title": "Аллен",
+      "original_title": "Allen",
+      "year": 2026,
+      "overview": "Спустя 20 лет после встречи с пришельцем Пити так и не смог забыть о ней. Теперь его старый друг вернулся, и причина этого сложна — и неожиданна.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjBlZGEyMzAtNzBjZS00N2FhLThhMjgtY2IxYTU3Mzc2NDQwXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Science Fiction"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "runtime": null,
+      "imdb_id": "tt37675123",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-12T11:28:25.581167+00:00",
+      "last_updated_at": "2026-11-12T11:28:39.492609+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "69bdf33baec0b906",
+          "movie_id": "m_1414e65bcb49",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-12T09:12:55+00:00",
+          "detected_at": "2026-11-12T11:28:25.581167+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Аллен / Allen (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D | VSI Тель-Авив",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "0a55fbf7dd3b8ae5",
+          "movie_id": "m_1414e65bcb49",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-12T10:02:48+00:00",
+          "detected_at": "2026-11-12T11:28:25.581167+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Аллен / Allen (2026) UHD WEB-DL 2160p | 4K | SDR | D | VSI Тель-Авив",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "1c0330849212b54d",
+          "movie_id": "m_1414e65bcb49",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-12T10:31:42+00:00",
+          "detected_at": "2026-11-12T11:28:25.581167+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Аллен / Allen (2026) WEB-DL 1080p от New-Team | D | VSI Тель-Авив",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "5aa66ad3a361f119",
+          "movie_id": "m_1414e65bcb49",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-12T10:49:50+00:00",
+          "detected_at": "2026-11-12T11:28:25.581167+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Аллен / Allen (2026) WEB-DL 720p от New-Team | D | VSI Тель-Авив",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]
