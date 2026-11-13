@@ -3,129 +3,32 @@
   "count": 2,
   "movies": [
     {
-      "id": "m_7dad820b1111",
-      "title": "Уличный боец",
-      "original_title": "Street Fighter",
-      "year": 2026,
-      "overview": "Уличный боец:«Уличный боец» — название ряда фильмов, мультфильмов.\n«Уличный боец» — альбом Децла.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
-      "genres": [
-        "Action"
-      ],
-      "countries": [
-        "United States, Japan"
-      ],
-      "runtime": 120,
-      "imdb_id": "tt27419420",
-      "tmdb_id": 1153576,
-      "imdb_rating": 6.2,
-      "imdb_vote_count": null,
-      "tmdb_rating": 6.3,
-      "tmdb_vote_count": 229,
-      "popularity": 63.0279,
-      "popularity_source": "TMDB",
-      "theatrical_release_date": null,
-      "digital_release_date": "2026-11-11",
-      "first_detected_at": "2026-11-06T19:30:15.456048+00:00",
-      "last_updated_at": "2026-11-11T06:42:35.788201+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
-      "best_resolution": "1080p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": true,
-      "events": [
-        {
-          "id": "3fd3142f47b46b02",
-          "movie_id": "m_7dad820b1111",
-          "event_type": "RU_AUDIO_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-11-06T19:23:46+00:00",
-          "detected_at": "2026-11-06T19:30:15.456048+00:00",
-          "quality": "unknown",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": "RU",
-          "release_group": "ViruseProject",
-          "raw_title": "Уличный боец / Street Fighter (2026) TS-HEVC 1080p | P2 | ViruseProject",
-          "details": {
-            "quality": "unknown",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": "RU",
-            "release_group": "ViruseProject",
-            "is_secondary_signal": true
-          }
-        },
-        {
-          "id": "0a5283654bc4c473",
-          "movie_id": "m_7dad820b1111",
-          "event_type": "DIGITAL_PREMIERE",
-          "source_name": "TMDB",
-          "source_release_date": "2026-11-11",
-          "detected_at": "2026-11-11T06:42:28.698776+00:00",
-          "quality": "WEB-DL",
-          "resolution": "unknown",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": null,
-          "raw_title": "Уличный боец",
-          "details": {
-            "quality": "WEB-DL",
-            "overview": "Уличные бойцы Рю и Кен встречаются вновь и оказываются втянуты в мир единоборств, когда таинственная Чунь-Ли приглашает их принять участие в новом турнире World Warrior. Однако за зрелищными боями скрывается опасный заговор, который вынуждает бойцов драться друг с другом, а также столкнуться с демонами из их прошлого.",
-            "poster": "https://image.tmdb.org/t/p/w500/2qGRXNrhyg3N5KNAZuahmUvf15s.jpg",
-            "backdrop": "https://image.tmdb.org/t/p/w1280/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
-            "genres": [
-              "боевик",
-              "фэнтези",
-              "комедия"
-            ],
-            "countries": [
-              "Japan",
-              "United States of America"
-            ],
-            "runtime": 120,
-            "popularity": 58.1816,
-            "popularity_source": "TMDB",
-            "tmdb_rating": 6.331,
-            "tmdb_vote_count": 225,
-            "theatrical_release_date": "2026-10-13",
-            "digital_release_date": "2026-11-11"
-          }
-        }
-      ]
-    },
-    {
       "id": "m_e1b33cb91638",
       "title": "Рождественский госпел",
       "original_title": "The Gospel of Christmas",
       "year": 2026,
       "overview": "Испытывающий трудности пастор переезжает со своей семьей в неблагополучный район Нью-Йорка, где им предстоит спасти заброшенную церковь от выкупа банком до Рождества.",
       "poster": "https://images.metahub.space/poster/small/tt38420997/img",
-      "backdrop": null,
+      "backdrop": "https://image.tmdb.org/t/p/w1280/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
       "genres": [
         "Drama"
       ],
       "countries": [
         "United States"
       ],
-      "runtime": null,
+      "runtime": 103,
       "imdb_id": "tt38420997",
-      "tmdb_id": null,
+      "tmdb_id": 1559980,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
+      "tmdb_rating": 6.125,
+      "tmdb_vote_count": 8,
+      "popularity": 34.2444,
+      "popularity_source": "TMDB",
       "theatrical_release_date": null,
-      "digital_release_date": null,
+      "digital_release_date": "2026-11-11",
       "first_detected_at": "2026-11-11T17:15:16.481458+00:00",
-      "last_updated_at": "2026-11-12T00:49:41.102371+00:00",
+      "last_updated_at": "2026-11-13T11:12:33.842312+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -133,6 +36,42 @@
       "has_hdr": true,
       "has_ru_audio": true,
       "events": [
+        {
+          "id": "49649571581650a8",
+          "movie_id": "m_e1b33cb91638",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-11",
+          "detected_at": "2026-11-13T11:12:26.849277+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Евангелие от Рождества Христова",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Пастор, переживающий нелёгкие времена, переезжает с семьёй в неблагополучный район Нью-Йорка, где им предстоит спасти заброшенную церковь от конфискации — и сделать это нужно до Рождества.",
+            "poster": "https://image.tmdb.org/t/p/w500/2ygoGfNPeEyojxSZckc3e6p5x45.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
+            "genres": [
+              "музыка",
+              "семейный",
+              "драма"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 103,
+            "popularity": 34.2444,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.125,
+            "tmdb_vote_count": 8,
+            "theatrical_release_date": "2026-11-11",
+            "digital_release_date": "2026-11-11"
+          }
+        },
         {
           "id": "c64f6fcdcd51426f",
           "movie_id": "m_e1b33cb91638",
@@ -227,6 +166,103 @@
             "language": "RU",
             "release_group": null,
             "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_7dad820b1111",
+      "title": "Уличный боец",
+      "original_title": "Street Fighter",
+      "year": 2026,
+      "overview": "Уличный боец:«Уличный боец» — название ряда фильмов, мультфильмов.\n«Уличный боец» — альбом Децла.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+      "genres": [
+        "Action"
+      ],
+      "countries": [
+        "United States, Japan"
+      ],
+      "runtime": 120,
+      "imdb_id": "tt27419420",
+      "tmdb_id": 1153576,
+      "imdb_rating": 6.2,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.3,
+      "tmdb_vote_count": 229,
+      "popularity": 63.0279,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-11-11",
+      "first_detected_at": "2026-11-06T19:30:15.456048+00:00",
+      "last_updated_at": "2026-11-11T06:42:35.788201+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "3fd3142f47b46b02",
+          "movie_id": "m_7dad820b1111",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-06T19:23:46+00:00",
+          "detected_at": "2026-11-06T19:30:15.456048+00:00",
+          "quality": "unknown",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "ViruseProject",
+          "raw_title": "Уличный боец / Street Fighter (2026) TS-HEVC 1080p | P2 | ViruseProject",
+          "details": {
+            "quality": "unknown",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "ViruseProject",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "0a5283654bc4c473",
+          "movie_id": "m_7dad820b1111",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-11",
+          "detected_at": "2026-11-11T06:42:28.698776+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Уличный боец",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Уличные бойцы Рю и Кен встречаются вновь и оказываются втянуты в мир единоборств, когда таинственная Чунь-Ли приглашает их принять участие в новом турнире World Warrior. Однако за зрелищными боями скрывается опасный заговор, который вынуждает бойцов драться друг с другом, а также столкнуться с демонами из их прошлого.",
+            "poster": "https://image.tmdb.org/t/p/w500/2qGRXNrhyg3N5KNAZuahmUvf15s.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+            "genres": [
+              "боевик",
+              "фэнтези",
+              "комедия"
+            ],
+            "countries": [
+              "Japan",
+              "United States of America"
+            ],
+            "runtime": 120,
+            "popularity": 58.1816,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.331,
+            "tmdb_vote_count": 225,
+            "theatrical_release_date": "2026-10-13",
+            "digital_release_date": "2026-11-11"
           }
         }
       ]

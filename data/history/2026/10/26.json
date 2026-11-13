@@ -115,7 +115,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-26T20:35:23.467493+00:00",
-      "last_updated_at": "2026-10-26T20:35:48.159186+00:00",
+      "last_updated_at": "2026-11-13T11:12:37.019016+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "1080p",
@@ -168,6 +168,54 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "1887a8283a31fea0",
+          "movie_id": "m_c3db135f199f",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-13T05:47:30+00:00",
+          "detected_at": "2026-11-13T11:12:26.849277+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Охотники из рая / The Hunted (2024) BDRip-AVC от msltel | D",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "f3a420c913617674",
+          "movie_id": "m_c3db135f199f",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-13T09:00:19+00:00",
+          "detected_at": "2026-11-13T11:12:26.849277+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "D",
+          "raw_title": "Охотники из рая / The Hunted (2024) BDRip 720p от msltel | D",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "D",
             "is_secondary_signal": true
           }
         }

@@ -2,6 +2,21 @@
  "11-12": {
   "2026": [
    {
+    "id": "tt39370926",
+    "title": "Serangan Balik",
+    "original_title": "Serangan Balik",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/9wypfSz5OyWnew6mt5hviGw6WhM.jpg",
+    "digital_release_date": "2026-11-12",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt39313557",
     "title": "Bara till jul",
     "original_title": "Bara till jul",
@@ -15,6 +30,21 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
+   },
+   {
+    "id": "m_1414e65bcb49",
+    "title": "Аллен",
+    "original_title": "Allen",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjBlZGEyMzAtNzBjZS00N2FhLThhMjgtY2IxYTU3Mzc2NDQwXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-11-12",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
    },
    {
     "id": "tt33318732",
@@ -45,14 +75,18 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
-   },
+   }
+  ]
+ },
+ "11-11": {
+  "2026": [
    {
-    "id": "m_1414e65bcb49",
-    "title": "Аллен",
-    "original_title": "Allen",
+    "id": "m_e1b33cb91638",
+    "title": "Рождественский госпел",
+    "original_title": "The Gospel of Christmas",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjBlZGEyMzAtNzBjZS00N2FhLThhMjgtY2IxYTU3Mzc2NDQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
+    "poster": "https://images.metahub.space/poster/small/tt38420997/img",
+    "digital_release_date": "2026-11-11",
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
@@ -60,11 +94,7 @@
     "has_4k": true,
     "has_hdr": true,
     "has_ru_audio": true
-   }
-  ]
- },
- "11-11": {
-  "2026": [
+   },
    {
     "id": "m_7dad820b1111",
     "title": "Уличный боец",
@@ -78,21 +108,6 @@
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_e1b33cb91638",
-    "title": "Рождественский госпел",
-    "original_title": "The Gospel of Christmas",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt38420997/img",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "2160p",
-    "has_4k": true,
-    "has_hdr": true,
     "has_ru_audio": true
    }
   ]
@@ -573,6 +588,21 @@
  },
  "11-02": {
   "2026": [
+   {
+    "id": "tt41611921",
+    "title": "The Holiday Spark",
+    "original_title": "The Holiday Spark",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/imbX2GqQgeX1mAKI297qHdxRlMa.jpg",
+    "digital_release_date": "2026-11-02",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "m_3ed5c97091c6",
     "title": "Мёртвый вой",
@@ -3797,10 +3827,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
    },
    {
     "id": "tt8820258",
@@ -6859,8 +6889,8 @@
     "imdb_rating": 6.3,
     "imdb_vote_count": null,
     "best_quality": "BluRay",
-    "best_resolution": "1080p",
-    "has_4k": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
     "has_hdr": false,
     "has_ru_audio": true
    },
@@ -7177,6 +7207,36 @@
  },
  "11-13": {
   "2026": [
+   {
+    "id": "m_1c347b8457a8",
+    "title": "Быть Хьюмен",
+    "original_title": "Being Heumann",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTgyNTZmNTItZjYxOS00Nzk0LWE4MGMtZWE1M2ZkZTk0MmU2XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 7.0,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_39fef7e46099",
+    "title": "Хартленд",
+    "original_title": "Heartland",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWEzOTg5ZWQtODE1Mi00NzFiLTllYWQtYzk4ZTQ0NjI4YzVjXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "m_eb68ce259511",
     "title": "Любовь моя",
