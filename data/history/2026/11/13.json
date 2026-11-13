@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-13",
+  "count": 2,
+  "movies": [
+    {
+      "id": "m_eb68ce259511",
+      "title": "Любовь моя",
+      "original_title": "El ser querido",
+      "year": 2026,
+      "overview": "Любовь моя:Любовь моя — итальянский фильм (1964).\nЛюбовь моя (Monamour) — фильм Тинто Брасса (2005).\nЛюбовь моя — российский сериал (2005).\nЛюбовь моя — будущий фильм Родриго Сорогойена.",
+      "poster": "https://images.metahub.space/poster/small/tt33451014/img",
+      "backdrop": null,
+      "genres": [
+        "Drama"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "runtime": null,
+      "imdb_id": "tt33451014",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-13T01:55:25.627182+00:00",
+      "last_updated_at": "2026-11-13T01:55:35.842853+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "d22ed98481c0c464",
+          "movie_id": "m_eb68ce259511",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-12T20:10:22+00:00",
+          "detected_at": "2026-11-13T01:55:25.627182+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Любовь моя / El ser querido (2026) WEB-DL 1080p от ELEKTRI4KA | D | Велес",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "c9c465396c361954",
+          "movie_id": "m_eb68ce259511",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-12T21:01:54+00:00",
+          "detected_at": "2026-11-13T01:55:25.627182+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Любовь моя / El ser querido (2026) WEB-DLRip от ELEKTRI4KA | D | Велес",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_f5052fa2d3c0",
+      "title": "Искупление",
+      "original_title": "Atonement",
+      "year": 2026,
+      "overview": "Искупле́ние — концепция, при которой лицо предпринимает действия по исправлению совершённого правонарушения со своей стороны, либо путём прямого действия по устранению последствий этого поступка, либо действия, направленного на благо для других, либо какое-то другого выражения чувства угрызения совести. Искупление «тесно связано с прощением, примирением, печалью, раскаянием, покаянием, возмещением и чувством вины».",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGQ2NzNlNWEtNmMxZC00NGFlLTgyZGMtNzllZjg0ZWYwNTE5XkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt36789083",
+      "tmdb_id": null,
+      "imdb_rating": 6.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-13T01:55:25.627182+00:00",
+      "last_updated_at": "2026-11-13T01:55:34.262880+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "a80427702724a2e0",
+          "movie_id": "m_f5052fa2d3c0",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-12T21:28:57+00:00",
+          "detected_at": "2026-11-13T01:55:25.627182+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Искупление / Atonement (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "37d7d029f47f25ab",
+          "movie_id": "m_f5052fa2d3c0",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-12T23:04:04+00:00",
+          "detected_at": "2026-11-13T01:55:25.627182+00:00",
+          "quality": "WEBRip",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Искупление / Atonement (2026) WEBRip 720p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}

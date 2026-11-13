@@ -7175,6 +7175,40 @@
    }
   ]
  },
+ "11-13": {
+  "2026": [
+   {
+    "id": "m_eb68ce259511",
+    "title": "Любовь моя",
+    "original_title": "El ser querido",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt33451014/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_f5052fa2d3c0",
+    "title": "Искупление",
+    "original_title": "Atonement",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGQ2NzNlNWEtNmMxZC00NGFlLTgyZGMtNzllZjg0ZWYwNTE5XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.4,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "11-08": {
   "2026": [
    {
