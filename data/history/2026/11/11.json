@@ -21,8 +21,8 @@
       "tmdb_id": 1559980,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.125,
-      "tmdb_vote_count": 8,
+      "tmdb_rating": 6.9,
+      "tmdb_vote_count": 10,
       "popularity": 34.2444,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
@@ -196,7 +196,7 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-11-11",
       "first_detected_at": "2026-11-06T19:30:15.456048+00:00",
-      "last_updated_at": "2026-11-11T06:42:35.788201+00:00",
+      "last_updated_at": "2026-11-13T19:50:58.125205+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -263,6 +263,35 @@
             "tmdb_vote_count": 225,
             "theatrical_release_date": "2026-10-13",
             "digital_release_date": "2026-11-11"
+          }
+        },
+        {
+          "id": "5b2b4c328d2e4d54",
+          "movie_id": "m_7dad820b1111",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-13T19:50:51.344338+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Street Fighter (2026)",
+          "details": {
+            "title": "Street Fighter",
+            "year": 2026,
+            "overview": "Street Fighters Ryu and Ken reunite when Chun-Li recruits them for the World Warrior Tournament. As they face a hidden conspiracy, they must confront each other and their past-or face destruction.",
+            "poster": "https://images.metahub.space/poster/small/tt27419420/img",
+            "genres": [
+              "Action"
+            ],
+            "countries": [
+              "United States, Japan"
+            ],
+            "imdb_rating": 6.2,
+            "runtime": null
           }
         }
       ]

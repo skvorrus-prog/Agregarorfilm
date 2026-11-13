@@ -326,7 +326,7 @@
       "theatrical_release_date": "2026-07-03",
       "digital_release_date": "2026-07-03",
       "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-11-12T11:28:39.498590+00:00",
+      "last_updated_at": "2026-11-13T19:51:11.734007+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "REMUX",
       "best_resolution": "2160p",
@@ -926,6 +926,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "ViruseProject",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "704156d0a831beba",
+          "movie_id": "tt41605854",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-13T17:18:49+00:00",
+          "detected_at": "2026-11-13T19:50:51.344338+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDrezka Studio",
+          "raw_title": "Одиссея / The Odyssey (2026) HDRip-AVC | КПК | P | HDrezka Studio",
+          "details": {
+            "quality": "unknown",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "HDrezka Studio",
             "is_secondary_signal": true
           }
         }
