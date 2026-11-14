@@ -231,7 +231,7 @@
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": false,
+    "has_hdr": true,
     "has_ru_audio": true
    }
   ]
@@ -1004,8 +1004,8 @@
     "imdb_rating": 6.2,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
     "has_hdr": false,
     "has_ru_audio": false
    },
@@ -1948,7 +1948,7 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/ieS40Zp9hmDwoZdRUVB3v8HgJaK.jpg",
     "digital_release_date": "2026-10-16",
-    "imdb_rating": 7.4,
+    "imdb_rating": 7.7,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "2160p",
@@ -7346,6 +7346,51 @@
  },
  "11-14": {
   "2026": [
+   {
+    "id": "m_f44ecf67fe2d",
+    "title": "Кима",
+    "original_title": "Kyma, l’onde mystérieuse",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt34809883/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_8e5c8147886c",
+    "title": "Признание",
+    "original_title": "Confession",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTNlMmJiMWEtZGQ5ZC00YmRlLTliMDEtNjk0MjIzMTA0MDJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_967a630c0939",
+    "title": "О чём говорят любовники",
+    "original_title": "Breve storia d'amore / A Brief Affair",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt32528560/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.4,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "m_9f6c75a9f1ee",
     "title": "Непристойное предложение",
