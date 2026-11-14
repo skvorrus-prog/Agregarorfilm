@@ -1,4 +1,128 @@
 {
+ "11-13": {
+  "2026": [
+   {
+    "id": "m_1c347b8457a8",
+    "title": "Быть Хьюмен",
+    "original_title": "Being Heumann",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTgyNTZmNTItZjYxOS00Nzk0LWE4MGMtZWE1M2ZkZTk0MmU2XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-11-13",
+    "imdb_rating": 7.0,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_39fef7e46099",
+    "title": "Хартленд",
+    "original_title": "Heartland",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWEzOTg5ZWQtODE1Mi00NzFiLTllYWQtYzk4ZTQ0NjI4YzVjXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-11-13",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_5510051b7bb5",
+    "title": "Слова войны",
+    "original_title": "Words of War",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE4ZTM3ODktZmJmNS00ZGIyLWI4NjgtMGE2NzY4YTVjODMwXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_4ad4dbb6d56a",
+    "title": "Омен. Первое знамение",
+    "original_title": "The First Omen",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWU0ZjM1YjYtMGZkZi00NTBiLTgxMGItMzVhZDgyZTkyY2ZhXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.5,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_d7295abeab4e",
+    "title": "До встречи в Тоскане",
+    "original_title": "Before We Leave Tuscany",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjc5NGY1NGItNzA1Mi00MGZlLThlNTAtM2E1MGY3ZGU5MTY2XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.7,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_2dcb8ba51b6a",
+    "title": "Могильный ритуал. Зло вернулось",
+    "original_title": "Sengkolo: Petaka Satu Suro",
+    "year": 2026,
+    "poster": null,
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_eb68ce259511",
+    "title": "Любовь моя",
+    "original_title": "El ser querido",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt33451014/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_f5052fa2d3c0",
+    "title": "Искупление",
+    "original_title": "Atonement",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGQ2NzNlNWEtNmMxZC00NGFlLTgyZGMtNzllZjg0ZWYwNTE5XkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": null,
+    "imdb_rating": 6.4,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
  "11-12": {
   "2026": [
    {
@@ -336,6 +460,21 @@
  },
  "11-05": {
   "2026": [
+   {
+    "id": "tt39750664",
+    "title": "แก๊งโอเวอร์",
+    "original_title": "แก๊งโอเวอร์",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg",
+    "digital_release_date": "2026-11-05",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt39219651",
     "title": "The 12 Dates of Christmas",
@@ -7205,127 +7344,37 @@
    }
   ]
  },
- "11-13": {
+ "11-14": {
   "2026": [
    {
-    "id": "m_5510051b7bb5",
-    "title": "Слова войны",
-    "original_title": "Words of War",
+    "id": "m_9f6c75a9f1ee",
+    "title": "Непристойное предложение",
+    "original_title": "El talento",
     "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTE4ZTM3ODktZmJmNS00ZGIyLWI4NjgtMGE2NzY4YTVjODMwXkEyXkFqcGc@._V1_SX250.jpg",
+    "poster": "https://images.metahub.space/poster/small/tt33326026/img",
     "digital_release_date": null,
-    "imdb_rating": 6.1,
+    "imdb_rating": 5.3,
     "imdb_vote_count": null,
-    "best_quality": "WEBRip",
+    "best_quality": "WEB-DL",
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
-    "id": "m_4ad4dbb6d56a",
-    "title": "Омен. Первое знамение",
-    "original_title": "The First Omen",
+    "id": "m_79dcbf9758ee",
+    "title": "Королева ринга",
+    "original_title": "Queen of the Ring",
     "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWU0ZjM1YjYtMGZkZi00NTBiLTgxMGItMzVhZDgyZTkyY2ZhXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.5,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "720p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_d7295abeab4e",
-    "title": "До встречи в Тоскане",
-    "original_title": "Before We Leave Tuscany",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjc5NGY1NGItNzA1Mi00MGZlLThlNTAtM2E1MGY3ZGU5MTY2XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 6.7,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_2dcb8ba51b6a",
-    "title": "Могильный ритуал. Зло вернулось",
-    "original_title": "Sengkolo: Petaka Satu Suro",
-    "year": 2026,
-    "poster": null,
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_1c347b8457a8",
-    "title": "Быть Хьюмен",
-    "original_title": "Being Heumann",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTgyNTZmNTItZjYxOS00Nzk0LWE4MGMtZWE1M2ZkZTk0MmU2XkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 7.0,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "m_39fef7e46099",
-    "title": "Хартленд",
-    "original_title": "Heartland",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWEzOTg5ZWQtODE1Mi00NzFiLTllYWQtYzk4ZTQ0NjI4YzVjXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_eb68ce259511",
-    "title": "Любовь моя",
-    "original_title": "El ser querido",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt33451014/img",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_f5052fa2d3c0",
-    "title": "Искупление",
-    "original_title": "Atonement",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGQ2NzNlNWEtNmMxZC00NGFlLTgyZGMtNzllZjg0ZWYwNTE5XkEyXkFqcGc@._V1_SX250.jpg",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTc2Y2U5MGUtODI4NS00YWRjLTk2OTUtYjA1NDdlMjNlYmYxXkEyXkFqcGc@._V1_SX250.jpg",
     "digital_release_date": null,
     "imdb_rating": 6.4,
     "imdb_vote_count": null,
-    "best_quality": "WEBRip",
-    "best_resolution": "1080p",
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
     "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "has_hdr": true,
+    "has_ru_audio": true
    }
   ]
  },
@@ -7615,7 +7664,7 @@
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "m_33b1a3b678e7",

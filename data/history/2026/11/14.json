@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-14",
+  "count": 2,
+  "movies": [
+    {
+      "id": "m_9f6c75a9f1ee",
+      "title": "Непристойное предложение",
+      "original_title": "El talento",
+      "year": 2025,
+      "overview": "«Непристойное предложение» — американский кинофильм, экранизация произведения Джека Энгелхарда. Лауреат премии «Золотая малина» за худший фильм года.",
+      "poster": "https://images.metahub.space/poster/small/tt33326026/img",
+      "backdrop": null,
+      "genres": [
+        "Drama"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "runtime": null,
+      "imdb_id": "tt33326026",
+      "tmdb_id": null,
+      "imdb_rating": 5.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-14T01:29:14.539402+00:00",
+      "last_updated_at": "2026-11-14T01:29:24.686672+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "7029a3de43639b85",
+          "movie_id": "m_9f6c75a9f1ee",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-13T20:20:38+00:00",
+          "detected_at": "2026-11-14T01:29:14.539402+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Непристойное предложение / El talento (2025) WEB-DL 1080p от ELEKTRI4KA | D | Невафильм",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_79dcbf9758ee",
+      "title": "Королева ринга",
+      "original_title": "Queen of the Ring",
+      "year": 2024,
+      "overview": "«Королева ринга» — биографический спортивный фильм о профессиональной женщине-рестлере Милдред Берк, снятая Эшем Авильдсеном. В нём снялись Эмили Бетт Рикардс в роли Берк, с Джошем Лукасом, Тайлером Пози, Франческой Иствудом, Деборой Энн Уолл, Карой Буоно и Уолтоном Гоггинсом.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTc2Y2U5MGUtODI4NS00YWRjLTk2OTUtYjA1NDdlMjNlYmYxXkEyXkFqcGc@._V1_SX250.jpg",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt28070202",
+      "tmdb_id": null,
+      "imdb_rating": 6.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-14T01:29:14.539402+00:00",
+      "last_updated_at": "2026-11-14T01:29:23.061970+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "8a50c25b23f699fe",
+          "movie_id": "m_79dcbf9758ee",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-13T21:09:47+00:00",
+          "detected_at": "2026-11-14T01:29:14.539402+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Moygolos",
+          "raw_title": "Королева ринга / Queen of the Ring (2024) HDRip-AVC от NiTrID | D | Moygolos",
+          "details": {
+            "quality": "unknown",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Moygolos",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}
