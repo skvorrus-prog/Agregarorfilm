@@ -461,6 +461,21 @@
  "11-05": {
   "2026": [
    {
+    "id": "tt38789002",
+    "title": "Frequency of Fear",
+    "original_title": "Frequency of Fear",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/aUAHtBalyuiMMu8dz2iJN90kYm6.jpg",
+    "digital_release_date": "2026-11-05",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt39750664",
     "title": "แก๊งโอเวอร์",
     "original_title": "แก๊งโอเวอร์",
@@ -2154,8 +2169,8 @@
     "imdb_rating": 6.9,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
     "has_hdr": true,
     "has_ru_audio": true
    }
@@ -7346,6 +7361,51 @@
  },
  "11-14": {
   "2026": [
+   {
+    "id": "m_33373f03ae83",
+    "title": "Извне. Петля времени",
+    "original_title": "Drive Back",
+    "year": 2024,
+    "poster": "https://images.metahub.space/poster/small/tt23639696/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.4,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_cdc395b76644",
+    "title": "Последнее проклятие",
+    "original_title": "The Curse",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt0092809/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_e3c4ff6eb233",
+    "title": "Жертва обстоятельств",
+    "original_title": "Sacrifice",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt32268992/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "m_58fe33519551",
     "title": "Ваан: Душа леса",

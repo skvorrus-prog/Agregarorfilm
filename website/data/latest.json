@@ -19,8 +19,8 @@
   "tmdb_id": 1050981,
   "imdb_rating": 7.0,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.95,
-  "tmdb_vote_count": 10,
+  "tmdb_rating": 6.542,
+  "tmdb_vote_count": 12,
   "popularity": 29.2494,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -382,8 +382,8 @@
   "tmdb_id": 1757174,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.633,
-  "tmdb_vote_count": 15,
+  "tmdb_rating": 6.675,
+  "tmdb_vote_count": 20,
   "popularity": 37.6292,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-12",
@@ -696,8 +696,8 @@
   "tmdb_id": 1559980,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.462,
-  "tmdb_vote_count": 13,
+  "tmdb_rating": 7.071,
+  "tmdb_vote_count": 14,
   "popularity": 35.258,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -871,7 +871,7 @@
   "theatrical_release_date": null,
   "digital_release_date": "2026-11-11",
   "first_detected_at": "2026-11-06T19:30:15.456048+00:00",
-  "last_updated_at": "2026-11-14T10:38:50.497379+00:00",
+  "last_updated_at": "2026-11-14T22:35:15.625816+00:00",
   "status": "WEB_RELEASE",
   "best_quality": "WEB-DL",
   "best_resolution": "1080p",
@@ -986,6 +986,30 @@
     "details": {
      "quality": "WEBRip",
      "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "HDrezka Studio",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "91359541830107f4",
+    "movie_id": "m_7dad820b1111",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-14T19:26:47+00:00",
+    "detected_at": "2026-11-14T22:35:07.623345+00:00",
+    "quality": "WEBRip",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "HDrezka Studio",
+    "raw_title": "Уличный боец / Street Fighter (2026) WEBRip | Р | HDrezka Studio",
+    "details": {
+     "quality": "WEBRip",
+     "resolution": "unknown",
      "hdr": null,
      "audio": null,
      "language": null,
@@ -1475,8 +1499,8 @@
   "tmdb_id": 1794569,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.333,
-  "tmdb_vote_count": 9,
+  "tmdb_rating": 6.625,
+  "tmdb_vote_count": 12,
   "popularity": 13.7421,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-06",
@@ -1627,6 +1651,78 @@
   ]
  },
  {
+  "id": "tt38789002",
+  "title": "Frequency of Fear",
+  "original_title": "Frequency of Fear",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/aUAHtBalyuiMMu8dz2iJN90kYm6.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/uhPybdQtmsHmzU7Fc3R8zaW1jZF.jpg",
+  "genres": [
+   "драма",
+   "триллер"
+  ],
+  "countries": [
+   "Israel"
+  ],
+  "runtime": 72,
+  "imdb_id": "tt38789002",
+  "tmdb_id": 1570467,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 9.2,
+  "tmdb_vote_count": 5,
+  "popularity": 16.7325,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-11-05",
+  "digital_release_date": "2026-11-05",
+  "first_detected_at": "2026-11-14T22:35:07.623345+00:00",
+  "last_updated_at": "2026-11-14T22:35:14.954950+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "91c69e74c55cb6bb",
+    "movie_id": "tt38789002",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-05",
+    "detected_at": "2026-11-14T22:35:07.623345+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Frequency of Fear",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/aUAHtBalyuiMMu8dz2iJN90kYm6.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/uhPybdQtmsHmzU7Fc3R8zaW1jZF.jpg",
+     "genres": [
+      "драма",
+      "триллер"
+     ],
+     "countries": [
+      "Israel"
+     ],
+     "runtime": 72,
+     "popularity": 16.7325,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 9.2,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-11-05",
+     "digital_release_date": "2026-11-05"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt39750664",
   "title": "แก๊งโอเวอร์",
   "original_title": "แก๊งโอเวอร์",
@@ -1647,8 +1743,8 @@
   "tmdb_id": 1630420,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.7,
-  "tmdb_vote_count": 5,
+  "tmdb_rating": 5.917,
+  "tmdb_vote_count": 6,
   "popularity": 18.3928,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-04",
@@ -2289,8 +2385,8 @@
   "tmdb_id": 1294189,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.3,
-  "tmdb_vote_count": 156,
+  "tmdb_rating": 6.21,
+  "tmdb_vote_count": 162,
   "popularity": 145.1181,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-29",
@@ -7608,78 +7704,6 @@
      "language": "RU",
      "release_group": null,
      "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "tt35963439",
-  "title": "It's a മെഡിക്കൽ മിറാക്കിള്‍",
-  "original_title": "It's a മെഡിക്കൽ മിറാക്കിള്‍",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/tT9VKxtyyb5uFsxZhdnvE1GVZJd.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/vhmUAwPtqZI4wVsQHmTJNR8bRK6.jpg",
-  "genres": [
-   "фэнтези",
-   "триллер"
-  ],
-  "countries": [
-   "India"
-  ],
-  "runtime": 137,
-  "imdb_id": "tt35963439",
-  "tmdb_id": 1422822,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 5.0,
-  "tmdb_vote_count": 5,
-  "popularity": 4.6269,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-18",
-  "digital_release_date": "2026-10-15",
-  "first_detected_at": "2026-10-28T05:53:59.974745+00:00",
-  "last_updated_at": "2026-10-28T05:54:06.738400+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "6106538e1d6a18ae",
-    "movie_id": "tt35963439",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-15",
-    "detected_at": "2026-10-28T05:53:59.974745+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "It's a മെഡിക്കൽ മിറാക്കിള്‍",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/tT9VKxtyyb5uFsxZhdnvE1GVZJd.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/vhmUAwPtqZI4wVsQHmTJNR8bRK6.jpg",
-     "genres": [
-      "фэнтези",
-      "триллер"
-     ],
-     "countries": [
-      "India"
-     ],
-     "runtime": 137,
-     "popularity": 4.6269,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 5.0,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-09-18",
-     "digital_release_date": "2026-10-15"
     }
    }
   ]

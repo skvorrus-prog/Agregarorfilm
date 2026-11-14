@@ -326,7 +326,7 @@
       "theatrical_release_date": "2026-07-03",
       "digital_release_date": "2026-07-03",
       "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-11-13T19:51:11.734007+00:00",
+      "last_updated_at": "2026-11-14T22:35:20.035393+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "REMUX",
       "best_resolution": "2160p",
@@ -950,6 +950,54 @@
             "audio": null,
             "language": null,
             "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "58d8b6af357e6f4c",
+          "movie_id": "tt41605854",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T18:31:39+00:00",
+          "detected_at": "2026-11-14T22:35:07.623345+00:00",
+          "quality": "unknown",
+          "resolution": "2160p",
+          "hdr": "HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Одиссея / The Odyssey (2026) UHD BDRemux 2160p | 4K | HDR10 | D, P, P2, A | WinMedia, TVShows, HDRezka Studio, Jaskier, ViruseProject, Яроцкий",
+          "details": {
+            "quality": "unknown",
+            "resolution": "2160p",
+            "hdr": "HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "56cc97087d1550c1",
+          "movie_id": "tt41605854",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T20:01:12+00:00",
+          "detected_at": "2026-11-14T22:35:07.623345+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Одиссея / The Odyssey (2026) BDRip 1080p | D, P, P2, A | WinMedia, TVShows, HDRezka Studio, Jaskier, ViruseProject, Яроцкий",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
             "is_secondary_signal": true
           }
         }

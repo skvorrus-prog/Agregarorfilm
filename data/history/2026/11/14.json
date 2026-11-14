@@ -1,7 +1,240 @@
 {
   "date": "2026-11-14",
-  "count": 7,
+  "count": 10,
   "movies": [
+    {
+      "id": "m_33373f03ae83",
+      "title": "Извне. Петля времени",
+      "original_title": "Drive Back",
+      "year": 2024,
+      "overview": "Пара, возвращающаяся с вечеринки по случаю помолвки, должна выбраться с зловещей и, кажется, бесконечной дороги.",
+      "poster": "https://images.metahub.space/poster/small/tt23639696/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Horror",
+        "Mystery"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt23639696",
+      "tmdb_id": null,
+      "imdb_rating": 5.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-14T22:35:07.623345+00:00",
+      "last_updated_at": "2026-11-14T22:35:20.028756+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "c2f7f9cfe3153e8e",
+          "movie_id": "m_33373f03ae83",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T19:00:35+00:00",
+          "detected_at": "2026-11-14T22:35:07.623345+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Извне. Петля времени / Drive Back (2024) BDRip 1080p от NiTrID | D, P, P2 | Leff Sound, HDRezka Studio, ViruseProject",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_cdc395b76644",
+      "title": "Последнее проклятие",
+      "original_title": "The Curse",
+      "year": 2025,
+      "overview": "«Лувр: Последнее проклятие» — компьютерная игра в жанре квеста. Разработана французской компанией Canal+ Multimedia для Windows и Sony PlayStation и издана DreamCatcher Interactive в 2001 году. В России игра была выпущена компанией Руссобит-М. В США игры вышла под названием The Messenger, а в Великобритании — как Louvre: The Final Curse.",
+      "poster": "https://images.metahub.space/poster/small/tt0092809/img",
+      "backdrop": null,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "countries": [
+        "Italy, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt0092809",
+      "tmdb_id": null,
+      "imdb_rating": 5.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-14T22:35:07.623345+00:00",
+      "last_updated_at": "2026-11-14T22:35:17.518806+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "9306b9979c4e5f9e",
+          "movie_id": "m_cdc395b76644",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T19:20:52+00:00",
+          "detected_at": "2026-11-14T22:35:07.623345+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Leff Sound",
+          "raw_title": "Последнее проклятие / The Curse (2025) WEB-DL 1080p от ELEKTRI4KA | D | Leff Sound",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Leff Sound",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_e3c4ff6eb233",
+      "title": "Жертва обстоятельств",
+      "original_title": "Sacrifice",
+      "year": 2025,
+      "overview": "«Жертва обстоятельств» — комедийно-приключенческий боевик режиссёра Ромена Гавраса. В фильме снялись Аня Тейлор-Джой, Крис Эванс, Сальма Хайек и Венсан Кассель.",
+      "poster": "https://images.metahub.space/poster/small/tt32268992/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "countries": [
+        "United Kingdom, Greece, Cyprus, United States, France, Italy, Australia"
+      ],
+      "runtime": null,
+      "imdb_id": "tt32268992",
+      "tmdb_id": null,
+      "imdb_rating": 5.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-14T22:35:07.623345+00:00",
+      "last_updated_at": "2026-11-14T22:35:17.539567+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "f8c5090abf5570ac",
+          "movie_id": "m_e3c4ff6eb233",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T19:19:15+00:00",
+          "detected_at": "2026-11-14T22:35:07.623345+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Жертва обстоятельств / Sacrifice (2025) BDRip от MegaPeer | D | Мосфильм-Мастер",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "3020e3fa19d9851b",
+          "movie_id": "m_e3c4ff6eb233",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T19:19:18+00:00",
+          "detected_at": "2026-11-14T22:35:07.623345+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Жертва обстоятельств / Sacrifice (2025) BDRip 1080p от MegaPeer | D | Мосфильм-Мастер",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "2ee7ca8cf31e7aad",
+          "movie_id": "m_e3c4ff6eb233",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T20:27:33+00:00",
+          "detected_at": "2026-11-14T22:35:07.623345+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Жертва обстоятельств / Sacrifice (2025) BDRip 720p от MegaPeer | D | Мосфильм-Мастер",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_58fe33519551",
       "title": "Ваан: Душа леса",
