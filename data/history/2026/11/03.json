@@ -24,8 +24,8 @@
       "tmdb_id": 1792170,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.167,
-      "tmdb_vote_count": 30,
+      "tmdb_rating": 6.161,
+      "tmdb_vote_count": 31,
       "popularity": 36.2867,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-11-03",
@@ -108,13 +108,13 @@
       "theatrical_release_date": "2026-09-25",
       "digital_release_date": "2026-11-03",
       "first_detected_at": "2026-11-03T11:01:43.123091+00:00",
-      "last_updated_at": "2026-11-10T07:28:40.568724+00:00",
+      "last_updated_at": "2026-11-14T18:15:53.322304+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": true,
-      "has_ru_audio": false,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "468eef95a535f717",
@@ -255,6 +255,30 @@
             ],
             "imdb_rating": null,
             "runtime": null
+          }
+        },
+        {
+          "id": "ea4a2d6a9ce8a5db",
+          "movie_id": "tt35856037",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T14:22:04+00:00",
+          "detected_at": "2026-11-14T18:15:45.687793+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Твоя мать, твоя мать, твоя мать / Your Mother Your Mother Your Mother (2026) WEB-DL 720p | D, P",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]

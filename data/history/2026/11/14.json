@@ -1,7 +1,131 @@
 {
   "date": "2026-11-14",
-  "count": 5,
+  "count": 7,
   "movies": [
+    {
+      "id": "m_58fe33519551",
+      "title": "Ваан: Душа леса",
+      "original_title": "The Vvaan: Force of the Forrest",
+      "year": 2026,
+      "overview": "Рациональный городской житель бросает вызов запретному лесу своих предков и пробуждает богиню, чтобы понять, что не только существуют силы, выходящие за рамки логики, но и то, что он должен стать единственным спасителем деревни, чтобы защитить свой народ от уничтожения.",
+      "poster": "https://images.metahub.space/poster/small/tt34498564/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": null,
+      "imdb_id": "tt34498564",
+      "tmdb_id": null,
+      "imdb_rating": 6.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-14T18:15:45.687793+00:00",
+      "last_updated_at": "2026-11-14T18:15:56.113398+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "f7f6f7d5552d8cbe",
+          "movie_id": "m_58fe33519551",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T12:45:30+00:00",
+          "detected_at": "2026-11-14T18:15:45.687793+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Ваан: Душа леса / The Vvaan: Force of the Forrest (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_76347f00fa45",
+      "title": "Гражданин-мститель",
+      "original_title": "Citizen Vigilante",
+      "year": 2026,
+      "overview": "«Гражданин-мститель» — боевик-триллер о вигиланте, снятый в 2026 году. Продюсером, сценаристом и режиссёром фильма выступил Уве Болл. Главные роли исполнили Арми Хаммер и Костас Мэндилор.",
+      "poster": "https://images.metahub.space/poster/small/tt35309713/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "countries": [
+        "Germany, Croatia"
+      ],
+      "runtime": null,
+      "imdb_id": "tt35309713",
+      "tmdb_id": null,
+      "imdb_rating": 5.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-14T18:15:45.687793+00:00",
+      "last_updated_at": "2026-11-14T18:15:53.318271+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "unknown",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6cca6add5ff6f021",
+          "movie_id": "m_76347f00fa45",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T15:50:35+00:00",
+          "detected_at": "2026-11-14T18:15:45.687793+00:00",
+          "quality": "unknown",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Гражданин-мститель / Citizen Vigilante (2026) UHD BDRemux 2160p | 4K | HDR10 | Dolby Vision P7 | P, А | TVShows, WinMedia, Яроцкий",
+          "details": {
+            "quality": "unknown",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_f44ecf67fe2d",
       "title": "Кима",

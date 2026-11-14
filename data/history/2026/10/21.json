@@ -240,9 +240,9 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-21T17:20:52.497724+00:00",
-      "last_updated_at": "2026-10-26T20:35:31.296786+00:00",
+      "last_updated_at": "2026-11-14T18:15:53.343010+00:00",
       "status": "UHD_RELEASE",
-      "best_quality": "WEB-DL",
+      "best_quality": "BluRay",
       "best_resolution": "2160p",
       "has_4k": true,
       "has_hdr": true,
@@ -493,6 +493,78 @@
             ],
             "imdb_rating": null,
             "runtime": null
+          }
+        },
+        {
+          "id": "e8a3a14fe9f0325a",
+          "movie_id": "m_61a18c264aca",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T14:06:39+00:00",
+          "detected_at": "2026-11-14T18:15:45.687793+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "TVShows",
+          "raw_title": "Любыми средствами / By Any Means (2026) BDRip от MegaPeer | P | TVShows",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "TVShows",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "59d64edf8e05aaa1",
+          "movie_id": "m_61a18c264aca",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T14:06:42+00:00",
+          "detected_at": "2026-11-14T18:15:45.687793+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Любыми средствами / By Any Means (2026) BDRip 720p от MegaPeer | D, P | TVShows, HDRezka Studio",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "f43c70e67e118509",
+          "movie_id": "m_61a18c264aca",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-14T14:06:44+00:00",
+          "detected_at": "2026-11-14T18:15:45.687793+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Любыми средствами / By Any Means (2026) BDRip 1080p от MegaPeer | D, P | TVShows, HDRezka Studio",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
           }
         }
       ]
