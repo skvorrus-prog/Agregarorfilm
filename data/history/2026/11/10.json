@@ -28,7 +28,7 @@
       "theatrical_release_date": "2026-10-07",
       "digital_release_date": "2026-11-10",
       "first_detected_at": "2026-11-10T07:28:33.749122+00:00",
-      "last_updated_at": "2026-11-12T11:28:41.142410+00:00",
+      "last_updated_at": "2026-11-15T16:26:34.119036+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -259,6 +259,54 @@
             "audio": null,
             "language": "RU",
             "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "02959583b2502cb4",
+          "movie_id": "tt36586020",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-15T10:56:39+00:00",
+          "detected_at": "2026-11-15T16:26:27.373352+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Чужая мама / Other Mommy (2026) UHD WEB-DL 2160p | 4K | SDR | D, P | TVShows, HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "5e458aeb0b04492c",
+          "movie_id": "tt36586020",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-15T11:07:28+00:00",
+          "detected_at": "2026-11-15T16:26:27.373352+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Чужая мама / Other Mommy (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | D, P | TVShows, HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
             "is_secondary_signal": true
           }
         }

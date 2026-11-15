@@ -326,7 +326,7 @@
       "theatrical_release_date": "2026-07-03",
       "digital_release_date": "2026-07-03",
       "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-11-14T22:35:20.035393+00:00",
+      "last_updated_at": "2026-11-15T16:26:36.995828+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "REMUX",
       "best_resolution": "2160p",
@@ -998,6 +998,54 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "51243c279cf21251",
+          "movie_id": "tt41605854",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-15T10:03:15+00:00",
+          "detected_at": "2026-11-15T16:26:27.373352+00:00",
+          "quality": "BluRay",
+          "resolution": "2160p",
+          "hdr": "HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Одиссея / The Odyssey (2026) UHD BDRip 2160p | 4K | HDR10 | D, P, A | WinMedia, HDRezka Studio, LostFilm, TVShows, Яроцкий",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "2160p",
+            "hdr": "HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "0f7aab142a47eba6",
+          "movie_id": "tt41605854",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-15T12:00:25+00:00",
+          "detected_at": "2026-11-15T16:26:27.373352+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "WinMedia",
+          "raw_title": "Одиссея / The Odyssey (2026) HDRip-AVC от ExKinoRay | D | WinMedia",
+          "details": {
+            "quality": "unknown",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "WinMedia",
             "is_secondary_signal": true
           }
         }

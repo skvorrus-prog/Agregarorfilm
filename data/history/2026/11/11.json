@@ -21,8 +21,8 @@
       "tmdb_id": 1559980,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.267,
-      "tmdb_vote_count": 15,
+      "tmdb_rating": 7.438,
+      "tmdb_vote_count": 16,
       "popularity": 38.0453,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
@@ -196,7 +196,7 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-11-11",
       "first_detected_at": "2026-11-06T19:30:15.456048+00:00",
-      "last_updated_at": "2026-11-14T22:35:15.625816+00:00",
+      "last_updated_at": "2026-11-15T16:26:37.003073+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -339,6 +339,30 @@
             "audio": null,
             "language": null,
             "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "0ed9ac413f445365",
+          "movie_id": "m_7dad820b1111",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-15T08:13:33+00:00",
+          "detected_at": "2026-11-15T16:26:27.373352+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "ViruseProject",
+          "raw_title": "Уличный боец / Street Fighter (2026) WEBRip 1080p | P2 | ViruseProject",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "ViruseProject",
             "is_secondary_signal": true
           }
         }

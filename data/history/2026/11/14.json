@@ -1,7 +1,83 @@
 {
   "date": "2026-11-14",
-  "count": 10,
+  "count": 11,
   "movies": [
+    {
+      "id": "tt43596156",
+      "title": "A Proud Family Wizmas",
+      "original_title": "A Proud Family Wizmas",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8hp2pULH1tBxYdbrQHkYjo7kffC.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "музыка",
+        "телевизионный фильм"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 51,
+      "imdb_id": "tt43596156",
+      "tmdb_id": 1716604,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 2.2,
+      "tmdb_vote_count": 5,
+      "popularity": 6.2497,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-14",
+      "digital_release_date": "2026-11-14",
+      "first_detected_at": "2026-11-15T16:26:27.373352+00:00",
+      "last_updated_at": "2026-11-15T16:26:34.071926+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "158c6d234cbda072",
+          "movie_id": "tt43596156",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-14",
+          "detected_at": "2026-11-15T16:26:27.373352+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "A Proud Family Wizmas",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/9nFa7GEw9FmZWn3gaFhLvVrhVDY.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8hp2pULH1tBxYdbrQHkYjo7kffC.jpg",
+            "genres": [
+              "мультфильм",
+              "комедия",
+              "музыка",
+              "телевизионный фильм"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 51,
+            "popularity": 6.2497,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 2.2,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-11-14",
+            "digital_release_date": "2026-11-14"
+          }
+        }
+      ]
+    },
     {
       "id": "m_33373f03ae83",
       "title": "Извне. Петля времени",
@@ -153,7 +229,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-14T22:35:07.623345+00:00",
-      "last_updated_at": "2026-11-14T22:35:17.539567+00:00",
+      "last_updated_at": "2026-11-15T16:26:37.001877+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "1080p",
@@ -223,6 +299,30 @@
           "language": "RU",
           "release_group": null,
           "raw_title": "Жертва обстоятельств / Sacrifice (2025) BDRip 720p от MegaPeer | D | Мосфильм-Мастер",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "3c8421e0894e5e5b",
+          "movie_id": "m_e3c4ff6eb233",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-15T09:10:55+00:00",
+          "detected_at": "2026-11-15T16:26:27.373352+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Жертва обстоятельств / Sacrifice (2025) BDRip 720p от DoMiNo & селезень | D | Мосфильм-Мастер",
           "details": {
             "quality": "BluRay",
             "resolution": "720p",
