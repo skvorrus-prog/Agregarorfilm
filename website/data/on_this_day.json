@@ -1857,7 +1857,7 @@
     "imdb_rating": 5.7,
     "imdb_vote_count": null,
     "best_quality": "BluRay",
-    "best_resolution": "720p",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
@@ -7530,6 +7530,21 @@
  },
  "11-15": {
   "2026": [
+   {
+    "id": "m_44e3b6bf49f5",
+    "title": "Рай Критсада",
+    "original_title": "Kijsada Paradise",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt42721267/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "m_991b6f1ac8e2",
     "title": "Астральная одержимость",

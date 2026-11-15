@@ -1,7 +1,67 @@
 {
   "date": "2026-11-15",
-  "count": 3,
+  "count": 4,
   "movies": [
+    {
+      "id": "m_44e3b6bf49f5",
+      "title": "Рай Критсада",
+      "original_title": "Kijsada Paradise",
+      "year": 2026,
+      "overview": "Исчезновение друга в заброшенном парке развлечений становится испытанием для дружбы группы подростков, поскольку они сталкиваются с конфликтами и секретами.",
+      "poster": "https://images.metahub.space/poster/small/tt42721267/img",
+      "backdrop": null,
+      "genres": [
+        "Horror"
+      ],
+      "countries": [
+        "Thailand"
+      ],
+      "runtime": null,
+      "imdb_id": "tt42721267",
+      "tmdb_id": null,
+      "imdb_rating": 5.7,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-15T22:57:04.541191+00:00",
+      "last_updated_at": "2026-11-15T22:57:14.045421+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "b4f8701f6d9b8903",
+          "movie_id": "m_44e3b6bf49f5",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-15T17:04:05+00:00",
+          "detected_at": "2026-11-15T22:57:04.541191+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Рай Критсада / Kijsada Paradise (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_991b6f1ac8e2",
       "title": "Астральная одержимость",

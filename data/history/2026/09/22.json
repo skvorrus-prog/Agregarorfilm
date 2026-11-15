@@ -33,7 +33,7 @@
       "theatrical_release_date": "2026-08-03",
       "digital_release_date": "2026-09-22",
       "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-11-13T11:12:37.009018+00:00",
+      "last_updated_at": "2026-11-15T22:57:11.257858+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -100,6 +100,30 @@
             "hdr": "Dolby Vision / HDR10",
             "audio": null,
             "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a035fed1f11eee46",
+          "movie_id": "tt36893729",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-15T19:41:16+00:00",
+          "detected_at": "2026-11-15T22:57:04.541191+00:00",
+          "quality": "unknown",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Мороженщик / Ice Cream Man (2026) BDRemux 1080p | P | TVShows, WinMedia",
+          "details": {
+            "quality": "unknown",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
             "release_group": null,
             "is_secondary_signal": true
           }
