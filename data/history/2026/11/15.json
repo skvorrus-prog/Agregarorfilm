@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-15",
+  "count": 1,
+  "movies": [
+    {
+      "id": "m_bfdd8458df25",
+      "title": "Ангел и негодяй",
+      "original_title": "Angel and the Badman",
+      "year": 2026,
+      "overview": "В этом ремейке классического вестерна грозный преступник должен решить, каким человеком он станет, когда мир потребует крови.",
+      "poster": "https://images.metahub.space/poster/small/tt39850240/img",
+      "backdrop": null,
+      "genres": [
+        "Western"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt39850240",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-15T06:46:25.983226+00:00",
+      "last_updated_at": "2026-11-15T06:46:35.461973+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "6b5089232f55cc8a",
+          "movie_id": "m_bfdd8458df25",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-15T03:10:00+00:00",
+          "detected_at": "2026-11-15T06:46:25.983226+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Dragon Money Studio",
+          "raw_title": "Ангел и негодяй / Angel and the Badman (2026) WEB-DLRip | L | Dragon Money Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Dragon Money Studio",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}
