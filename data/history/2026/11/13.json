@@ -22,14 +22,14 @@
       "tmdb_id": 1050981,
       "imdb_rating": 7.0,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.531,
-      "tmdb_vote_count": 16,
+      "tmdb_rating": 6.816,
+      "tmdb_vote_count": 19,
       "popularity": 30.7695,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-11-13",
       "first_detected_at": "2026-11-13T11:12:26.849277+00:00",
-      "last_updated_at": "2026-11-14T01:29:21.337588+00:00",
+      "last_updated_at": "2026-11-16T19:41:44.793008+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "unknown",
@@ -95,6 +95,37 @@
             "release_group": "Sub",
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "a57058a4c5268eb3",
+          "movie_id": "m_1c347b8457a8",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-16T19:41:37.807549+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Being Heumann (2026)",
+          "details": {
+            "title": "Being Heumann",
+            "year": 2026,
+            "overview": "In 1977, disability rights activist Judy Heumann leads a historic 28-day occupation of San Francisco's Federal Building, uniting protesters in a fight for accessibility laws and equal rights.",
+            "poster": "https://images.metahub.space/poster/small/tt15095848/img",
+            "genres": [
+              "Biography",
+              "Drama",
+              "History"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "imdb_rating": null,
+            "runtime": null
+          }
         }
       ]
     },
@@ -118,8 +149,8 @@
       "tmdb_id": 1543469,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.837,
-      "tmdb_vote_count": 46,
+      "tmdb_rating": 6.651,
+      "tmdb_vote_count": 53,
       "popularity": 114.3661,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
