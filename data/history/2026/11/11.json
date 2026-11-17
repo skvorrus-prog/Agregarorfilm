@@ -1,7 +1,77 @@
 {
   "date": "2026-11-11",
-  "count": 3,
+  "count": 4,
   "movies": [
+    {
+      "id": "tt41593493",
+      "title": "Аведон",
+      "original_title": "Avedon",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 104,
+      "imdb_id": "tt41593493",
+      "tmdb_id": 1666787,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.0,
+      "tmdb_vote_count": 5,
+      "popularity": 7.2323,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-06",
+      "digital_release_date": "2026-11-11",
+      "first_detected_at": "2026-11-17T16:13:04.928269+00:00",
+      "last_updated_at": "2026-11-17T16:13:11.946044+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9ca19b6646fbbb8f",
+          "movie_id": "tt41593493",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-11",
+          "detected_at": "2026-11-17T16:13:04.928269+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Аведон",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 104,
+            "popularity": 7.2323,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-11-06",
+            "digital_release_date": "2026-11-11"
+          }
+        }
+      ]
+    },
     {
       "id": "tt50817930",
       "title": "Suzane von Richthofen: O Que o Tempo Não Apaga",
@@ -22,9 +92,9 @@
       "tmdb_id": 1664682,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 5.714,
-      "tmdb_vote_count": 8,
-      "popularity": 10.0298,
+      "tmdb_rating": 5.056,
+      "tmdb_vote_count": 9,
+      "popularity": 10.6358,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-11-11",
       "digital_release_date": "2026-11-11",
@@ -95,7 +165,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 7.262,
       "tmdb_vote_count": 21,
-      "popularity": 40.8282,
+      "popularity": 41.4023,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-11-11",

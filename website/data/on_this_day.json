@@ -374,6 +374,21 @@
  "11-11": {
   "2026": [
    {
+    "id": "tt41593493",
+    "title": "Аведон",
+    "original_title": "Avedon",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+    "digital_release_date": "2026-11-11",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt50817930",
     "title": "Suzane von Richthofen: O Que o Tempo Não Apaga",
     "original_title": "Suzane von Richthofen: O Que o Tempo Não Apaga",
@@ -1277,7 +1292,7 @@
     "digital_release_date": null,
     "imdb_rating": 3.4,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
+    "best_quality": "BluRay",
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
@@ -5226,8 +5241,8 @@
     "digital_release_date": "2026-08-25",
     "imdb_rating": null,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
@@ -7543,6 +7558,70 @@
    }
   ]
  },
+ "11-17": {
+  "2026": [
+   {
+    "id": "m_526ff437f4b3",
+    "title": "Привязанность",
+    "original_title": "Affection",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt33249097/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.4,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_e427b6ab6229",
+    "title": "Быть человеком: История Джуди Хьюман",
+    "original_title": "Быть Хьюмен / Being Heumann",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt15095848/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_a494f7f82053",
+    "title": "Идеальный матч",
+    "original_title": "Perfect Match",
+    "year": 2024,
+    "poster": "https://images.metahub.space/poster/small/tt29618715/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.6,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_d33979fd4465",
+    "title": "Мы умрем сегодня ночью",
+    "original_title": "Vi dör i natt / We Die Tonight",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt34549572/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.2,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "11-16": {
   "2026": [
    {
@@ -7569,10 +7648,10 @@
     "digital_release_date": null,
     "imdb_rating": null,
     "imdb_vote_count": null,
-    "best_quality": "WEBRip",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
     "has_ru_audio": false
    },
    {
