@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-18",
+  "count": 1,
+  "movies": [
+    {
+      "id": "m_b81d1072a04f",
+      "title": "Нападение помидоров-убийц: Органический интеллект",
+      "original_title": "Attack of the Killer Tomatoes: Organic Intelligence",
+      "year": 2026,
+      "overview": "Помидоры снова появляются, и на этот раз враг — искусственный. Когда молодой корпоративный вундеркинд профессора Гангрина выходит из-под контроля, помидоры начинают думать самостоятельно. Лоза становится умнее. Лоза становится быстрее. У лозы впервые появляется план.",
+      "poster": "https://images.metahub.space/poster/small/tt36415530/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Science Fiction"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt36415530",
+      "tmdb_id": null,
+      "imdb_rating": 4.6,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-18T01:00:29.240591+00:00",
+      "last_updated_at": "2026-11-18T01:00:38.825931+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "0ad9d9258c1a50db",
+          "movie_id": "m_b81d1072a04f",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-17T17:09:41+00:00",
+          "detected_at": "2026-11-18T01:00:29.240591+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Нападение помидоров-убийц: Органический интеллект / Attack of the Killer Tomatoes: Organic Intelligence (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}
