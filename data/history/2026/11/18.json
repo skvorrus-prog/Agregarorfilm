@@ -1,7 +1,223 @@
 {
   "date": "2026-11-18",
-  "count": 1,
+  "count": 4,
   "movies": [
+    {
+      "id": "m_dbba7ff8ada9",
+      "title": "Падение империи",
+      "original_title": "Гражданская война / Civil War",
+      "year": 2024,
+      "overview": "«Падение империи» — американский художественный фильм режиссёра Алекса Гарленда. \nГлавную роль исполнила Кирстен Данст. \nМировая премьера фильма состоялась 14 марта 2024 года на фестивале South by Southwest, а кинотеатральный прокат начался 10 апреля.",
+      "poster": "https://images.metahub.space/poster/small/tt17279496/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Thriller",
+        "War"
+      ],
+      "countries": [
+        "United States, United Kingdom, Finland"
+      ],
+      "runtime": null,
+      "imdb_id": "tt17279496",
+      "tmdb_id": null,
+      "imdb_rating": 7.0,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-18T11:54:42.142174+00:00",
+      "last_updated_at": "2026-11-18T11:54:54.537711+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "720p",
+      "has_4k": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "f04779846c515d69",
+          "movie_id": "m_dbba7ff8ada9",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-18T08:26:05+00:00",
+          "detected_at": "2026-11-18T11:54:42.142174+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Падение империи / Гражданская война / Civil War (2024) BDRip 720p от DoMiNo & селезень | D, P2 | Пифагор, HDrezka Studio, ViruseProject",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_d6edb2e84c64",
+      "title": "Охрана звёзд",
+      "original_title": "Guarding Stars",
+      "year": 2026,
+      "overview": "Когда серьезному телохранителю поручают защищать очаровательную звезду боевиков во время праздников, между ними вспыхивает искра, раскрываются секреты, а Рождество становится намного сложнее.",
+      "poster": "https://images.metahub.space/poster/small/tt6611324/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt6611324",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-18T11:54:42.142174+00:00",
+      "last_updated_at": "2026-11-18T11:54:54.550621+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "d5ef46c2c58446fe",
+          "movie_id": "m_d6edb2e84c64",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-18T08:17:43+00:00",
+          "detected_at": "2026-11-18T11:54:42.142174+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "Охрана звёзд / Guarding Stars (2026) WEB-DL 1080p от EniaHD | D | Movie Dubbing",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Movie Dubbing",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "6fe0301aa3dcb4c4",
+          "movie_id": "m_d6edb2e84c64",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-18T10:40:02+00:00",
+          "detected_at": "2026-11-18T11:54:42.142174+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "Охрана звёзд / Guarding Stars (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Movie Dubbing",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Movie Dubbing",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt29567915",
+      "title": "Nuremberg",
+      "original_title": "Nuremberg",
+      "year": 2025,
+      "overview": "Психиатр времен Второй мировой войны оценивает состояние нацистских лидеров перед Нюрнбергским процессом и все больше одержим пониманием зла, поскольку у него формируется тревожная связь с Германом Герингом.",
+      "poster": "https://images.metahub.space/poster/small/tt29567915/img",
+      "backdrop": null,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "countries": [
+        "United States, Hungary"
+      ],
+      "runtime": null,
+      "imdb_id": "tt29567915",
+      "tmdb_id": null,
+      "imdb_rating": 7.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-18T11:54:42.142174+00:00",
+      "last_updated_at": "2026-11-18T11:54:51.549251+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9495ec727e25f54a",
+          "movie_id": "tt29567915",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-18T11:54:42.142174+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Nuremberg (2025)",
+          "details": {
+            "title": "Nuremberg",
+            "year": 2025,
+            "overview": "A WWII psychiatrist evaluates Nazi leaders before the Nuremberg trials, growing increasingly obsessed with understanding evil as he forms a disturbing bond with Hermann Göring.",
+            "poster": "https://images.metahub.space/poster/small/tt29567915/img",
+            "genres": [
+              "Biography",
+              "Drama",
+              "History"
+            ],
+            "countries": [
+              "United States, Hungary"
+            ],
+            "imdb_rating": 7.3,
+            "runtime": null
+          }
+        }
+      ]
+    },
     {
       "id": "m_b81d1072a04f",
       "title": "Нападение помидоров-убийц: Органический интеллект",

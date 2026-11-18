@@ -1,7 +1,91 @@
 {
   "date": "2026-11-17",
-  "count": 3,
+  "count": 4,
   "movies": [
+    {
+      "id": "tt14129116",
+      "title": "Последнее убийство мистера Рипли",
+      "original_title": "A Talent for Murder",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал"
+      ],
+      "countries": [
+        "Australia",
+        "Ireland",
+        "United Kingdom",
+        "Italy",
+        "Switzerland",
+        "United States of America"
+      ],
+      "runtime": 106,
+      "imdb_id": "tt14129116",
+      "tmdb_id": 1084409,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.1,
+      "tmdb_vote_count": 15,
+      "popularity": 47.6984,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-23",
+      "digital_release_date": "2026-11-17",
+      "first_detected_at": "2026-11-18T11:54:42.142174+00:00",
+      "last_updated_at": "2026-11-18T11:54:49.097334+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "175d4274c8c87e7c",
+          "movie_id": "tt14129116",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-17",
+          "detected_at": "2026-11-18T11:54:42.142174+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Последнее убийство мистера Рипли",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
+            "genres": [
+              "триллер",
+              "драма",
+              "криминал"
+            ],
+            "countries": [
+              "Australia",
+              "Ireland",
+              "United Kingdom",
+              "Italy",
+              "Switzerland",
+              "United States of America"
+            ],
+            "runtime": 106,
+            "popularity": 47.6984,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.1,
+            "tmdb_vote_count": 15,
+            "theatrical_release_date": "2026-10-23",
+            "digital_release_date": "2026-11-17"
+          }
+        }
+      ]
+    },
     {
       "id": "m_526ff437f4b3",
       "title": "Привязанность",

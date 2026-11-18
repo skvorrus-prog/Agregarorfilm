@@ -1,7 +1,79 @@
 {
   "date": "2026-11-13",
-  "count": 9,
+  "count": 10,
   "movies": [
+    {
+      "id": "tt50969289",
+      "title": "Russell Brand: Open Secret",
+      "original_title": "Russell Brand: Open Secret",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
+      "genres": [
+        "документальный",
+        "криминал"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": 83,
+      "imdb_id": "tt50969289",
+      "tmdb_id": 1823907,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.7,
+      "tmdb_vote_count": 6,
+      "popularity": 12.7088,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-13",
+      "digital_release_date": "2026-11-13",
+      "first_detected_at": "2026-11-18T11:54:42.142174+00:00",
+      "last_updated_at": "2026-11-18T11:54:48.974774+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "ea3b41703284e253",
+          "movie_id": "tt50969289",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-13",
+          "detected_at": "2026-11-18T11:54:42.142174+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Russell Brand: Open Secret",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
+            "genres": [
+              "документальный",
+              "криминал"
+            ],
+            "countries": [
+              "United Kingdom"
+            ],
+            "runtime": 83,
+            "popularity": 12.7088,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.7,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-11-13",
+            "digital_release_date": "2026-11-13"
+          }
+        }
+      ]
+    },
     {
       "id": "m_e427b6ab6229",
       "title": "Быть человеком: История Джуди Хьюман",
@@ -198,9 +270,9 @@
       "tmdb_id": 1050981,
       "imdb_rating": 7.0,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.1,
-      "tmdb_vote_count": 25,
-      "popularity": 31.6965,
+      "tmdb_rating": 7.0,
+      "tmdb_vote_count": 27,
+      "popularity": 30.8893,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-11-13",
@@ -325,9 +397,9 @@
       "tmdb_id": 1543469,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.351,
-      "tmdb_vote_count": 74,
-      "popularity": 117.3222,
+      "tmdb_rating": 6.312,
+      "tmdb_vote_count": 78,
+      "popularity": 120.338,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-11-13",

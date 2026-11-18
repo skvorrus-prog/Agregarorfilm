@@ -1,4 +1,68 @@
 {
+ "11-17": {
+  "2026": [
+   {
+    "id": "tt14129116",
+    "title": "Последнее убийство мистера Рипли",
+    "original_title": "A Talent for Murder",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+    "digital_release_date": "2026-11-17",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_526ff437f4b3",
+    "title": "Привязанность",
+    "original_title": "Affection",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt33249097/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.4,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_a494f7f82053",
+    "title": "Идеальный матч",
+    "original_title": "Perfect Match",
+    "year": 2024,
+    "poster": "https://images.metahub.space/poster/small/tt29618715/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.6,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_d33979fd4465",
+    "title": "Мы умрем сегодня ночью",
+    "original_title": "Vi dör i natt / We Die Tonight",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt34549572/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.2,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "11-14": {
   "2026": [
    {
@@ -170,6 +234,21 @@
  },
  "11-13": {
   "2026": [
+   {
+    "id": "tt50969289",
+    "title": "Russell Brand: Open Secret",
+    "original_title": "Russell Brand: Open Secret",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+    "digital_release_date": "2026-11-13",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
    {
     "id": "m_e427b6ab6229",
     "title": "Быть человеком: История Джуди Хьюман",
@@ -7576,6 +7655,51 @@
  "11-18": {
   "2026": [
    {
+    "id": "m_dbba7ff8ada9",
+    "title": "Падение империи",
+    "original_title": "Гражданская война / Civil War",
+    "year": 2024,
+    "poster": "https://images.metahub.space/poster/small/tt17279496/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.0,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_d6edb2e84c64",
+    "title": "Охрана звёзд",
+    "original_title": "Guarding Stars",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt6611324/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "tt29567915",
+    "title": "Nuremberg",
+    "original_title": "Nuremberg",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt29567915/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.3,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_b81d1072a04f",
     "title": "Нападение помидоров-убийц: Органический интеллект",
     "original_title": "Attack of the Killer Tomatoes: Organic Intelligence",
@@ -7589,55 +7713,6 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": false
-   }
-  ]
- },
- "11-17": {
-  "2026": [
-   {
-    "id": "m_526ff437f4b3",
-    "title": "Привязанность",
-    "original_title": "Affection",
-    "year": 2025,
-    "poster": "https://images.metahub.space/poster/small/tt33249097/img",
-    "digital_release_date": null,
-    "imdb_rating": 5.4,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_a494f7f82053",
-    "title": "Идеальный матч",
-    "original_title": "Perfect Match",
-    "year": 2024,
-    "poster": "https://images.metahub.space/poster/small/tt29618715/img",
-    "digital_release_date": null,
-    "imdb_rating": 6.6,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_d33979fd4465",
-    "title": "Мы умрем сегодня ночью",
-    "original_title": "Vi dör i natt / We Die Tonight",
-    "year": 2025,
-    "poster": "https://images.metahub.space/poster/small/tt34549572/img",
-    "digital_release_date": null,
-    "imdb_rating": 5.2,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
    }
   ]
  },
