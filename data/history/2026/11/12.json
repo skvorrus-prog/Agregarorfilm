@@ -24,13 +24,13 @@
       "imdb_rating": null,
       "imdb_vote_count": null,
       "tmdb_rating": 7.1,
-      "tmdb_vote_count": 48,
+      "tmdb_vote_count": 50,
       "popularity": 232.2678,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-11-12",
       "digital_release_date": "2026-11-12",
       "first_detected_at": "2026-11-13T11:12:26.849277+00:00",
-      "last_updated_at": "2026-11-14T18:15:53.319971+00:00",
+      "last_updated_at": "2026-11-18T20:40:26.964280+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -97,6 +97,37 @@
             "release_group": "Sub",
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "ffee20f8fccab6a1",
+          "movie_id": "tt39370926",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-18T20:40:20.204549+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Never Surrender (2026)",
+          "details": {
+            "title": "Never Surrender",
+            "year": 2026,
+            "overview": "An ex-soldier and his grandchildren battle against ruthless criminals in a remote village. To survive, they must also confront their fears and regrets.",
+            "poster": "https://images.metahub.space/poster/small/tt39370926/img",
+            "genres": [
+              "Action",
+              "Crime",
+              "Drama"
+            ],
+            "countries": [
+              "Indonesia"
+            ],
+            "imdb_rating": null,
+            "runtime": null
+          }
         }
       ]
     },
@@ -120,7 +151,7 @@
       "tmdb_id": 1757174,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.377,
+      "tmdb_rating": 6.4,
       "tmdb_vote_count": 57,
       "popularity": 45.3948,
       "popularity_source": "TMDB",
@@ -191,8 +222,8 @@
       "tmdb_id": 1518204,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.628,
-      "tmdb_vote_count": 47,
+      "tmdb_rating": 6.604,
+      "tmdb_vote_count": 48,
       "popularity": 72.8616,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,

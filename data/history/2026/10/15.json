@@ -458,7 +458,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-15T11:41:21.249959+00:00",
-      "last_updated_at": "2026-10-15T11:41:30.308644+00:00",
+      "last_updated_at": "2026-11-18T20:40:31.109800+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "720p",
@@ -487,6 +487,30 @@
             "audio": null,
             "language": "RU",
             "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "6be0fdbb6a673d61",
+          "movie_id": "m_4ca8b1aa7356",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-18T16:18:10+00:00",
+          "detected_at": "2026-11-18T20:40:20.204549+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "CPIG",
+          "raw_title": "Досье «Чёрная канарейка» / Canary Black (2024) BDRip-AVC от DoMiNo & селезень | D | CPIG",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "CPIG",
             "is_secondary_signal": true
           }
         }

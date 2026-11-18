@@ -102,7 +102,7 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-11-13",
       "first_detected_at": "2026-11-17T16:13:04.928269+00:00",
-      "last_updated_at": "2026-11-18T01:00:36.027972+00:00",
+      "last_updated_at": "2026-11-18T20:40:31.100699+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -247,6 +247,30 @@
             "imdb_rating": null,
             "runtime": null
           }
+        },
+        {
+          "id": "9b98f7b93ef31b67",
+          "movie_id": "m_e427b6ab6229",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-18T17:17:06+00:00",
+          "detected_at": "2026-11-18T20:40:20.204549+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "WinMedia",
+          "raw_title": "Быть человеком: История Джуди Хьюман / Быть Хьюмен / Being Heumann (2026) WEB-DLRip | P | WinMedia",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "WinMedia",
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -270,8 +294,8 @@
       "tmdb_id": 1050981,
       "imdb_rating": 7.0,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.0,
-      "tmdb_vote_count": 27,
+      "tmdb_rating": 7.054,
+      "tmdb_vote_count": 28,
       "popularity": 30.8893,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
@@ -397,8 +421,8 @@
       "tmdb_id": 1543469,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.312,
-      "tmdb_vote_count": 78,
+      "tmdb_rating": 6.3,
+      "tmdb_vote_count": 84,
       "popularity": 120.338,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
