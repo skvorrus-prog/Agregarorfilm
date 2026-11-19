@@ -30,7 +30,7 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-04-22",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-11-18T20:40:27.845244+00:00",
+      "last_updated_at": "2026-11-19T11:52:20.830660+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "2160p",
@@ -234,6 +234,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "1cd4006ea731f5c9",
+          "movie_id": "tt33296751",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-19T06:18:47+00:00",
+          "detected_at": "2026-11-19T11:52:13.861719+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "CPI Films",
+          "raw_title": "Настройщик / Tuner (2025) BDRip 1080p от New-Team | D | CPI Films",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "CPI Films",
             "is_secondary_signal": true
           }
         }
