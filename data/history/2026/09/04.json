@@ -395,13 +395,13 @@
       "theatrical_release_date": "2026-09-04",
       "digital_release_date": "2026-09-04",
       "first_detected_at": "2026-10-02T09:42:14.013589+00:00",
-      "last_updated_at": "2026-10-02T09:43:23.906145+00:00",
+      "last_updated_at": "2026-11-19T20:46:45.168981+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
-      "best_resolution": "unknown",
+      "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
-      "has_ru_audio": false,
+      "has_ru_audio": true,
       "events": [
         {
           "id": "8606a2501d909d79",
@@ -438,6 +438,78 @@
             "tmdb_vote_count": 5,
             "theatrical_release_date": "2026-09-04",
             "digital_release_date": "2026-09-04"
+          }
+        },
+        {
+          "id": "cab2220a981075aa",
+          "movie_id": "tt32500181",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-19T12:41:22+00:00",
+          "detected_at": "2026-11-19T20:46:35.336927+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Akimbo Production",
+          "raw_title": "Точка кипения / Come with Me (2026) WEB-DL 1080p от ELEKTRI4KA | D | Akimbo Production",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Akimbo Production",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "597dc08f5af39d31",
+          "movie_id": "tt32500181",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-19T14:27:49+00:00",
+          "detected_at": "2026-11-19T20:46:35.336927+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Akimbo Production",
+          "raw_title": "Точка кипения / Come with Me (2026) WEB-DLRip от ELEKTRI4KA | D | Akimbo Production",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Akimbo Production",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "be36c5b3cb0b6e8d",
+          "movie_id": "tt32500181",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-19T16:45:09+00:00",
+          "detected_at": "2026-11-19T20:46:35.336927+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Akimbo Production",
+          "raw_title": "Точка кипения / Come with Me (2026) WEB-DLRip-AVC от New-Team | D | Akimbo Production",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Akimbo Production",
+            "is_secondary_signal": true
           }
         }
       ]
