@@ -19,18 +19,18 @@
   "tmdb_id": 1131943,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 8.0,
-  "tmdb_vote_count": 25,
+  "tmdb_rating": 7.9,
+  "tmdb_vote_count": 26,
   "popularity": 71.4934,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-18",
   "digital_release_date": "2026-11-18",
   "first_detected_at": "2026-11-19T02:38:53.118440+00:00",
-  "last_updated_at": "2026-11-20T11:53:13.687318+00:00",
-  "status": "WEB_RELEASE",
+  "last_updated_at": "2026-11-20T20:31:11.094220+00:00",
+  "status": "UHD_RELEASE",
   "best_quality": "WEB-DL",
-  "best_resolution": "1080p",
-  "has_4k": false,
+  "best_resolution": "2160p",
+  "has_4k": true,
   "has_hdr": true,
   "has_ru_audio": true,
   "events": [
@@ -188,6 +188,30 @@
      "release_group": null,
      "is_secondary_signal": true
     }
+   },
+   {
+    "id": "f78123fb94f0f64e",
+    "movie_id": "tt24818230",
+    "event_type": "UHD_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-20T13:34:40+00:00",
+    "detected_at": "2026-11-20T20:30:39.869745+00:00",
+    "quality": "WEB-DL",
+    "resolution": "2160p",
+    "hdr": "Dolby Vision / HDR10",
+    "audio": null,
+    "language": "RU",
+    "release_group": null,
+    "raw_title": "Мэдден / Madden (2026) WEB-DL-HEVC 2160p | 4K | HDR 10+ | Dolby Vision P8 | D, Р | WinMedia, HDrezka Studio",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "2160p",
+     "hdr": "Dolby Vision / HDR10",
+     "audio": null,
+     "language": "RU",
+     "release_group": null,
+     "is_secondary_signal": true
+    }
    }
   ]
  },
@@ -211,8 +235,8 @@
   "tmdb_id": 1551025,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.4,
-  "tmdb_vote_count": 36,
+  "tmdb_rating": 7.3,
+  "tmdb_vote_count": 38,
   "popularity": 109.5127,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -465,8 +489,8 @@
   "tmdb_id": 1716604,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.867,
-  "tmdb_vote_count": 15,
+  "tmdb_rating": 6.8,
+  "tmdb_vote_count": 16,
   "popularity": 13.3078,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-14",
@@ -885,8 +909,8 @@
   "tmdb_id": 1050981,
   "imdb_rating": 7.0,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.1,
-  "tmdb_vote_count": 35,
+  "tmdb_rating": 7.068,
+  "tmdb_vote_count": 37,
   "popularity": 27.1123,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1012,8 +1036,8 @@
   "tmdb_id": 1543469,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.282,
-  "tmdb_vote_count": 102,
+  "tmdb_rating": 6.252,
+  "tmdb_vote_count": 103,
   "popularity": 113.1954,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1157,6 +1181,135 @@
      "language": "RU",
      "release_group": null,
      "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "m_0bc3338f04da",
+  "title": "Никогда не сдавайся",
+  "original_title": "Serangan Balik / Never Surrender",
+  "year": 2026,
+  "overview": "«Никогда не сдавайся» — спортивная молодёжная драма 2008 года. Рейтинг фильма — PG-13.",
+  "poster": "https://images.metahub.space/poster/small/tt39370926/img",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama"
+  ],
+  "countries": [
+   "Indonesia"
+  ],
+  "runtime": 140,
+  "imdb_id": "tt39370926",
+  "tmdb_id": 1616687,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.944,
+  "tmdb_vote_count": 54,
+  "popularity": 225.878,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": null,
+  "digital_release_date": "2026-11-12",
+  "first_detected_at": "2026-11-20T11:53:05.327577+00:00",
+  "last_updated_at": "2026-11-20T20:30:46.865500+00:00",
+  "status": "UHD_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "2160p",
+  "has_4k": true,
+  "has_hdr": true,
+  "has_ru_audio": true,
+  "events": [
+   {
+    "id": "775e4792f8f9a9bf",
+    "movie_id": "m_0bc3338f04da",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-12",
+    "detected_at": "2026-11-20T20:30:39.869745+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Никогда не сдавайся",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "Терзаемый чувством вины ветеран живет в уединении, редко общаясь с внуками. Однако им придется объединиться, чтобы защитить дом от нападения опасной банды и постараться выжить.",
+     "poster": "https://image.tmdb.org/t/p/w500/9wypfSz5OyWnew6mt5hviGw6WhM.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+     "genres": [
+      "боевик",
+      "криминал",
+      "триллер"
+     ],
+     "countries": [
+      "Indonesia"
+     ],
+     "runtime": 140,
+     "popularity": 225.878,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.944,
+     "tmdb_vote_count": 54,
+     "theatrical_release_date": "2026-11-11",
+     "digital_release_date": "2026-11-12"
+    }
+   },
+   {
+    "id": "f83a9ba6470b1b00",
+    "movie_id": "m_0bc3338f04da",
+    "event_type": "UHD_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-20T11:30:29+00:00",
+    "detected_at": "2026-11-20T11:53:05.327577+00:00",
+    "quality": "WEB-DL",
+    "resolution": "2160p",
+    "hdr": "Dolby Vision / HDR10",
+    "audio": null,
+    "language": "RU",
+    "release_group": "L",
+    "raw_title": "Никогда не сдавайся / Serangan Balik / Never Surrender (2026) UHD WEB-DL 2160p | 4K | HDR10 | Dolby Vision P8 | L",
+    "details": {
+     "quality": "WEB-DL",
+     "resolution": "2160p",
+     "hdr": "Dolby Vision / HDR10",
+     "audio": null,
+     "language": "RU",
+     "release_group": "L",
+     "is_secondary_signal": true
+    }
+   },
+   {
+    "id": "c92e13b4b9172464",
+    "movie_id": "m_0bc3338f04da",
+    "event_type": "RELEASE_DETECTED",
+    "source_name": "Cinemeta",
+    "source_release_date": null,
+    "detected_at": "2026-11-20T20:30:39.869745+00:00",
+    "quality": "unknown",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Never Surrender (2026)",
+    "details": {
+     "title": "Never Surrender",
+     "year": 2026,
+     "overview": "An ex-soldier and his grandchildren battle against ruthless criminals in a remote village. To survive, they must also confront their fears and regrets.",
+     "poster": "https://images.metahub.space/poster/small/tt39370926/img",
+     "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+     ],
+     "countries": [
+      "Indonesia"
+     ],
+     "imdb_rating": null,
+     "runtime": null
     }
    }
   ]
@@ -1381,8 +1534,8 @@
   "tmdb_id": 1518204,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.571,
-  "tmdb_vote_count": 56,
+  "tmdb_rating": 6.443,
+  "tmdb_vote_count": 61,
   "popularity": 55.2428,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1624,7 +1777,7 @@
   "tmdb_id": 1666787,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.667,
+  "tmdb_rating": 6.7,
   "tmdb_vote_count": 6,
   "popularity": 4.6333,
   "popularity_source": "TMDB",
@@ -1695,7 +1848,7 @@
   "tmdb_id": 1664682,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.045,
+  "tmdb_rating": 5.0,
   "tmdb_vote_count": 11,
   "popularity": 7.692,
   "popularity_source": "TMDB",
@@ -1766,8 +1919,8 @@
   "tmdb_id": 1559980,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.0,
-  "tmdb_vote_count": 23,
+  "tmdb_rating": 6.896,
+  "tmdb_vote_count": 24,
   "popularity": 26.9542,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -2521,8 +2674,8 @@
   "tmdb_id": 1381221,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.2,
-  "tmdb_vote_count": 10,
+  "tmdb_rating": 6.955,
+  "tmdb_vote_count": 11,
   "popularity": 12.5273,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-10-09",
@@ -3032,8 +3185,8 @@
   "tmdb_id": 1600653,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.1,
-  "tmdb_vote_count": 14,
+  "tmdb_rating": 5.733,
+  "tmdb_vote_count": 15,
   "popularity": 6.5252,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-05",
@@ -7358,76 +7511,6 @@
      "tmdb_vote_count": 8,
      "theatrical_release_date": "2026-09-23",
      "digital_release_date": "2026-10-22"
-    }
-   }
-  ]
- },
- {
-  "id": "tt37775809",
-  "title": "Мюзикл",
-  "original_title": "The Musical",
-  "year": 2026,
-  "overview": "Узнав, что его бывшая девушка начала встречаться с его заклятым врагом – директором школы, неудачливый драматург и учитель театрального искусства в средней школе решает лишить директора шансов выиграть престижную награду «Синяя лента» за выдающиеся академические достижения.",
-  "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/475EwwQP3Lg0kqhSC0xnZC4XBBd.jpg",
-  "genres": [
-   "комедия"
-  ],
-  "countries": [
-   "United States of America"
-  ],
-  "runtime": 84,
-  "imdb_id": "tt37775809",
-  "tmdb_id": 1579941,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 6.563,
-  "tmdb_vote_count": 8,
-  "popularity": 3.7818,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-18",
-  "digital_release_date": "2026-10-20",
-  "first_detected_at": "2026-10-26T04:57:40.120598+00:00",
-  "last_updated_at": "2026-10-26T04:57:47.223790+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "e4cc0990e364fa05",
-    "movie_id": "tt37775809",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-20",
-    "detected_at": "2026-10-26T04:57:40.120598+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "Мюзикл",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "Узнав, что его бывшая девушка начала встречаться с его заклятым врагом – директором школы, неудачливый драматург и учитель театрального искусства в средней школе решает лишить директора шансов выиграть престижную награду «Синяя лента» за выдающиеся академические достижения.",
-     "poster": "https://image.tmdb.org/t/p/w500/paoRPVNta4eYyPO1vsdHTK8dUYa.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/475EwwQP3Lg0kqhSC0xnZC4XBBd.jpg",
-     "genres": [
-      "комедия"
-     ],
-     "countries": [
-      "United States of America"
-     ],
-     "runtime": 84,
-     "popularity": 21.6951,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 6.25,
-     "tmdb_vote_count": 6,
-     "theatrical_release_date": "2026-09-18",
-     "digital_release_date": "2026-10-20"
     }
    }
   ]

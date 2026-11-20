@@ -115,7 +115,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-16T19:41:37.807549+00:00",
-      "last_updated_at": "2026-11-20T11:53:13.134632+00:00",
+      "last_updated_at": "2026-11-20T20:31:11.092933+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -263,6 +263,30 @@
             "hdr": null,
             "audio": null,
             "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "b33b978db35719e4",
+          "movie_id": "m_e6d29dbfd009",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-20T14:02:43+00:00",
+          "detected_at": "2026-11-20T20:30:39.869745+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDRezka Studio",
+          "raw_title": "Зверь / The Beast (2026) WEB-DLRip | Р | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
             "release_group": "HDRezka Studio",
             "is_secondary_signal": true
           }
