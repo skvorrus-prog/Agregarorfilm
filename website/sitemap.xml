@@ -40,6 +40,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://digitalreleases.github.io/movie/tt32324552.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://digitalreleases.github.io/movie/tt50969289.html</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -2021,7 +2027,7 @@
   </url>
   <url>
     <loc>https://digitalreleases.github.io/movie/m_e6d29dbfd009.html</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

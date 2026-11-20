@@ -1,7 +1,81 @@
 {
   "date": "2026-11-13",
-  "count": 10,
+  "count": 11,
   "movies": [
+    {
+      "id": "tt32324552",
+      "title": "రణబాలి",
+      "original_title": "రణబాలి",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/7nSzaAYx3CyqU7TtA2X91AGXTvB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xpImgnsxuqb3VOp0QRtXTS5uBRi.jpg",
+      "genres": [
+        "история",
+        "боевик",
+        "драма"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": 179,
+      "imdb_id": "tt32324552",
+      "tmdb_id": 1389379,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.2,
+      "tmdb_vote_count": 6,
+      "popularity": 42.3828,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-15",
+      "digital_release_date": "2026-11-13",
+      "first_detected_at": "2026-11-20T02:23:34.989730+00:00",
+      "last_updated_at": "2026-11-20T02:23:41.919815+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "773d6b348de465e0",
+          "movie_id": "tt32324552",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-13",
+          "detected_at": "2026-11-20T02:23:34.989730+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "రణబాలి",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/7nSzaAYx3CyqU7TtA2X91AGXTvB.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/xpImgnsxuqb3VOp0QRtXTS5uBRi.jpg",
+            "genres": [
+              "история",
+              "боевик",
+              "драма"
+            ],
+            "countries": [
+              "India"
+            ],
+            "runtime": 179,
+            "popularity": 42.3828,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.2,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-10-15",
+            "digital_release_date": "2026-11-13"
+          }
+        }
+      ]
+    },
     {
       "id": "tt50969289",
       "title": "Russell Brand: Open Secret",
@@ -24,7 +98,7 @@
       "imdb_vote_count": null,
       "tmdb_rating": 5.7,
       "tmdb_vote_count": 6,
-      "popularity": 12.7356,
+      "popularity": 12.307,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-11-13",
       "digital_release_date": "2026-11-13",
@@ -294,8 +368,8 @@
       "tmdb_id": 1050981,
       "imdb_rating": 7.0,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.081,
-      "tmdb_vote_count": 31,
+      "tmdb_rating": 7.045,
+      "tmdb_vote_count": 33,
       "popularity": 29.2559,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
@@ -421,8 +495,8 @@
       "tmdb_id": 1543469,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.2,
-      "tmdb_vote_count": 96,
+      "tmdb_rating": 6.29,
+      "tmdb_vote_count": 100,
       "popularity": 120.5599,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
