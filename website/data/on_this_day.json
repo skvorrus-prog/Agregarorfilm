@@ -5316,8 +5316,8 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
     "has_hdr": false,
     "has_ru_audio": true
    }
@@ -7981,6 +7981,21 @@
  },
  "11-21": {
   "2026": [
+   {
+    "id": "m_f814e8e98374",
+    "title": "Божий гнев",
+    "original_title": "Bozji gnjev / The Wrath of God",
+    "year": 2024,
+    "poster": "https://images.metahub.space/poster/small/tt15189534/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.8,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "m_f9634e2ce67a",
     "title": "Любовь в большом городе",

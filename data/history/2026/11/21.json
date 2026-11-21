@@ -1,7 +1,68 @@
 {
   "date": "2026-11-21",
-  "count": 2,
+  "count": 3,
   "movies": [
+    {
+      "id": "m_f814e8e98374",
+      "title": "Божий гнев",
+      "original_title": "Bozji gnjev / The Wrath of God",
+      "year": 2024,
+      "overview": "Лучана — молодая женщина, окруженная таинственными смертями родственников и растущим подозрением, что виновник — загадочный писатель, ее бывший начальник.",
+      "poster": "https://images.metahub.space/poster/small/tt15189534/img",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "countries": [
+        "Argentina"
+      ],
+      "runtime": null,
+      "imdb_id": "tt15189534",
+      "tmdb_id": null,
+      "imdb_rating": 5.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-21T19:27:20.694598+00:00",
+      "last_updated_at": "2026-11-21T19:27:30.320744+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "c58afe0f5be9ca02",
+          "movie_id": "m_f814e8e98374",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-21T14:19:01+00:00",
+          "detected_at": "2026-11-21T19:27:20.694598+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "P",
+          "raw_title": "Божий гнев / Bozji gnjev / The Wrath of God (2024) WEB-DL 1080p | P",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "P",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_f9634e2ce67a",
       "title": "Любовь в большом городе",
@@ -86,7 +147,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-21T11:22:21.066303+00:00",
-      "last_updated_at": "2026-11-21T11:22:33.511544+00:00",
+      "last_updated_at": "2026-11-21T19:27:30.336289+00:00",
       "status": "BLURAY_RELEASE",
       "best_quality": "BluRay",
       "best_resolution": "1080p",
@@ -132,6 +193,30 @@
           "language": "RU",
           "release_group": null,
           "raw_title": "Дети леса 2 / Woodwalkers 2 (2026) BDRip 1080p от MegaPeer | D | Мосфильм-Мастер",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "b038d10b9564b178",
+          "movie_id": "m_0119995b94ae",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-21T11:59:41+00:00",
+          "detected_at": "2026-11-21T19:27:20.694598+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Дети леса 2 / Woodwalkers 2 (2026) BDRip 1080p от New-Team | D | Мосфильм-Мастер",
           "details": {
             "quality": "BluRay",
             "resolution": "1080p",
