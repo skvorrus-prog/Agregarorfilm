@@ -1,4 +1,147 @@
 {
+ "11-20": {
+  "2026": [
+   {
+    "id": "tt14413964",
+    "title": "Сводные сестры",
+    "original_title": "Steps",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/2hXK5NBEWWfb06RWDI5Lv52gHZQ.jpg",
+    "digital_release_date": "2026-11-20",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_41cf953ec31b",
+    "title": "Черная вдова. Укус смерти",
+    "original_title": "Sting",
+    "year": 2024,
+    "poster": "https://images.metahub.space/poster/small/tt20112746/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "720p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_060edbd1143e",
+    "title": "Апофениаки",
+    "original_title": "Appofeniacs",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt29870331/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_a96467d0eee0",
+    "title": "Код сна",
+    "original_title": "April X",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt30850718/img",
+    "digital_release_date": null,
+    "imdb_rating": 4.9,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_0a3bc3fcc50f",
+    "title": "Роллинг Лауд. Дикое веселье",
+    "original_title": "Rolling Loud",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt33184695/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_328282787618",
+    "title": "По-настоящему обнажён",
+    "original_title": "Truly Naked",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt8760666/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.2,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_6c76cf13243a",
+    "title": "Апокалипсис Z: Начало конца",
+    "original_title": "Apocalypse Z: El principio del fin",
+    "year": 2024,
+    "poster": null,
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   }
+  ]
+ },
+ "11-19": {
+  "2026": [
+   {
+    "id": "tt50016818",
+    "title": "Son Yemek",
+    "original_title": "Son Yemek",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5VhfAWFs005xxN9akWJ2VIF5ozJ.jpg",
+    "digital_release_date": "2026-11-19",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_c24b20a83ccb",
+    "title": "Большие гонки. Пегас 3",
+    "original_title": "Fei chi ren sheng 3 / Pegasus 3",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt38035835/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "11-18": {
   "2026": [
    {
@@ -7821,119 +7964,6 @@
    }
   ]
  },
- "11-20": {
-  "2026": [
-   {
-    "id": "m_41cf953ec31b",
-    "title": "Черная вдова. Укус смерти",
-    "original_title": "Sting",
-    "year": 2024,
-    "poster": "https://images.metahub.space/poster/small/tt20112746/img",
-    "digital_release_date": null,
-    "imdb_rating": 5.7,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "720p",
-    "has_4k": false,
-    "has_hdr": true,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_060edbd1143e",
-    "title": "Апофениаки",
-    "original_title": "Appofeniacs",
-    "year": 2025,
-    "poster": "https://images.metahub.space/poster/small/tt29870331/img",
-    "digital_release_date": null,
-    "imdb_rating": 6.1,
-    "imdb_vote_count": null,
-    "best_quality": "WEBRip",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "m_a96467d0eee0",
-    "title": "Код сна",
-    "original_title": "April X",
-    "year": 2025,
-    "poster": "https://images.metahub.space/poster/small/tt30850718/img",
-    "digital_release_date": null,
-    "imdb_rating": 4.9,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_0a3bc3fcc50f",
-    "title": "Роллинг Лауд. Дикое веселье",
-    "original_title": "Rolling Loud",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt33184695/img",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_328282787618",
-    "title": "По-настоящему обнажён",
-    "original_title": "Truly Naked",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt8760666/img",
-    "digital_release_date": null,
-    "imdb_rating": 6.2,
-    "imdb_vote_count": null,
-    "best_quality": "BluRay",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
-    "id": "m_6c76cf13243a",
-    "title": "Апокалипсис Z: Начало конца",
-    "original_title": "Apocalypse Z: El principio del fin",
-    "year": 2024,
-    "poster": null,
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   }
-  ]
- },
- "11-19": {
-  "2026": [
-   {
-    "id": "m_c24b20a83ccb",
-    "title": "Большие гонки. Пегас 3",
-    "original_title": "Fei chi ren sheng 3 / Pegasus 3",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt38035835/img",
-    "digital_release_date": null,
-    "imdb_rating": 6.5,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   }
-  ]
- },
  "11-16": {
   "2026": [
    {
@@ -8025,7 +8055,7 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "BluRay",
-    "best_resolution": "720p",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": true,
     "has_ru_audio": true

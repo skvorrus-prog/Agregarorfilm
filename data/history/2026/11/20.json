@@ -1,7 +1,87 @@
 {
   "date": "2026-11-20",
-  "count": 6,
+  "count": 7,
   "movies": [
+    {
+      "id": "tt14413964",
+      "title": "Сводные сестры",
+      "original_title": "Steps",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/2hXK5NBEWWfb06RWDI5Lv52gHZQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "genres": [
+        "мультфильм",
+        "фэнтези",
+        "комедия",
+        "семейный",
+        "приключения"
+      ],
+      "countries": [
+        "United States of America",
+        "Australia"
+      ],
+      "runtime": 102,
+      "imdb_id": "tt14413964",
+      "tmdb_id": 1595124,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 9.0,
+      "tmdb_vote_count": 5,
+      "popularity": 7.939,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-20",
+      "digital_release_date": "2026-11-20",
+      "first_detected_at": "2026-11-21T02:27:17.744105+00:00",
+      "last_updated_at": "2026-11-21T02:27:24.640879+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "e0460e91c730d75c",
+          "movie_id": "tt14413964",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-20",
+          "detected_at": "2026-11-21T02:27:17.744105+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Сводные сестры",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/2hXK5NBEWWfb06RWDI5Lv52gHZQ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+            "genres": [
+              "мультфильм",
+              "фэнтези",
+              "комедия",
+              "семейный",
+              "приключения"
+            ],
+            "countries": [
+              "United States of America",
+              "Australia"
+            ],
+            "runtime": 102,
+            "popularity": 7.939,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 9.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-11-20",
+            "digital_release_date": "2026-11-20"
+          }
+        }
+      ]
+    },
     {
       "id": "m_41cf953ec31b",
       "title": "Черная вдова. Укус смерти",

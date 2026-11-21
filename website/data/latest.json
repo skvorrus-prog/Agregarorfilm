@@ -1,5 +1,157 @@
 [
  {
+  "id": "tt14413964",
+  "title": "Сводные сестры",
+  "original_title": "Steps",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/2hXK5NBEWWfb06RWDI5Lv52gHZQ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+  "genres": [
+   "мультфильм",
+   "фэнтези",
+   "комедия",
+   "семейный",
+   "приключения"
+  ],
+  "countries": [
+   "United States of America",
+   "Australia"
+  ],
+  "runtime": 102,
+  "imdb_id": "tt14413964",
+  "tmdb_id": 1595124,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 9.0,
+  "tmdb_vote_count": 5,
+  "popularity": 7.939,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-11-20",
+  "digital_release_date": "2026-11-20",
+  "first_detected_at": "2026-11-21T02:27:17.744105+00:00",
+  "last_updated_at": "2026-11-21T02:27:24.640879+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "e0460e91c730d75c",
+    "movie_id": "tt14413964",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-20",
+    "detected_at": "2026-11-21T02:27:17.744105+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Сводные сестры",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/2hXK5NBEWWfb06RWDI5Lv52gHZQ.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+     "genres": [
+      "мультфильм",
+      "фэнтези",
+      "комедия",
+      "семейный",
+      "приключения"
+     ],
+     "countries": [
+      "United States of America",
+      "Australia"
+     ],
+     "runtime": 102,
+     "popularity": 7.939,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 9.0,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-11-20",
+     "digital_release_date": "2026-11-20"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt50016818",
+  "title": "Son Yemek",
+  "original_title": "Son Yemek",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/5VhfAWFs005xxN9akWJ2VIF5ozJ.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/u3riq0UYL2aowB6u1xScMfDUFmr.jpg",
+  "genres": [
+   "мелодрама",
+   "драма"
+  ],
+  "countries": [
+   "Turkey"
+  ],
+  "runtime": 122,
+  "imdb_id": "tt50016818",
+  "tmdb_id": 1561834,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.5,
+  "tmdb_vote_count": 5,
+  "popularity": 22.2786,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-11-18",
+  "digital_release_date": "2026-11-19",
+  "first_detected_at": "2026-11-21T02:27:17.744105+00:00",
+  "last_updated_at": "2026-11-21T02:27:24.706405+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "36a22136349f2f16",
+    "movie_id": "tt50016818",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-19",
+    "detected_at": "2026-11-21T02:27:17.744105+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Son Yemek",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/5VhfAWFs005xxN9akWJ2VIF5ozJ.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/u3riq0UYL2aowB6u1xScMfDUFmr.jpg",
+     "genres": [
+      "мелодрама",
+      "драма"
+     ],
+     "countries": [
+      "Turkey"
+     ],
+     "runtime": 122,
+     "popularity": 22.2786,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.5,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-11-18",
+     "digital_release_date": "2026-11-19"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt24818230",
   "title": "Мэдден",
   "original_title": "Madden",
@@ -19,8 +171,8 @@
   "tmdb_id": 1131943,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.9,
-  "tmdb_vote_count": 26,
+  "tmdb_rating": 7.411,
+  "tmdb_vote_count": 28,
   "popularity": 71.4934,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-18",
@@ -235,8 +387,8 @@
   "tmdb_id": 1551025,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.3,
-  "tmdb_vote_count": 38,
+  "tmdb_rating": 6.87,
+  "tmdb_vote_count": 50,
   "popularity": 109.5127,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -489,9 +641,9 @@
   "tmdb_id": 1716604,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.8,
-  "tmdb_vote_count": 16,
-  "popularity": 13.3078,
+  "tmdb_rating": 6.706,
+  "tmdb_vote_count": 17,
+  "popularity": 12.952,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-14",
   "digital_release_date": "2026-11-14",
@@ -639,7 +791,7 @@
   "imdb_vote_count": null,
   "tmdb_rating": 5.7,
   "tmdb_vote_count": 6,
-  "popularity": 12.307,
+  "popularity": 10.8111,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-13",
   "digital_release_date": "2026-11-13",
@@ -1036,8 +1188,8 @@
   "tmdb_id": 1543469,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.252,
-  "tmdb_vote_count": 103,
+  "tmdb_rating": 6.248,
+  "tmdb_vote_count": 105,
   "popularity": 113.1954,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -1335,9 +1487,9 @@
   "tmdb_id": 1616687,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.0,
-  "tmdb_vote_count": 54,
-  "popularity": 225.878,
+  "tmdb_rating": 6.789,
+  "tmdb_vote_count": 57,
+  "popularity": 207.5576,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-12",
   "digital_release_date": "2026-11-12",
@@ -1463,9 +1615,9 @@
   "tmdb_id": 1757174,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.476,
-  "tmdb_vote_count": 62,
-  "popularity": 35.9694,
+  "tmdb_rating": 6.452,
+  "tmdb_vote_count": 63,
+  "popularity": 30.1179,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-12",
   "digital_release_date": "2026-11-12",
@@ -7329,188 +7481,6 @@
      "tmdb_vote_count": 29,
      "theatrical_release_date": "2026-09-17",
      "digital_release_date": "2026-10-23"
-    }
-   }
-  ]
- },
- {
-  "id": "tt38915678",
-  "title": "டோரதி",
-  "original_title": "டோரதி",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
-  "genres": [
-   "драма",
-   "мелодрама",
-   "криминал"
-  ],
-  "countries": [
-   "India"
-  ],
-  "runtime": 146,
-  "imdb_id": "tt38915678",
-  "tmdb_id": 1578079,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 8.5,
-  "tmdb_vote_count": 11,
-  "popularity": 7.7071,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-25",
-  "digital_release_date": "2026-10-23",
-  "first_detected_at": "2026-10-23T05:01:33.723008+00:00",
-  "last_updated_at": "2026-10-23T11:49:11.255371+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "da3b468ec71972d4",
-    "movie_id": "tt38915678",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-22",
-    "detected_at": "2026-10-23T11:49:04.009840+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "டோரதி",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
-     "genres": [
-      "драма",
-      "мелодрама",
-      "криминал"
-     ],
-     "countries": [
-      "India"
-     ],
-     "runtime": 146,
-     "popularity": 6.95,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 8.0,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-09-25",
-     "digital_release_date": "2026-10-22"
-    }
-   },
-   {
-    "id": "1cc65a21775cb658",
-    "movie_id": "tt38915678",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-23",
-    "detected_at": "2026-10-23T05:01:33.723008+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "டோரதி",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
-     "genres": [
-      "драма",
-      "мелодрама",
-      "криминал"
-     ],
-     "countries": [
-      "India"
-     ],
-     "runtime": 146,
-     "popularity": 6.95,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 8.0,
-     "tmdb_vote_count": 5,
-     "theatrical_release_date": "2026-09-25",
-     "digital_release_date": "2026-10-23"
-    }
-   }
-  ]
- },
- {
-  "id": "tt31969655",
-  "title": "ది ప్యారడైజ్",
-  "original_title": "ది ప్యారడైజ్",
-  "year": 2026,
-  "overview": "",
-  "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
-  "genres": [
-   "боевик",
-   "драма"
-  ],
-  "countries": [
-   "India"
-  ],
-  "runtime": 174,
-  "imdb_id": "tt31969655",
-  "tmdb_id": 1376856,
-  "imdb_rating": null,
-  "imdb_vote_count": null,
-  "tmdb_rating": 4.8,
-  "tmdb_vote_count": 15,
-  "popularity": 17.4263,
-  "popularity_source": "TMDB",
-  "theatrical_release_date": "2026-09-23",
-  "digital_release_date": "2026-10-22",
-  "first_detected_at": "2026-10-22T05:00:21.886132+00:00",
-  "last_updated_at": "2026-10-22T05:00:30.481961+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEB-DL",
-  "best_resolution": "unknown",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "f06e9f131b84782d",
-    "movie_id": "tt31969655",
-    "event_type": "DIGITAL_PREMIERE",
-    "source_name": "TMDB",
-    "source_release_date": "2026-10-22",
-    "detected_at": "2026-10-22T05:00:21.886132+00:00",
-    "quality": "WEB-DL",
-    "resolution": "unknown",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": null,
-    "raw_title": "ది ప్యారడైజ్",
-    "details": {
-     "quality": "WEB-DL",
-     "overview": "",
-     "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
-     "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
-     "genres": [
-      "боевик",
-      "драма"
-     ],
-     "countries": [
-      "India"
-     ],
-     "runtime": 174,
-     "popularity": 10.3961,
-     "popularity_source": "TMDB",
-     "tmdb_rating": 4.4,
-     "tmdb_vote_count": 8,
-     "theatrical_release_date": "2026-09-23",
-     "digital_release_date": "2026-10-22"
     }
    }
   ]
