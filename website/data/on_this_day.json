@@ -55,11 +55,11 @@
     "digital_release_date": null,
     "imdb_rating": 6.1,
     "imdb_vote_count": null,
-    "best_quality": "WEBRip",
+    "best_quality": "WEB-DL",
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
-    "has_ru_audio": false
+    "has_ru_audio": true
    },
    {
     "id": "m_a96467d0eee0",
@@ -2895,7 +2895,7 @@
     "year": 2026,
     "poster": "https://images.metahub.space/poster/small/tt37281055/img",
     "digital_release_date": null,
-    "imdb_rating": 7.1,
+    "imdb_rating": 6.6,
     "imdb_vote_count": null,
     "best_quality": "unknown",
     "best_resolution": "unknown",
@@ -3739,7 +3739,7 @@
     "digital_release_date": null,
     "imdb_rating": 8.5,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
+    "best_quality": "BluRay",
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
@@ -5647,11 +5647,11 @@
     "digital_release_date": "2026-08-25",
     "imdb_rating": null,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "has_hdr": true,
+    "has_ru_audio": true
    },
    {
     "id": "tt36629665",
@@ -7976,6 +7976,70 @@
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
+   }
+  ]
+ },
+ "11-22": {
+  "2026": [
+   {
+    "id": "m_f4a69f3ef54a",
+    "title": "Последнее искушение Бекки",
+    "original_title": "The Last Temptation of Becky",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt40210362/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_a3bc2d526a15",
+    "title": "Гленротан",
+    "original_title": "Glenrothan",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt16112292/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.8,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_f3a7aeb6df39",
+    "title": "Нежный монстр",
+    "original_title": "Gentle Monster",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt37020296/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.8,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_9004f7196491",
+    "title": "Де Голль. Часть 2. Свобода",
+    "original_title": "La bataille de Gaulle: J'écris ton nom / De Gaulle: Liberté",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt35856133/img",
+    "digital_release_date": null,
+    "imdb_rating": 8.0,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
    }
   ]
  },

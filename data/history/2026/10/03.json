@@ -306,9 +306,9 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-03T11:48:26.793097+00:00",
-      "last_updated_at": "2026-10-06T06:30:53.336817+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEB-DL",
+      "last_updated_at": "2026-11-22T11:39:05.257308+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
       "best_resolution": "1080p",
       "has_4k": false,
       "has_hdr": false,
@@ -383,6 +383,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "L",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "9db6e0c2776ac150",
+          "movie_id": "m_79d35cb81c91",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-22T11:24:47+00:00",
+          "detected_at": "2026-11-22T11:38:56.455475+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Pazl Voice",
+          "raw_title": "Де Голль. Часть 1. Сопротивление / La bataille de Gaulle: L'âge de fer / De Gaulle: Résistance (2026) BDRip 1080p от New-Team | Pazl Voice",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Pazl Voice",
             "is_secondary_signal": true
           }
         }

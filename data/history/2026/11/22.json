@@ -1,0 +1,299 @@
+{
+  "date": "2026-11-22",
+  "count": 4,
+  "movies": [
+    {
+      "id": "m_f4a69f3ef54a",
+      "title": "Последнее искушение Бекки",
+      "original_title": "The Last Temptation of Becky",
+      "year": 2026,
+      "overview": "Теперь Бекки, ставшая полевым агентом ЦРУ, под прикрытием отправляется в Польшу, чтобы внедриться в семью, управляющую гостиницей в «Волчьем логове», одном из бункеров Гитлера времен Второй мировой войны. Узнав, что отец, Вильгельм Ройс, планирует возродить Четвертый рейх, Бекки должна...",
+      "poster": "https://images.metahub.space/poster/small/tt40210362/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt40210362",
+      "tmdb_id": null,
+      "imdb_rating": 7.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-22T11:38:56.455475+00:00",
+      "last_updated_at": "2026-11-22T11:39:10.786839+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEBRip",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9d65c9f7cb7755ef",
+          "movie_id": "m_f4a69f3ef54a",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-22T08:08:42+00:00",
+          "detected_at": "2026-11-22T11:38:56.455475+00:00",
+          "quality": "WEBRip",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Последнее искушение Бекки / The Last Temptation of Becky (2026) WEBRip 1080p | Sub",
+          "details": {
+            "quality": "WEBRip",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_a3bc2d526a15",
+      "title": "Гленротан",
+      "original_title": "Glenrothan",
+      "year": 2025,
+      "overview": "После тридцати пяти лет, проведенных за границей, Донал возвращается в родную Шотландию, чтобы помириться со своим отдалившимся от него братом Сэнди.",
+      "poster": "https://images.metahub.space/poster/small/tt16112292/img",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "runtime": null,
+      "imdb_id": "tt16112292",
+      "tmdb_id": null,
+      "imdb_rating": 5.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-22T11:38:56.455475+00:00",
+      "last_updated_at": "2026-11-22T11:39:08.142395+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "8dcd4febf721a675",
+          "movie_id": "m_a3bc2d526a15",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-22T08:43:03+00:00",
+          "detected_at": "2026-11-22T11:38:56.455475+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Гленротан / Glenrothan (2025) BDRip 1080p от New-Team | A | Кашкин",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_f3a7aeb6df39",
+      "title": "Нежный монстр",
+      "original_title": "Gentle Monster",
+      "year": 2026,
+      "overview": "«Нежный монстр» — будущий драматический фильм 2026 года режиссёра Мари Кройцер по её же сценарию. В главных ролях: Леа Сейду, Йелла Хаазе, Лоранс Рупп и Катрин Денёв. Фильм является совместным производством Австрии, Германии и Франции.",
+      "poster": "https://images.metahub.space/poster/small/tt37020296/img",
+      "backdrop": null,
+      "genres": [
+        "Drama"
+      ],
+      "countries": [
+        "Austria, Germany, France, Sweden"
+      ],
+      "runtime": null,
+      "imdb_id": "tt37020296",
+      "tmdb_id": null,
+      "imdb_rating": 6.8,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-22T11:38:56.455475+00:00",
+      "last_updated_at": "2026-11-22T11:39:10.820057+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "7644c483b802dd1b",
+          "movie_id": "m_f3a7aeb6df39",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-22T05:02:58+00:00",
+          "detected_at": "2026-11-22T11:38:56.455475+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "WinMedia",
+          "raw_title": "Нежный монстр / Gentle Monster (2026) WEB-DL 1080p | Р | WinMedia",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "WinMedia",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "ab73ef8a2b17e08b",
+          "movie_id": "m_f3a7aeb6df39",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-22T05:41:29+00:00",
+          "detected_at": "2026-11-22T11:38:56.455475+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "WinMedia",
+          "raw_title": "Нежный монстр / Gentle Monster (2026) WEB-DLRip 1080p от New-Team | P | WinMedia",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "WinMedia",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "e226befbd083792c",
+          "movie_id": "m_f3a7aeb6df39",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-22T09:15:46+00:00",
+          "detected_at": "2026-11-22T11:38:56.455475+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "WinMedia",
+          "raw_title": "Нежный монстр / Gentle Monster (2026) UHD WEB-DL 2160p | 4K | SDR | P | WinMedia",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "WinMedia",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_9004f7196491",
+      "title": "Де Голль. Часть 2. Свобода",
+      "original_title": "La bataille de Gaulle: J'écris ton nom / De Gaulle: Liberté",
+      "year": 2026,
+      "overview": "1943–1944 гг. Чтобы освободить Францию, генерал де Голль должен объединить разрозненное Сопротивление. Он также борется за признание своей легитимности союзниками.",
+      "poster": "https://images.metahub.space/poster/small/tt35856133/img",
+      "backdrop": null,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "countries": [
+        "France, Belgium, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt35856133",
+      "tmdb_id": null,
+      "imdb_rating": 8.0,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-22T11:38:56.455475+00:00",
+      "last_updated_at": "2026-11-22T11:39:05.245319+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6d417bfb4280a096",
+          "movie_id": "m_9004f7196491",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-22T11:24:50+00:00",
+          "detected_at": "2026-11-22T11:38:56.455475+00:00",
+          "quality": "BluRay",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "Pazl Voice",
+          "raw_title": "Де Голль. Часть 2. Свобода / La bataille de Gaulle: J'écris ton nom / De Gaulle: Liberté (2026) BDRip 1080p от New-Team | Pazl Voice",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "Pazl Voice",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}
