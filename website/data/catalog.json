@@ -1,5 +1,149 @@
 [
  {
+  "id": "tt33402927",
+  "title": "Vicentina Pede Desculpas",
+  "original_title": "Vicentina Pede Desculpas",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/v6JBUlm6nIYx3ixF38I5ZVpQZgq.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+  "genres": [
+   "драма"
+  ],
+  "countries": [
+   "Brazil"
+  ],
+  "runtime": 148,
+  "imdb_id": "tt33402927",
+  "tmdb_id": 1307474,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 7.4,
+  "tmdb_vote_count": 6,
+  "popularity": 22.7283,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-11-05",
+  "digital_release_date": "2026-11-20",
+  "first_detected_at": "2026-11-22T19:49:33.730643+00:00",
+  "last_updated_at": "2026-11-22T19:50:02.052821+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "ad176bebfd46e7d6",
+    "movie_id": "tt33402927",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-20",
+    "detected_at": "2026-11-22T19:49:33.730643+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Vicentina Pede Desculpas",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/v6JBUlm6nIYx3ixF38I5ZVpQZgq.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+     "genres": [
+      "драма"
+     ],
+     "countries": [
+      "Brazil"
+     ],
+     "runtime": 148,
+     "popularity": 22.7283,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 7.4,
+     "tmdb_vote_count": 6,
+     "theatrical_release_date": "2026-11-05",
+     "digital_release_date": "2026-11-20"
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt38258118",
+  "title": "Best Pancakes in the County",
+  "original_title": "Best Pancakes in the County",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+  "genres": [
+   "боевик",
+   "триллер",
+   "криминал"
+  ],
+  "countries": [
+   "United States of America"
+  ],
+  "runtime": 91,
+  "imdb_id": "tt38258118",
+  "tmdb_id": 1615596,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 5.857,
+  "tmdb_vote_count": 7,
+  "popularity": 11.6648,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-11-12",
+  "digital_release_date": "2026-11-20",
+  "first_detected_at": "2026-11-22T19:49:33.730643+00:00",
+  "last_updated_at": "2026-11-22T19:50:01.816758+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "5199ac9d335520bf",
+    "movie_id": "tt38258118",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-20",
+    "detected_at": "2026-11-22T19:49:33.730643+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Best Pancakes in the County",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+     "genres": [
+      "боевик",
+      "триллер",
+      "криминал"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 91,
+     "popularity": 11.6648,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 5.857,
+     "tmdb_vote_count": 7,
+     "theatrical_release_date": "2026-11-12",
+     "digital_release_date": "2026-11-20"
+    }
+   }
+  ]
+ },
+ {
   "id": "tt18351090",
   "title": "Perfectos mentirosos",
   "original_title": "Perfectos mentirosos",
@@ -21,8 +165,8 @@
   "tmdb_id": 1568060,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.15,
-  "tmdb_vote_count": 20,
+  "tmdb_rating": 7.095,
+  "tmdb_vote_count": 21,
   "popularity": 81.9473,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-20",
@@ -99,8 +243,8 @@
   "tmdb_id": 1595124,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.583,
-  "tmdb_vote_count": 42,
+  "tmdb_rating": 6.8,
+  "tmdb_vote_count": 45,
   "popularity": 83.5654,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-20",
@@ -175,7 +319,7 @@
   "tmdb_id": 1561834,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 7.875,
+  "tmdb_rating": 7.9,
   "tmdb_vote_count": 8,
   "popularity": 34.5709,
   "popularity_source": "TMDB",
@@ -247,8 +391,8 @@
   "tmdb_id": 1131943,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.927,
-  "tmdb_vote_count": 41,
+  "tmdb_rating": 6.86,
+  "tmdb_vote_count": 43,
   "popularity": 77.4848,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-18",
@@ -463,8 +607,8 @@
   "tmdb_id": 1551025,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.9,
-  "tmdb_vote_count": 74,
+  "tmdb_rating": 6.982,
+  "tmdb_vote_count": 83,
   "popularity": 144.5517,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -961,8 +1105,8 @@
   "tmdb_id": 1823907,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 5.714,
-  "tmdb_vote_count": 7,
+  "tmdb_rating": 5.75,
+  "tmdb_vote_count": 8,
   "popularity": 10.3129,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-13",
@@ -1660,7 +1804,7 @@
   "imdb_rating": null,
   "imdb_vote_count": null,
   "tmdb_rating": 6.818,
-  "tmdb_vote_count": 74,
+  "tmdb_vote_count": 75,
   "popularity": 199.8737,
   "popularity_source": "TMDB",
   "theatrical_release_date": "2026-11-12",
@@ -1858,8 +2002,8 @@
   "tmdb_id": 1518204,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.41,
-  "tmdb_vote_count": 67,
+  "tmdb_rating": 6.449,
+  "tmdb_vote_count": 68,
   "popularity": 40.4788,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -2225,6 +2369,100 @@
   ]
  },
  {
+  "id": "m_8e5c8147886c",
+  "title": "Признание",
+  "original_title": "Confession",
+  "year": 2026,
+  "overview": "В 1938 году в сталинской Москве разочаровавшийся профессор Алексей подвергается жестокому допросу со стороны своего бывшего ученика Владимира в тюрьме на Лубянке. Отказываясь признаться, он сталкивается со своими прошлыми грехами и обретает искупление через веру, жертвуя собой ради спасения других в пронзительной истории о нравственности и сопротивлении.",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTNlMmJiMWEtZGQ5ZC00YmRlLTliMDEtNjk0MjIzMTA0MDJlXkEyXkFqcGc@._V1_SX250.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/kLs8iYrujY0IhTSag1wkiiAFpKl.jpg",
+  "genres": [
+   "Drama"
+  ],
+  "countries": [
+   "United States"
+  ],
+  "runtime": 130,
+  "imdb_id": "tt46082332",
+  "tmdb_id": 1772726,
+  "imdb_rating": 5.7,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.0,
+  "tmdb_vote_count": 5,
+  "popularity": 5.397,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": null,
+  "digital_release_date": "2026-11-11",
+  "first_detected_at": "2026-11-14T10:38:35.788575+00:00",
+  "last_updated_at": "2026-11-22T19:50:01.821107+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "1080p",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "e502c4972c7c62c7",
+    "movie_id": "m_8e5c8147886c",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-11",
+    "detected_at": "2026-11-22T19:49:33.730643+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Признание",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "В Москве 1938 года разочаровавшийся бывший профессор Алексей арестован и доставлен в тюрьму по обвинению в сговоре. Но допрашивает его не следователь, а бывший студент Владимир. Кем он станет в итоге — палачом или последней надеждой профессора?",
+     "poster": "https://image.tmdb.org/t/p/w500/7lUFFmjiUm4wi1AeaA0u3a1JHia.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/kLs8iYrujY0IhTSag1wkiiAFpKl.jpg",
+     "genres": [
+      "драма"
+     ],
+     "countries": [
+      "United States of America"
+     ],
+     "runtime": 130,
+     "popularity": 5.397,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.0,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-11-11",
+     "digital_release_date": "2026-11-11"
+    }
+   },
+   {
+    "id": "2e988247a3ad973c",
+    "movie_id": "m_8e5c8147886c",
+    "event_type": "WEB_DL_DETECTED",
+    "source_name": "ReleaseRSS",
+    "source_release_date": "2026-11-14T08:57:20+00:00",
+    "detected_at": "2026-11-14T10:38:35.788575+00:00",
+    "quality": "WEBRip",
+    "resolution": "1080p",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": "Sub",
+    "raw_title": "Признание / Confession (2026) WEBRip 1080p | Sub",
+    "details": {
+     "quality": "WEBRip",
+     "resolution": "1080p",
+     "hdr": null,
+     "audio": null,
+     "language": null,
+     "release_group": "Sub",
+     "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
   "id": "m_e1b33cb91638",
   "title": "Рождественский госпел",
   "original_title": "The Gospel of Christmas",
@@ -2243,8 +2481,8 @@
   "tmdb_id": 1559980,
   "imdb_rating": null,
   "imdb_vote_count": null,
-  "tmdb_rating": 6.521,
-  "tmdb_vote_count": 24,
+  "tmdb_rating": 6.62,
+  "tmdb_vote_count": 25,
   "popularity": 20.4972,
   "popularity_source": "TMDB",
   "theatrical_release_date": null,
@@ -2586,6 +2824,72 @@
      "language": "RU",
      "release_group": "ViruseProject",
      "is_secondary_signal": true
+    }
+   }
+  ]
+ },
+ {
+  "id": "tt49625485",
+  "title": "Janelle James: How Romantic",
+  "original_title": "Janelle James: How Romantic",
+  "year": 2026,
+  "overview": "",
+  "poster": "https://image.tmdb.org/t/p/w500/zjASMxUqsye6BKLbW78FA9d64Yy.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/okmLf17lLDfAjJdFjizyblCphrj.jpg",
+  "genres": [
+   "комедия"
+  ],
+  "countries": [],
+  "runtime": 58,
+  "imdb_id": "tt49625485",
+  "tmdb_id": 1820172,
+  "imdb_rating": null,
+  "imdb_vote_count": null,
+  "tmdb_rating": 6.6,
+  "tmdb_vote_count": 5,
+  "popularity": 1.2084,
+  "popularity_source": "TMDB",
+  "theatrical_release_date": "2026-11-10",
+  "digital_release_date": "2026-11-10",
+  "first_detected_at": "2026-11-22T19:49:33.730643+00:00",
+  "last_updated_at": "2026-11-22T19:50:01.940573+00:00",
+  "status": "WEB_RELEASE",
+  "best_quality": "WEB-DL",
+  "best_resolution": "unknown",
+  "has_4k": false,
+  "has_hdr": false,
+  "has_ru_audio": false,
+  "events": [
+   {
+    "id": "fd148b7064b9cdb0",
+    "movie_id": "tt49625485",
+    "event_type": "DIGITAL_PREMIERE",
+    "source_name": "TMDB",
+    "source_release_date": "2026-11-10",
+    "detected_at": "2026-11-22T19:49:33.730643+00:00",
+    "quality": "WEB-DL",
+    "resolution": "unknown",
+    "hdr": null,
+    "audio": null,
+    "language": null,
+    "release_group": null,
+    "raw_title": "Janelle James: How Romantic",
+    "details": {
+     "quality": "WEB-DL",
+     "overview": "",
+     "poster": "https://image.tmdb.org/t/p/w500/zjASMxUqsye6BKLbW78FA9d64Yy.jpg",
+     "backdrop": "https://image.tmdb.org/t/p/w1280/okmLf17lLDfAjJdFjizyblCphrj.jpg",
+     "genres": [
+      "комедия"
+     ],
+     "countries": [],
+     "runtime": 58,
+     "popularity": 1.2084,
+     "popularity_source": "TMDB",
+     "tmdb_rating": 6.6,
+     "tmdb_vote_count": 5,
+     "theatrical_release_date": "2026-11-10",
+     "digital_release_date": "2026-11-10"
     }
    }
   ]
@@ -38508,66 +38812,6 @@
      "hdr": null,
      "audio": null,
      "language": "RU",
-     "release_group": "Sub",
-     "is_secondary_signal": true
-    }
-   }
-  ]
- },
- {
-  "id": "m_8e5c8147886c",
-  "title": "Признание",
-  "original_title": "Confession",
-  "year": 2026,
-  "overview": "В 1938 году в сталинской Москве разочаровавшийся профессор Алексей подвергается жестокому допросу со стороны своего бывшего ученика Владимира в тюрьме на Лубянке. Отказываясь признаться, он сталкивается со своими прошлыми грехами и обретает искупление через веру, жертвуя собой ради спасения других в пронзительной истории о нравственности и сопротивлении.",
-  "poster": "https://m.media-amazon.com/images/M/MV5BMTNlMmJiMWEtZGQ5ZC00YmRlLTliMDEtNjk0MjIzMTA0MDJlXkEyXkFqcGc@._V1_SX250.jpg",
-  "backdrop": null,
-  "genres": [
-   "Drama"
-  ],
-  "countries": [
-   "United States"
-  ],
-  "runtime": null,
-  "imdb_id": "tt46082332",
-  "tmdb_id": null,
-  "imdb_rating": 5.7,
-  "imdb_vote_count": null,
-  "tmdb_rating": null,
-  "tmdb_vote_count": null,
-  "popularity": null,
-  "popularity_source": null,
-  "theatrical_release_date": null,
-  "digital_release_date": null,
-  "first_detected_at": "2026-11-14T10:38:35.788575+00:00",
-  "last_updated_at": "2026-11-14T10:38:49.402290+00:00",
-  "status": "WEB_RELEASE",
-  "best_quality": "WEBRip",
-  "best_resolution": "1080p",
-  "has_4k": false,
-  "has_hdr": false,
-  "has_ru_audio": false,
-  "events": [
-   {
-    "id": "2e988247a3ad973c",
-    "movie_id": "m_8e5c8147886c",
-    "event_type": "WEB_DL_DETECTED",
-    "source_name": "ReleaseRSS",
-    "source_release_date": "2026-11-14T08:57:20+00:00",
-    "detected_at": "2026-11-14T10:38:35.788575+00:00",
-    "quality": "WEBRip",
-    "resolution": "1080p",
-    "hdr": null,
-    "audio": null,
-    "language": null,
-    "release_group": "Sub",
-    "raw_title": "Признание / Confession (2026) WEBRip 1080p | Sub",
-    "details": {
-     "quality": "WEBRip",
-     "resolution": "1080p",
-     "hdr": null,
-     "audio": null,
-     "language": null,
      "release_group": "Sub",
      "is_secondary_signal": true
     }

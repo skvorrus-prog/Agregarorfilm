@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "count": 11,
+  "count": 10,
   "movies": [
     {
       "id": "tt43596156",
@@ -538,66 +538,6 @@
             "hdr": null,
             "audio": null,
             "language": "RU",
-            "release_group": "Sub",
-            "is_secondary_signal": true
-          }
-        }
-      ]
-    },
-    {
-      "id": "m_8e5c8147886c",
-      "title": "Признание",
-      "original_title": "Confession",
-      "year": 2026,
-      "overview": "В 1938 году в сталинской Москве разочаровавшийся профессор Алексей подвергается жестокому допросу со стороны своего бывшего ученика Владимира в тюрьме на Лубянке. Отказываясь признаться, он сталкивается со своими прошлыми грехами и обретает искупление через веру, жертвуя собой ради спасения других в пронзительной истории о нравственности и сопротивлении.",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTNlMmJiMWEtZGQ5ZC00YmRlLTliMDEtNjk0MjIzMTA0MDJlXkEyXkFqcGc@._V1_SX250.jpg",
-      "backdrop": null,
-      "genres": [
-        "Drama"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "runtime": null,
-      "imdb_id": "tt46082332",
-      "tmdb_id": null,
-      "imdb_rating": 5.7,
-      "imdb_vote_count": null,
-      "tmdb_rating": null,
-      "tmdb_vote_count": null,
-      "popularity": null,
-      "popularity_source": null,
-      "theatrical_release_date": null,
-      "digital_release_date": null,
-      "first_detected_at": "2026-11-14T10:38:35.788575+00:00",
-      "last_updated_at": "2026-11-14T10:38:49.402290+00:00",
-      "status": "WEB_RELEASE",
-      "best_quality": "WEBRip",
-      "best_resolution": "1080p",
-      "has_4k": false,
-      "has_hdr": false,
-      "has_ru_audio": false,
-      "events": [
-        {
-          "id": "2e988247a3ad973c",
-          "movie_id": "m_8e5c8147886c",
-          "event_type": "WEB_DL_DETECTED",
-          "source_name": "ReleaseRSS",
-          "source_release_date": "2026-11-14T08:57:20+00:00",
-          "detected_at": "2026-11-14T10:38:35.788575+00:00",
-          "quality": "WEBRip",
-          "resolution": "1080p",
-          "hdr": null,
-          "audio": null,
-          "language": null,
-          "release_group": "Sub",
-          "raw_title": "Признание / Confession (2026) WEBRip 1080p | Sub",
-          "details": {
-            "quality": "WEBRip",
-            "resolution": "1080p",
-            "hdr": null,
-            "audio": null,
-            "language": null,
             "release_group": "Sub",
             "is_secondary_signal": true
           }

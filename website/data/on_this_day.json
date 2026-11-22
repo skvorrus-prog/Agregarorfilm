@@ -2,6 +2,36 @@
  "11-20": {
   "2026": [
    {
+    "id": "tt33402927",
+    "title": "Vicentina Pede Desculpas",
+    "original_title": "Vicentina Pede Desculpas",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/v6JBUlm6nIYx3ixF38I5ZVpQZgq.jpg",
+    "digital_release_date": "2026-11-20",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "tt38258118",
+    "title": "Best Pancakes in the County",
+    "original_title": "Best Pancakes in the County",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+    "digital_release_date": "2026-11-20",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt18351090",
     "title": "Perfectos mentirosos",
     "original_title": "Perfectos mentirosos",
@@ -453,21 +483,6 @@
     "has_ru_audio": true
    },
    {
-    "id": "m_8e5c8147886c",
-    "title": "Признание",
-    "original_title": "Confession",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTNlMmJiMWEtZGQ5ZC00YmRlLTliMDEtNjk0MjIzMTA0MDJlXkEyXkFqcGc@._V1_SX250.jpg",
-    "digital_release_date": null,
-    "imdb_rating": 5.7,
-    "imdb_vote_count": null,
-    "best_quality": "WEBRip",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
-   },
-   {
     "id": "m_967a630c0939",
     "title": "О чём говорят любовники",
     "original_title": "Breve storia d'amore / A Brief Affair",
@@ -810,6 +825,21 @@
     "has_ru_audio": false
    },
    {
+    "id": "m_8e5c8147886c",
+    "title": "Признание",
+    "original_title": "Confession",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTNlMmJiMWEtZGQ5ZC00YmRlLTliMDEtNjk0MjIzMTA0MDJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "digital_release_date": "2026-11-11",
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_e1b33cb91638",
     "title": "Рождественский госпел",
     "original_title": "The Gospel of Christmas",
@@ -843,6 +873,21 @@
  },
  "11-10": {
   "2026": [
+   {
+    "id": "tt49625485",
+    "title": "Janelle James: How Romantic",
+    "original_title": "Janelle James: How Romantic",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zjASMxUqsye6BKLbW78FA9d64Yy.jpg",
+    "digital_release_date": "2026-11-10",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt36586020",
     "title": "Чужая мама",

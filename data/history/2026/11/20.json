@@ -1,7 +1,151 @@
 {
   "date": "2026-11-20",
-  "count": 8,
+  "count": 10,
   "movies": [
+    {
+      "id": "tt33402927",
+      "title": "Vicentina Pede Desculpas",
+      "original_title": "Vicentina Pede Desculpas",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/v6JBUlm6nIYx3ixF38I5ZVpQZgq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+      "genres": [
+        "драма"
+      ],
+      "countries": [
+        "Brazil"
+      ],
+      "runtime": 148,
+      "imdb_id": "tt33402927",
+      "tmdb_id": 1307474,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.4,
+      "tmdb_vote_count": 6,
+      "popularity": 22.7283,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-05",
+      "digital_release_date": "2026-11-20",
+      "first_detected_at": "2026-11-22T19:49:33.730643+00:00",
+      "last_updated_at": "2026-11-22T19:50:02.052821+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "ad176bebfd46e7d6",
+          "movie_id": "tt33402927",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-20",
+          "detected_at": "2026-11-22T19:49:33.730643+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Vicentina Pede Desculpas",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/v6JBUlm6nIYx3ixF38I5ZVpQZgq.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+            "genres": [
+              "драма"
+            ],
+            "countries": [
+              "Brazil"
+            ],
+            "runtime": 148,
+            "popularity": 22.7283,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.4,
+            "tmdb_vote_count": 6,
+            "theatrical_release_date": "2026-11-05",
+            "digital_release_date": "2026-11-20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt38258118",
+      "title": "Best Pancakes in the County",
+      "original_title": "Best Pancakes in the County",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "криминал"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 91,
+      "imdb_id": "tt38258118",
+      "tmdb_id": 1615596,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 5.857,
+      "tmdb_vote_count": 7,
+      "popularity": 11.6648,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-12",
+      "digital_release_date": "2026-11-20",
+      "first_detected_at": "2026-11-22T19:49:33.730643+00:00",
+      "last_updated_at": "2026-11-22T19:50:01.816758+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "5199ac9d335520bf",
+          "movie_id": "tt38258118",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-20",
+          "detected_at": "2026-11-22T19:49:33.730643+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Best Pancakes in the County",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+            "genres": [
+              "боевик",
+              "триллер",
+              "криминал"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 91,
+            "popularity": 11.6648,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 5.857,
+            "tmdb_vote_count": 7,
+            "theatrical_release_date": "2026-11-12",
+            "digital_release_date": "2026-11-20"
+          }
+        }
+      ]
+    },
     {
       "id": "tt18351090",
       "title": "Perfectos mentirosos",
@@ -24,8 +168,8 @@
       "tmdb_id": 1568060,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 7.15,
-      "tmdb_vote_count": 20,
+      "tmdb_rating": 7.095,
+      "tmdb_vote_count": 21,
       "popularity": 81.9473,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-11-20",
@@ -102,8 +246,8 @@
       "tmdb_id": 1595124,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.583,
-      "tmdb_vote_count": 42,
+      "tmdb_rating": 6.8,
+      "tmdb_vote_count": 45,
       "popularity": 83.5654,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-11-20",
