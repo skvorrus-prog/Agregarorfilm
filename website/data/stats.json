@@ -2,8 +2,8 @@
   "total_releases": 566,
   "web_dl_count": 440,
   "bluray_count": 99,
-  "four_k_count": 71,
-  "hdr_count": 96,
+  "four_k_count": 72,
+  "hdr_count": 97,
   "ru_audio_count": 241,
   "avg_rating": 6.43,
   "rated_movies_count": 524,
@@ -33,8 +33,8 @@
   },
   "by_resolution": {
     "unknown": 268,
-    "1080p": 187,
-    "2160p": 71,
+    "1080p": 186,
+    "2160p": 72,
     "720p": 40
   },
   "by_genre": {
