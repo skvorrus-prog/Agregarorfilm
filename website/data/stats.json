@@ -2,7 +2,7 @@
   "total_releases": 575,
   "web_dl_count": 445,
   "bluray_count": 103,
-  "four_k_count": 74,
+  "four_k_count": 75,
   "hdr_count": 98,
   "ru_audio_count": 244,
   "avg_rating": 6.44,
@@ -26,15 +26,15 @@
   },
   "by_quality": {
     "WEB-DL": 402,
-    "BluRay": 97,
+    "BluRay": 96,
     "WEBRip": 43,
     "unknown": 27,
-    "REMUX": 6
+    "REMUX": 7
   },
   "by_resolution": {
     "unknown": 271,
-    "1080p": 190,
-    "2160p": 74,
+    "1080p": 189,
+    "2160p": 75,
     "720p": 40
   },
   "by_genre": {
