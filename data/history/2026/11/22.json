@@ -1,7 +1,79 @@
 {
   "date": "2026-11-22",
-  "count": 4,
+  "count": 5,
   "movies": [
+    {
+      "id": "tt51165610",
+      "title": "Расколотая битвой синева небес: Битва двух императоров",
+      "original_title": "斗破苍穹剧场版：双帝之战",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/kQA44KCjcI284f3uxCRAdiS9blt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения"
+      ],
+      "countries": [
+        "China"
+      ],
+      "runtime": 0,
+      "imdb_id": "tt51165610",
+      "tmdb_id": 1599184,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 9.4,
+      "tmdb_vote_count": 5,
+      "popularity": 26.8563,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-22",
+      "digital_release_date": "2026-11-22",
+      "first_detected_at": "2026-11-23T01:48:48.474580+00:00",
+      "last_updated_at": "2026-11-23T01:48:55.398474+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6803654897632beb",
+          "movie_id": "tt51165610",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-22",
+          "detected_at": "2026-11-23T01:48:48.474580+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Расколотая битвой синева небес: Битва двух императоров",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/kQA44KCjcI284f3uxCRAdiS9blt.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
+            "genres": [
+              "мультфильм",
+              "приключения"
+            ],
+            "countries": [
+              "China"
+            ],
+            "runtime": 0,
+            "popularity": 26.8563,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 9.4,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-11-22",
+            "digital_release_date": "2026-11-22"
+          }
+        }
+      ]
+    },
     {
       "id": "m_f4a69f3ef54a",
       "title": "Последнее искушение Бекки",

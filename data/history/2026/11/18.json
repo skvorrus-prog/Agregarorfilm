@@ -22,14 +22,14 @@
       "tmdb_id": 1131943,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.86,
+      "tmdb_rating": 6.9,
       "tmdb_vote_count": 43,
       "popularity": 77.4848,
       "popularity_source": "TMDB",
       "theatrical_release_date": "2026-11-18",
       "digital_release_date": "2026-11-18",
       "first_detected_at": "2026-11-19T02:38:53.118440+00:00",
-      "last_updated_at": "2026-11-20T20:31:11.094220+00:00",
+      "last_updated_at": "2026-11-23T01:48:55.449297+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -215,6 +215,30 @@
             "release_group": null,
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "555f62e150ee975b",
+          "movie_id": "tt24818230",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-22T18:16:43+00:00",
+          "detected_at": "2026-11-23T01:48:48.474580+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Мэдден / Madden (2026) WEB-DL 1080p | D, Р | WinMedia, TVShows, HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -238,8 +262,8 @@
       "tmdb_id": 1551025,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 6.982,
-      "tmdb_vote_count": 83,
+      "tmdb_rating": 7.0,
+      "tmdb_vote_count": 97,
       "popularity": 144.5517,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
