@@ -35,7 +35,7 @@
       "theatrical_release_date": "2026-10-23",
       "digital_release_date": "2026-11-17",
       "first_detected_at": "2026-11-18T11:54:42.142174+00:00",
-      "last_updated_at": "2026-11-22T01:25:10.775554+00:00",
+      "last_updated_at": "2026-11-24T02:18:56.180103+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -178,6 +178,37 @@
             "language": null,
             "release_group": "TVShows",
             "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "3bc22ecfcfe6ec5b",
+          "movie_id": "tt14129116",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-24T02:18:49.150825+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "A Talent for Murder (2026)",
+          "details": {
+            "title": "A Talent for Murder",
+            "year": 2026,
+            "overview": "A mysterious young man from a New York publisher is sent to Switzerland to persuade the renowned writer Patricia Highsmith to write one final installment of the Ripley anthology.",
+            "poster": "https://images.metahub.space/poster/small/tt14129116/img",
+            "genres": [
+              "Biography",
+              "Crime",
+              "Drama"
+            ],
+            "countries": [
+              "Switzerland, Australia, Italy, United States, United Kingdom"
+            ],
+            "imdb_rating": null,
+            "runtime": null
           }
         }
       ]

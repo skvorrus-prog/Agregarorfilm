@@ -1,7 +1,79 @@
 {
   "date": "2026-11-23",
-  "count": 1,
+  "count": 2,
   "movies": [
+    {
+      "id": "tt39316936",
+      "title": "Clashing Through the Snow",
+      "original_title": "Clashing Through the Snow",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ],
+      "countries": [
+        "United States of America"
+      ],
+      "runtime": 110,
+      "imdb_id": "tt39316936",
+      "tmdb_id": 1611767,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.6,
+      "tmdb_vote_count": 7,
+      "popularity": 5.612,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-23",
+      "digital_release_date": "2026-11-23",
+      "first_detected_at": "2026-11-24T02:18:49.150825+00:00",
+      "last_updated_at": "2026-11-24T02:18:56.016807+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "1b3253e5de5d9202",
+          "movie_id": "tt39316936",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-23",
+          "detected_at": "2026-11-24T02:18:49.150825+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Clashing Through the Snow",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+            "genres": [
+              "мелодрама",
+              "комедия"
+            ],
+            "countries": [
+              "United States of America"
+            ],
+            "runtime": 110,
+            "popularity": 5.612,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.6,
+            "tmdb_vote_count": 7,
+            "theatrical_release_date": "2026-11-23",
+            "digital_release_date": "2026-11-23"
+          }
+        }
+      ]
+    },
     {
       "id": "m_5eb7d7f5e747",
       "title": "Окей! Мадам 2",

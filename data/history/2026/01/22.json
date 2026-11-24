@@ -30,9 +30,9 @@
       "theatrical_release_date": null,
       "digital_release_date": "2026-01-22",
       "first_detected_at": "2026-09-28T19:43:56.728164+00:00",
-      "last_updated_at": "2026-11-07T10:25:26.807085+00:00",
+      "last_updated_at": "2026-11-24T02:18:58.347458+00:00",
       "status": "UHD_RELEASE",
-      "best_quality": "WEB-DL",
+      "best_quality": "BluRay",
       "best_resolution": "2160p",
       "has_4k": true,
       "has_hdr": true,
@@ -138,6 +138,30 @@
             "audio": null,
             "language": null,
             "release_group": "TVShows",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "dab0e156ca58d654",
+          "movie_id": "tt32273171",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-23T18:47:03+00:00",
+          "detected_at": "2026-11-24T02:18:49.150825+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Смерть Робин Гуда / The Death of Robin Hood (2026) BDRip 720p от DoMiNo & селезень | D, P, A | WinMedia, TVShows, Смотри Кино, Яроцкий, Сербин",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
             "is_secondary_signal": true
           }
         }

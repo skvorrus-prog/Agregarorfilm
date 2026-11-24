@@ -1,4 +1,38 @@
 {
+ "11-23": {
+  "2026": [
+   {
+    "id": "tt39316936",
+    "title": "Clashing Through the Snow",
+    "original_title": "Clashing Through the Snow",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+    "digital_release_date": "2026-11-23",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_5eb7d7f5e747",
+    "title": "Окей! Мадам 2",
+    "original_title": "OK! Madam: Bon Voyage",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt43669175/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "11-22": {
   "2026": [
    {
@@ -53,7 +87,7 @@
     "year": 2026,
     "poster": "https://images.metahub.space/poster/small/tt37020296/img",
     "digital_release_date": null,
-    "imdb_rating": 6.8,
+    "imdb_rating": 6.6,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "2160p",
@@ -80,6 +114,21 @@
  },
  "11-20": {
   "2026": [
+   {
+    "id": "tt48434154",
+    "title": "Проповедники прайм-тайма",
+    "original_title": "Primetime Preacher$",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg",
+    "digital_release_date": "2026-11-20",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt33402927",
     "title": "Vicentina Pede Desculpas",
@@ -2989,7 +3038,7 @@
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BOThmN2YyMzMtN2Y2Zi00MjViLTg2NzQtNGM0ZDU3ZDAyYThhXkEyXkFqcGc@._V1_SX250.jpg",
     "digital_release_date": "2026-10-13",
-    "imdb_rating": 6.6,
+    "imdb_rating": 6.2,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",
@@ -3752,7 +3801,7 @@
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_SX250.jpg",
     "digital_release_date": null,
-    "imdb_rating": 6.2,
+    "imdb_rating": 6.0,
     "imdb_vote_count": null,
     "best_quality": "REMUX",
     "best_resolution": "2160p",
@@ -3769,7 +3818,7 @@
     "digital_release_date": null,
     "imdb_rating": 8.0,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
+    "best_quality": "BluRay",
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
@@ -7869,7 +7918,7 @@
     "digital_release_date": "2026-01-22",
     "imdb_rating": 6.0,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
+    "best_quality": "BluRay",
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
@@ -8103,18 +8152,33 @@
    }
   ]
  },
- "11-23": {
+ "11-24": {
   "2026": [
    {
-    "id": "m_5eb7d7f5e747",
-    "title": "Окей! Мадам 2",
-    "original_title": "OK! Madam: Bon Voyage",
+    "id": "m_67ced36bdb2c",
+    "title": "Стажёр",
+    "original_title": "Inteon",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt43669175/img",
+    "poster": null,
     "digital_release_date": null,
-    "imdb_rating": 6.1,
+    "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_706d864632ae",
+    "title": "Кристи",
+    "original_title": "Christy",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt32323252/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.6,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
     "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
@@ -8502,7 +8566,7 @@
     "digital_release_date": null,
     "imdb_rating": 6.2,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
+    "best_quality": "REMUX",
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
