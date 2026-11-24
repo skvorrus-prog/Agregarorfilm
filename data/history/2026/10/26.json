@@ -249,7 +249,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-10-26T20:35:23.467493+00:00",
-      "last_updated_at": "2026-11-24T02:18:58.793378+00:00",
+      "last_updated_at": "2026-11-24T13:55:56.576379+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "REMUX",
       "best_resolution": "2160p",
@@ -669,6 +669,54 @@
             "audio": null,
             "language": "RU",
             "release_group": "MovieDalen",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "572f99286ddc1317",
+          "movie_id": "m_38f3cc958f16",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-24T07:57:13+00:00",
+          "detected_at": "2026-11-24T13:55:48.802569+00:00",
+          "quality": "BluRay",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "MovieDalen",
+          "raw_title": "Собачьи звёзды / The Dog Stars (2026) BDRip 720p от DoMiNo & селезень | D | MovieDalen",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "MovieDalen",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "1069d15593af1d34",
+          "movie_id": "m_38f3cc958f16",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-24T08:05:18+00:00",
+          "detected_at": "2026-11-24T13:55:48.802569+00:00",
+          "quality": "unknown",
+          "resolution": "2160p",
+          "hdr": "Dolby Vision / HDR10",
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Собачьи звёзды / The Dog Stars (2026) UHD BDRemux 2160p | 4K | HDR10+ | Dolby Vision P7 | D, P, P2",
+          "details": {
+            "quality": "unknown",
+            "resolution": "2160p",
+            "hdr": "Dolby Vision / HDR10",
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
             "is_secondary_signal": true
           }
         }

@@ -8155,6 +8155,36 @@
  "11-24": {
   "2026": [
    {
+    "id": "m_ccc602c226d3",
+    "title": "Последний ужин",
+    "original_title": "Последняя трапеза / Son Yemek / Last Meal",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt50016818/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "tt15239678",
+    "title": "Dune: Part Two",
+    "original_title": "Dune: Part Two",
+    "year": 2024,
+    "poster": "https://images.metahub.space/poster/small/tt15239678/img",
+    "digital_release_date": null,
+    "imdb_rating": 8.4,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "m_67ced36bdb2c",
     "title": "Стажёр",
     "original_title": "Inteon",

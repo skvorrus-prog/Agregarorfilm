@@ -1,7 +1,159 @@
 {
   "date": "2026-11-24",
-  "count": 2,
+  "count": 4,
   "movies": [
+    {
+      "id": "m_ccc602c226d3",
+      "title": "Последний ужин",
+      "original_title": "Последняя трапеза / Son Yemek / Last Meal",
+      "year": 2026,
+      "overview": null,
+      "poster": "https://images.metahub.space/poster/small/tt50016818/img",
+      "backdrop": null,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "countries": [],
+      "runtime": null,
+      "imdb_id": "tt50016818",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-24T13:55:48.802569+00:00",
+      "last_updated_at": "2026-11-24T13:55:56.635829+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "ecfa0352c8c26d56",
+          "movie_id": "m_ccc602c226d3",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-24T05:29:48+00:00",
+          "detected_at": "2026-11-24T13:55:48.802569+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Последний ужин / Последняя трапеза / Son Yemek / Last Meal (2026) WEB-DL 1080p от New-Team | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "653e69615cfa6510",
+          "movie_id": "m_ccc602c226d3",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-24T11:25:43+00:00",
+          "detected_at": "2026-11-24T13:55:48.802569+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Последний ужин / Последняя трапеза / Son Yemek / Last Meal (2026) WEB-DL 720p от New-Team | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
+      "original_title": "Dune: Part Two",
+      "year": 2024,
+      "overview": "«Дю́на: Часть втора́я» — эпический научно-фантастический фильм 2024 года, снятый режиссёром и сценаристом Дени Вильнёвом по мотивам романа Фрэнка Герберта «Дюна». Продолжение фильма «Дюна» (2021), часть медиафраншизы с тем же названием. Главные роли в фильме сыграли Тимоти Шаламе, Зендея, Ребекка Фергюсон, Хавьер Бардем, Джош Бролин, Дейв Батиста, Стеллан Скарсгард. Премьера состоялась 6 февраля 2024 года в Мехико и 15 февраля в Лондоне, в театральный прокат фильм вышел 1 марта 2024 года.",
+      "poster": "https://images.metahub.space/poster/small/tt15239678/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "countries": [
+        "United States, Canada, United Arab Emirates, Hungary, Italy, New Zealand, Jordan"
+      ],
+      "runtime": null,
+      "imdb_id": "tt15239678",
+      "tmdb_id": null,
+      "imdb_rating": 8.4,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-24T13:55:48.802569+00:00",
+      "last_updated_at": "2026-11-24T13:55:55.793930+00:00",
+      "status": "ANNOUNCED",
+      "best_quality": "unknown",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "6fa993836e2e6075",
+          "movie_id": "tt15239678",
+          "event_type": "RELEASE_DETECTED",
+          "source_name": "Cinemeta",
+          "source_release_date": null,
+          "detected_at": "2026-11-24T13:55:48.802569+00:00",
+          "quality": "unknown",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Dune: Part Two (2024)",
+          "details": {
+            "title": "Dune: Part Two",
+            "year": 2024,
+            "overview": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible fu...",
+            "poster": "https://images.metahub.space/poster/small/tt15239678/img",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Drama"
+            ],
+            "countries": [
+              "United States, Canada, United Arab Emirates, Hungary, Italy, New Zealand, Jordan"
+            ],
+            "imdb_rating": 8.4,
+            "runtime": null
+          }
+        }
+      ]
+    },
     {
       "id": "m_67ced36bdb2c",
       "title": "Стажёр",
