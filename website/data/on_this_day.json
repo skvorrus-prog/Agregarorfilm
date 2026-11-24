@@ -2,6 +2,21 @@
  "11-23": {
   "2026": [
    {
+    "id": "tt51547822",
+    "title": "Chiara",
+    "original_title": "Chiara",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5IXa5EEvPgwwbkw3E84ZdkuGUWs.jpg",
+    "digital_release_date": "2026-11-23",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt39316936",
     "title": "Clashing Through the Snow",
     "original_title": "Clashing Through the Snow",
@@ -283,6 +298,21 @@
  },
  "11-19": {
   "2026": [
+   {
+    "id": "m_ccc602c226d3",
+    "title": "Последний ужин",
+    "original_title": "Последняя трапеза / Son Yemek / Last Meal",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt50016818/img",
+    "digital_release_date": "2026-11-19",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
    {
     "id": "tt50016818",
     "title": "Son Yemek",
@@ -828,6 +858,21 @@
  },
  "11-12": {
   "2026": [
+   {
+    "id": "tt37200939",
+    "title": "पारिवारिक मनुरंजन",
+    "original_title": "पारिवारिक मनुरंजन",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/2gKGkD0pN2Ss9LrHA6tv5hEjHOs.jpg",
+    "digital_release_date": "2026-11-12",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "m_0bc3338f04da",
     "title": "Никогда не сдавайся",
@@ -2544,7 +2589,7 @@
     "digital_release_date": null,
     "imdb_rating": 5.6,
     "imdb_vote_count": null,
-    "best_quality": "unknown",
+    "best_quality": "BluRay",
     "best_resolution": "2160p",
     "has_4k": true,
     "has_hdr": true,
@@ -8155,19 +8200,79 @@
  "11-24": {
   "2026": [
    {
-    "id": "m_ccc602c226d3",
-    "title": "Последний ужин",
-    "original_title": "Последняя трапеза / Son Yemek / Last Meal",
+    "id": "m_b28f268f15b7",
+    "title": "Фьорд",
+    "original_title": "Fjord",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt50016818/img",
+    "poster": "https://images.metahub.space/poster/small/tt35410859/img",
     "digital_release_date": null,
-    "imdb_rating": null,
+    "imdb_rating": 7.6,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
     "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": true,
+    "has_hdr": false,
     "has_ru_audio": true
+   },
+   {
+    "id": "m_685bb4849be5",
+    "title": "Идеальный шторм",
+    "original_title": "Balandrau, vent salvatge / Balandrau: Where the Fierce Wind Blew",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt35933404/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.5,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": true,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_0ea479f42758",
+    "title": "Сезон обещаний",
+    "original_title": "A Season of Promises",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt46075510/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.0,
+    "imdb_vote_count": null,
+    "best_quality": "WEBRip",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "tt29611136",
+    "title": "Wicker",
+    "original_title": "Wicker",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt29611136/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.4,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "tt45368240",
+    "title": "You Can See Everything",
+    "original_title": "You Can See Everything",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt45368240/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.9,
+    "imdb_vote_count": null,
+    "best_quality": "unknown",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
    },
    {
     "id": "tt15239678",

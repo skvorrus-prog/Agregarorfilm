@@ -1,7 +1,151 @@
 {
   "date": "2026-11-19",
-  "count": 2,
+  "count": 3,
   "movies": [
+    {
+      "id": "m_ccc602c226d3",
+      "title": "Последний ужин",
+      "original_title": "Последняя трапеза / Son Yemek / Last Meal",
+      "year": 2026,
+      "overview": null,
+      "poster": "https://images.metahub.space/poster/small/tt50016818/img",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u3riq0UYL2aowB6u1xScMfDUFmr.jpg",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "countries": [
+        "Turkey"
+      ],
+      "runtime": 122,
+      "imdb_id": "tt50016818",
+      "tmdb_id": 1561834,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.083,
+      "tmdb_vote_count": 12,
+      "popularity": 36.8787,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": null,
+      "digital_release_date": "2026-11-19",
+      "first_detected_at": "2026-11-24T13:55:48.802569+00:00",
+      "last_updated_at": "2026-11-24T23:56:55.427923+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "1080p",
+      "has_4k": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "efe0102c829e7480",
+          "movie_id": "m_ccc602c226d3",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-19",
+          "detected_at": "2026-11-24T23:56:39.910130+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Son Yemek",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/5VhfAWFs005xxN9akWJ2VIF5ozJ.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/u3riq0UYL2aowB6u1xScMfDUFmr.jpg",
+            "genres": [
+              "мелодрама",
+              "драма"
+            ],
+            "countries": [
+              "Turkey"
+            ],
+            "runtime": 122,
+            "popularity": 36.8787,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.083,
+            "tmdb_vote_count": 12,
+            "theatrical_release_date": "2026-11-18",
+            "digital_release_date": "2026-11-19"
+          }
+        },
+        {
+          "id": "ecfa0352c8c26d56",
+          "movie_id": "m_ccc602c226d3",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-24T05:29:48+00:00",
+          "detected_at": "2026-11-24T13:55:48.802569+00:00",
+          "quality": "WEB-DL",
+          "resolution": "1080p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Последний ужин / Последняя трапеза / Son Yemek / Last Meal (2026) WEB-DL 1080p от New-Team | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "653e69615cfa6510",
+          "movie_id": "m_ccc602c226d3",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-24T11:25:43+00:00",
+          "detected_at": "2026-11-24T13:55:48.802569+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Последний ужин / Последняя трапеза / Son Yemek / Last Meal (2026) WEB-DL 720p от New-Team | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "2365cf137bca44a9",
+          "movie_id": "m_ccc602c226d3",
+          "event_type": "WEB_DL_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-24T18:12:52+00:00",
+          "detected_at": "2026-11-24T23:56:39.910130+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "HDRezka Studio",
+          "raw_title": "Последний ужин / Последняя трапеза / Son Yemek / Last Meal (2026) WEB-DLRip | P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "tt50016818",
       "title": "Son Yemek",
