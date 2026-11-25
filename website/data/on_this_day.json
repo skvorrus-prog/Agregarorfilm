@@ -8197,6 +8197,40 @@
    }
   ]
  },
+ "11-25": {
+  "2026": [
+   {
+    "id": "m_6288c4af87a2",
+    "title": "Социальная расплата",
+    "original_title": "The Social Reckoning",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt37510326/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_360d975f51ed",
+    "title": "Комариный кубок",
+    "original_title": "The Mosquito Bowl",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt36413910/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.6,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "11-24": {
   "2026": [
    {
