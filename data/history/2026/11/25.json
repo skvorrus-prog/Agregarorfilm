@@ -1,7 +1,202 @@
 {
   "date": "2026-11-25",
-  "count": 2,
+  "count": 5,
   "movies": [
+    {
+      "id": "tt32213169",
+      "title": "Путь мальчика-воина",
+      "original_title": "Way of the Warrior Kid",
+      "year": 2026,
+      "overview": "Джейк — раненый «морской котик», который берёт шефство над стеснительным племянником Марком. Используя принципы военной подготовки, Джейк учит Марка, как стать мальчиком-воином в старших классах.",
+      "poster": "https://image.tmdb.org/t/p/w500/lGR08nCKFPzaugkTmPI2CswgA3O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+      "genres": [
+        "драма",
+        "семейный"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": 106,
+      "imdb_id": "tt32213169",
+      "tmdb_id": 1280115,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 8.0,
+      "tmdb_vote_count": 5,
+      "popularity": 5.958,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-24",
+      "digital_release_date": "2026-11-25",
+      "first_detected_at": "2026-11-25T19:24:52.673935+00:00",
+      "last_updated_at": "2026-11-25T19:25:00.745351+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "c8e47c6136774615",
+          "movie_id": "tt32213169",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-25",
+          "detected_at": "2026-11-25T19:24:52.673935+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Путь мальчика-воина",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Джейк — раненый «морской котик», который берёт шефство над стеснительным племянником Марком. Используя принципы военной подготовки, Джейк учит Марка, как стать мальчиком-воином в старших классах.",
+            "poster": "https://image.tmdb.org/t/p/w500/lGR08nCKFPzaugkTmPI2CswgA3O.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+            "genres": [
+              "драма",
+              "семейный"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "runtime": 106,
+            "popularity": 5.958,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 8.0,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-11-24",
+            "digital_release_date": "2026-11-25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_ef211471b513",
+      "title": "Каратэ-пацан: Легенды",
+      "original_title": "Karate Kid: Legends",
+      "year": 2025,
+      "overview": "«Каратэ-пацан: Легенды» — фильм о боевых искусствах и шестой художественный фильм франшизы «Парень-каратист», являющийся кроссовером между оригинальной тетралогией и ремейком 2010 года. Снят Джонатаном Энтвистлом по сценарию Роба Либера. В главных ролях: Джеки Чан, Ральф Маччио и Бен Ван.",
+      "poster": "https://images.metahub.space/poster/small/tt1674782/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Drama",
+        "Family"
+      ],
+      "countries": [
+        "United States, Canada"
+      ],
+      "runtime": null,
+      "imdb_id": "tt1674782",
+      "tmdb_id": null,
+      "imdb_rating": 6.3,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-25T19:24:52.673935+00:00",
+      "last_updated_at": "2026-11-25T19:25:02.679394+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": true,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "8620ba9bed0623e6",
+          "movie_id": "m_ef211471b513",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-25T17:09:17+00:00",
+          "detected_at": "2026-11-25T19:24:52.673935+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Каратэ-пацан: Легенды / Karate Kid: Legends (2025) WEB-DLRip от MegaPeer | D, P | Red Head Sound, HDRezka Studio, Jaskier, TVShows",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_6b42f42a1839",
+      "title": "Мадам Паутина",
+      "original_title": "Madame Web",
+      "year": 2024,
+      "overview": "Мада́м Паути́на, настоящее имя Касса́ндра Уэбб — вымышленный персонаж, появляющийся в американских комиксах издательства Marvel Comics. Героиня была создана Деннисом О’Нилом и Джоном Ромитой-младшим и впервые появилась в The Amazing Spider-Man #210, после чего стала одной из второстепенных лиц в комиксах про Человека-паука. Мадам Паутина представлена как пожилая женщина с миастенией, подключённая к системе жизнеобеспечения, напоминающей паутину.",
+      "poster": "https://images.metahub.space/poster/small/tt11057302/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "countries": [
+        "United States, Mexico, Canada"
+      ],
+      "runtime": null,
+      "imdb_id": "tt11057302",
+      "tmdb_id": null,
+      "imdb_rating": 4.1,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-25T19:24:52.673935+00:00",
+      "last_updated_at": "2026-11-25T19:25:01.525543+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "94f6da54085cfe77",
+          "movie_id": "m_6b42f42a1839",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-25T17:16:21+00:00",
+          "detected_at": "2026-11-25T19:24:52.673935+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Мадам Паутина / Madame Web (2024) WEB-DLRip от MegaPeer | D, P2",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
     {
       "id": "m_6288c4af87a2",
       "title": "Социальная расплата",
@@ -29,7 +224,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-25T08:49:10.538082+00:00",
-      "last_updated_at": "2026-11-25T08:49:21.278149+00:00",
+      "last_updated_at": "2026-11-25T19:25:02.789404+00:00",
       "status": "UHD_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "2160p",
@@ -132,6 +327,30 @@
             "release_group": "HDRezka Studio",
             "is_secondary_signal": true
           }
+        },
+        {
+          "id": "7ec39c05abe39101",
+          "movie_id": "m_6288c4af87a2",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-25T13:27:46+00:00",
+          "detected_at": "2026-11-25T19:24:52.673935+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "Социальная расплата / The Social Reckoning (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
         }
       ]
     },
@@ -163,7 +382,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-25T08:49:10.538082+00:00",
-      "last_updated_at": "2026-11-25T08:49:20.604466+00:00",
+      "last_updated_at": "2026-11-25T19:25:02.819045+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -188,6 +407,54 @@
           "details": {
             "quality": "WEB-DL",
             "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Movie Dubbing",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "59014bad9fc692e2",
+          "movie_id": "m_360d975f51ed",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-25T11:40:02+00:00",
+          "detected_at": "2026-11-25T19:24:52.673935+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "Комариный кубок / The Mosquito Bowl (2026) WEB-DLRip-AVC от DoMiNo & селезень | D | Movie Dubbing",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Movie Dubbing",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "1e6d414623ddaf69",
+          "movie_id": "m_360d975f51ed",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-25T12:22:10+00:00",
+          "detected_at": "2026-11-25T19:24:52.673935+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "Комариный кубок / The Mosquito Bowl (2026) WEB-DL 720p от New-Team | D | Movie Dubbing",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
             "hdr": null,
             "audio": null,
             "language": "RU",
