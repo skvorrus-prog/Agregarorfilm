@@ -11,10 +11,10 @@
     "imdb_rating": null,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
    },
    {
     "id": "m_ef211471b513",
@@ -105,8 +105,8 @@
     "imdb_rating": 7.6,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
     "has_hdr": true,
     "has_ru_audio": true
    },
@@ -8412,6 +8412,115 @@
     "has_4k": true,
     "has_hdr": false,
     "has_ru_audio": true
+   }
+  ]
+ },
+ "11-26": {
+  "2026": [
+   {
+    "id": "m_dc4a98a6bd72",
+    "title": "Доктор Глас",
+    "original_title": "Doktor Glas / Doctor Glas",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt38672581/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.9,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_d8d77d6b29ef",
+    "title": "Эликсир молодости",
+    "original_title": "Abadi Nan Jaya / The Elixir",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt32643830/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.3,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_8cbea0e0542e",
+    "title": "Мясо убивает",
+    "original_title": "Мясной день / Vleesdag / Meat Kills",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt34113961/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.7,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_cc8d4abe0100",
+    "title": "Марсупилами. Пушистый круиз",
+    "original_title": "Marsupilami",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt33029380/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.3,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_159f6f6c0d8b",
+    "title": "Тайна моей жены",
+    "original_title": "Secret Life of my Other Wife",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt37522836/img",
+    "digital_release_date": null,
+    "imdb_rating": 6.0,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_a97714ca63c6",
+    "title": "Операция Кабул",
+    "original_title": "Драконы над Кабулом: Вылет из ада / Sárkányok Kabul felett / Operation Kabul",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt34375721/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.3,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_7d0b4440c091",
+    "title": "Поездка в Кёнджу",
+    "original_title": "Gyeongjugihaeng / The Journey to Gyeongju",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt45382354/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.1,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
    }
   ]
  },
