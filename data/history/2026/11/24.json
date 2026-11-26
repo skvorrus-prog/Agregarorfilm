@@ -1,7 +1,77 @@
 {
   "date": "2026-11-24",
-  "count": 8,
+  "count": 9,
   "movies": [
+    {
+      "id": "tt47597255",
+      "title": "Rob Lowe: The Outsider",
+      "original_title": "Rob Lowe: The Outsider",
+      "year": 2026,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg",
+      "genres": [
+        "документальный"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": 91,
+      "imdb_id": "tt47597255",
+      "tmdb_id": 1802703,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 6.8,
+      "tmdb_vote_count": 5,
+      "popularity": 12.1927,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-11-24",
+      "digital_release_date": "2026-11-24",
+      "first_detected_at": "2026-11-26T03:38:24.999808+00:00",
+      "last_updated_at": "2026-11-26T03:38:32.096057+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "a915cdb5199f2ce6",
+          "movie_id": "tt47597255",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-24",
+          "detected_at": "2026-11-26T03:38:24.999808+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Rob Lowe: The Outsider",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "",
+            "poster": "https://image.tmdb.org/t/p/w500/dydflxYhZ0UCS5gaz8iCKFcEAvE.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/2sT2NlSqz7J0vyyOYkuB2ejZpRT.jpg",
+            "genres": [
+              "документальный"
+            ],
+            "countries": [
+              "United States"
+            ],
+            "runtime": 91,
+            "popularity": 12.1927,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 6.8,
+            "tmdb_vote_count": 5,
+            "theatrical_release_date": "2026-11-24",
+            "digital_release_date": "2026-11-24"
+          }
+        }
+      ]
+    },
     {
       "id": "m_b28f268f15b7",
       "title": "Фьорд",
@@ -29,7 +99,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-24T23:56:39.910130+00:00",
-      "last_updated_at": "2026-11-25T19:25:00.880229+00:00",
+      "last_updated_at": "2026-11-26T03:38:32.171135+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -102,6 +172,54 @@
           "details": {
             "quality": "WEB-DL",
             "resolution": "1080p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "a93e495aaed9a3e3",
+          "movie_id": "m_b28f268f15b7",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-25T20:50:29+00:00",
+          "detected_at": "2026-11-26T03:38:24.999808+00:00",
+          "quality": "WEB-DL",
+          "resolution": "720p",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDRezka Studio",
+          "raw_title": "Фьорд / Fjord (2026) WEB-DL 720p от New-Team | D, P | HDRezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "720p",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "0b14dc59bd6c2b4c",
+          "movie_id": "m_b28f268f15b7",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-26T01:58:52+00:00",
+          "detected_at": "2026-11-26T03:38:24.999808+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "Фьорд / Fjord (2026) WEB-DLRip-AVC от New-Team | D, P | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
             "hdr": null,
             "audio": null,
             "language": "RU",
@@ -288,7 +406,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-24T23:56:39.910130+00:00",
-      "last_updated_at": "2026-11-25T19:25:02.686654+00:00",
+      "last_updated_at": "2026-11-26T03:38:32.183200+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -372,6 +490,54 @@
             "audio": null,
             "language": "RU",
             "release_group": "HDRezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "6a7fdcbbbde652a4",
+          "movie_id": "tt29611136",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-25T19:51:44+00:00",
+          "detected_at": "2026-11-26T03:38:24.999808+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "Плетёный муж / Wicker (2026) WEB-DLRip-AVC от DoMiNo & селезень | D, P | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "cce0096ffc11b0f3",
+          "movie_id": "tt29611136",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-26T02:32:12+00:00",
+          "detected_at": "2026-11-26T03:38:24.999808+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "HDrezka Studio",
+          "raw_title": "Плетёный муж / Wicker (2026) WEB-DLRip-AVC от New-Team | D, P | HDrezka Studio",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "HDrezka Studio",
             "is_secondary_signal": true
           }
         }
