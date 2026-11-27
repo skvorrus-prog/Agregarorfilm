@@ -16,6 +16,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://digitalreleases.github.io/movie/m_61a920f390f2.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://digitalreleases.github.io/movie/tt32213169.html</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -227,7 +233,7 @@
   </url>
   <url>
     <loc>https://digitalreleases.github.io/movie/tt36586020.html</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1739,7 +1745,7 @@
   </url>
   <url>
     <loc>https://digitalreleases.github.io/movie/tt33095251.html</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2068,13 +2074,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://digitalreleases.github.io/movie/m_505d889582dc.html</loc>
+    <loc>https://digitalreleases.github.io/movie/m_05a4ed6edbda.html</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://digitalreleases.github.io/movie/m_61a920f390f2.html</loc>
+    <loc>https://digitalreleases.github.io/movie/m_8d609ac3d0d4.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://digitalreleases.github.io/movie/m_4bd89888dfbe.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://digitalreleases.github.io/movie/m_505d889582dc.html</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3281,7 +3299,7 @@
   </url>
   <url>
     <loc>https://digitalreleases.github.io/movie/m_d9bf2265ca3d.html</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

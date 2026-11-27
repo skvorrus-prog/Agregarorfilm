@@ -1,4 +1,113 @@
 {
+ "11-27": {
+  "2026": [
+   {
+    "id": "m_61a920f390f2",
+    "title": "Квазимодо, душа Парижа",
+    "original_title": "Quasimodo, l'âme de Paris / The Hunchback, Soul of Paris",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt37267166/img",
+    "digital_release_date": "2026-11-27",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_05a4ed6edbda",
+    "title": "Паршивые овцы",
+    "original_title": "Bad Apples",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt29714073/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.2,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_8d609ac3d0d4",
+    "title": "Наследник престола",
+    "original_title": "Kronprinsen och tyrannens återkomst",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt31579651/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_4bd89888dfbe",
+    "title": "Мальчик",
+    "original_title": "El niño / The Child",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt0456396/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.4,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_505d889582dc",
+    "title": "Мексикали",
+    "original_title": "Mexicali",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt36363971/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_1543e9345a11",
+    "title": "Тюремщик 2",
+    "original_title": "Jailer 2",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt33318732/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_6ece652102d1",
+    "title": "Турбулентность",
+    "original_title": "Turbulence",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt33009027/img",
+    "digital_release_date": null,
+    "imdb_rating": 4.9,
+    "imdb_vote_count": null,
+    "best_quality": "REMUX",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
  "11-25": {
   "2026": [
    {
@@ -7533,10 +7642,10 @@
     "imdb_rating": 7.6,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_resolution": "1080p",
     "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": false
+    "has_hdr": true,
+    "has_ru_audio": true
    },
    {
     "id": "tt27165187",
@@ -8425,70 +8534,6 @@
     "best_quality": "WEB-DL",
     "best_resolution": "2160p",
     "has_4k": true,
-    "has_hdr": false,
-    "has_ru_audio": true
-   }
-  ]
- },
- "11-27": {
-  "2026": [
-   {
-    "id": "m_505d889582dc",
-    "title": "Мексикали",
-    "original_title": "Mexicali",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt36363971/img",
-    "digital_release_date": null,
-    "imdb_rating": 5.5,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_61a920f390f2",
-    "title": "Квазимодо, душа Парижа",
-    "original_title": "Quasimodo, l'âme de Paris / The Hunchback, Soul of Paris",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt37267166/img",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "2160p",
-    "has_4k": true,
-    "has_hdr": true,
-    "has_ru_audio": true
-   },
-   {
-    "id": "m_1543e9345a11",
-    "title": "Тюремщик 2",
-    "original_title": "Jailer 2",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt33318732/img",
-    "digital_release_date": null,
-    "imdb_rating": null,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "2160p",
-    "has_4k": true,
-    "has_hdr": true,
-    "has_ru_audio": false
-   },
-   {
-    "id": "m_6ece652102d1",
-    "title": "Турбулентность",
-    "original_title": "Turbulence",
-    "year": 2025,
-    "poster": "https://images.metahub.space/poster/small/tt33009027/img",
-    "digital_release_date": null,
-    "imdb_rating": 4.9,
-    "imdb_vote_count": null,
-    "best_quality": "REMUX",
-    "best_resolution": "1080p",
-    "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
    }
