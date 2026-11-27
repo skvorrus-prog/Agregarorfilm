@@ -1,7 +1,81 @@
 {
   "date": "2026-11-24",
-  "count": 9,
+  "count": 10,
   "movies": [
+    {
+      "id": "tt9213874",
+      "title": "Заводчица",
+      "original_title": "Breeder",
+      "year": 2026,
+      "overview": "Эксцентричная заводчица пуделей заманивает бедного студента колледжа на свое отдаленное ранчо обещанием финансирования исследований. Но, как он вскоре узнает, не все так просто.",
+      "poster": "https://image.tmdb.org/t/p/w500/hEnNf4r9BxGa65IIKsapYWrie8f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "runtime": 97,
+      "imdb_id": "tt9213874",
+      "tmdb_id": 1496696,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": 7.457,
+      "tmdb_vote_count": 35,
+      "popularity": 124.9252,
+      "popularity_source": "TMDB",
+      "theatrical_release_date": "2026-10-28",
+      "digital_release_date": "2026-11-24",
+      "first_detected_at": "2026-11-27T01:47:03.815451+00:00",
+      "last_updated_at": "2026-11-27T01:47:10.810670+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "9f9a912fd4c7b3aa",
+          "movie_id": "tt9213874",
+          "event_type": "DIGITAL_PREMIERE",
+          "source_name": "TMDB",
+          "source_release_date": "2026-11-24",
+          "detected_at": "2026-11-27T01:47:03.815451+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": null,
+          "raw_title": "Заводчица",
+          "details": {
+            "quality": "WEB-DL",
+            "overview": "Эксцентричная заводчица пуделей заманивает бедного студента колледжа на свое отдаленное ранчо обещанием финансирования исследований. Но, как он вскоре узнает, не все так просто.",
+            "poster": "https://image.tmdb.org/t/p/w500/hEnNf4r9BxGa65IIKsapYWrie8f.jpg",
+            "backdrop": "https://image.tmdb.org/t/p/w1280/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
+            "genres": [
+              "ужасы",
+              "триллер"
+            ],
+            "countries": [
+              "United States",
+              "Canada"
+            ],
+            "runtime": 97,
+            "popularity": 124.9252,
+            "popularity_source": "TMDB",
+            "tmdb_rating": 7.457,
+            "tmdb_vote_count": 35,
+            "theatrical_release_date": "2026-10-28",
+            "digital_release_date": "2026-11-24"
+          }
+        }
+      ]
+    },
     {
       "id": "tt47597255",
       "title": "Rob Lowe: The Outsider",

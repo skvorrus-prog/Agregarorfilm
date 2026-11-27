@@ -17,6 +17,21 @@
     "has_ru_audio": true
    },
    {
+    "id": "m_360d975f51ed",
+    "title": "Комариный кубок",
+    "original_title": "The Mosquito Bowl",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt36413910/img",
+    "digital_release_date": "2026-11-25",
+    "imdb_rating": 6.6,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_ef211471b513",
     "title": "Каратэ-пацан: Легенды",
     "original_title": "Karate Kid: Legends",
@@ -60,26 +75,26 @@
     "has_4k": true,
     "has_hdr": true,
     "has_ru_audio": true
-   },
-   {
-    "id": "m_360d975f51ed",
-    "title": "Комариный кубок",
-    "original_title": "The Mosquito Bowl",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt36413910/img",
-    "digital_release_date": null,
-    "imdb_rating": 6.6,
-    "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
-    "has_hdr": false,
-    "has_ru_audio": true
    }
   ]
  },
  "11-24": {
   "2026": [
+   {
+    "id": "tt9213874",
+    "title": "Заводчица",
+    "original_title": "Breeder",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/hEnNf4r9BxGa65IIKsapYWrie8f.jpg",
+    "digital_release_date": "2026-11-24",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
    {
     "id": "tt47597255",
     "title": "Rob Lowe: The Outsider",
@@ -8410,6 +8425,40 @@
     "best_quality": "WEB-DL",
     "best_resolution": "2160p",
     "has_4k": true,
+    "has_hdr": false,
+    "has_ru_audio": true
+   }
+  ]
+ },
+ "11-27": {
+  "2026": [
+   {
+    "id": "m_1543e9345a11",
+    "title": "Тюремщик 2",
+    "original_title": "Jailer 2",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt33318732/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": false
+   },
+   {
+    "id": "m_6ece652102d1",
+    "title": "Турбулентность",
+    "original_title": "Turbulence",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt33009027/img",
+    "digital_release_date": null,
+    "imdb_rating": 4.9,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
    }

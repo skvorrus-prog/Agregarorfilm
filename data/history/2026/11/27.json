@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-27",
+  "count": 2,
+  "movies": [
+    {
+      "id": "m_1543e9345a11",
+      "title": "Тюремщик 2",
+      "original_title": "Jailer 2",
+      "year": 2026,
+      "overview": "Мирная жизнь отставного офицера оказывается под угрозой, когда опасная преступная организация начинает угрожать его семье. Ему приходится в последний раз применить свои навыки, чтобы защитить близких и сохранить свое наследие.",
+      "poster": "https://images.metahub.space/poster/small/tt33318732/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "countries": [
+        "India"
+      ],
+      "runtime": null,
+      "imdb_id": "tt33318732",
+      "tmdb_id": null,
+      "imdb_rating": null,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-27T01:47:03.815451+00:00",
+      "last_updated_at": "2026-11-27T01:47:13.904360+00:00",
+      "status": "UHD_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "2160p",
+      "has_4k": true,
+      "has_hdr": true,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "86efe9f75da5e757",
+          "movie_id": "m_1543e9345a11",
+          "event_type": "UHD_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-26T17:42:33+00:00",
+          "detected_at": "2026-11-27T01:47:03.815451+00:00",
+          "quality": "WEB-DL",
+          "resolution": "2160p",
+          "hdr": "HDR",
+          "audio": null,
+          "language": null,
+          "release_group": "Sub",
+          "raw_title": "Тюремщик 2 / Jailer 2 (2026) WEB-DL-HEVC 2160p | 4K | HDR | Sub",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "2160p",
+            "hdr": "HDR",
+            "audio": null,
+            "language": null,
+            "release_group": "Sub",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "m_6ece652102d1",
+      "title": "Турбулентность",
+      "original_title": "Turbulence",
+      "year": 2025,
+      "overview": "Турбуле́нтность, устар. турбуле́нция, турбуле́нтное тече́ние — явление, когда при увеличении скорости течения жидкости образуются нелинейные фрактальные волны. Волны образуются обычные, линейные различных размеров, без наличия внешних сил и/или при наличии — сил, возмущающих среду. Волны появляются случайно, и их амплитуда меняется хаотически в некотором интервале. Они возникают чаще всего либо на границе, у стенки, и/или при разрушении или опрокидывании волны. Они могут образоваться на струях.",
+      "poster": "https://images.metahub.space/poster/small/tt33009027/img",
+      "backdrop": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "countries": [
+        "United Kingdom, United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt33009027",
+      "tmdb_id": null,
+      "imdb_rating": 4.9,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-27T01:47:03.815451+00:00",
+      "last_updated_at": "2026-11-27T01:47:11.746191+00:00",
+      "status": "WEB_RELEASE",
+      "best_quality": "WEB-DL",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": true,
+      "events": [
+        {
+          "id": "c4e654f72833a60b",
+          "movie_id": "m_6ece652102d1",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-26T21:42:12+00:00",
+          "detected_at": "2026-11-27T01:47:03.815451+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": null,
+          "raw_title": "Турбулентность / Turbulence (2025) WEB-DLRip | D | Кипарис",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": null,
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}

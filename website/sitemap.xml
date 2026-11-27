@@ -17,7 +17,19 @@
   </url>
   <url>
     <loc>https://digitalreleases.github.io/movie/tt32213169.html</loc>
-    <lastmod>2026-11-26</lastmod>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://digitalreleases.github.io/movie/m_360d975f51ed.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://digitalreleases.github.io/movie/tt9213874.html</loc>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2056,6 +2068,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://digitalreleases.github.io/movie/m_1543e9345a11.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://digitalreleases.github.io/movie/m_6ece652102d1.html</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://digitalreleases.github.io/movie/m_dc4a98a6bd72.html</loc>
     <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -2112,12 +2136,6 @@
   <url>
     <loc>https://digitalreleases.github.io/movie/m_6288c4af87a2.html</loc>
     <lastmod>2026-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://digitalreleases.github.io/movie/m_360d975f51ed.html</loc>
-    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
