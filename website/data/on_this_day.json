@@ -8433,6 +8433,36 @@
  "11-27": {
   "2026": [
    {
+    "id": "m_505d889582dc",
+    "title": "Мексикали",
+    "original_title": "Mexicali",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt36363971/img",
+    "digital_release_date": null,
+    "imdb_rating": 5.5,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "1080p",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": true
+   },
+   {
+    "id": "m_61a920f390f2",
+    "title": "Квазимодо, душа Парижа",
+    "original_title": "Quasimodo, l'âme de Paris / The Hunchback, Soul of Paris",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt37267166/img",
+    "digital_release_date": null,
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "2160p",
+    "has_4k": true,
+    "has_hdr": true,
+    "has_ru_audio": true
+   },
+   {
     "id": "m_1543e9345a11",
     "title": "Тюремщик 2",
     "original_title": "Jailer 2",
@@ -8456,8 +8486,8 @@
     "digital_release_date": null,
     "imdb_rating": 4.9,
     "imdb_vote_count": null,
-    "best_quality": "WEB-DL",
-    "best_resolution": "unknown",
+    "best_quality": "REMUX",
+    "best_resolution": "1080p",
     "has_4k": false,
     "has_hdr": false,
     "has_ru_audio": true
@@ -8476,8 +8506,8 @@
     "imdb_rating": 5.9,
     "imdb_vote_count": null,
     "best_quality": "WEB-DL",
-    "best_resolution": "1080p",
-    "has_4k": false,
+    "best_resolution": "2160p",
+    "has_4k": true,
     "has_hdr": false,
     "has_ru_audio": false
    },
