@@ -472,6 +472,21 @@
  "11-20": {
   "2026": [
    {
+    "id": "tt38984184",
+    "title": "418",
+    "original_title": "418",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/1UUwomcPXFMLW3JT9JNFjQAGkKk.jpg",
+    "digital_release_date": "2026-11-20",
+    "imdb_rating": null,
+    "imdb_vote_count": null,
+    "best_quality": "WEB-DL",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
+   },
+   {
     "id": "tt48434154",
     "title": "Проповедники прайм-тайма",
     "original_title": "Primetime Preacher$",
@@ -8536,6 +8551,25 @@
     "has_4k": true,
     "has_hdr": false,
     "has_ru_audio": true
+   }
+  ]
+ },
+ "11-28": {
+  "2026": [
+   {
+    "id": "m_788d237e06ea",
+    "title": "Призрачный свет",
+    "original_title": "Ghostlight",
+    "year": 2024,
+    "poster": "https://images.metahub.space/poster/small/tt30321095/img",
+    "digital_release_date": null,
+    "imdb_rating": 7.5,
+    "imdb_vote_count": null,
+    "best_quality": "BluRay",
+    "best_resolution": "unknown",
+    "has_4k": false,
+    "has_hdr": false,
+    "has_ru_audio": false
    }
   ]
  },

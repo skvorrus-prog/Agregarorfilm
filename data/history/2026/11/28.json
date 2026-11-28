@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-28",
+  "count": 1,
+  "movies": [
+    {
+      "id": "m_788d237e06ea",
+      "title": "Призрачный свет",
+      "original_title": "Ghostlight",
+      "year": 2024,
+      "overview": "«Свет иллюзий» или «Призрачный свет» (яп. 幻の光 мабороси но хикари, англ. Maborosi) — кинофильм режиссёра Хирокадзу Корээды, вышедший на экраны в 1995 году. Экранизация романа Тэру Миямото.",
+      "poster": "https://images.metahub.space/poster/small/tt30321095/img",
+      "backdrop": null,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "runtime": null,
+      "imdb_id": "tt30321095",
+      "tmdb_id": null,
+      "imdb_rating": 7.5,
+      "imdb_vote_count": null,
+      "tmdb_rating": null,
+      "tmdb_vote_count": null,
+      "popularity": null,
+      "popularity_source": null,
+      "theatrical_release_date": null,
+      "digital_release_date": null,
+      "first_detected_at": "2026-11-28T08:01:24.606360+00:00",
+      "last_updated_at": "2026-11-28T08:01:34.734434+00:00",
+      "status": "BLURAY_RELEASE",
+      "best_quality": "BluRay",
+      "best_resolution": "unknown",
+      "has_4k": false,
+      "has_hdr": false,
+      "has_ru_audio": false,
+      "events": [
+        {
+          "id": "5fb353bd29a1a006",
+          "movie_id": "m_788d237e06ea",
+          "event_type": "BLURAY_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-28T05:53:35+00:00",
+          "detected_at": "2026-11-28T08:01:24.606360+00:00",
+          "quality": "BluRay",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": null,
+          "release_group": "P",
+          "raw_title": "Призрачный свет / Ghostlight (2024) BDRip-AVC | P",
+          "details": {
+            "quality": "BluRay",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": null,
+            "release_group": "P",
+            "is_secondary_signal": true
+          }
+        }
+      ]
+    }
+  ]
+}

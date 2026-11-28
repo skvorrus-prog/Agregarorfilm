@@ -22,9 +22,9 @@
       "tmdb_id": 1480665,
       "imdb_rating": null,
       "imdb_vote_count": null,
-      "tmdb_rating": 8.167,
-      "tmdb_vote_count": 9,
-      "popularity": 3.6108,
+      "tmdb_rating": 7.7,
+      "tmdb_vote_count": 17,
+      "popularity": 53.9824,
       "popularity_source": "TMDB",
       "theatrical_release_date": null,
       "digital_release_date": "2026-11-27",
@@ -418,7 +418,7 @@
       "theatrical_release_date": null,
       "digital_release_date": null,
       "first_detected_at": "2026-11-27T23:31:35.744270+00:00",
-      "last_updated_at": "2026-11-27T23:31:43.424906+00:00",
+      "last_updated_at": "2026-11-28T08:01:34.750819+00:00",
       "status": "WEB_RELEASE",
       "best_quality": "WEB-DL",
       "best_resolution": "1080p",
@@ -447,6 +447,30 @@
             "audio": null,
             "language": "RU",
             "release_group": "D",
+            "is_secondary_signal": true
+          }
+        },
+        {
+          "id": "20cacd509e899fbb",
+          "movie_id": "m_4bd89888dfbe",
+          "event_type": "RU_AUDIO_DETECTED",
+          "source_name": "ReleaseRSS",
+          "source_release_date": "2026-11-28T03:48:21+00:00",
+          "detected_at": "2026-11-28T08:01:24.606360+00:00",
+          "quality": "WEB-DL",
+          "resolution": "unknown",
+          "hdr": null,
+          "audio": null,
+          "language": "RU",
+          "release_group": "Movie Dubbing",
+          "raw_title": "Мальчик / El niño / The Child (2026) WEB-DLRip-AVC от New-Team | D | Movie Dubbing",
+          "details": {
+            "quality": "WEB-DL",
+            "resolution": "unknown",
+            "hdr": null,
+            "audio": null,
+            "language": "RU",
+            "release_group": "Movie Dubbing",
             "is_secondary_signal": true
           }
         }
